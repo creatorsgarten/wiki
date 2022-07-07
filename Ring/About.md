@@ -4,3 +4,7 @@ The Creatorsgarten Webring is a webring for us to connect with each other throug
 
 - **Us & Our Friends:** Dedicated website for our event series.
 - **Creators Ring:** A webring that consists of our members’ websites.
+
+# Joining the Webring
+
+Check out [Ring/HowToJoin](/wiki/Ring/HowToJoin) page.
