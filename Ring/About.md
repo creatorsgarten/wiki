@@ -7,4 +7,4 @@ The Creatorsgarten Webring is a webring for us to connect with each other throug
 
 # Joining the Webring
 
-Check out [Ring/HowToJoin](/wiki/Ring/HowToJoin) page.
+To join our webring, check out [Ring/HowToJoin](/wiki/Ring/HowToJoin) page.
