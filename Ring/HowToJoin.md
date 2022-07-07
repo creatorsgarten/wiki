@@ -27,4 +27,5 @@ If you are also a member of [วงแหวนเว็บ.ไทย](https://w
 
 # Adding Your Website to the Webring
 
-Add your entry to the [`src/data/ring.js` file in the `creatorsgarten.org` repo](https://github.com/creatorsgarten/creatorsgarten.org/blob/main/src/data/ring.js), and send us a pull request.
+- Add your entry to the [`src/data/ring.js` file in the `creatorsgarten.org` repo](https://github.com/creatorsgarten/creatorsgarten.org/blob/main/src/data/ring.js).
+- Send us a pull request.
