@@ -23,7 +23,7 @@ The stupid hackathon is [held all around the world](https://gist.github.com/chee
 - [[Pitch Session #1] - ได้เวลา Pitching แล้วสิ](https://www.facebook.com/watch/live/?ref=watch_permalink&v=753821805747854)
 - [[Pitch Session #2] - กลับมา Pitching อีกแล้วสิ](https://www.facebook.com/watch/live/?ref=watch_permalink&v=2202840639881996)
 
-# Write ups
+# Write-ups
 
 - [“บันทึกงาน The ๖th Stupid Hackathon Thailand” by Runyasak Chaengnaimuang](https://www.facebook.com/runyasak.awesome/posts/pfbid02kRaNUX1phcn8bdPga398fF1YQFGk1noKUqXvZX2ihVEtdeKGXYR3Fo76s5E3yfN3l?_rdc=1&_rdr)
 - [“แชร์ประสบการณ์ Stupid Hackathon Thailand 6” by Tinnaphat "Tin" Somsang](https://tinarskii.medium.com/แชร์ประสบการณ์-stupid-hackathon-thailand-6-c122a540638c)
