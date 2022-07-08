@@ -7,3 +7,8 @@ This page keeps track of interesting metrics from each Stupid Hackathon event.
 | Number of presenters |   | 71 | 74 | 57 | 76 | 71 |
 | Event rating |   | 8.57 | 8.50 | 9.44 | 8.00 | 9.00 |
 
+# Metrics
+
+- **Number of teams**
+    - Represents how many teams presented in the presentation session.
+    - Collected by counting the number of presentations.
