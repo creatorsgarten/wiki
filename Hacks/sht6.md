@@ -9,7 +9,7 @@ by: ['Creatorsgarten', 'StupidHackTH']
 
 # About
 
-Following [the](https://www.facebook.com/guide.pnx/posts/pfbid02BkDoQvm3pfErFhMyvQVKmmFCGr5CcAcipoW8vdkVSCMvAuST8MFwkZjGRoyHkTGel) [tremendous](https://www.facebook.com/MikkiPastel/posts/pfbid02DBWvc3Q9acNkNgK8gvp1UJ1pW5Ck5ey3MMS46aDDYK8WnBbH7Czh8Zf1JtwdDeHl) [success](https://www.facebook.com/dtinth/posts/pfbid0RuhauP8rcE44h9MeejwuXuUSNNsaGcNM8mS8sbY1xG6dDBR1ccHCy1oNRSDGLLksl) of The Stupid Hackathon Thailand #5, we are coming back to The Stupid Hackathon Thailand #6! (Stying as **The ៦th Stupid Hackathon in Thailand**)
+Following [the](https://www.facebook.com/guide.pnx/posts/pfbid02BkDoQvm3pfErFhMyvQVKmmFCGr5CcAcipoW8vdkVSCMvAuST8MFwkZjGRoyHkTGel) [tremendous](https://www.facebook.com/MikkiPastel/posts/pfbid02DBWvc3Q9acNkNgK8gvp1UJ1pW5Ck5ey3MMS46aDDYK8WnBbH7Czh8Zf1JtwdDeHl) [success](https://www.facebook.com/dtinth/posts/pfbid0RuhauP8rcE44h9MeejwuXuUSNNsaGcNM8mS8sbY1xG6dDBR1ccHCy1oNRSDGLLksl) of [The Stupid Hackathon Thailand #5](sht5), we are coming back to The Stupid Hackathon Thailand #6! (Stying as **The ៦th Stupid Hackathon in Thailand**)
 
 **The Stupid Hackathon in Thailand** is a collaborative hackathon in Thailand with non-competitive intentions and no focuses on business value.
 
