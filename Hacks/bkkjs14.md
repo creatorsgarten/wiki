@@ -1,5 +1,5 @@
 ---
-layout: events
+layout: hacks
 name: BKK.JS 14 Return of the BKK.JS
 location: Seven Peaks
 date: 1 October 2020
