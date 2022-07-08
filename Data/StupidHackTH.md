@@ -12,3 +12,6 @@ This page keeps track of interesting metrics from each Stupid Hackathon event.
 - **Number of teams**
     - Represents how many teams presented in the presentation session.
     - Collected by counting the number of presentations.
+- **Number of tickets**
+    - Represents how many tickets have been given out.
+    - Collected by checking the number of tickets in Eventpop.
