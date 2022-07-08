@@ -5,4 +5,4 @@
 
 ## Joining the Webring
 
-To join our webring, check out [Ring/HowToJoin](/wiki/Ring/HowToJoin) page.
+To join our webring, check out the [Ring/HowToJoin](/wiki/Ring/HowToJoin) page.
