@@ -1,8 +1,4 @@
-## How to Join the Creatorsgarten Webring
-
-Joining our webring is a nice way to stay connected with other creators.
-
-You can join our webring by:
+Joining our webring is a nice way to stay connected with other creators. You can join our webring by:
 
 1. Add the webring logo to your website, linking back to this webring.
 2. Add your website to the ring.
