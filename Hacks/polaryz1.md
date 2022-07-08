@@ -14,3 +14,5 @@ by: ['Creatorsgarten', 'Polaryz']
 - [“Polaryz Camp ค่ายที่ใช้แค่คำว่า ‘ลองดู’” by Faiifu Phawinee](https://www.facebook.com/faiifubetween/posts/pfbid0z6zU4mYMcisEqaN3vTtQwFcMYT4skZW77AwwSuXkZyTeAFtPej3u7ewEETVwCmxwl)
 - [“ขอบคุณ Polaryz ที่ทำให้เราได้กลับมาสัมผัสความรู้สึกของคำว่า ‘ค่าย’ อีกครั้งในรอบสามปี” by Natthaporn Kobkulkalyakorn](https://www.facebook.com/baiplu.nk.baiplu/posts/pfbid0pZqpAFosRTXd9qGvfSLH4s77KctbFXagHvfLfQapwfJq2GJfenaWgNfx1HSEVW5Vl)
 - [“Well, I should be less worried about things. ในวันที่คนกลัวหลงต้องเดินทางไปค่ายคนเดียวที่เราไม่รู้จักใคร” by Suthep Chanchuphol](https://www.facebook.com/rootenginear/posts/pfbid02pGNHSc9mTAWzWNnmw4wu19G9sEUw7G4kDMExSoouxBU6E8Re851SY1gRkH6t75GVl)
+- [“บันทึกการไปค่าย Polaryz Camp #1 ของธนภัทร” by Thanapat Teerarattanyu](https://www.facebook.com/thanapat.teerarattanyu/posts/pfbid0J2tg32fcpWyedMqzn3NrwnZYPCCvtaWnGQ2hSuBZJXDAceu6zJhAxjihKYE637Cil)
+- [“‘Polaryz Camp’ ค่ายล้างสมองที่อาจเปลี่ยนชีวิตคุณหากหลวมตัวเข้าไป” by Natthaphon D. Best](https://www.facebook.com/natthaphol.ditthawibool.26/posts/pfbid02xicSrPA4uPsd2KPk1fjQ6RSTmeKvkR4hCx9WVwNfXCtivNdGaxSDSkau4AXUbzupl)
