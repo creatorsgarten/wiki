@@ -15,3 +15,9 @@ This page keeps track of interesting metrics from each Stupid Hackathon event.
 - **Number of tickets**
     - Represents how many tickets have been given out.
     - Collected by checking the number of tickets in Eventpop.
+- **Number of presenters**
+    - Represents how many people ended up coming to the event and presented.
+    - Collected by summing up the number of team members in each team.
+- **Event rating**
+    - Represents the average rating of the event.
+    - Collected by averaging the score in the feedback form.
