@@ -7,6 +7,14 @@ site: https://www.instagram.com/polaryz.club/
 by: ['Creatorsgarten', 'Polaryz']
 ---
 
+# Highlights
+
+- [Day 1](https://www.instagram.com/stories/highlights/17900037320505693/)
+- [Day 2](https://www.instagram.com/stories/highlights/17924381042161340/)
+- [Day 3](https://www.instagram.com/stories/highlights/17928056777225329/)
+- [Day 4](https://www.instagram.com/stories/highlights/17921250077499936/)
+- [Day 5](https://www.instagram.com/stories/highlights/17964613789616347/)
+
 # Write-ups
 
 - [“Polaryz Camp ค่าย experiment ต้นแบบที่เราอยากให้ทุกคนอ่าน” by Nattanon](https://www.facebook.com/iamnutn0n/posts/pfbid02hpS49uaYZ4S6DZYXyhHQ3jZCkSwGYCoJXTG4SvRfe89dnVASDbFQVA9DNbzCxfGnl)
