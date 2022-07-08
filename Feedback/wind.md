@@ -1,4 +1,4 @@
-What do you like about this event? What did you enjoy the most?
+**What do you like about this event? What did you enjoy the most?**
 
 - Challenge Question
 - ดู progress หน้าจอสดๆ ผู้ดำเนินรายการจัดรายการพูดบรรยายได้สนุกดีค่ะ
@@ -22,7 +22,7 @@ What do you like about this event? What did you enjoy the most?
 - I really like the chill atmosphere set by the MCs. With Lodi music playing, and with soothing commentary, it results in a chill vibe that I really dig.
 - this activity gathers many people together. challenge is very interesting. Prize is awesome!
 
-What are somethings we can improve? What did you enjoy the least?
+**What are somethings we can improve? What did you enjoy the least?**
 
 - Time management
 - มาไม่ทันตอนแรก แล้วก็งงว่าโหวตยังไงน้า แต่ก็หาทางจนเจอเพราะมีแจ้งบนหน้าจอค่า แต่ถ้าบอกใน description ด้วยจะหาง่ายกว่าค่ะ
@@ -40,7 +40,7 @@ What are somethings we can improve? What did you enjoy the least?
 - Being an elimination contest makes some of the contestants have to wait for a long time, or doesn't have the reason to stay in the event until the finals.
 - I feel like there is less involvement for eliminated contestants that still wanna play.
 
-Is there anything we can try out next time? Any suggestions?
+**Is there anything we can try out next time? Any suggestions?**
 
 - Algorithm
 - อยากให้มีเฉลย หรือ breakdown แต่ละข้อ ว่าคิดยังไง
@@ -57,14 +57,14 @@ Is there anything we can try out next time? Any suggestions?
 - Put timer in the code editor
 - I'd be interested in anything related to any frontend competition after this event (Something like CSS Battles). Maybe do something with animation next (Framer Motion or Anime.js).
 
-Please rate your experience in this event
+**Please rate your experience in this event**
 
 7. 3
 8. 8
 9. 4
 10. 7
 
-Say anything!!!
+**Say anything!!!**
 
 - ขอบคุณที่จัดงานสนุกๆ ค่า
 - Great Event. Hope to see u all in offline event
