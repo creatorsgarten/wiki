@@ -1,4 +1,5 @@
 ---
+layout: hacks
 name: 'Svelte Meetup Bangkok #1'
 location: Cleverse Office
 date: 24 June 2022
