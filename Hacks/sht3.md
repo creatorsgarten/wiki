@@ -9,7 +9,7 @@ by: ['Creatorsgarten', 'StupidHackTH']
 
 # About
 
-Following [the](https://blog.rayriffy.com/review-the-stupid-hackathon-th-2/) [tremendous](https://medium.com/teamappman/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%99-the-stupid-hackathon-thailand-2-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B9%88%E0%B8%B0-a6310bbe47e4) [success](https://gitlab.com/StupidHackTH/3/wikis/StupidHackTH2-Feedback) of The Stupid Hackathon Thailand #2, we are coming back in The Stupid Hackathon Thailand #3!
+Following [the](https://blog.rayriffy.com/review-the-stupid-hackathon-th-2/) [tremendous](https://medium.com/teamappman/%E0%B8%A1%E0%B8%B2%E0%B9%80%E0%B8%A5%E0%B9%88%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%99-the-stupid-hackathon-thailand-2-%E0%B9%83%E0%B8%AB%E0%B9%89%E0%B8%AD%E0%B9%88%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%B1%E0%B8%99%E0%B8%84%E0%B9%88%E0%B8%B0-a6310bbe47e4) [success](https://gitlab.com/StupidHackTH/3/wikis/StupidHackTH2-Feedback) of [The Stupid Hackathon Thailand #2](sht2), we are coming back in The Stupid Hackathon Thailand #3!
 
 **The Stupid Hackathon Thailand** is a 2-day collaborative hackathon in Thailand with no competition or focus on business value whatsoever.
 
