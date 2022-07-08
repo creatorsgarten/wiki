@@ -35,3 +35,19 @@ The stupid hackathon is [held all around the world](https://gist.github.com/chee
 - [“รีวิวงาน SHiT๖ แฮคโง่ ๆ ประเทศไทย และเบื้องหลังสุดยอดนวัตกรรมอย่างบ้านสีเหลือง (Part ๒)” by Nutthapat Pongtanyavichai](https://medium.com/@leomotors/รีวิวงาน-shit๖-แฮคโง่-ๆ-ประเทศไทย-และเบื้องหลังสุดยอดนวัตกรรมอย่างบ้านสีเหลือง-part-๒-c2515194699b)
   [“ไม่น่าเชื่อว่างาน stupid hackathon จัดมาเป็นปีที่ 6 แล้ว” by Phoomparin - Mano](https://www.facebook.com/phoomparin.mano/posts/pfbid026mA3vTj2yHxYm6JSJPBfPGPP5tFXRS2VihSCuoFdQRYKETtnFZYRt3vUVH2RXfMjl?_rdc=1&_rdr)
 - [“รีวิวงาน The ៦th Stupid Hackathon Thailand” by Khanaphon Kana Phaengtan](https://blog.0002011.xyz/2022-07-04-shit6-summary)
+
+# Photos
+
+- [“We're (almost) halfway through our hackathon and it's been incredible so far!”](https://www.facebook.com/creatorsgarten/posts/pfbid0zxF7QU1QnwU22VPb6guwUQU3TYiLcrp1L6XHAKchcXV56TZkRZsknDjmgg26b1r7l)
+- [“That's a wrap for the 6th Stupid Hackathon in Thailand!”](https://www.facebook.com/creatorsgarten/posts/pfbid0a43qCPPk2r4kcPRbT5bTa4vQTRARckqXZqhGBzLa1JBMnMz6rCJiEd6cPewkSVcFl)
+- [talk with kana's album](https://www.facebook.com/media/set/?vanity=talkwithkana&set=a.174657275026186)
+
+# Code
+
+- [StupidHackTH/6 - website](https://github.com/stupidhackth/6)
+- [StupidHackTH/shit6-vote - voting app](https://github.com/StupidHackTH/shit6-vote)
+- [StupidHackTH/shit6-registry - project registry cms](https://github.com/StupidHackTH/shit6-registry)
+- [dtinth/SHiT6-tweetboard - live twitter board](https://github.com/dtinth/SHiT6-tweetboard)
+- [rayriffy/stupid-adventure - adventure game ticket challenge](https://github.com/rayriffy/stupid-adventure)
+- [rayriffy/stupid-randomizer - prize awarding game](https://github.com/rayriffy/stupid-randomizer)
+- [SaltyAom/stpd6-cli - ctf ticket challenge](https://github.com/SaltyAom/stpd6-cli)
