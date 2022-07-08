@@ -1,7 +1,7 @@
-[**The Creatorsgarten Webring**](/ring) is a webring for us to connect with each other through personal websites. There are currently 2 [rings](/ring):
+As a collective with many different initiatives, we have separate websites for each initiative. [**The Creatorsgarten Webring**](/ring) serves to bring all the initiative together under the same umbrella. It also serves to connect our members’ personal websites. There are currently 2 rings:
 
-- **Us & Our Friends:** Dedicated website for our event series.
-- **Creators Ring:** A webring that consists of our members’ websites.
+- **Us & Our Friends** consists of our initiatives’ websites.
+- **Creators Ring** consists of our members’ websites.
 
 ## Joining the Webring
 
