@@ -95,3 +95,27 @@
 - ทำ web archive เก็บงานไว้น่าจะดี ความ stupid มันจะดูเท่มากเวลาผ่านๆไปหลายปีแล้วมีเต็มไปหมดให้ดูเหมือนเป็นพิพิธภัณฑ์
 - More snacks:3
 - A blockchain hackathon, a social good hackathon!
+
+**say anything!!**
+
+- Thank you
+- Skill Fix Bug 99%
+- Be Weird!!😃
+- Awwwsum
+- It's cool !
+- เหมือนเปิดโลกใหม่เลย
+- That pretty good.
+- Thank you for all of you who organized this event ^_^ 
+- anything!!
+- Best hackathon ever!! Because of we can do anything
+- ขอบคุณทีมงานมากๆสำหรับการจัดงานที่สนุกมากค่ะ
+- ทีมงานสุดยอดครับ :) ขอบคุณมาก
+- Anything!!
+- See you next year! I'm glad to be there
+- ขอบคุณพี่ ๆ ทีมงานทุกคนครับบบบบบบบ ขอให้มีเวลานอนพักเยอะ ๆ ด้วย 5555 
+- StupidHackTH is freaking good! Never feel happy like this when have to present my noob and stupid project before HAHAHA!. Thank you to all staff that make the super cool event happen : ))
+- Thx for organise this event!!
+- สนุกมาก
+- ฟหกด่าสว
+- I want to apply staff in next event.
+- Love ya all
