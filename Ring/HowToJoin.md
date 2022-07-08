@@ -1,4 +1,4 @@
-# How to Join the Creatorsgarten Webring
+## How to Join the Creatorsgarten Webring
 
 Joining our webring is a nice way to stay connected with other creators.
 
@@ -7,7 +7,7 @@ You can join our webring by:
 1. Add the webring logo to your website, linking back to this webring.
 2. Add your website to the ring.
 
-# Adding The Webring Icon
+## Adding The Webring Icon
 
 Here is the webring’s icon:
 
@@ -25,7 +25,7 @@ If you are also a member of [วงแหวนเว็บ.ไทย](https://w
 <img src="https://webring.wonderful.software/webring.black.svg" width="64" height="64" style="opacity: 0.5" />
 </div>
 
-# Adding Your Website to the Webring
+## Adding Your Website to the Webring
 
 - Add your entry to the [`src/data/ring.js` file in the `creatorsgarten.org` repo](https://github.com/creatorsgarten/creatorsgarten.org/blob/main/src/data/ring.js).
 - Send us a pull request.
