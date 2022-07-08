@@ -9,7 +9,7 @@ by: ['Creatorsgarten', 'StupidHackTH']
 
 # About
 
-Following [the tremendous success](https://stupidhackth.github.io/4/) of The Stupid Hackathon Thailand #4, we are coming back to The Stupid Hackathon Thailand #5!
+Following [the tremendous success](https://stupidhackth.github.io/4/) of [The Stupid Hackathon Thailand #4](sht4), we are coming back to The Stupid Hackathon Thailand #5!
 
 **The Stupid Hackathon Thailand** is a collaborative hackathon in Thailand with no competition or focuses on business value whatsoever.
 
