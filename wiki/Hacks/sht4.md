@@ -1,6 +1,6 @@
 ---
 layout: hacks
-name: stupid hackathon the fourth / virtual (Online)
+name: stupid hackathon thailand the fourth / virtual 2020 (Online)
 location: Online
 date: 24-27 June 2020
 site: https://stupidhackth.github.io/4
