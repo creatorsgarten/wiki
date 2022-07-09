@@ -5,4 +5,4 @@ As a collective with many different initiatives, we have separate websites for e
 
 ## Joining the Webring
 
-To join our webring, check out the [Ring/HowToJoin](/wiki/Ring/HowToJoin) page.
+To join our webring, check out the [HowToJoinRing](/wiki/HowToJoinRing) page.
