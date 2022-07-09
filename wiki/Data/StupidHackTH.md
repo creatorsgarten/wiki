@@ -20,4 +20,4 @@ This page keeps track of interesting metrics from each Stupid Hackathon event.
     - Collected by summing up the number of team members in each team.
 - **Event rating**
     - Represents the average rating of the event.
-    - Collected by averaging the score in the feedback form.
+    - Collected by averaging the score in the [feedback form](/wiki/About/Feedback).
