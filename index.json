@@ -1,8 +1,9 @@
 {
   "pages": {
-    "AboutThisWiki": {},
+    "About/Feedback": {},
+    "About/Ring": {},
+    "About/Wiki": {},
     "Data/StupidHackTH": {},
-    "EventOrganization/Feedback": {},
     "Feedback/sht2": {},
     "Feedback/sht3": {},
     "Feedback/sht4": {},
@@ -66,8 +67,7 @@
     "Hacks/ycc1": {
       "name": "Young Creators' Camp"
     },
-    "Manifesto": {},
-    "Ring/About": {},
-    "Ring/HowToJoin": {}
+    "HowToJoinRing": {},
+    "Manifesto": {}
   }
 }
