@@ -18,4 +18,4 @@ The name **Creatorsgarten** comes from the word _creators_ and _garten_, as in _
 
 We invite you to join us on this journey of exploration and creation. Together, let’s create things.
 
-<span style="display: block; border: 2px solid white">![](https://creatorsgarten.org/images/cover.webp)</span>
+<span style="display: block; border: 2px solid black" class="not-prose">![](https://creatorsgarten.org/images/cover.webp)</span>
