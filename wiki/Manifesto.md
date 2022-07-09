@@ -17,3 +17,5 @@ We stand for:
 The name **Creatorsgarten** comes from the word _creators_ and _garten_, as in _kindergarten_, which means garden of children in German. We chose this name because we want to create a garden for all creators where they can come to create, learn, and share.
 
 We invite you to join us on this journey of exploration and creation. Together, let’s create things.
+
+![](https://creatorsgarten.org/images/cover.webp)
