@@ -5,4 +5,11 @@ As a collective with many different initiatives, each with their own uniqueness,
 
 ## Joining the Webring
 
-To join our webring, check out the [HowToJoinRing](/wiki/HowToJoinRing) page.
+This webring is open to people who participated in our [events (hacks)](/) in some way, and consider themselves a creator. To join our webring, check out the [HowToJoinRing](/wiki/HowToJoinRing) page.
+
+## Other Webrings
+
+This webring draws inspirations from similar webrings:
+
+- [XXIIVV/webring](https://webring.xxiivv.com/) — for handcrafted websites
+- [วงแหวนเว็บ.ไทย](https://webring.in.th/) — for Thai people who owns a domain name
