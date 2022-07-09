@@ -1,0 +1,73 @@
+{
+  "pages": {
+    "AboutThisWiki": {},
+    "Data/StupidHackTH": {},
+    "EventOrganization/Feedback": {},
+    "Feedback/sht2": {},
+    "Feedback/sht3": {},
+    "Feedback/sht4": {},
+    "Feedback/sht5": {},
+    "Feedback/sht6": {},
+    "Feedback/wind": {},
+    "Hacks/bio": {
+      "name": "Biological Aesthetic of Nature, and How to Remain Curious Under Oppressive Education"
+    },
+    "Hacks/bkkjs14": {
+      "name": "BKK.JS 14 Return of the BKK.JS"
+    },
+    "Hacks/codeplearn": {
+      "name": "CodePlearn โค้ดเพลิน - Code, Play, and Learn!"
+    },
+    "Hacks/graphql": {
+      "name": "GraphQL Meetup 10.0"
+    },
+    "Hacks/hacktoberfest2019": {
+      "name": "Hacktoberfest Open Hack Day BKK 2019"
+    },
+    "Hacks/hacktoberfest2020": {
+      "name": "Hacktoberfest Thailand 2020"
+    },
+    "Hacks/learn": {
+      "name": "How to Learn (Almost) Anything"
+    },
+    "Hacks/love": {
+      "name": "Data Driven Love จีบแบบ Dev ยังไงไม่ให้นก"
+    },
+    "Hacks/marshmallow": {
+      "name": "Marshmallow Campfire!"
+    },
+    "Hacks/polaryz1": {
+      "name": "Polaryz Camp"
+    },
+    "Hacks/sht1": {
+      "name": "Stupid Hackathon Bangkok"
+    },
+    "Hacks/sht2": {
+      "name": "Stupid Hackathon Thailand #2"
+    },
+    "Hacks/sht3": {
+      "name": "Stupid Hackathon Thailand #3"
+    },
+    "Hacks/sht4": {
+      "name": "stupid hackathon the fourth / virtual (Online)"
+    },
+    "Hacks/sht5": {
+      "name": "The 5th StuP1d H@CK THaIL@Nd (Online)"
+    },
+    "Hacks/sht6": {
+      "name": "The ៦th Stupid Hackathon in Thailand"
+    },
+    "Hacks/svelte1": {
+      "name": "Svelte Meetup Bangkok #1"
+    },
+    "Hacks/wind": {
+      "name": "Code in the Wind"
+    },
+    "Hacks/ycc1": {
+      "name": "Young Creators' Camp"
+    },
+    "Manifesto": {},
+    "Ring/About": {},
+    "Ring/HowToJoin": {}
+  }
+}
