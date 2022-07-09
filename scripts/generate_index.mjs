@@ -4,7 +4,7 @@ import matter from 'gray-matter';
 
 const pages = {};
 
-for (const file of glob.sync('**/*.md', { cwd: 'wiki' })) {
+for (const file of glob.sync('**/*.md', { cwd: 'wiki' }).sort()) {
   const slug = file.replace(/\.md$/, '');
   const meta = matter(fs.readFileSync(`wiki/${file}`, 'utf8'));
   const name = meta.data.name || undefined;
