@@ -1,6 +1,6 @@
 ---
 layout: hacks
-name: 'Stupid Hackathon Thailand #2'
+name: 'The Stupid Hackathon Thailand #2'
 location: LINK Collaboration Space, Pathum Wan, Bangkok
 date: 14-15 July 2018
 site: https://stupidhackth.github.io/2
