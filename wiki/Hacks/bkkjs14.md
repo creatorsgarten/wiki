@@ -15,8 +15,8 @@ After being away for a whle, BKK.JS #14 is coming back in October in offline for
 
 - How I've Reduced a 2MB Web App to 14KB by Just Changing the Perspective by SaltyAom, Software Engineer at BRIKL
 - Javascript on the Cloud by Georgio Desideri, Tech Lead Cloud Solution at Seven Peaks
-- From Back-end to Front-end dev in 100 days by @narze, Developer at Eventpop
-- When I have to write react by World, Developer at ODDS
+- [From Back-end to Front-end dev in 100 days](https://youtu.be/_34exj5Q7ec?t=1517) by @narze, Developer at Eventpop
+- [When I have to write React](https://youtu.be/_34exj5Q7ec?t=2938) by World, Developer at ODDS
 
 # Links
 
