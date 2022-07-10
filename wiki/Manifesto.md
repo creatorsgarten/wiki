@@ -8,11 +8,11 @@
 
 We stand for:
 
-- **Creativity:** We believe that creativity is a fundamental human quality that should be nurtured and encouraged. We believe that everyone has the potential to be creative, and that the world is a better place when we all express our creativity.
+**Creativity:** We believe that creativity is a fundamental human quality that should be nurtured and encouraged. We believe that everyone has the potential to be creative, and that the world is a better place when we all express our creativity.
 
-- **Empathy**: We believe in putting ourselves in others' shoes, and using our skills to make a positive impact on the world.
+**Empathy**: We believe in putting ourselves in others' shoes, and using our skills to make a positive impact on the world.
 
-- **Fun**: We believe that work should be enjoyable, and that every day is an opportunity to learn something new and have some fun.
+**Fun**: We believe that work should be enjoyable, and that every day is an opportunity to learn something new and have some fun.
 
 The name **Creatorsgarten** comes from the word _creators_ and _garten_, as in _kindergarten_, which means garden of children in German. We chose this name because we want to create a garden for all creators where they can come to create, learn, and share.
 
