@@ -4,7 +4,7 @@ In most Creatorsgarten events, we use a form for collecting feedback after the e
 
 1. What do you like about this event? What did you enjoy the most?
 
-2. What are somethings we can improve? What did you enjoy the least?
+2. What are some things we can improve? What did you enjoy the least?
 
 3. Is there anything we can try out next time? Any suggestions?
 
