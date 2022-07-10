@@ -21,7 +21,7 @@ DigitalOcean and DEV is the host of the global Hacktoberfest challenge, while BR
 
 # Links
 
-- [Facebook Live](https://www.facebook.com/events/1033263830421330/)
+- [Facebook Event](https://www.facebook.com/events/1033263830421330/)
 
 # 👨‍💻 ABOUT HACKTOBERFEST
 
