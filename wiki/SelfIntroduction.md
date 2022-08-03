@@ -1,0 +1,1 @@
+When sending proposals to potential sponsors/partners, we need some basic information about what Creatorsgarten is.
