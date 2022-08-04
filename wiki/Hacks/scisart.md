@@ -10,4 +10,5 @@ by: ['Creatorsgarten']
 # About
 
 Astrology / Witchcraft / Alchemy / etc.
-More details soon
+
+More details soon.
