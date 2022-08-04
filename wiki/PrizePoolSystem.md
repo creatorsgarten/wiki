@@ -22,6 +22,6 @@ Winning participants of the event can choose one prize from the pool, with the f
 
         - In the 5th event (virtual), [a spinning wheel](https://www.mikkipastel.com/the-5th-stupid-hackathon-thailand/#:~:text=%E0%B9%84%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%B0-,%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A5,-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B8%A7%E0%B8%87) is used to determine the prize for each winning team.
 
-        - In the 6th event, [a 2d grid is projected onto a carpet on the floor](https://blog.rayriffy.com/engineering-behind-sht6#:~:text=Hackathon%3A%20Reward%20distribution). Each grid cell corresponds to a prize. Each winning participant is asked to throw an object onto the carpet, and receives the prize based on which cell the object landed on.
+        - In the 6th event, [a 2d grid is projected onto a carpet on the floor](https://blog.rayriffy.com/engineering-behind-sht6#:~:text=Hackathon%3A%20Reward%20distribution). Each grid cell corresponds to a prize. Each winning participant is asked to throw an object onto the carpet, and receives the prize based on which cell the object landed on. This re-introduced the elements of skill into the lucky draw.
 
 </details>
