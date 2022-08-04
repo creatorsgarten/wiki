@@ -2,7 +2,7 @@ In contests and hackathons that employs a **prize pool system,** sponsors can ch
 
 Winning participants of the event can choose one prize from the pool, with the first-ranked participant choosing first.
 
-::: details
+<details><summary>Examples</summary>
 
 - [Code in the Wind #1](https://showdown.space/events/code-in-the-wind-1/) uses the prize pool system.
 
@@ -12,4 +12,4 @@ Winning participants of the event can choose one prize from the pool, with the f
 
     - To keep the event non-competitive, elements of luck are introduced.
 
-:::
+</details>
