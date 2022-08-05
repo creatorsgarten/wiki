@@ -1,4 +1,4 @@
-> Note: This is a draft and subject to change.
+_(Note: This is a draft and subject to change.)_
 
 Sponsorship for this event is open for the following areas:
 
