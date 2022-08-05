@@ -24,6 +24,15 @@ Thank you for sponsoring [showdown.space](https://showdown.space/) events! We re
 
 ## How it will be displayed
 
+We will use the information provided to give you shout-outs and appreciation for contributing to our events, such as:
+
+- Posting on our social media
+- Posting on our Discord server
+- Posting on the event website
+- Mentioning in the presentations or in livestream
+
+See the following images for examples.
+
 How it will be displayed on the website:
 
 ![image](https://user-images.githubusercontent.com/193136/183094258-0281292d-b502-430c-8471-cc41fe81618f.png)
