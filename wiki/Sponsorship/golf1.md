@@ -6,7 +6,9 @@ Sponsorship areas:
 
 - **Prize** — Add your prize to the [prize pool](/wiki/PrizePoolSystem) for winners to choose from (8 sponsor slots available).
 
-- **Meals** — Order a meal for 50 people and deliver it to the event venue (1 sponsor slot available).
+- ~~**Meals** — Order a meal for 50 people and deliver it to the event venue (taken).~~
+
+- ~~**Drinks** — Water is provided by the venue, sponsor can help by upgrading drinks.~~
 
 - **Monetary sponsor** — THB 8,000 per sponsor. This will help us cover the costs of the venue and beverages, and provides us funds in case of emergency (5 sponsor slots available).
 
