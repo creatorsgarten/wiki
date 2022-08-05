@@ -1,6 +1,6 @@
 _(Note: This is a draft and subject to change.)_
 
-Sponsorship for this event is open for the following areas:
+Sponsorship for this event will be open soon for the following areas:
 
 - **Prize** — Add your prize to the [prize pool](/wiki/PrizePoolSystem) for winners to choose from (8 sponsor slots available).
 
