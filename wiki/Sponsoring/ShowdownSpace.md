@@ -1,4 +1,6 @@
-Thank you for your interest in sponsoring [showdown.space](https://showdown.space/) events! We request the following information:
+Thank you for your interest in sponsoring [showdown.space](https://showdown.space/) events!
+
+We want to acknowledge your contribution. Therefore, we request the following information:
 
 ```ts
 {
