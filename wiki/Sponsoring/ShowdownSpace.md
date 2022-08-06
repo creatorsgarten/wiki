@@ -1,4 +1,4 @@
-Thank you for sponsoring [showdown.space](https://showdown.space/) events! We request the following information:
+Thank you for your interest in sponsoring [showdown.space](https://showdown.space/) events! We request the following information:
 
 ```ts
 {
@@ -44,3 +44,7 @@ How it will be displayed on Discord:
 How it will be displayed on Facebook:
 
 ![image](https://user-images.githubusercontent.com/193136/183094977-e6978661-d5a6-4ea7-8185-13261ad830d9.png)
+
+## Examples from past events
+
+- [Code in the Wind #1](https://showdown.space/events/code-in-the-wind-1/#sponsors)
