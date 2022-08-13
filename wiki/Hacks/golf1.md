@@ -1,12 +1,16 @@
 ---
 layout: hacks
-name: ?????
-location: ?????
-date: ?????
-site: ?????
-by: ['showdown.space', 'Creatorsgarten']
+name: Code Golf Party #1
+location: Copper Bar
+date: 26 August 2022
+site: https://www.eventpop.me/e/13449
+by: ["showdown.space", "Creatorsgarten"]
 ---
 
 # About
 
-[This](https://en.wikipedia.org/wiki/Golf)
+⛳️ Code Golf เป็นกิจกรรมนันทนาการสำหรับโปรแกรมเมอร์ เป็นกิจกรรมที่มีโจทย์ปัญหามาให้เขียนโปรแกรมแก้ แล้วมาหาวิธีแก้ที่ใช้ซอร์ซโค้ดขนาดเล็กที่สุด
+
+Code Golf Party จัดโดยทีม Creatorsgarten เป็นงานแนว Meetup + Party + Contest ที่ผู้ร่วมงานมาพบปะกันเพื่อเล่น Code Golf เป้าหมายคืออยากให้เกิดการแลกเปลี่ยนความรู้กันระหว่างภาษาโปรแกรมมิ่งต่างๆ
+
+เราหวังว่าผู้เข้าร่วมจะได้รู้จักเพื่อนใหม่ๆ ในงาน, ได้เรียนรู้ภาษาโปรแกรมอื่นๆ ที่อาจไม่เคยเห็น หรือไม่เคยลอง, ได้เรียนรู้เทคนิคต่างๆ เกี่ยวกับภาษาที่ใช้งานเป็นประจำ, และได้แนวคิดกลับไปใช้ในงานและชีวิตประจำวันด้วย

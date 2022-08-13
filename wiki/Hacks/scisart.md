@@ -1,10 +1,9 @@
 ---
 layout: hacks
-name: ?????
-location: ?????
-date: ?????
-site: ?????
-by: ['Creatorsgarten']
+name: Sciยศาสตร์ Day - วันไสยศาสตร์เนื่องในเดือนวิทยาศาสตร์กรุงเทพ
+location: Doc Club and Pub.
+date: 20 August 2022
+by: ["Creatorsgarten"]
 ---
 
 # About
