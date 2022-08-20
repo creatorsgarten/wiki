@@ -63,3 +63,9 @@ Copper Bar Bangkok อยู่ที่ [The Racquet Club](https://www.rqclub.c
 มีที่จอดรถที่ Racquet Club (กำลังรวบรวมรายละเอียดเพิ่มเติม)
 
 </details>
+
+<details><summary>มีมาตรการป้องกันโควิด-19 อย่างไร</summary>
+
+กรุณาทำการตรวจ ATK และนำผลตรวจ 24 ชั่วโมงมาแสดงตอนเข้าร่วมงานด้วย
+
+</details>
