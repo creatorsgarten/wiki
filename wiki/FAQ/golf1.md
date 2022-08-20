@@ -23,3 +23,15 @@ Copper Bar Bangkok อยู่ที่ [The Racquet Club](https://www.rqclub.c
 ![รูปหน้าร้าน](https://static.dt.in.th/uploads/2022/08/20/copperbar.jpeg)
 
 </details>
+
+<details><summary>อยู่ได้ถึงกี่โมง</summary>
+
+สามารถอยู่ได้จนถึงร้านปิด (เที่ยงคืน)
+
+</details>
+
+<details><summary>มี Wi-Fi ไหม</summary>
+
+เนื่องจากมีคนมากันเยอะ Wi-Fi ของทางร้านอาจจะไม่สามารถรองรับจำนวนอุปกรณ์ได้ จึงขอแนะนำให้เตรียมอินเตอร์เน็ตมือถือมาด้วย และในกรณีที่อินเตอร์เน็ตของบางเครือข่ายไม่เสถียร ขอให้ผู้ร่วมงานเตรียมแชร์ Hotspot ให้ผู้ร่วมงานท่านอื่นๆ ด้วย
+
+</details>
