@@ -14,6 +14,8 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
 
 <details><summary>เดินทางมายังไง</summary>
 
-Copper Bar Bangkok อยู่ที่ [The Racquet Club](https://www.rqclub.com/contact) ใกล้สถานี **BTS ทองหล่อ/พร้อมพงษ์** โดยสามารถ[ดูพิกัดร้านบน Google Maps](https://g.page/copper-bar-bangkok?share) และ[ดูวิธีการเดินทางได้บนเว็บไซต์ของ The Racquet Club](https://www.rqclub.com/contact)
+Copper Bar Bangkok อยู่ที่ [The Racquet Club](https://www.rqclub.com/contact) ใกล้สถานี **BTS ทองหล่อ/พร้อมพงษ์** โดยสามารถ[ดูพิกัดร้านบน Google Maps](https://g.page/copper-bar-bangkok?share) และ[ดูวิธีการเดินทางได้บนเว็บไซต์ของ The Racquet Club](https://www.rqclub.com/contact) โดยมีจุดสังเกตคือป้าย “Cocktails” หน้าร้าน
+
+![รูปหน้าร้าน](https://static.dt.in.th/uploads/2022/08/20/copperbar.jpeg)
 
 </details>
