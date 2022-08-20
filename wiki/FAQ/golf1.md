@@ -12,7 +12,7 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
 
 1. [เข้า Discord ของ showdown.space &rarr; https://discord.gg/tsuft8JU97](https://discord.gg/tsuft8JU97)
 
-2. ไปที่แชนแนล `#bot-showdown` แล้วสั่งคำสั่ง `/eventpop` เพื่ิอเชื่อมแอคเคาท์ Discord กับบัตร Eventpop
+2. ไปที่แชนแนล `#bot-showdown` แล้วสั่งคำสั่ง `/eventpop` เพื่อเชื่อมแอคเคาท์ Discord กับบัตร Eventpop
 
     <img width="389" alt="image" src="https://user-images.githubusercontent.com/193136/185737780-cbc3e8dc-98ca-4163-9bac-158d7cb14897.png">
 
