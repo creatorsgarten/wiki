@@ -1,0 +1,1 @@
+# Code Golf Party #1 FAQ
