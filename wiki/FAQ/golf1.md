@@ -69,3 +69,15 @@ Copper Bar Bangkok อยู่ที่ [The Racquet Club](https://www.rqclub.c
 กรุณาทำการตรวจ ATK และนำผลตรวจ 24 ชั่วโมงมาแสดงตอนเข้าร่วมงานด้วย
 
 </details>
+
+# Meals
+
+<details><summary>มีอาหารหรือเครื่องดื่มที่งานไหม</summary>
+
+- **มีอาหารให้ทานที่งาน** ขอขอบคุณ Cleverse ผู้สนับสนุนมื้ออาหารในงาน
+
+- **มีน้ำเปล่าบริการฟรี และซอฟต์ดริงค์คนละ 1 กระป๋อง** ขอขอบคุณ Spark Tech Thailand ผู้สนับสนุนเครื่องดื่ม
+
+- เครื่องดื่ม Cocktail และ Mocktail สามารถซื้อเพิ่มเองได้ [ดูเมนูของทางร้านได้ทางเพจ Copper Bar Thailand](https://www.facebook.com/copperbarbangkok/menu/)
+
+</details>
