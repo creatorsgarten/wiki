@@ -4,6 +4,28 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
 
 </div>
 
+# Registration
+
+<details><summary>ได้รับบัตรแล้วต้องทำยังไงต่อ</summary>
+
+**เข้าเซิฟเวอร์ Discord** ในวันงานเราอาจจะส่งลิงค์ต่างๆ ผ่านทาง Discord
+
+1. [เข้า Discord ของ showdown.space &rarr; https://discord.gg/tsuft8JU97](https://discord.gg/tsuft8JU97)
+
+2. ไปที่แชนแนล `#bot-showdown` แล้วสั่งคำสั่ง `/eventpop` เพื่ิอเชื่อมแอคเคาท์ Discord กับบัตร Eventpop
+
+    <img width="389" alt="image" src="https://user-images.githubusercontent.com/193136/185737780-cbc3e8dc-98ca-4163-9bac-158d7cb14897.png">
+
+3. หลังจากเชื่อมแอคเคาท์แล้ว จะได้ Role `CGP1-golfer` ใน Discord
+
+</details>
+
+<details><summary>ไม่มีบัตร มางานได้ไหม</summary>
+
+ต้องขออภัยที่งานนี้ไม่เปิดรับ Walk-in เนื่องจากมีผู้สนใจที่อยู่ใน Waitlist เป็นจำนวนมาก
+
+</details>
+
 # Venue and Logistics
 
 <details><summary>งานจัดที่ไหน</summary>
@@ -33,5 +55,11 @@ Copper Bar Bangkok อยู่ที่ [The Racquet Club](https://www.rqclub.c
 <details><summary>มี Wi-Fi ไหม</summary>
 
 เนื่องจากในงานนี้มีผู้เข้าร่วมงานค่อนข้างเยอะ Wi-Fi ของทางร้านอาจจะไม่สามารถรองรับจำนวนอุปกรณ์ได้ จึงขอแนะนำให้เตรียมอินเตอร์เน็ตมือถือมาด้วย และในกรณีที่อินเตอร์เน็ตของบางเครือข่ายไม่เสถียร ขอให้ผู้ร่วมงานเตรียมแชร์ Hotspot ให้ผู้ร่วมงานท่านอื่นๆ ด้วย
+
+</details>
+
+<details><summary>มีที่จอดรถไหม [TBC]</summary>
+
+มีที่จอดรถที่ Racquet Club (กำลังรวบรวมรายละเอียดเพิ่มเติม)
 
 </details>
