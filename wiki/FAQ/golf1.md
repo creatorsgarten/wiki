@@ -4,7 +4,7 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
 
 </div>
 
-## Venue
+# Venue and Logistics
 
 <details><summary>งานจัดที่ไหน</summary>
 
