@@ -84,7 +84,7 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
 
 # etc.
 
-<details><summary>มีคำถามเพิ่มเติมทำอย่างไร</summary>
+<details><summary>มีคำถามเพิ่มเติม สามารถติดต่อได้ทางไหนบ้าง</summary>
 
 สามารถติดต่อทีมงานได้ทางช่องทางต่อไปนี้:
 
