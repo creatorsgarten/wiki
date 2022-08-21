@@ -20,7 +20,7 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
 
 </details>
 
-<details><summary>ถ้าไม่สามารถมางานได้ ต้องทำอย่างไร</summary>
+<details><summary>หากไม่สามารถมางานได้ แจ้งที่ไหน</summary>
 
 กรุณา[แจ้งทางเพจ showdown.space](https://m.me/showdownspace) ระบุชื่อ และ Reference code ในบัตร เพื่อให้ทีมงานนำบัตรไปแจกให้ผู้สนใจท่านอื่นๆ
 
