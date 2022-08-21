@@ -8,7 +8,7 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
 
 <details><summary>ได้รับบัตรแล้วต้องทำยังไงต่อ</summary>
 
-**เข้าเซิฟเวอร์ Discord** ในวันงานเราอาจจะส่งลิงค์ต่างๆ ผ่านทาง Discord
+**เข้าเซิฟเวอร์ Discord** — ก่อนวันงานจะมีการแจ้งข่าวสาร และในวันงานจะส่งลิงค์ต่างๆ ผ่านช่องทาง Discord
 
 1. [เข้า Discord ของ showdown.space &rarr; https://discord.gg/tsuft8JU97](https://discord.gg/tsuft8JU97)
 
