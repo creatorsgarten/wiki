@@ -81,3 +81,15 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
 - เครื่องดื่ม Cocktail และ Mocktail สามารถซื้อเพิ่มเองได้ [ดูเมนูของทางร้านได้ทางเพจ Copper Bar Thailand](https://www.facebook.com/copperbarbangkok/menu/)
 
 </details>
+
+# etc.
+
+<details><summary>มีคำถามเพิ่มเติมทำอย่างไร</summary>
+
+สามารถติดต่อทีมงานได้ทางช่องทางต่อไปนี้:
+
+- ถามในห้อง `#lounge` ใน[เซิฟเวอร์ Discord showdown.space](https://discord.gg/tsuft8JU97) (สำหรับผู้ที่ถือบัตร)
+
+- [เฟสบุ๊คเพจ Creatorsgarten](https://m.me/creatorsgarten)
+
+</details>
