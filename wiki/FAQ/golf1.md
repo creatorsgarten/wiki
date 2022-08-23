@@ -52,6 +52,12 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
 
 </details>
 
+<details><summary>ต้องเตรียมคอมพิวเตอร์ไปไหม</summary>
+
+เราจะมีการเล่นเกม Code Golf กันในงาน กรุณาเตรียมคอมพิวเตอร์โน้ตบุ๊คมาด้วย
+
+</details>
+
 <details><summary>มี Wi-Fi ไหม</summary>
 
 เนื่องจากในงานนี้มีผู้เข้าร่วมงานค่อนข้างเยอะ Wi-Fi ของทางร้านอาจจะไม่สามารถรองรับจำนวนอุปกรณ์ได้ จึงขอแนะนำให้เตรียมอินเตอร์เน็ตมือถือมาด้วย และในกรณีที่อินเตอร์เน็ตของบางเครือข่ายไม่เสถียร ขอให้ผู้ร่วมงานเตรียมแชร์ Hotspot ให้ผู้ร่วมงานท่านอื่นๆ ด้วย
@@ -76,7 +82,7 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
 
 </details>
 
-<details><summary>กรณีลืมของไว้ในงานสามารถติดต่อใครได้?</summary>
+<details><summary>กรณีลืมของไว้ในงานสามารถติดต่อใครได้</summary>
 
 สามารถติดต่อได้ทาง [Facebook Page: Creatorsgarten](https://m.me/creatorsgarten)
 
