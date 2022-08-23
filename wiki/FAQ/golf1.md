@@ -70,6 +70,18 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
 
 </details>
 
+<details><summary>มี Power Outlet ไหม</summary>
+
+ปลั๊กพ่วงมีจำนวนจำกัด **ขอให้ผู้ร่วมงาน ชาร์จแล็ปท็อปให้เต็มก่อนมาที่งาน**
+
+</details>
+
+<details><summary>กรณีลืมของไว้ในงานสามารถติดต่อใครได้?</summary>
+
+สามารถติดต่อได้ทาง [Facebook Page: Creatorsgarten](https://m.me/creatorsgarten)
+
+</details>
+
 # Meals
 
 <details><summary>มีอาหารหรือเครื่องดื่มที่งานไหม</summary>
