@@ -64,9 +64,9 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
 
 </details>
 
-<details><summary>มีที่จอดรถไหม [TBC]</summary>
+<details><summary>มีที่จอดรถไหม</summary>
 
-มีที่จอดรถที่ Racquet Club (กำลังรวบรวมรายละเอียดเพิ่มเติม)
+มีที่จอดรถที่ Racquet Club ถ้ามีที่ว่างเหลือ สามารถจอดรถได้ 5 ชั่วโมง
 
 </details>
 
