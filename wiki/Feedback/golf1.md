@@ -5,7 +5,6 @@
 - The atmosphere of the event, "Code Golf Party"
 - Code golf event in Thailand
 - I like that it is not web dev-related event. This become very rare nowadays. I am interested in many language but not so much in web development. Finally I found event that I can attend and enjoy.
-
 - นานๆ ทีจะมีโจทย์สไตล์นี้สักที โจทย์แก้ง่ายแต่ทำคำตอบให้สั้นไม่ง่าย สนุกดีที่ได้ลองทำและพูดคุยแลกเปลี่ยนอะไรแบบนี้ อาหารก็ดี รางวัลก็เยี่ยม บรรยากาศเป็นกันเองสนุกสนาน
 
 **What are somethings we can improve? What did you enjoy the least?**
