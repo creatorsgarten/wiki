@@ -1,6 +1,6 @@
 <div class="lead">
 
-Do you like to create **procedural art** using code? We would like to run an event that brings together people who are interested in **GLSL, shader art, generative visuals,** and **live coding.**
+Do you like to create **procedural art** with code? We would like to run an event that brings together people who are interested in **GLSL, shader art, generative visuals,** and **live coding.**
 
 </div>
 
