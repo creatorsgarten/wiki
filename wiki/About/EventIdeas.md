@@ -1,1 +1,1 @@
-The event ideas board is a place for us to share potential idea for events and gather feedback.
+The [event ideas board](https://creatorsgarten.org/ideas) is a place for us to share potential idea for events and gather feedback.
