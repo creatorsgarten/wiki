@@ -25,3 +25,17 @@ If you are an event organizer, you can follow these steps to submit a new event:
 4. After 2–3 minutes, your idea should show up on the [Event Ideas Board](https://creatorsgarten.org/ideas).
 
 </details>
+
+<details><summary>I’m interested in joining an event. What should I do?</summary>
+
+On each event page, there is a Subscribe form. Just put your email in there, and when we come around to organize the event, we will send you an email.
+
+</details>
+
+<details><summary>I’d like to volunteer. What should I do?</summary>
+
+On each event page, there is a Subscribe form to get updates about the event. After you subscribe, you can leave us a message to let us know that you would like to volunteer.
+
+Alternatively, you can also comment in the respective GitHub Discussions.
+
+</details>
