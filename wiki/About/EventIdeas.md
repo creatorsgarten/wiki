@@ -1,0 +1,1 @@
+The event ideas board is a place for us to share potential idea for events and gather feedback.
