@@ -16,6 +16,6 @@ If you are an event organizer, you can follow these steps to submit a new event:
 
 1. Make sure you are in the [Event organizers](https://github.com/orgs/creatorsgarten/teams/event-organizers) team on GitHub. If not, [send us a pull request](https://github.com/creatorsgarten/configuration/blob/main/index.ts). 
 
-2. TBW
+2. Go to our [“Event ideas” category on our GitHub Discussions forum](https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas) and click on __New Discussion__.
 
 </details>
