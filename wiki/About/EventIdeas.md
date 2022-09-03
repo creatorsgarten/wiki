@@ -6,6 +6,8 @@ The **[Event Ideas Board](https://creatorsgarten.org/ideas)** is a place for us 
 
 These are for events that we would like to organize someday, but don’t know when. The goal for this board is to just put the idea out there and see if there is any traction.
 
+---
+
 <details><summary>How to submit a new idea?</summary>
 
 Our event ideas board is built on top of [GitHub Discussions](https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas).
