@@ -1,4 +1,5 @@
 
+# FAQs
 
 <details><summary>How to import event from Facebook event?</summary>
 
@@ -13,5 +14,11 @@
   <img width="342" alt="image" src="https://user-images.githubusercontent.com/193136/188323150-f513e838-78fb-4c93-b613-95e5fbfab6d8.png">
 
 4. Go to “Import & Export” &rarr; “Import” section. Select the `.ics` file and the calendar, then click “Import.”
-  
+
+</details>
+
+<details><summary>I want to help maintaining the calendar! How can I help?</summary>
+
+Please join our Discord server at <https://garten.page.link/discord-techcal>
+
 </details>
