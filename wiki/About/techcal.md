@@ -20,6 +20,12 @@ Originally built by [@thangman22](https://twitter.com/thangman22) in 2019, it is
 
 </details>
 
+<details><summary>Some event information is incorrect or out-of-date. How to change?</summary>
+
+Please join our Discord server at <https://garten.page.link/discord-techcal> and let us know in `#techcal` channel.
+
+</details>
+
 <details><summary>I want to help maintaining the calendar! How do I volunteer?</summary>
 
 Please join our Discord server at <https://garten.page.link/discord-techcal> and ask! We’re just starting to maintain this calendar, so most process is currently done in an ad-hoc basis. We will update this page as we have more details in place.
