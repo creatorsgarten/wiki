@@ -10,11 +10,11 @@ Originally built by [@thangman22](https://twitter.com/thangman22) in 2019, it is
 
 <details><summary>How to submit an event to this calendar?</summary>
 
-- Create an event in Google Calendar.
+- Create an event in a calendar software, such as Google Calendar.
 
 - Send an invite to `tech.cal.th@gmail.com`
 
-  <img width="378" alt="image" src="https://user-images.githubusercontent.com/193136/188555082-994de123-a35a-4f7f-a108-325f73c37906.png">
+  ![](https://th.techcal.dev/img/demo.png)
 
 - Once approved, your event will appear on the calendar.
 
