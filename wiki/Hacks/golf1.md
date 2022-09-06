@@ -23,8 +23,8 @@ We assume that many programming languages will be represented, so we hope that t
 
 # Livestream recording
 
-- [Part 1](https://www.facebook.com/showdown.space/videos/589192172698870/)
-- [Part 2](https://www.facebook.com/showdown.space/videos/897540371212344/)
+- [Livestream Recording Part 1](https://www.facebook.com/showdown.space/videos/589192172698870/)
+- [Livestream Recording Part 2](https://www.facebook.com/showdown.space/videos/897540371212344/)
 
 # Application rounds
 
@@ -50,8 +50,6 @@ Applicants were asked to write a program that displays the following output usin
 We awarded the party ticket to the top 10 applicants.
 
 We also awarded 8 extra tickets to applicants who wrote the shortest code in each programming language (1 submission per language).
-
-[![](apply-1p2.jpeg)](https://www.facebook.com/showdown.space/photos/pcb.146317008077184/146807091361509)
 
 ## Application round 2A
 
