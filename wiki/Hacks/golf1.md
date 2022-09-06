@@ -3,7 +3,7 @@ layout: hacks
 name: Code Golf Party #1
 location: Copper Bar
 date: 26 August 2022
-site: https://www.eventpop.me/e/13449
+site: https://showdown.space/events/code-golf-party-1
 by: ["showdown.space", "Creatorsgarten"]
 ---
 
