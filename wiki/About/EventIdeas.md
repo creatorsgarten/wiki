@@ -12,13 +12,7 @@ These are for events that we would like to organize someday, but don’t know wh
 
 **For everyone:** Feel free to send us your ideas in [#event-ideas channel in our Discord server!](https://garten.page.link/discord-ideas)
 
-**For event organizers:** Our event ideas board is built on top of [GitHub Discussions](https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas).
-
-- Event organizers can add ideas to the board. Most of our events are run by a _self-organizing team_ of volunteers, so the person who came up with the idea should be ready to spearhead the event.
-
-- Anyone can discuss about the ideas by adding comments to the discussion.
-
-If you are an event organizer, you can follow these steps to submit a new event:
+**For event organizers:** Our event ideas board is built on top of [GitHub Discussions](https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas). Event organizers can add ideas to the board. Most of our events are run by a _self-organizing team_ of volunteers, so the person who came up with the idea should be ready to spearhead the event. Anyone can discuss about the ideas by adding comments to the discussion. If you are an event organizer, you can follow these steps to submit a new event idea:
 
 1. Make sure you are in the [Event organizers](https://github.com/orgs/creatorsgarten/teams/event-organizers) team on GitHub. If not, [send us a pull request](https://github.com/creatorsgarten/configuration/blob/main/index.ts). 
 
