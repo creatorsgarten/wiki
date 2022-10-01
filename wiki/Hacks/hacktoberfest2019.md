@@ -55,6 +55,34 @@ This event is a huge collaboration between many companies, developer communities
 - [Eventpop](https://www.eventpop.me/e/7013) - contains event details, schedule, etc
 - [Facebook Event](https://www.facebook.com/events/522162471684850/)
 
+# Schedule
+
+This event will be run in 2 simultaneous tracks.
+
+- **Hack track** — Work on open-source projects and submit PRs!
+- **Sharing track** — Learn and share with our sessions, workshops, and lightning talks.
+
+- (9:00) - Check-in + Coffee time
+- (10:00) - Registration
+- (10:30) - Opening sessions
+    - Introduction to Hacktoberfest
+    - How to start contributing
+    - Community projects showcase
+- (11:30) - Hack track begins with sharing track running in parallel:
+    - “Angular and its open sources tools” — Jame from Angular Developers Thailand
+    - “Why I love Ruby” [EN] — Tino from Bangkok.rb
+    - “Using Puzzle-Driven-Development to make your project more beginner friendly” [EN] — Thai from Taskworld
+    - “Centering things in CSS” — Jun from ThoughtWorks
+- (12:30) - Lunchtime
+- (13:30) - Hack track and sharing track continues:
+    - “Build DApps on Libra Blockchain” [TH] — KULAP
+    - “How to give a talk in English as a non-native speaker” [EN] — Georgi from Python Thailand
+    - Lightning talks
+- (17:30) - Closing and afterparty onwards
+
+
+
+
 # Organizers notes
 
 We have multiple developers community group, mostly disjoint, for example:
