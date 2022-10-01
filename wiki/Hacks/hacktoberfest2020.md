@@ -22,6 +22,8 @@ DigitalOcean and DEV is the host of the global Hacktoberfest challenge, while BR
 # Links
 
 - [Facebook Event](https://www.facebook.com/events/1033263830421330/)
+- [Eventpop](https://www.eventpop.me/e/9912/hacktoberfest-bkk-2020)
+- [YouTube Livestream](https://www.youtube.com/watch?v=UthGMwPrGMM)
 
 # 👨‍💻 ABOUT HACKTOBERFEST
 
@@ -84,8 +86,3 @@ DigitalOcean and DEV is the host of the global Hacktoberfest challenge, while BR
 
 - "Building LINE Chatbot with Firebase"
 - "Noobtoberfest: Making noob HTML games" by The Chun
-
-# Links
-
-- [Eventpop](https://www.eventpop.me/e/9912/hacktoberfest-bkk-2020)
-- [YouTube Livestream](https://www.youtube.com/watch?v=UthGMwPrGMM)
