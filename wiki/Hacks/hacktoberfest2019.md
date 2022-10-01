@@ -62,6 +62,8 @@ This event will be run in 2 simultaneous tracks.
 - **Hack track** — Work on open-source projects and submit PRs!
 - **Sharing track** — Learn and share with our sessions, workshops, and lightning talks.
 
+Event schedule:
+
 - (9:00) - Check-in + Coffee time
 - (10:00) - Registration
 - (10:30) - Opening sessions
@@ -79,9 +81,6 @@ This event will be run in 2 simultaneous tracks.
     - “How to give a talk in English as a non-native speaker” [EN] — Georgi from Python Thailand
     - Lightning talks
 - (17:30) - Closing and afterparty onwards
-
-
-
 
 # Organizers notes
 
