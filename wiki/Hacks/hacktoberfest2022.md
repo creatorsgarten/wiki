@@ -11,6 +11,8 @@ by: ['Creatorsgarten']
 
 **งานมีทอัพ [Hacktoberfest](https://hacktoberfest.com/) ในไทยกำลังจะกลับมา!**
 
-ตอนนี้เรากำลังวางแผนจัดงานกันอยู่ หากสนใจร่วมงาน สามารถฝากอีเมลไว้ได้ที่ฟอร์มนี้~
+ตอนนี้เรากำลังวางแผนจัดงานกันอยู่ หากสนใจร่วมงาน สามารถฝากอีเมลไว้ได้ที่ฟอร์มข้างล่างนี้เลย เมื่อเราเริ่มเปิดลงทะเบียนงานแล้วจะส่งอีเมลไปแจ้งอีกที
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfaSJsNW4A1zyX9hrEBL7uOeYlecDH1J5ImXos0WEfm28hG9Q/viewform?embedded=true" width="640" height="1272" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+หากสงสัยว่างานมีทอัพ Hacktoberfest เราทำอะไรกันบ้าง สามารถดูข้อมูลของงานปีก่อนๆ ได้: [2019](/wiki/Hacks/hacktoberfest2019), [2020](/wiki/Hacks/hacktoberfest2020)
+
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSfaSJsNW4A1zyX9hrEBL7uOeYlecDH1J5ImXos0WEfm28hG9Q/viewform?embedded=true" width="100%" height="1440" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
