@@ -25,7 +25,7 @@ We are hosting the Thailand chapter of the annual Hacktoberfest event, a global 
 - Networking with dinner conversation
 
 # 🎤 Talks
-- 🚀 How Microsoft does open source and why you should contribute to the communities by - Jirachai Chansivanon and Phantip Kokilanon 
+- 🚀 How Microsoft does open source and why you should contribute to the communities by Jirachai Chansivanon and Phantip Kokilanon 
 - 👾 Joy UI, React components that spark joy. by Siriwat Kunaporn (จุ้น)
 - 🧠 The rise journey of BCI (Brain-Computer Interface) by Isaman Sangbamrung (Tao)
 - 🔍 How to contribute tech community with your blog by Monthira Chayabanjonglerd
