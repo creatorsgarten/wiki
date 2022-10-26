@@ -43,5 +43,3 @@ Hacktoberfest®is open to everyone in our global community. Whether you’re a d
 - ODDS
 - Plum
 - Microsoft
-
-Eventpop: <https://www.eventpop.me/e/13854>
