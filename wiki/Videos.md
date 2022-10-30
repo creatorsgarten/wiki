@@ -22,13 +22,15 @@ For preparing VODs:
 
 - Each talk goes through several stages before they are published to the YouTube channel.
 
-   1. **Source** — Obtain the source material, either recorded in OBS, or downloaded back from Facebook Live.
+   1. **Source** — Obtain the source material, either recorded in OBS, or downloaded back from Facebook Live. Re-upload it to YouTube (unlisted) for easy viewing, and also upload it to OneDrive for easy downloading by teammates.
 
    2. **Timestamp** — Determine the time range within the source material that contains the talk.
 
    3. **Slice** — Cut the source video around the time range and put it in its own file. This results in a smaller file that’s easier to work with.
 
-        The [`cut`](https://github.com/creatorsgarten/videos/blob/main/bin/cut) script can be used to cut the video in a lossless manner using ffmpeg.
+        The [`cut`](https://github.com/creatorsgarten/videos/blob/main/bin/cut) script can be used to cut the video in a lossless manner using ffmpeg. It generates a `.source.mp4` file. One minute of padding is added to the video to account for imprecise timestamps in step 2.
+
+   4. **Fix** — Perhaps the most resource-consuming part of this process. Watch the talk to identify the issues in the video, and fix them if possible. For example, cutting out the part where the talk is interrupted by a technical issue, applying noise reduction, fix audio channel issue.
 
 - Supporting code lives in [creatorsgarten/videos](https://github.com/creatorsgarten/videos) repository.
 
