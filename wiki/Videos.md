@@ -15,3 +15,7 @@ For preparing VODs:
 - Video and audio not synchronizing. In a video editor software, detach the audio from video, so that they can be moved independently.
 
 - Issues that interrupt the presentation. For example, connectivity problems, technical issues. They might be safe to cut out from the VOD.
+
+# VOD preparation
+
+- If you’d like to help, you can find us [in the `#📼-vod` channel on Creatorsgarten’s Discord server](https://discord.gg/mVX8yEdhWX) and mention to `@VOD Team`.
