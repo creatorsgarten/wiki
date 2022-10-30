@@ -18,4 +18,10 @@ For preparing VODs:
 
 # VOD preparation
 
-- If you’d like to help, you can find us [in the `#📼-vod` channel on Creatorsgarten’s Discord server](https://discord.gg/mVX8yEdhWX) and mention to `@VOD Team`.
+- [Work on preparing VODs are being coordinated on Airtable.](https://airtable.com/shru5fGOzjhHHxo05) Each talk goes through several stages.
+
+   1. …
+
+- Supporting code lives in [creatorsgarten/videos](https://github.com/creatorsgarten/videos) repository.
+
+- If you’d like to help, you can find us [in the #📼-vod channel on Creatorsgarten’s Discord server](https://discord.gg/mVX8yEdhWX) and mention to “@VOD Team”.
