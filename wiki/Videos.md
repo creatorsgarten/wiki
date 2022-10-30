@@ -32,6 +32,10 @@ For preparing VODs:
 
    4. **Fix** — Perhaps the most resource-consuming part of this process. Watch the talk to identify the issues in the video, and fix them if possible. For example, cutting out the part where the talk is interrupted by a technical issue, applying noise reduction, fix audio channel issue.
 
+   5. **Upload** — The video is uploaded to YouTube (unlisted).
+
+   6. **Publish** — The video is published to YouTube as a public video.
+
 - Supporting code lives in [creatorsgarten/videos](https://github.com/creatorsgarten/videos) repository.
 
 - If you’d like to help, you can find us [in the #📼-vod channel on Creatorsgarten’s Discord server](https://discord.gg/mVX8yEdhWX) and mention to “@VOD Team”.
