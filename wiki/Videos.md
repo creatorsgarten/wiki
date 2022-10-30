@@ -8,13 +8,17 @@ For livestreaming:
 
 - Audio too quiet. Check in OBS that when speaking, the sound level is in the yellow color zone [between -20 and -9 dB](https://www.reddit.com/r/Twitch/comments/nctu56/best_sound_levels_for_obs/)
 
-- Audio output works in one channel only. Check in OBS and make sure that there are 2 volume bars (left and right channel). If the problem from the source cannot be fixed, go to Advanced Audio Settings and make it mono.
+- Audio output works in one channel only. Check in OBS and make sure that there are 2 volume bars (left and right channel). If the problem from the source signal cannot be fixed, go to Advanced Audio Settings and make it mono.
 
 For preparing VODs:
 
 - Video and audio not synchronizing. In a video editor software, detach the audio from video, so that they can be moved independently.
 
 - Issues that interrupt the presentation. For example, connectivity problems, technical issues. They might be safe to cut out from the VOD.
+
+- Audio output works in one channel only. To fix in post, convert the audio to mono.
+
+- Microphone feedback loop and noise. To fix in post, if you have Final Cut Pro you can use the [Voice Isolation](https://support.apple.com/guide/final-cut-pro/enhance-audio-verc1fab873/mac#:~:text=of%20equalization%20presets.-,Voice%20Isolation,-%3A%20Prioritizes%20human) feature.
 
 # VOD preparation
 
