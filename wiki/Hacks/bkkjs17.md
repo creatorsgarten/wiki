@@ -9,7 +9,7 @@ by: ['Creatorsgarten']
 
 # About
 
-Coming soon
+<https://eventpop.me/s/bkkjs17>
 
 # Organizers notes
 
