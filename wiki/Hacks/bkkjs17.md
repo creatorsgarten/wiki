@@ -18,7 +18,7 @@ Coming soon
 - 160 tickets
 - Event starts 18:30
 
-Tentative schedule
+**Tentative schedule**
 
 | Time | Event |
 | --- | --- |
