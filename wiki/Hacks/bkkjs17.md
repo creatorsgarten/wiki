@@ -4,7 +4,7 @@ name: 'BKK.js #17'
 location: WISESIGHT
 date: 29 October 2022
 site: https://eventpop.me/s/bkkjs17
-by: ['Creatorsgarten']
+by: ['Creatorsgarten', 'Dev Mountain Tech Festival', 'Thai Tech Community']
 ---
 
 # Schedule
