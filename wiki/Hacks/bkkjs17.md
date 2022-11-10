@@ -1,6 +1,6 @@
 ---
 layout: hacks
-name: 'BKK.js #17'
+name: 'Bkk.js #17 - Developer Showtime'
 location: WISESIGHT
 date: 29 October 2022
 site: https://eventpop.me/s/bkkjs17
