@@ -2,4 +2,4 @@
 
 - Mozilla Common Voice
 
-- Techcal.dev
+- [th.techcal.dev](https://th.techcal.dev) เว็บรวมอัพเดท Tech event, Tech Meetup ในไทยไว้ในที่เดียว
