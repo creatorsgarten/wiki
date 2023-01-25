@@ -7,3 +7,17 @@ Readings:
 - [ตัวอย่าง - รายงานการดำเนินกิจการของมูลนิธิ](https://webportal.bangkok.go.th/upload/user/00000098/News/Procurement/1-64/1.pdf)
 - [ตัวอย่าง - ข้อบังคับมูลนิธิ](https://webportal.bangkok.go.th/upload/user/00000063/Service/Administration/f11.pdf)
 - [ตัวอย่าง - รายงานการประชุมจัดตั้งมูลนิธิ](https://webportal.bangkok.go.th/upload/user/00000063/Service/Administration/f30.pdf)
+
+Prerequisites
+
+- [x] __Name__
+
+- [ ] __Principal office__ along with document that permits the use of that space
+
+- [ ] __At least 3 people on the board__
+
+- [ ] __500,000 THB of cash__ (maybe reduced to 200,000 THB?)
+
+- [ ] __Regulations__
+
+- [ ] __An approved auditor?__
