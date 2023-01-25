@@ -11,13 +11,12 @@ Readings:
 Prerequisites
 
 - [x] __Name__
-
 - [ ] __Principal office__ along with document that permits the use of that space
-
 - [ ] __At least 3 people on the board__
-
 - [ ] __500,000 THB of cash__ (maybe reduced to 200,000 THB?)
-
 - [ ] __Regulations__
-
 - [ ] __An approved auditor?__
+
+Discussions
+
+- @dtinth: After discussing with a friend, he recommends incorporating a private company instead. There will be less ceremony involved in running the company, and expenses can be used to deduct the corporate income tax. However, the name may not be as cool, and we cannot apply for non-profit offers, since although our group is non-profit, it is not officially recognized as such.
