@@ -17,6 +17,14 @@ Prerequisites
 - [ ] __Regulations__
 - [ ] __An approved auditor?__
 
+Eligibility criteria in Thailand
+
+- [__Microsoft__](https://www.microsoft.com/en-us/nonprofits/eligibility?activetab=pivot1%3aprimaryr4)
+   - Organizations must be registered with or recognized by relevant authorities as: (1) tax exempt organizations; (2) public benefit organizations; (3) foundations or associations; or (4) foreign NGOs.
+- [__Google__](https://support.google.com/nonprofits/answer/3215869?ref_topic=3247288)
+   - Organizations must be currently registered with TechSoup Asia, TechSoup Global's regional arm.
+   - Organizations must be registered with or recognized by relevant authorities as: (1) tax exempt organizations; (2) public benefit organizations; (3) foundations or associations; or (4) foreign NGOs.
+
 Discussions
 
 - @dtinth: After discussing with a friend, he recommends incorporating a private company instead. There will be less ceremony involved in running the company, and expenses can be used to deduct the corporate income tax. However, the name may not be as cool, and we cannot apply for non-profit offers, since although our group is non-profit, it is not officially recognized as such.
