@@ -12,6 +12,10 @@
 
   - @chayapatr: อยากจะทำให้กลายเป็น Community website คล้ายๆ [Noisebridge](https://www.noisebridge.net/wiki/Noisebridge) แต่ยังไม่แน่ใจเรื่อง UX
 
+- [**They Work For Us**](https://github.com/wevisdemo/they-work-for-us) ก่อนการ #เลือกตั้ง66 จะเริ่มขึ้น พวกเรา #WeVisDemo ขอเชิญชวน Developer ผู้มีใจรักประชาธิปไตยและเชื่อในพลังของประชาชน มาช่วยอัพเดทเว็บไซต์ #TheyWorkForUs ([theyworkforus.wevis.info](https://theyworkforus.wevis.info/)) โปรเจกต์ open-source ที่พวกเราตั้งใจทำขึ้นเพื่อแสดงข้อมูลการทำงานของผู้แทนในสภาฯ ให้เข้าถึงง่าย และเป็นตัวช่วยตัดสินใจเลือกตั้งครั้งต่อไป
+
+  ก่อนเลือกตั้งจะมาเรามีแผนอัพเกรดเว็บไซต์กันนิดหน่อย โดยใครที่สนใจ Contribute สามารถ Assign ตัวเองเข้าไปใน [Issue ที่ติด tag 'help wanted' ในลิงก์นี้ได้เลย!](https://github.com/wevisdemo/they-work-for-us/milestone/1)
+
 - **OpenStreetMap**
 
 - **Mozilla Common Voice**
