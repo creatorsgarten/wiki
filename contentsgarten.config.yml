@@ -1,0 +1,3 @@
+policies:
+  - permission: edit
+    team: creatorsgarten/creators
