@@ -4,7 +4,11 @@ The contents of the wiki lives in the [wiki GitHub repository][repo].
 
 To see the list of all pages, see [Special/AllPages](/wiki/Special/AllPages).
 
-(This wiki is under reconstruction)
+::: warning Under Reconstruction
+
+This wiki is under reconstruction. Contents may not be up-to-date.
+
+:::
 
 [repo]: https://github.com/creatorsgarten/wiki
 
