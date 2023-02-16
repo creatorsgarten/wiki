@@ -1,3 +1,4 @@
 policies:
-  - permission: edit
+  - name: Allow anyone in "creators" team to edit the page contents
+    permission: edit
     team: creatorsgarten/creators
