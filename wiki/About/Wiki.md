@@ -19,3 +19,7 @@ If a page has a pencil icon (🖉) next to the title, then it is a wiki page tha
 - **Edit directly on the website:** Click on the pencil icon to start editing. It is optimized for making quick and small changes, and the editor is not that stable. We recommend that you save your changes frequently to avoid conflicts and avoid losing your work.
 
 - **Edit on GitHub:** You can also make changes to the files in the [wiki repo][repo] and it will be reflected on this website immediately. If you are not an organization member, you can submit a pull request to make an external contribution to this wiki.
+
+# Tech
+
+This wiki is powered by [Contentsgarten](https://github.com/creatorsgarten/contentsgarten), a headless wiki engine. The frontend is powered by [Astro](https://astro.build/).
