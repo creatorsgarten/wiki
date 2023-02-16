@@ -1,8 +1,7 @@
-**The Creatorsgarten Wiki** system allows us to easily contribute content to the [Creatorsgarten website](/).
+**The Creatorsgarten Wiki** stores contents that are more frequently updated than the main [Creatorsgarten website](https://creatorsgarten.org/). Each page can be edited directly on the wiki.
 
-The contents of the wiki lives in the [wiki GitHub repository][repo].
-
-To see the list of all pages, see [Special/AllPages](/wiki/Special/AllPages).
+- The contents of the wiki lives in the [wiki GitHub repository][repo].
+- To see the list of all pages, see [Special/AllPages](/wiki/Special/AllPages).
 
 [repo]: https://github.com/creatorsgarten/wiki
 
