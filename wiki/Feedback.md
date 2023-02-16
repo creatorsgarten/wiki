@@ -11,3 +11,7 @@ In most Creatorsgarten events, we use a form for collecting feedback after the e
 4. Please rate your experience in this event (on a scale from 1 to 10)
 
 5. Say anything!!!
+
+# Google Forms template
+
+[&rarr; Feedback template on Google Forms](https://docs.google.com/forms/d/e/1FAIpQLScKIdMybaZNWKYhO5nOxzBgM-YzPagF27qlTJarVe3yvHXKEg/viewform?usp=sf_link)
