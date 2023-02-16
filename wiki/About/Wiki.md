@@ -1,14 +1,14 @@
-**The Creatorsgarten Wiki** system allows us to easily contribute content to the [Creatorsgarten website](/).
-
-The contents of the wiki lives in the [wiki GitHub repository][repo].
-
-To see the list of all pages, see [Special/AllPages](/wiki/Special/AllPages).
-
 ::: warning Under Reconstruction
 
 This wiki is under reconstruction. Contents may not be up-to-date.
 
 :::
+
+**The Creatorsgarten Wiki** system allows us to easily contribute content to the [Creatorsgarten website](/).
+
+The contents of the wiki lives in the [wiki GitHub repository][repo].
+
+To see the list of all pages, see [Special/AllPages](/wiki/Special/AllPages).
 
 [repo]: https://github.com/creatorsgarten/wiki
 
