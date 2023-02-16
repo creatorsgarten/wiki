@@ -22,4 +22,4 @@ If a page has a pencil icon (<iconify-icon icon="mdi:lead-pencil"></iconify-icon
 
 # Tech
 
-This wiki is powered by [Contentsgarten](https://github.com/creatorsgarten/contentsgarten), a headless wiki engine. The frontend is powered by [Astro](https://astro.build/).
+This wiki is powered by [Contentsgarten](https://github.com/creatorsgarten/contentsgarten), a headless wiki engine. The frontend is powered by [Astro](https://astro.build/). The source code is [hosted on GitHub](https://github.com/creatorsgarten/contentsgarten/tree/main/creatorsgarten).
