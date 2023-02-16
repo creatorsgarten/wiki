@@ -1,8 +1,9 @@
-**The Creatorsgarten Wiki** stores contents that are more frequently updated than the main [Creatorsgarten website](https://creatorsgarten.org/). Each page can be edited directly on the wiki or [on GitHub][repo].
+**The Creatorsgarten Wiki** stores contents that are more frequently updated than the main [Creatorsgarten website][main-site]. Each page can be edited directly on the wiki or [on GitHub][repo].
 
 - The contents of the wiki lives in the [wiki GitHub repository][repo].
 - To see the list of all pages, check out [Special/AllPages](/wiki/Special/AllPages).
 
+[main-site]: https://creatorsgarten.org/
 [repo]: https://github.com/creatorsgarten/wiki
 
 # Editing Pages
@@ -15,4 +16,4 @@ If a page has a pencil icon (<iconify-icon icon="mdi:lead-pencil"></iconify-icon
 
 # Tech Stack
 
-This wiki is powered by [Contentsgarten](https://contentsgarten.netlify.app/wiki/MainPage), a headless wiki engine that [uses a GitHub repository as a data storage][repo]. The frontend is powered by [Astro](https://astro.build/) (same as our main website, but unlike the website which is statically-generated, the wiki is using SSR). The source code for both Contentsgarten and this wiki is [hosted on the Contentsgarten GitHub monorepo](https://github.com/creatorsgarten/contentsgarten/tree/main/creatorsgarten).
+This wiki is powered by [Contentsgarten](https://contentsgarten.netlify.app/wiki/MainPage), a headless wiki engine that [uses a GitHub repository as a data storage][repo]. The frontend is powered by [Astro](https://astro.build/) (same as our [main website][main-site], but unlike the website which is statically-generated, the wiki is using SSR to allow updating the contents without rebuilding the site). The source code for both Contentsgarten and this wiki is [hosted on the Contentsgarten GitHub monorepo](https://github.com/creatorsgarten/contentsgarten/tree/main/creatorsgarten).
