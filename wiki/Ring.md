@@ -3,6 +3,8 @@ As a collective with many different initiatives, each with their own uniqueness,
 - **Us & Our Friends** consists of our initiatives’ websites.
 - **Creators Ring** consists of our members’ websites.
 
+[&rarr; **Visit the webring**](https://creatorsgarten.org/ring/)
+
 ## Joining the Webring
 
 This webring is open to people who participated in our [events](https://creatorsgarten.org/events) in some way, and consider themselves a creator. To join our webring, check out the [HowToJoinRing](/wiki/HowToJoinRing) page.
