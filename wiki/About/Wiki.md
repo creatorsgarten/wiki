@@ -14,7 +14,7 @@ To see the list of all pages, see [Special/AllPages](/wiki/Special/AllPages).
 
 # Editing Pages
 
-If a page has a pencil icon (<iconify-icon icon="mdi:lead-pencil"></iconify-icon>) next to the title, then it is a wiki page that can be edited. You can ediit wiki pages in many different ways.
+If a page has a pencil icon (🖉) next to the title, then it is a wiki page that can be edited. You can edit wiki pages in many different ways.
 
 - **Edit directly on the website:** Click on the pencil icon to start editing. It is optimized for making quick and small changes, and the editor is not that stable. We recommend that you save your changes frequently to avoid conflicts and avoid losing your work.
 
