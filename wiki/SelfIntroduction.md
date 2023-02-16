@@ -1,4 +1,8 @@
+::: lead
+
 When sending proposals to potential sponsors/partners, we need some basic information about what Creatorsgarten is.
+
+:::
 
 <div style="padding: 1rem; border: 2px solid #0003;">
 
