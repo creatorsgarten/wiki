@@ -22,6 +22,10 @@
 
   - @dtinth: กำลังเปิดรับคนร่วมทีมเรื่อยๆ ใครที่สนใจสามารถเข้ากลุ่มใน Discord ได้ที่ <https://discord.gg/fBg7QpXn6n>
 
+**Meta projects**
+
+- [**awesome-bangkok**](https://github.com/wasdee/awesome-bangkok) a curation of digital Bangkok including, but not limit to webapp, data sources, projects, etc.
+
 **Other projects**
 
 - **Contentsgarten/Creatorsgarten.org** เว็บของ Creatorsgarten และ Wiki engine
