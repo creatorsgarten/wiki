@@ -15,7 +15,7 @@ For example, you can:
 - Add subtitles to make sure everyone can understand your talk.
 - Include a link to your website or other relevant resources.
 - Add timestamps to highlight key points in your talk.
-- Internationalize your talks.
+- [Internationalize your video.](/wiki/LocalTalkInternationalization)
 
 # Livestream archives
 
