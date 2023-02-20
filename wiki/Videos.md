@@ -1,6 +1,8 @@
 ::: lead
 
-We have a YouTube channel at <https://youtube.com/@creatorsgarten>.
+We have a **YouTube channel** at <https://youtube.com/@creatorsgarten>.
+
+If you have given a talk in our events (since 2022), you can find your talk session on our channel.
 
 :::
 
