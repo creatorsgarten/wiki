@@ -1,6 +1,12 @@
-We have a YouTube channel at <https://youtube.com/@creatorsgarten>. They are for publishing talks.
+::: lead
 
-Meanwhile, livestream archives can be found on the [Creatorsgarten Facebook page](https://www.facebook.com/creatorsgarten/videos/).
+We have a YouTube channel at <https://youtube.com/@creatorsgarten>.
+
+:::
+
+# Livestream archives
+
+Livestream archives can be found on the [Creatorsgarten Facebook page](https://www.facebook.com/creatorsgarten/videos/).
 
 # Common audio/video issues
 
