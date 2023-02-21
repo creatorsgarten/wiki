@@ -47,7 +47,7 @@ Livestream archives can be found on the [Creatorsgarten Facebook page](https://w
 
 - Missing presentation slides. They can be added in post.
 
-# VOD preparation
+# Preparing videos
 
 - [Work on preparing VODs are being coordinated on Airtable.](https://airtable.com/shru5fGOzjhHHxo05)
 
@@ -71,8 +71,14 @@ Livestream archives can be found on the [Creatorsgarten Facebook page](https://w
 
    5. **Upload** — The video is uploaded to YouTube (unlisted).
 
-   6. **Publish** — The video is published to YouTube as a public video.
+# Publishing videos
 
-- Supporting code lives in [creatorsgarten/videos](https://github.com/creatorsgarten/videos) repository.
+- After the video is uploaded, import it into the [creatorsgarten/videos](https://github.com/creatorsgarten/videos) repository. This will create the metadata files.
 
-- If you’d like to help, you can find us [in the #📼-vod channel on Creatorsgarten’s Discord server](https://discord.gg/mVX8yEdhWX) and mention to “@VOD Team”.
+- Update the metadata files on YouTube.
+
+- When `published` is set to `true`, then the video becomes Public on YouTube.
+
+# Contributing
+
+If you’d like to help, you can find us [in the #📼-vod channel on Creatorsgarten’s Discord server](https://discord.gg/mVX8yEdhWX) and mention to “@VOD Team”.
