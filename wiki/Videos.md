@@ -49,9 +49,9 @@ Livestream archives can be found on the [Creatorsgarten Facebook page](https://w
 
 # Preparing videos
 
-- [Work on preparing VODs are being coordinated on Airtable.](https://airtable.com/shru5fGOzjhHHxo05)
+[Work on preparing VODs are being coordinated on Airtable.](https://airtable.com/shru5fGOzjhHHxo05)
 
-- Each talk goes through several stages before they are uploaded to the YouTube channel.
+Each talk goes through several stages before they are uploaded to the YouTube channel.
 
    1. **Source** — Obtain the source material, either recorded in OBS, or downloaded back from Facebook Live. Re-upload it to YouTube (unlisted) for easy viewing, and also upload it to OneDrive for easy downloading by teammates.
 
@@ -73,11 +73,11 @@ Livestream archives can be found on the [Creatorsgarten Facebook page](https://w
 
 # Publishing videos
 
-- After the video is uploaded, import it into the [creatorsgarten/videos](https://github.com/creatorsgarten/videos) repository. This will create the metadata files.
+1. **Import into GitHub** — After the video is uploaded, import it into the [creatorsgarten/videos](https://github.com/creatorsgarten/videos) repository. This will create the metadata files.
 
-- Update the metadata files on YouTube.
+2. **Prepare the metadata** — Update the metadata files. When the files are updated, they will automatically be reflected in YouTube.
 
-- When `published` is set to `true`, then the video becomes Public on YouTube.
+3. **Publish** — When the `published` property is set to `true`, then the video becomes Public on YouTube. (Otherwise it’s Unlisted.)
 
 # Contributing
 
