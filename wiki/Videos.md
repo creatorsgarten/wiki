@@ -25,17 +25,17 @@ Livestream archives can be found on the [Creatorsgarten Facebook page](https://w
 
 # Common audio/video issues
 
-**For livestreaming:**
+## When livestreaming
 
 - Audio too quiet. Check in OBS that when speaking, the sound level is in the yellow color zone [between -20 and -9 dB](https://www.reddit.com/r/Twitch/comments/nctu56/best_sound_levels_for_obs/)
 
 - Audio output works in one channel only. Check in OBS and make sure that there are 2 volume bars (left and right channel). If the problem from the source signal cannot be fixed, go to Advanced Audio Settings and make it mono.
 
-**For remote talks:**
+## When casting remote talks
 
-- Sound echos. **Mute yourself** as much as possible when not speaking.
+- Sound echos. **Mute yourself** as much as possible when not speaking, so that sound flows in one way.
 
-**For preparing VODs:**
+## When preparing VODs
 
 - Video and audio not synchronizing. In a video editor software, detach the audio from video, so that they can be moved independently.
 
@@ -45,11 +45,13 @@ Livestream archives can be found on the [Creatorsgarten Facebook page](https://w
 
 - Microphone feedback loop and noise. To fix in post, if you have Final Cut Pro you can use the [Voice Isolation](https://support.apple.com/guide/final-cut-pro/enhance-audio-verc1fab873/mac#:~:text=of%20equalization%20presets.-,Voice%20Isolation,-%3A%20Prioritizes%20human) feature.
 
+- Missing presentation slides. They can be added in post.
+
 # VOD preparation
 
 - [Work on preparing VODs are being coordinated on Airtable.](https://airtable.com/shru5fGOzjhHHxo05)
 
-- Each talk goes through several stages before they are published to the YouTube channel.
+- Each talk goes through several stages before they are uploaded to the YouTube channel.
 
    1. **Source** — Obtain the source material, either recorded in OBS, or downloaded back from Facebook Live. Re-upload it to YouTube (unlisted) for easy viewing, and also upload it to OneDrive for easy downloading by teammates.
 
