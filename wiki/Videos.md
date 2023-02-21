@@ -4,7 +4,9 @@ We have a **YouTube channel** at <https://youtube.com/@creatorsgarten>.
 
 :::
 
-If you have given a talk in our events (since 2022), you can find your talk session published on our channel. Not only that — you can also **customize your video metadata** to increase audience engagement (and subsequently help us grow the channel).
+If you have given a talk in our events (since 2022), you can find your talk session published on our channel.
+
+Not only that — you can also **customize your video metadata** to increase audience engagement (and subsequently help us grow the channel).
 
 For example, you can:
 
