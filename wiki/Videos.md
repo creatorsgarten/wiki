@@ -4,20 +4,20 @@ We have a **YouTube channel** at <https://youtube.com/@creatorsgarten>.
 
 :::
 
-If you have given a talk in our events (since 2022), you can find your talk session published on our channel.
+If you’ve given talks in our events, you can find your talk videos published on our channel.
 
-Not only that — you can also **customize your video metadata** to increase audience engagement (and subsequently help us grow the channel).
+Not only that — you can also **customize your video metadata** to increase audience engagement (which in turn helps us grow the channel).
 
 For example, you can:
 
-- Customize the title and description to make it more engaging.
-- Improve the thumbnail to make it stand out.
-- Add a description that summarizes the content of your talk.
-- Add tags to help viewers discover your talk.
-- Add subtitles to make sure everyone can understand your talk.
-- Include a link to your website or other relevant resources.
-- Add timestamps to highlight key points in your talk.
-- [Internationalize your video.](https://notes.dt.in.th/LocalTalkInternationalization)
+- Customize the **video title** to make it more engaging.
+- Improve the **thumbnail** to make it stand out.
+- Add **timestamps** to highlight key points in your talk.
+- Add a **description** that summarizes the content of your talk.
+- Add **tags** to help viewers discover your talk.
+- Add **subtitles** to make sure everyone can understand your talk.
+- Include **links** to relevant resources.
+- **Localize** the title and description to [internationalize your video.](https://notes.dt.in.th/LocalTalkInternationalization)
 
 # Livestream archives
 
