@@ -4,9 +4,7 @@ We have a **YouTube channel** at <https://youtube.com/@creatorsgarten>.
 
 :::
 
-If you’ve given talks in our events, you can find your talk videos published on our channel.
-
-Not only that — you can also **customize your video metadata** to increase audience engagement (which in turn helps us grow the channel).
+If you’ve given talks in our events, you can find your talk videos published on our channel. Not only that — you can also **customize your video metadata** to increase audience engagement (which in turn helps us grow the channel).
 
 For example, you can:
 
@@ -18,6 +16,8 @@ For example, you can:
 - Add **subtitles** to make sure everyone can understand your talk.
 - Include **links** to relevant resources.
 - **Localize** the title and description to [internationalize your video.](https://notes.dt.in.th/LocalTalkInternationalization)
+
+All of our video metadata is [managed on GitHub](http://github.com/creatorsgarten/videos). To make changes, [send us a pull request!](https://github.com/creatorsgarten/videos/blob/main/CONTRIBUTING.md) Once your PR is merged, the video metadata will be automatically updated.
 
 # Livestream archives
 
