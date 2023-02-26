@@ -33,3 +33,7 @@ Discussions
   - @dtinth: Also for a foundation, donations are not considered taxable income as per [section 2.5 of this PDF](http://www.oic.go.th/FILEWEB/CABINFOCENTER12/DRAWER094/GENERAL/DATA0000/00000095.PDF) but again a lot of documentation involved.
 
 - @dtinth: There seems to be a lot of [formal meetings](https://www.opsmoac.go.th/km-km_org_center-files-391991791805) and documentations involved. Can these meetings be held asynchronously or conducted on Facebook Messenger or Discord? Can [some](https://webportal.bangkok.go.th/upload/user/00000098/News/Procurement/1-64/1.pdf) of the required documentations be automated in some ways?
+
+- @dtinth: After chatting with p-Pop, after the foundation is running for **3 years** and have **audited financial track record** that at least 70% of the costs go to public good and at most 30% for operations.
+
+
