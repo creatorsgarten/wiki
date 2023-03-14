@@ -13,7 +13,13 @@
 
 # Mentions and Replies
 
-บางคนไม่ได้เปิด Notification สำหรับทุกข้อความใน Discord ทำให้เวลาพิมพ์ข้อความลอยๆ ใน Discord หากกำลังตอบกลับข้อความ แนะนำให้ใช้ฟังก์ชั่น [Reply](https://support.discord.com/hc/en-us/articles/360057382374-Replies-FAQ) หรือ [Thread](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ)
+บางคนไม่ได้เปิด Notification สำหรับทุกข้อความใน Discord จึงอาจจะเกิดเหตุการณ์ต่อไปนี้
+
+1. A พิมพ์ข้อความถามในแชนแนล
+2. B พิมพ์ตอบ แต่ไม่ได้ Mention, Reply หรือสร้าง Thread
+3. A ไม่ได้เปิด Notification สำหรับทุกข้อความไว้ จึงไม่เห็นคำตอบจาก B
+
+หากคุณกำลังตอบกลับข้อความของคนอื่น ขอแนะนำให้ใช้ฟังก์ชั่น [Reply](https://support.discord.com/hc/en-us/articles/360057382374-Replies-FAQ) หรือ [Thread](https://support.discord.com/hc/en-us/articles/4403205878423-Threads-FAQ) อย่างสม่ำเสมอ
 
 - หากแค่ตอบคำถามเฉยๆ สามารถใช้ฟังก์ชั่น Reply โดยการคลิกขวาที่ข้อความ (ในมือถือ — กดค้าง) แล้วเลือก Reply
 
