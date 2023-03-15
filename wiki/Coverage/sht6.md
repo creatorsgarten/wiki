@@ -17,6 +17,10 @@
   [“ไม่น่าเชื่อว่างาน stupid hackathon จัดมาเป็นปีที่ 6 แล้ว” by Phoomparin - Mano](https://www.facebook.com/phoomparin.mano/posts/pfbid026mA3vTj2yHxYm6JSJPBfPGPP5tFXRS2VihSCuoFdQRYKETtnFZYRt3vUVH2RXfMjl?_rdc=1&_rdr)
 - [“รีวิวงาน The ៦th Stupid Hackathon Thailand” by Khanaphon Kana Phaengtan](https://blog.0002011.xyz/2022-07-04-shit6-summary)
 
+# Videos
+
+- [“ทุกคนแลดูรักกระติดน้ำมากเลย ;-; #SHiT6” by @kana2011th](https://grtn.org/azure)
+
 # Photos
 
 - [“We're (almost) halfway through our hackathon and it's been incredible so far!”](https://www.facebook.com/creatorsgarten/posts/pfbid0zxF7QU1QnwU22VPb6guwUQU3TYiLcrp1L6XHAKchcXV56TZkRZsknDjmgg26b1r7l)
