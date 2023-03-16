@@ -1,4 +1,4 @@
-[&rarr; Join our Discord](/wiki/Discord/Join)
+ยินดีต้อนรับสู่เซิฟเวอร์ Discord [(&rarr; Join our Discord)](/wiki/Discord/Join)
 
 # Notifications
 
