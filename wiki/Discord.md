@@ -2,9 +2,20 @@
 
 # Notifications
 
-หากได้รับ Notifications จากแชนแนลที่ไม่ได้สนใจ สามารถเลือกปิด Notification เป็นรายแชนแนลได้ โดยการคลิกขวาที่ชื่อแชนแนล แล้วตั้ง Notification settings เป็น “Only @mentions”
+เมื่อคุณเข้ามาที่เซิฟเวอร์ Bangkok Open Source คุณอาจจะได้รับการแจ้งเตือนจำนวนมาก เราจึงขอแนะนำให้คุณปรับแต่งการแจ้งเตือน โดยทำได้สองวิธีหลักๆ
+
+## ปิดการแจ้งเตือนเป็นรายแชนแนล (Opt-Out)
+
+หากได้รับ Notifications จากแชนแนลที่ไม่ได้สนใจ สามารถเลือกปิด Notification เป็นรายแชนแนลได้ โดยการ
+
+1. คลิกขวาที่ชื่อแชนแนลที่ต้องการปิดการแจ้่งเตือน เช่น `#welcome`
+2. ตรง **Notification Settings** ตั้งค่าเป็น “Only @mentions”
 
 ![Notifications settings](https://cdn.discordapp.com/attachments/1062609209126039644/1079795099736735804/image.png)
+
+## ปิดการแจ้งเตือนของทั้งเซิฟเวอร์ แล้วเปิดเฉพาะ Channel ที่สนใจ (Opt-In)
+
+
 
 # Mentions and Replies
 
