@@ -1,4 +1,4 @@
-# [&rarr; Join our Discord](/wiki/Discord/Join)
+[&rarr; Join our Discord](/wiki/Discord/Join)
 
 # Notifications
 
