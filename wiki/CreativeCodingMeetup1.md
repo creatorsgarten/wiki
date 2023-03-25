@@ -10,8 +10,8 @@
 
 # ร่วมงาน
 
-- CFP TBA
-- Event TBA
+- CFP: To be announced
+- Event: To be determined
 
 # Links
 
