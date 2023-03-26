@@ -16,22 +16,17 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
 3. หลังจากเชื่อมแอคเคาท์แล้ว จะได้ Role `CGP1-golfer` ใน Discord
 :::
 
-<details><summary>หากไม่สามารถมางานได้ แจ้งที่ไหน</summary>
-
+:::details[หากไม่สามารถมางานได้ แจ้งที่ไหน]
 กรุณา[แจ้งทางเพจ showdown.space](https://m.me/showdownspace) ระบุชื่อ และ Reference code ในบัตร เพื่อให้ทีมงานนำบัตรไปแจกให้ผู้สนใจท่านอื่นๆ
+:::
 
-</details>
-
-<details><summary>ไม่มีบัตร มางานได้ไหม</summary>
-
+:::details[ไม่มีบัตร มางานได้ไหม]
 ต้องขออภัยที่งานนี้ไม่เปิดรับ Walk-in เนื่องจากมีผู้สนใจที่อยู่ใน Waitlist เป็นจำนวนมาก
-
-</details>
+:::
 
 # Venue and Logistics
 
-<details><summary>งานจัดที่ไหน และเดินทางไปอย่างไร</summary>
-
+:::details[งานจัดที่ไหน และเดินทางไปอย่างไร]
 งานจัดที่ [Copper Bar Bangkok](https://www.facebook.com/copperbarbangkok/) อยู่ที่ [The Racquet Club](https://www.rqclub.com/contact) ใกล้สถานี **BTS ทองหล่อ/พร้อมพงษ์** โดยสามารถ[ดูพิกัดร้านบน Google Maps](https://g.page/copper-bar-bangkok?share) และ[ดูวิธีการเดินทางได้บนเว็บไซต์ของ The Racquet Club](https://www.rqclub.com/contact) โดยมีจุดสังเกตคือป้าย “Cocktails” หน้าร้าน
 
 <svg width="429" height="146" viewBox="0 0 429 146" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -39,71 +34,52 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
 </svg>
 
 ![รูปหน้าร้าน](https://static.dt.in.th/uploads/2022/08/20/copperbar.jpeg)
+:::
 
-</details>
-
-<details><summary>อยู่ได้ถึงกี่โมง</summary>
-
+:::details[อยู่ได้ถึงกี่โมง]
 สามารถอยู่ได้จนถึงร้านปิด (เที่ยงคืน)
+:::
 
-</details>
-
-<details><summary>ต้องเตรียมคอมพิวเตอร์ไปไหม</summary>
-
+:::details[ต้องเตรียมคอมพิวเตอร์ไปไหม]
 เราจะมีการเล่นเกม Code Golf กันในงาน กรุณาเตรียมคอมพิวเตอร์โน้ตบุ๊คมาด้วย
+:::
 
-</details>
-
-<details><summary>มี Wi-Fi ไหม</summary>
-
+:::details[มี Wi-Fi ไหม]
 เนื่องจากในงานนี้มีผู้เข้าร่วมงานค่อนข้างเยอะ Wi-Fi ของทางร้านอาจจะไม่สามารถรองรับจำนวนอุปกรณ์ได้ จึงขอแนะนำให้เตรียมอินเตอร์เน็ตมือถือมาด้วย และในกรณีที่อินเตอร์เน็ตของบางเครือข่ายไม่เสถียร ขอให้ผู้ร่วมงานเตรียมแชร์ Hotspot ให้ผู้ร่วมงานท่านอื่นๆ ด้วย
+:::
 
-</details>
-
-<details><summary>มีที่จอดรถไหม</summary>
-
+:::details[มีที่จอดรถไหม]
 มีที่จอดรถที่ Racquet Club ถ้ามีที่ว่างเหลือ สามารถจอดรถได้ 5 ชั่วโมง
+:::
 
-</details>
-
-<details><summary>มีมาตรการป้องกันโควิด-19 อย่างไร</summary>
-
+:::details[มีมาตรการป้องกันโควิด-19 อย่างไร]
 กรุณาทำการตรวจ ATK และนำผลตรวจ 24 ชั่วโมงมาแสดงตอนเข้าร่วมงานด้วย
+:::
 
-</details>
-
-<details><summary>มี Power Outlet ไหม</summary>
-
+:::details[มี Power Outlet ไหม]
 ปลั๊กพ่วงมีจำนวนจำกัด **ขอให้ผู้ร่วมงาน ชาร์จแล็ปท็อปให้เต็มก่อนมาที่งาน**
+:::
 
-</details>
-
-<details><summary>กรณีลืมของไว้ในงานสามารถติดต่อใครได้</summary>
-
+:::details[กรณีลืมของไว้ในงานสามารถติดต่อใครได้]
 สามารถติดต่อได้ทาง [Facebook Page: Creatorsgarten](https://m.me/creatorsgarten)
-
-</details>
+:::
 
 # Meals
 
-<details><summary>มีอาหารหรือเครื่องดื่มที่งานไหม</summary>
-
+:::details[มีอาหารหรือเครื่องดื่มที่งานไหม]
 - **มีอาหารให้ทานที่งาน** ขอขอบคุณ Cleverse ผู้สนับสนุนมื้ออาหารในงาน
 
 - **มีน้ำเปล่าบริการฟรี และซอฟต์ดริงค์คนละ 1 กระป๋อง** ขอขอบคุณ Spark Tech Thailand ผู้สนับสนุนเครื่องดื่ม
 
 - เครื่องดื่ม Cocktail และ Mocktail สามารถซื้อเพิ่มเองได้ [ดูเมนูของทางร้านได้ทางเพจ Copper Bar Thailand](https://www.facebook.com/copperbarbangkok/menu/)
-
-</details>
+:::
 
 # etc.
 
-<details><summary>มีคำถามเพิ่มเติม สามารถติดต่อได้ทางไหนบ้าง</summary>
-
+:::details[มีคำถามเพิ่มเติม สามารถติดต่อได้ทางไหนบ้าง]
 สามารถติดต่อทีมงานได้ทางช่องทางต่อไปนี้:
 
 - ถามในห้อง `#lounge` ใน[เซิฟเวอร์ Discord showdown.space](https://discord.gg/tsuft8JU97) (สำหรับผู้ที่ถือบัตร)
 
 - [เฟสบุ๊คเพจ Creatorsgarten](https://m.me/creatorsgarten)
-
-</details>
+:::
