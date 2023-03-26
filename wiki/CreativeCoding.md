@@ -2,4 +2,4 @@
 
 # Meetup
 
-There is a [discussion on organizing a creative coding meetup in Bangkok on GitHub Discussions](https://github.com/orgs/creatorsgarten/discussions/10).
+- [CreativeCodingMeetup1](/wiki/CreativeCodingMeetup1)
