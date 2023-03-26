@@ -31,4 +31,14 @@ Nighttime is a bit hot. Due to lack of air conditioning.
 9. 1
 10. 4
 
+**Say anything!!!**
+
+* This is beyond my expectations.
+* Thanks
+* Thank you for making this happened!
+* Together we are powerful
+* please do it again :DD
+* Thanks for event and food!!!
+* Better Bangkok!
+* anything!!! งานสนุกมากๆครับ:)
 
