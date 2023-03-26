@@ -27,9 +27,7 @@ Nighttime is a bit hot. Due to lack of air conditioning.
 
 **Please rate your experience in this event (on a scale from 1 to 10)**
 
-8. 4
-9. 1
-10. 4
+::RatingTally{tally="8=4,9=1,10=4"}
 
 **Say anything!!!**
 
