@@ -39,6 +39,4 @@
 
 **finally, please rate your overall experience about this hackathon**
 
-8. 1
-9. 3
-10. 5
+::RatingTally{tally="8=1,9=3,10=5"}
