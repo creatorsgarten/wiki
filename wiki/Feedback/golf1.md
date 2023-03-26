@@ -39,13 +39,7 @@
 
 **Please rate your experience in this event**
 
-4. 1
-5. 0
-6. 0
-7. 2
-8. 3
-9. 3
-10. 4
+::RatingTally{tally="4=1,7=2,8=3,9=3,10=4"}
 
 **Say anything!!!**
 
