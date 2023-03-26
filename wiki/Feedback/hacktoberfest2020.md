@@ -2,11 +2,7 @@ This event’s feedback is differently formatted because that was before we have
 
 **How likely is it that you would recommend the event to a friend or colleague?** (0–5)
 
-1. 1
-2. 0
-3. 1
-4. 3
-5. 5
+::RatingTally{min=0 max=5 tally="1=1,3=1,4=3,5=5"}
 
 **Overall, how would you rate the event?**
 
