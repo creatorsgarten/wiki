@@ -59,10 +59,7 @@
 
 **Please rate your experience in this event**
 
-7. 3
-8. 8
-9. 4
-10. 7
+::RatingTally{tally="7=3,8=8,9=4,10=7"}
 
 **Say anything!!!**
 
