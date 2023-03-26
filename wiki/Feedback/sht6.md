@@ -25,9 +25,7 @@
 
 **Please rate your experience in this event**
 
-8. 2
-9. 2
-10. 2
+::RatingTally{tally="8=2,9=2,10=2"}
 
 **Say anything!!!**
 
