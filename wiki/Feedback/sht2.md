@@ -1,12 +1,6 @@
 **Please rate your overall experience about this hackathon! :)**
 
-4. 1
-5.
-6.
-7. 4
-8. 7
-9. 8
-10. 8
+::RatingTally{tally="4=1,7=4,8=7,9=8,10=8"}
 
 **GOOD: What do you like about this hackathon?**
 
