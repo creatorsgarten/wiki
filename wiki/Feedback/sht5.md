@@ -40,10 +40,4 @@
 
 **Please rate your experience about this Hackathon.**
 
-4. 2
-5.
-6.
-7.
-8. 1
-9. 4
-10. 2
+::RatingTally{tally="4=2,8=1,9=4,10=2"}
