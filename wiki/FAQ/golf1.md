@@ -1,13 +1,10 @@
-<div class="lead">
-
+:::lead
 Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
-
-</div>
+:::
 
 # Registration
 
-<details><summary>ได้รับบัตรแล้วต้องทำยังไงต่อ</summary>
-
+:::details[ได้รับบัตรแล้วต้องทำยังไงต่อ]
 **เข้าเซิฟเวอร์ Discord** — ก่อนวันงานจะมีการแจ้งข่าวสาร และในวันงานจะส่งลิงค์ต่างๆ ผ่านช่องทาง Discord
 
 1. [เข้า Discord ของ showdown.space &rarr; https://discord.gg/tsuft8JU97](https://discord.gg/tsuft8JU97)
@@ -17,8 +14,7 @@ Frequently asked questions for [Code Golf Party #1](/wiki/Hacks/golf1)
     <img width="382" alt="image" src="https://user-images.githubusercontent.com/193136/185778944-7d539c51-cd7b-427d-8ce7-91b16260557d.png">
 
 3. หลังจากเชื่อมแอคเคาท์แล้ว จะได้ Role `CGP1-golfer` ใน Discord
-
-</details>
+:::
 
 <details><summary>หากไม่สามารถมางานได้ แจ้งที่ไหน</summary>
 
