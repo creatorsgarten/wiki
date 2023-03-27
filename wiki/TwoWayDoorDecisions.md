@@ -5,4 +5,4 @@
 
 # See also
 
-- [DoOcracy](/wiki/DoOcracy)
+- [Do-ocracy](/wiki/DoOcracy)
