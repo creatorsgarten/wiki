@@ -14,6 +14,7 @@ Lazy consensus เหมาะสำหรับการตัดสินใ�
 
 - <https://wiki.eclipse.org/Lazy_Consensus>
 - <https://community.apache.org/committers/lazyConsensus.html>
+- <https://medlabboulder.gitlab.io/democraticmediums/mediums/lazy_consensus/>
 
 # See also
 
