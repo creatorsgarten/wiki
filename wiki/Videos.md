@@ -67,6 +67,8 @@ Each talk goes through several stages before they are uploaded to the YouTube ch
 
         - In simple cases, this can be done via a simple video editing software like iMovie.
 
+        - There are some commonly-used [FFmpeg snippets](/wiki/FFmpeg).
+
    5. **Upload** — The video is uploaded to YouTube as unlisted.
 
 # Publishing videos
