@@ -1,7 +1,5 @@
 ::: lead
-
 We have a **YouTube channel** at <https://youtube.com/@creatorsgarten>.
-
 :::
 
 If you’ve given talks in our events, you can find your talk videos published on our channel. Not only that — you can also **customize your video metadata** to increase audience engagement (which in turn helps us grow the channel).
@@ -79,6 +77,5 @@ Each talk goes through several stages before they are uploaded to the YouTube ch
 
 3. **Publish** — When the `published` property is set to `true`, then the video becomes Public on YouTube. (Otherwise it’s Unlisted.)
 
-# Contributing
 
 If you’d like to help, you can find us [in the #📼-vod channel on Creatorsgarten’s Discord server](https://discord.gg/mVX8yEdhWX) and mention to “@VOD Team”.
