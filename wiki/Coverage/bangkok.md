@@ -6,6 +6,7 @@
 
 Bangkok Open Source Hackathon Day
 
+- [“เมื่อวานปิดงาน Bangkok Open Source Hackathon โปรเจกต์ที่ใหญ่ที่สุดของ Creatorsgarten ตั้งแต่ทำมา เหนื่อยมาก สลบไป 14 ชั่วโมง แต่สนุกมาก ดีใจมากที่มันสำเร็จไปได้จริง ๆ” by Chayapatr Archiwaranguprok](https://www.facebook.com/chayapatr/posts/pfbid02f8dNdHDdu5W7EBnwNn48jCBSNLWfFTrrifQV9VFjfuDHc6JsJQJ3KGfvEwrhiNUPl)
 - [“จบไปแล้วกับงาน Bangkok Open Source Hackathon ว้าว ไม่เคยจัด Event รวด 3 เดือน ติดกันมาก่อน ถือว่าเป็นการฉลองครบรอบ 1 ปีของ Creatorsgarten ได้อย่างสวยงาม” by Nattanon](https://www.facebook.com/iamnutn0n/posts/pfbid02Mhn7x9kb54VymVntMhTLEcZqKLi8MkDScPUoGobdyD2EmBzw8awBh84iCVvj3voml)
 - [“hackathon ของ bangkok open source เริ่มแล้วนะครับบ” by Phoomparin Mano](https://www.facebook.com/phoomparin.mano/posts/pfbid02abDHsDA8qCMZZXE5RYEX8CC3S4NkojwbU5qPbejqv58AcyVkN7BaY9qswNgXb3NHl)
 - [“hackathon ของบางกอกโอเพนซอร์สรอบนี้ บรรยากาศดีมาก” by Phoomparin Mano](https://www.facebook.com/phoomparin.mano/posts/pfbid02wgFqttSBeF1o7FC4ywdZukYN9ewRandTDiERCsZju476Ceusb4Mt3Qo7p3pPZH3al)
