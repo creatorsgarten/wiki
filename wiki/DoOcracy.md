@@ -11,3 +11,7 @@
 - <https://github.com/0x20/hackerspace-blueprint/blob/master/2-do-ocracy.md>
 - <https://communitywiki.org/wiki/DoOcracy>
 - <https://www.noisebridge.net/wiki/Do-ocracy>
+
+# See also
+
+- [Lazy Consensus](/wiki/LazyConsensus)
