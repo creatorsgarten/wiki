@@ -16,7 +16,7 @@
 # การดำเนินการ
 
 - [x] Define the purpose and goals of the meetup
-- [ ] &rarr; **Identify potential co-organizers and form a team**
+- [ ] &rarr; **Identify potential co-organizers and form a team** — [Recruiting organizers](https://www.facebook.com/dtinth/posts/pfbid02P9yrQ7a8Mse3JDqCQYLS3SLRcxkiKwNvu5MNyeqAbNdazDu2pMo2QZD5B4ZV7nEXl?comment_id=5270107556425658)
 - [ ] Choose a suitable date and time for the event
 - [ ] Select a suitable venue for the meetup
 - [ ] Set a budget for the event and identify potential sponsors or partners
