@@ -13,6 +13,23 @@
 - CFP: To be announced
 - Event: To be determined
 
+# การดำเนินการ
+
+- [x] Define the purpose and goals of the meetup
+- [ ] Identify potential co-organizers and form a team
+- [ ] Choose a suitable date and time for the event
+- [ ] Select a suitable venue for the meetup
+- [ ] Set a budget for the event and identify potential sponsors or partners
+- [ ] Create a simple event website or landing page with all the necessary information
+- [ ] Launch a call for proposals (CFP) for speaker submissions
+- [ ] Promote the CFP through social media, email newsletters, and relevant online communities
+- [ ] Review and select the best proposals based on relevance, quality, and diversity
+- [ ] Contact the selected speakers and confirm their participation
+- [ ] Develop a schedule for the meetup, including speaker sessions, networking breaks, and any additional activities
+- [ ] Promote the event through social media, email newsletters, and relevant online communities
+- [ ] Set up a registration system for attendees
+- [ ] Communicate with attendees about the event details, schedule, and any updates
+
 # Links
 
 - [GitHub Discussion](https://github.com/orgs/creatorsgarten/discussions/10)
