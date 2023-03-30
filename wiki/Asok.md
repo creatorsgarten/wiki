@@ -9,6 +9,10 @@
 
 ## Terminal 21
 
+Closes 10PM
+
+- Pier21 Food Court
+
 ## Jasmine City
 
 Closes 10PM
