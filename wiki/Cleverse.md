@@ -14,4 +14,6 @@
 
 # Nearby places to hang out
 
-See [Phra Ram 9](/wiki/PhraRam9) and [Thailand Cultural Centre](/wiki/ThailandCulturalCentre) (which is one station or 20-minute walk away).
+See [Phra Ram 9](/wiki/PhraRam9).
+
+Also see [Thailand Cultural Centre](/wiki/ThailandCulturalCentre) (which is one station or 20-minute walk away).
