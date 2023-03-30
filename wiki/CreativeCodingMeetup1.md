@@ -19,8 +19,8 @@
 
 - [x] Define the purpose and goals of the meetup
 - [x] **Identify potential co-organizers and form a team** — [Recruiting organizers](https://www.facebook.com/dtinth/posts/pfbid02P9yrQ7a8Mse3JDqCQYLS3SLRcxkiKwNvu5MNyeqAbNdazDu2pMo2QZD5B4ZV7nEXl?comment_id=5270107556425658)
-- [ ] **&rarr; Choose a suitable date and time for the event** — Potential date: 3 May evening
-- [ ] **&rarr; Select a suitable venue for the meetup** — Potential venues: Bok teer, Muse space, True 5g something
+- [x] **&rarr; Choose a suitable date and time for the event** — Potential date: 3 May evening
+- [ ] **&rarr; Select a suitable venue for the meetup** — Potential venues: Bok teer, Muse space, True 5g something, Cleverse HQ
 - [ ] Set a budget for the event and identify potential sponsors or partners
 - [ ] Create a simple event website or landing page with all the necessary information
 - [ ] Launch a call for proposals (CFP) for speaker submissions
