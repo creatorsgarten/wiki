@@ -16,6 +16,7 @@ Audio:
 
 - [Pure Data](https://puredata.info/)
 - [Sonic Pi](https://sonic-pi.net/)
+- [strudel](https://strudel.tidalcycles.org/)
 - [SuperCollider](https://supercollider.github.io/)
 
 Visual:
