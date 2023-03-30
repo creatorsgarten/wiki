@@ -1,5 +1,5 @@
 :::lead
-The **National Stadium** terminal BTS station is next to the Siam BTS station.
+The **National Stadium** terminal BTS station is next to the Siam BTS station. It is connected to Siam Discovery, MBK Center, and BACC.
 :::
 
 # Venues
