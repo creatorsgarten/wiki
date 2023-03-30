@@ -22,6 +22,7 @@ Closes 2AM
 Closes 5AM
 
 - Suki Teenoi
+- Manekineko (Karaoke)
 
 ## Suan Luang Square
 
