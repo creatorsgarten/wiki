@@ -4,6 +4,7 @@
 
 # Venues
 
+- Bok Teer
 - [Cleverse](/wiki/Cleverse)
 - Thoughtworks
 
