@@ -9,8 +9,6 @@
 
 # Nearby places to hang out
 
-See also [Thailand Cultural Centre](/wiki/ThailandCulturalCentre).
-
 ## Central Rama 9
 
 Closes 3AM
@@ -22,3 +20,7 @@ Closes 3AM
 Closes 10PM
 
 - FuFu Taiwanese Shabu, G Tower
+
+## More choices
+
+See also [Thailand Cultural Centre](/wiki/ThailandCulturalCentre).
