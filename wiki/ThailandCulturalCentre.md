@@ -6,7 +6,7 @@
 
 Opens 24H
 
-- **The Street Ratchada**
+- The Street Ratchada
     - [Took Lae Dee Foodland](https://bingsu.js.org/#2018-08-17-typescript-1)
     - [Hollys Coffee](https://bingsu.js.org/#2022-07-03-shit6)
     - [ZZ Italian–​Thai Fusion](https://bingsu.js.org/#2018-06-01-tencent-10)
