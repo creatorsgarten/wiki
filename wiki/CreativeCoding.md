@@ -4,7 +4,7 @@
 
 เป็นการผสมผสานสาขาศิลปะและเทคโนโลยี เพื่อให้ศิลปิน นักออกแบบ นักดนตรี นักสร้างสรรค์ สามารถใช้โค้ดเพื่อสรรค์สร้าง interactive installations, [generative art](https://www.faa.chula.ac.th/SelfLearningFaamai/detailform/182), visualizations, และประสบการณ์มัลติมีเดียอื่นๆ
 
-# Meetup
+# Events
 
 - [CreativeCodingMeetup1](/wiki/CreativeCodingMeetup1)
 
