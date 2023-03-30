@@ -11,3 +11,7 @@
 
 - [Code Golf Party #1](https://grtn.org/e/golf1)
 - [Code in the Wind #1](https://grtn.org/e/wind)
+
+# Nearby places to hang out
+
+See [Rama 9](/wiki/Rama9) and [Thailand Cultural Centre](/wiki/ThailandCulturalCentre) (which is one station or 20-minute walk away).
