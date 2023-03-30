@@ -13,14 +13,20 @@ Closes 10PM
 
 - Pier21 Food Court
 
+## Sukhumvit MRT station
+
+Closes 11AM
+
+- Pala Pizza Romana
+
 ## Jasmine City
 
 Closes 10PM
 
 - Kazan Ramen
 
-## Radisson Blu Plaza
+## Others
 
 Closes 1AM
 
-- Brewski Rooftop
+- Brewski Rooftop, Radisson Blu Plaza
