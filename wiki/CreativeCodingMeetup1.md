@@ -25,7 +25,7 @@
 - [ ] **&rarr; Select a suitable venue for the meetup** — Potential venues: Bok teer, Muse space, True 5G Pro Hub, Cleverse HQ
 - [ ] Set a budget for the event and identify potential sponsors or partners
 - [ ] Create a simple event website or landing page with all the necessary information
-- [ ] Launch a call for proposals (CFP) for speaker submissions — CFP link: <https://forms.gle/sGYu38ZCPrPdFeH89>
+- [x] Launch a call for proposals (CFP) for speaker submissions — CFP link: <https://forms.gle/sGYu38ZCPrPdFeH89>
 - [ ] Promote the CFP through social media, email newsletters, and relevant online communities
 - [ ] Review and select the best proposals based on relevance, quality, and diversity
 - [ ] Contact the selected speakers and confirm their participation
