@@ -3,3 +3,7 @@
 :::
 
 It is formed by 3 partners: Siam Piwat, True, and Kantana Group.
+
+# Nearby places to hang out
+
+See: [National Stadium](/wiki/NationalStadium)
