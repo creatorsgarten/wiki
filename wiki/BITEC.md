@@ -10,7 +10,7 @@
 
 - [Bangkok Open Source Hackathon](https://grtn.org/e/bangkok)
 
-# Nearby places for post-event hangouts
+# Nearby places to hang out
 
 Closes 9PM
 
