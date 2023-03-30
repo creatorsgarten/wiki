@@ -16,7 +16,7 @@ Audio:
 
 - [Pure Data](https://puredata.info/)
 - [Sonic Pi](https://sonic-pi.net/)
-- [strudel](https://strudel.tidalcycles.org/) <iconify-icon icon="mdi:web"></iconify-icon>
+- [strudel](https://strudel.tidalcycles.org/) :Icon{icon=mdi:web}
 - [SuperCollider](https://supercollider.github.io/)
 
 Visual:
