@@ -6,11 +6,13 @@
 
 See also [Thailand Cultural Centre](/wiki/ThailandCulturalCentre).
 
-## G Tower
+## Central Rama 9
 
 Closes 3AM
 
 - Haidilao Hotpot, Central Rama 9
+
+## G Tower
 
 Closes 10PM
 
