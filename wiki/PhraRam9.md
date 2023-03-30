@@ -2,6 +2,11 @@
 **Phra Ram 9** MRT station is between Phetchaburi and [Thailand Cultural Centre](/wiki/ThailandCulturalCentre) stations.
 :::
 
+# Venues
+
+- [Cleverse](/wiki/Cleverse)
+- Thoughtworks
+
 # Nearby places to hang out
 
 See also [Thailand Cultural Centre](/wiki/ThailandCulturalCentre).
