@@ -4,8 +4,6 @@
 
 # Nearby places to hang out
 
-See also [Phra Ram 9](/wiki/PhraRam9).
-
 ## The Street Ratchada
 
 Opens 24H
@@ -23,3 +21,7 @@ Closes 5AM
 Closes 3AM
 
 - [CQK Mala Hotpot Huai Khwang](https://bingsu.js.org/#2023-03-12-bangkok-open-hack-day)
+
+## More choices
+
+See also [Phra Ram 9](/wiki/PhraRam9).
