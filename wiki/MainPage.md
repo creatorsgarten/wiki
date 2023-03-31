@@ -17,6 +17,7 @@
 
   | Event | Links |
   | --- | --- |
+  | Creative coding meetup | [Organizer’s notes](/wiki/CreativeCodingMeetup1) |
   | [Bangkok Open Source Hackathon](https://grtn.org/e/bangkok) | [Coverage](/wiki/Coverage/bangkok) &middot; [Feedback](/wiki/Feedback/bangkok) |
   | [Code Golf Party #1](https://grtn.org/e/golf1) | [Feedback](/wiki/Feedback/golf1) |
   | [The ៦th Stupid Hackathon in Thailand](https://grtn.org/e/sht6) | [Coverage](/wiki/Coverage/sht6) &middot; [Feedback](/wiki/Feedback/sht6) |
