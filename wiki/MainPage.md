@@ -6,6 +6,7 @@
 # Contents
 
 - [[Special/AllPages|Alphabetical page list]]
+- **Areas:** [[Asok]] &middot; [[National Stadium]] &middot; [[Phra Ram 9]] &middot; [[QSNCC]] &middot; [[Thailand Cultural Centre]]
 
 # Editing Pages
 
