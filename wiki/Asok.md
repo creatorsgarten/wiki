@@ -3,7 +3,7 @@
 :::
 
 - Asok BTS station, between Nana and Phrom Phong stations.
-- Sukhumvit MRT station, between [QSNCC](/wiki/QSNCC) and Phetchaburi stations.
+- Sukhumvit MRT station, between [[QSNCC]] and Phetchaburi stations.
 
 # Nearby places to hang out
 
