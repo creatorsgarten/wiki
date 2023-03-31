@@ -34,6 +34,8 @@
 - Knowledge base
   - [[Videos|How we record our talks and manage our YouTube channel]]
 
+- Our [[initiatives]]
+
 # Editing Pages
 
 If a page has a pencil icon (:Icon{icon="mdi:lead-pencil"}) next to the title, then it is a wiki page that can be edited.
