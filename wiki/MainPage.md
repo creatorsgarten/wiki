@@ -15,6 +15,8 @@
 
 - [[SelfIntroduction|What is Creatorsgarten?]]
 
+- [[Discord|Our Discord servers]]
+
 - [Event](https://creatorsgarten.org/events/) information
 
   | Event | Links |
