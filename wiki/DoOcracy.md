@@ -22,4 +22,4 @@
 
 # See also
 
-- [[LazyConsensus|Lazy Consensus]]
+- [[Lazy Consensus]]
