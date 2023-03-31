@@ -6,7 +6,7 @@
 
 - มีทอัพชิลๆ ให้คนที่สนใจได้มาเจอกัน
 - มี Talk ประมาณ 6 หัวข้อ หัวข้อละ 15–20 นาที เน้นแชร์ประสบการณ์และโชว์ของ ในขณะเดียวกันก็ให้ความรู้ไปด้วย ตัวอย่างเช่นเซสชั่น [AR on Web จากงาน Bkk.js #17](https://www.youtube.com/watch?v=JuWzquQwt4g&list=PLTuz2sLvbRpx9okBtTzA85rRsNqGlKR_5&index=2)
-- <em>อาจจะ</em>มี Art installation ให้ใครที่มีผลงานได้เอามาโชว์
+- <em>อาจจะ</em>มี Art installation หรือ Live coding หรือ Demoparty ให้ใครที่มีผลงานได้เอามาโชว์
 
 # ร่วมงาน
 
@@ -31,7 +31,7 @@
 - [ ] Contact the selected speakers and confirm their participation
 - [ ] Develop a schedule for the meetup, including speaker sessions, networking breaks, and any additional activities
 - [ ] Promote the event through social media, email newsletters, and relevant online communities
-- [ ] Set up a registration system for attendees
+- [ ] Set up a registration system for attendees — Set up Eventpop
 - [ ] Communicate with attendees about the event details, schedule, and any updates
 
 # Organizers
