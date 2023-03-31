@@ -34,6 +34,18 @@
 - [ ] Set up a registration system for attendees
 - [ ] Communicate with attendees about the event details, schedule, and any updates
 
+# Organizers
+
+- Chayapatr Archiwaranguprok
+- Dechapon Tongmak
+- Jarupong Pajakgo
+- Kharaya Ponprayoonchai
+- Phoomparin Mano
+- Popo Thitiporn
+- Thai Pangsakulyanont
+- Wasawat Somno
+- Wasit Jingjit
+
 # Links
 
 - [GitHub Discussion](https://github.com/orgs/creatorsgarten/discussions/10)
