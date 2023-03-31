@@ -17,7 +17,7 @@
 
   | Event | Links |
   | --- | --- |
-  | [Bangkok Open Source Hackathon](https://grtn.org/bangkok) | [[Coverage/bangkok|Coverage]] [[Feedback/bangkok|Feedback]] |
+  | [Bangkok Open Source Hackathon](https://grtn.org/bangkok) | [Coverage](/wiki/Coverage/bangkok) [Feedback](/wiki/Feedback/bangkok) |
 
 # Editing Pages
 
