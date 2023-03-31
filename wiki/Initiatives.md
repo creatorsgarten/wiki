@@ -3,6 +3,6 @@ Apart from one-off events, Creatorsgarten is a collective with many different in
 :::
 
 - [[Bangkok Open Source Initiative]]
+- [[Polaryz Club]]
 - [[showdown.space]]
 - [[StupidHackTH|The Stupid Hackathon Thailand]]
-- [[Polaryz Club]]
