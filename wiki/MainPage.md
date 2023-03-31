@@ -13,6 +13,12 @@
 
 - [[Special/AllPages|Alphabetical page list]]
 
+- [Event](https://creatorsgarten.org/events/) information
+
+  | Event | Links |
+  | --- | --- |
+  | [Bangkok Open Source Hackathon](https://grtn.org/bangkok) | [[Coverage/bangkok|Coverage]] [[Feedback/bangkok|Feedback]] |
+
 # Editing Pages
 
 If a page has a pencil icon (:Icon{icon="mdi:lead-pencil"}) next to the title, then it is a wiki page that can be edited.
