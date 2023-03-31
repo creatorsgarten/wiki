@@ -13,6 +13,8 @@
 
 - [[Special/AllPages|Alphabetical page list]]
 
+- [[SelfIntroduction|What is Creatorsgarten?]]
+
 - [Event](https://creatorsgarten.org/events/) information
 
   | Event | Links |
