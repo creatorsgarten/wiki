@@ -18,4 +18,4 @@ Lazy consensus เหมาะสำหรับการตัดสินใ�
 
 # See also
 
-- [DoOcracy](/wiki/DoOcracy)
+- [[DoOcracy]]

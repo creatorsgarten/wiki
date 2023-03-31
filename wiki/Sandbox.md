@@ -2,7 +2,7 @@ Use this sandbox to test out Markdown and stuff.
 
 # RatingTally
 
-A RatingTally is used to display ratings in [Feedback](/wiki/Feedback) pages.
+A RatingTally is used to display ratings in [[Feedback]] pages.
 
 ::RatingTally{tally="8=4,9=1,10=4"}
 

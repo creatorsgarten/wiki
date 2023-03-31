@@ -1,5 +1,5 @@
 :::lead
-**Thailand Cultural Centre** MRT station is between [Phra Ram 9](/wiki/PhraRam9) and Huai Khwang stations.
+**Thailand Cultural Centre** MRT station is between [[PhraRam9|Phra Ram 9]] and Huai Khwang stations.
 :::
 
 # Nearby places to hang out
@@ -24,4 +24,4 @@ Closes 3AM
 
 ## More choices
 
-See also [Phra Ram 9](/wiki/PhraRam9).
+See also [[PhraRam9|Phra Ram 9]].

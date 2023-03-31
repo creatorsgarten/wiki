@@ -1,11 +1,11 @@
 :::lead
-**Phra Ram 9** MRT station is between Phetchaburi and [Thailand Cultural Centre](/wiki/ThailandCulturalCentre) stations.
+**Phra Ram 9** MRT station is between Phetchaburi and [[ThailandCulturalCentre|Thailand Cultural Centre]] stations.
 :::
 
 # Venues
 
 - Bok Teer
-- [Cleverse](/wiki/Cleverse)
+- [[Cleverse]]
 - Thoughtworks
 
 # Nearby places to hang out
@@ -24,4 +24,4 @@ Closes 10PM
 
 ## More choices
 
-See also [Thailand Cultural Centre](/wiki/ThailandCulturalCentre).
+See also [[ThailandCulturalCentre|Thailand Cultural Centre]].

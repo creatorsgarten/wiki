@@ -1,5 +1,5 @@
 :::lead
-Some FFmpeg snippets for pre-processing [video](/wiki/Video) files.
+Some FFmpeg snippets for pre-processing [[Video|video]] files.
 :::
 
 # Preprocessing videos for editing in Final Cut Pro

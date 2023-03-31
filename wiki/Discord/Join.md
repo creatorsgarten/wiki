@@ -1,4 +1,4 @@
-[&larr; Discord](/wiki/Discord)
+[[Discord|&larr; Discord]]
 
 | Creatorsgarten | Bangkok Open Source Initiative |
 |:--------------:|:------------------------------:|

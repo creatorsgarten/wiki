@@ -6,7 +6,7 @@
 
 # Events
 
-- [CreativeCodingMeetup1](/wiki/CreativeCodingMeetup1)
+- [[CreativeCodingMeetup1]]
 
 # Tools
 

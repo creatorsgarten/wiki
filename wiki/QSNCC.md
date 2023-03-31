@@ -1,5 +1,5 @@
 :::lead
-**QSNCC** MRT station is between Khlong Toei and [Sukhumvit (Asok)](/wiki/Asok) stations.
+**QSNCC** MRT station is between Khlong Toei and [[Asok|Sukhumvit (Asok)]] stations.
 :::
 
 # Venues
@@ -12,4 +12,4 @@
 
 ## More choices
 
-See also [Asok](/wiki/Asok).
+See also [[Asok]].

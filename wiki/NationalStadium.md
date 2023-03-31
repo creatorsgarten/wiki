@@ -6,7 +6,7 @@ The **National Stadium** terminal BTS station is next to the Siam BTS station. I
 
 - BACC
 - Skooldio
-- [True5G PRO HUB](/wiki/True5GProHub)
+- [[True5GProHub|True5G PRO HUB]]
 
 # Nearby places to hang out
 
