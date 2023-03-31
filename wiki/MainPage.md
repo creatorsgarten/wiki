@@ -1,14 +1,15 @@
-**The Creatorsgarten Wiki** stores contents that are more frequently updated than the main [Creatorsgarten website][main-site]. Each page can be edited directly on the wiki or [on GitHub][repo].
-
-- The contents of the wiki lives in the [wiki GitHub repository][repo].
-- To see the list of all pages, check out [[Special/AllPages]].
+**The Creatorsgarten Wiki** stores contents that are more frequently updated than the main [Creatorsgarten website][main-site].
 
 [main-site]: https://creatorsgarten.org/
 [repo]: https://github.com/creatorsgarten/wiki
 
+# Contents
+
+- [[Special/AllPages|Alphabetical page list]]
+
 # Editing Pages
 
-If a page has a pencil icon (<iconify-icon icon="mdi:lead-pencil"></iconify-icon>) next to the title, then it is a wiki page that can be edited. You can edit wiki pages in many different ways.
+If a page has a pencil icon (<iconify-icon icon="mdi:lead-pencil"></iconify-icon>) next to the title, then it is a wiki page that can be edited.
 
 - **Edit directly on the website:** Click on the pencil icon to start editing. It is optimized for making quick and small changes, and the editor is not that stable. We recommend that you save your changes frequently to avoid conflicts and avoid losing your work.
 
