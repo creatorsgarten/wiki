@@ -6,6 +6,8 @@ This project consists of 2 main layers: the **foundation** layer and the **appli
 
 # Foundation layer
 
+The foundation layer is about creating re-usable components that can be reused across multiple events.
+
 - Community
   - [Discord community: showdown.space](https://warp.showdown.space/discord)
 - Social platforms and online presence
