@@ -1,5 +1,5 @@
 :::lead
-**[showdown.space](https://showdown.space)** hosts community events in the form of recreational tech contests.
+**[showdown.space](https://showdown.space)**, a Creatorsgarten [[Initiatives|initiative]] led by [@dtinth](https://github.com/dtinth), hosts community tech events in the form of recreational tech contests.
 :::
 
 # Links
