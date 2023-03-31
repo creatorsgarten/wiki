@@ -15,6 +15,8 @@
 
 - [[SelfIntroduction|What is Creatorsgarten?]]
 
+- [[Initiatives|Our initiatives]]
+
 - [[Discord|Our Discord servers]]
 
 - Information pages about our [events](https://creatorsgarten.org/events/)
@@ -33,8 +35,6 @@
 
 - Knowledge base
   - [[Videos|How we record our talks and manage our YouTube channel]]
-
-- Our [[initiatives]]
 
 # Editing Pages
 
