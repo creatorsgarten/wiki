@@ -1,4 +1,6 @@
+:::lead
 The **[Creatorsgarten GitHub Organization](https://github.com/creatorsgarten)** hosts the code related to our [events](/), as well as [this website](https://github.com/creatorsgarten/creatorsgarten.org).
+:::
 
 ## Joining the organization
 
