@@ -9,7 +9,7 @@
 
 # Editing Pages
 
-If a page has a pencil icon (<iconify-icon icon="mdi:lead-pencil"></iconify-icon>) next to the title, then it is a wiki page that can be edited.
+If a page has a pencil icon (:Icon{icon="mdi:lead-pencil"}) next to the title, then it is a wiki page that can be edited.
 
 - **Edit directly on the website:** Click on the pencil icon to start editing. It is optimized for making quick and small changes, and the editor is not that stable. We recommend that you save your changes frequently to avoid conflicts and avoid losing your work.
 
