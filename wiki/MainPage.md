@@ -17,7 +17,7 @@
 
 - [[Discord|Our Discord servers]]
 
-- [Event](https://creatorsgarten.org/events/) information
+- Information pages about our [event](https://creatorsgarten.org/events/)
 
   | Event | Links |
   | --- | --- |
