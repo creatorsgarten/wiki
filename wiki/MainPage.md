@@ -1,5 +1,5 @@
 :::lead
-**[Creatorsgarten](https://creatorsgarten.org/)** is a collective of creators. Through [workshops, meetups, hackathons, and much more](https://creatorsgarten.org/events/), we bring people together to work on new ideas, trying new things and working together across disciplines.
+**[Creatorsgarten](https://creatorsgarten.org/)** is a collective of creators. Through [workshops, meetups, hackathons, and much more](https://creatorsgarten.org/events/), we bring people together to work on new ideas, trying new things and collaborate across disciplines.
 :::
 
 **The Creatorsgarten Wiki** stores contents that are more frequently updated than the main [Creatorsgarten website][main-site].
