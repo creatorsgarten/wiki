@@ -1,3 +1,7 @@
+:::lead
+**[Creatorsgarten](https://creatorsgarten.org/)** is a collective of creators. We strive to bring [people](https://creatorsgarten.org/ring/) together and create meaningful [projects](https://creatorsgarten.org/events/). We are committed to promoting a creative culture and to help creators cultivate ideas and expand their frontier of perception.
+:::
+
 **The Creatorsgarten Wiki** stores contents that are more frequently updated than the main [Creatorsgarten website][main-site].
 
 [main-site]: https://creatorsgarten.org/
