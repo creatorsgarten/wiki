@@ -1,7 +1,7 @@
 **The Creatorsgarten Wiki** stores contents that are more frequently updated than the main [Creatorsgarten website][main-site]. Each page can be edited directly on the wiki or [on GitHub][repo].
 
 - The contents of the wiki lives in the [wiki GitHub repository][repo].
-- To see the list of all pages, check out [Special/AllPages](/wiki/Special/AllPages).
+- To see the list of all pages, check out [[Special/AllPages]].
 
 [main-site]: https://creatorsgarten.org/
 [repo]: https://github.com/creatorsgarten/wiki
