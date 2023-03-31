@@ -31,6 +31,9 @@
   | [The Stupid Hackathon Thailand #2](https://grtn.org/e/sht2) | [Coverage](/wiki/Coverage/sht2) &middot; [Feedback](/wiki/Feedback/sht2) |
   | [The Stupid Hackathon Bangkok](https://grtn.org/e/sht1) | [Coverage](/wiki/Coverage/sht1) &middot; [Feedback](/wiki/Feedback/sht1) |
 
+- Knowledge base
+  - [[Videos|How we publish videos to YouTube]]
+
 # Editing Pages
 
 If a page has a pencil icon (:Icon{icon="mdi:lead-pencil"}) next to the title, then it is a wiki page that can be edited.
