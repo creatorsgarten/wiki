@@ -18,6 +18,8 @@
   | Event | Links |
   | --- | --- |
   | [Bangkok Open Source Hackathon](https://grtn.org/bangkok) | [Coverage](/wiki/Coverage/bangkok) &middot; [Feedback](/wiki/Feedback/bangkok) |
+  | [Code Golf Party #1](https://grtn.org/golf1) | [Feedback](/wiki/Feedback/golf1) |
+  | [The ៦th Stupid Hackathon in Thailand](https://grtn.org/sht6) | [Coverage](/wiki/Coverage/sht6) &middot; [Feedback](/wiki/Feedback/sht6) |
 
 # Editing Pages
 
