@@ -1,4 +1,5 @@
 - [Creatorsgarten Website](https://creatorsgarten.org/)
 - [Creatorsgarten Wiki](https://wiki.creatorsgarten.org/)
 - [Creatorsgarten Facebook Page](https://www.facebook.com/creatorsgarten)
+- [Creatorsgarten YouTube Channel](https://www.youtube.com/@creatorsgarten)
 - [Creatorsgarten Discord Server](https://grtn.org/discord)
