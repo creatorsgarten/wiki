@@ -28,7 +28,7 @@ This inspires us to connect and grow creators and communities across disciplines
 
 The incentive is for creators to meet their personal goals, for organizations to meet their goals, and for the wider community to meet their shared goals.
 
-We aim to build a foundation for students and active citizens to solve their own problems, to be an Adventure Playground for creators to take the initiative in shaping our future.
+We aim to build a foundation for students and active citizens to solve their own problems, to be an adventure playground for creators to take the initiative in shaping our future.
 
 ### A possible future
 
