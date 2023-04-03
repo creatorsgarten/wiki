@@ -15,6 +15,8 @@
 
 - [[SelfIntroduction|What is Creatorsgarten?]]
 
+- [[Democratize Creation for All]]
+
 - [[Initiatives|Our initiatives]]
 
 - [[Discord|Our Discord servers]]
