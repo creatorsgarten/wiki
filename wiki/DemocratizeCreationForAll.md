@@ -6,7 +6,7 @@ Today, some developers and makers instinctively develop applications, tools, or 
 
 **We want this culture of hacking to become the norm in society.**
 
-We’re working to **cultivate the hacker culture** for students, developers, and active citizens by building an **Adventure Playground** for creators to hack, play, and learn.
+We’re working to **cultivate the hacker culture** for students, developers, and active citizens by building an **adventure playground** for creators to hack, play, and learn.
 
 We believe in the combined power of active citizenship and lifelong kindergarten via the 4Ps of Creative Learning: Passions, Projects, Peers, and Play.
 
