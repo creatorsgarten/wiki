@@ -11,11 +11,11 @@
 
 # Goals
 
-- Our main goal is simply for tech folks to **have fun together while learning new things.** As such, the emphasis is on knowledge sharing rather than finding who will be the best or winning prizes.
+- **Fun front and foremost.** Our main goal is simply for tech folks to _have fun together while learning new things._ As such, the emphasis is on knowledge sharing rather than finding who will be the best or winning prizes.
 
-- In addition to providing a fun and engaging way for people to connect with others who share their interests, we also attempt to solve the problem of talent recruitment — after each event, the event information and rankings are published as publicly-available data.
+- **Provide a space for people to show off their raw skills.** In addition to providing a fun and engaging way for people to connect with others who share their interests, we also attempt to solve the problem of talent recruitment. After each event, we publish the event information and rankings on our website. Participants can opt to include their GitHub profile on the ranking page.
 
-- Participants can opt to include their GitHub profile on the ranking page, which can be used as a recruitment tool. Sponsors can also contribute to the event and be recognized by the community.
+- **Provide a way for tech firms to get recognized.** Sponsors can contribute prizes, venues, and other kind of support and get recignized for their contributions.
 
 # Principles
 
