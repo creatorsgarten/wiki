@@ -17,6 +17,13 @@
 
 - **Provide a way for tech firms to get recognized.** Sponsors can contribute prizes, venues, and other kind of support and get recignized for their contributions.
 
+| ❌ | ✅ |
+| --- | --- |
+| ❌ Serious _competitions_ | ✅ Recreational tech _contests_ and _game shows_ |
+| ❌ Compete (แข่งขัน) | ✅ Participate (ร่วมสนุก) |
+| ❌ Focus on finding who’s the best | ✅ Focus on having fun and sharing knowledge |
+| ❌ For profit | ✅ Totally non-commercial |
+
 # Principles
 
 - [[Lazy Consensus]]
