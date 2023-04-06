@@ -17,11 +17,15 @@
 
 - **Provide a way for tech firms to get recognized.** Sponsors can contribute prizes, venues, and other kind of support and get recignized for their contributions.
 
+While our events have an element of competitiveness due to its very nature, they are not the main goal. This comparison table should help guide the events in the intended direction:
+
 | ❌ | ✅ |
 | --- | --- |
 | ❌ Serious _competitions_ | ✅ Recreational tech _contests_ and _game shows_ |
 | ❌ Compete (แข่งขัน) | ✅ Participate (ร่วมสนุก) |
-| ❌ Focus on finding who’s the best | ✅ Focus on having fun and sharing knowledge |
+| ❌ Contestants / Contenders | ✅ Participants |
+| ❌ Focus on finding who’s the best | ✅ Focus on learning new things together |
+| ❌ Focus winning prizes | ✅ Focus on having fun with like-minded peers |
 | ❌ For profit | ✅ Totally non-commercial |
 
 # Principles
