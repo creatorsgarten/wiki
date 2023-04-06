@@ -1,5 +1,5 @@
 :::lead
-**[showdown.space](https://showdown.space)**, a Creatorsgarten [[Initiatives|initiative]] led by [@dtinth](https://github.com/dtinth), hosts community tech events in the form of recreational tech contests.
+**[showdown.space](https://showdown.space)**, a Creatorsgarten [[Initiatives|initiative]] led by [@dtinth](https://github.com/dtinth), hosts community tech events in the form of recreational tech contests and game shows.
 :::
 
 # Our events
@@ -8,6 +8,14 @@
 | --- | --- |
 | [**Code Golf Party #1**](https://showdown.space/events/code-golf-party-1/) | A programming contest where participants try to solve problems with the smallest amount of code possible. |
 | [**Code in the Wind #1**](https://showdown.space/events/code-in-the-wind-1/) | A game show where contestants implement a web page according to the reference screenshot and a set of objectives using Tailwind CSS. |
+
+# Goals
+
+- Our main goal is simply for tech folks to **have fun together while learning new things.** As such, the emphasis is on knowledge sharing rather than finding who will be the best or winning prizes.
+
+- In addition to providing a fun and engaging way for people to connect with others who share their interests, we also attempt to solve the problem of talent recruitment — after each event, the event information and rankings are published as publicly-available data.
+
+- Participants can opt to include their GitHub profile on the ranking page, which can be used as a recruitment tool. Sponsors can also contribute to the event and be recognized by the community.
 
 # Principles
 
