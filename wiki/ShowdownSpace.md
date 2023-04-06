@@ -2,9 +2,17 @@
 **[showdown.space](https://showdown.space)**, a Creatorsgarten [[Initiatives|initiative]] led by [@dtinth](https://github.com/dtinth), hosts community tech events in the form of recreational tech contests.
 :::
 
+# Our events
+
+| Event | Description |
+| --- | --- |
+| [Code in the Wind #1](https://showdown.space/events/code-in-the-wind-1/) | A game show where contestants implement a web page according to the reference screenshot and a set of objectives using Tailwind CSS. |
+
+# Structure
+
 This project consists of 2 main layers: the **foundation** layer and the **application** layer.
 
-# Foundation layer
+## Foundation layer
 
 The foundation layer is about creating re-usable components that can be reused across multiple events.
 
@@ -19,7 +27,7 @@ The foundation layer is about creating re-usable components that can be reused a
   - [Discord bot](https://github.com/showdownspace/bot-logic)
   - [rt-sys: Realtime system](https://github.com/showdownspace/rt-sys)
 
-# Application layer
+## Application layer
 
 - Events
   - [Code in the Wind #1](https://grtn.org/e/wind)
