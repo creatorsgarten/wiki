@@ -36,4 +36,13 @@ Discussions
 
 - @dtinth: After chatting with p-Pop, after the foundation is running for **3 years** and have **audited financial track record** that at least 70% of the costs go to public good and at most 30% for operations.
 
+# States
 
+The situation can be expressed as roughly 5 states.
+
+| State | Description | Pros | Cons |
+| --- | --- | --- | --- |
+| 1 | **No legal entity** - We need a corporation to act as a fiscal host, run our events in a cashless way, or money received from sponsors would be counted as taxable income. | No administrative overhead, less paperwork. | There can be process overhead when working with an external fiscal host. |
+| 2 | **Private company** |
+| 3 | **Non-profit organization** |
+| 4 | **Tax-exempt foundation** |
