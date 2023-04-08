@@ -42,7 +42,7 @@ The situation can be expressed as roughly 4 states.
 
 | State | Description | Pros | Cons |
 | --- | --- | --- | --- |
-| 1 | **Club** - A club is not recognized as a legal entity. Therefore, we need a corporation to act as a fiscal host, run our events in a cashless way, or money received from sponsors would be counted as taxable income. | No administrative overhead, less paperwork. | There can be process overhead when working with an external fiscal host. |
+| 1 | **Club** - (Current state) | No administrative overhead or paperwork as it is not recognized as a legal entity. | Need a corporation to act as a fiscal host (there may be complication but it depends), run our events in a cashless way, or money received from sponsors would be counted as taxable income. |
 | 2 | **Private company** — Set up a legal entity to receive money from sponsors. | Can self-manage money and little administration work needed. Expenses can be deducted from income when calculating taxes. | Less hassle but it is not apparent that our organization is not-commercial. We don’t get perks for non-profits. |
 | 3 | **Non-profit organization** — Register as some kind of non-profit (including association or foundation). | Eligible for non-profit offers. | More administrative work is needed, including general meetings, statutes, and financial audits. Administration costs ~20,000 THB/year. |
 | 4 | **Tax-exempt foundation** — Requires 3 years of track record being a foundation | Great for sponsors/donations as they can get their tax deducted. | Unsure if it is possible to begin with. |
