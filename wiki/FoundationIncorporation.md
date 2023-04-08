@@ -38,11 +38,11 @@ Discussions
 
 # States
 
-The situation can be expressed as roughly 5 states.
+The situation can be expressed as roughly 4 states.
 
 | State | Description | Pros | Cons |
 | --- | --- | --- | --- |
-| 1 | **No legal entity** - We need a corporation to act as a fiscal host, run our events in a cashless way, or money received from sponsors would be counted as taxable income. | No administrative overhead, less paperwork. | There can be process overhead when working with an external fiscal host. |
-| 2 | **Private company** |
-| 3 | **Non-profit organization** |
-| 4 | **Tax-exempt foundation** |
+| 1 | **Club** - A club is not recognized as a legal entity. Therefore, we need a corporation to act as a fiscal host, run our events in a cashless way, or money received from sponsors would be counted as taxable income. | No administrative overhead, less paperwork. | There can be process overhead when working with an external fiscal host. |
+| 2 | **Private company** — Set up a legal entity to receive money from sponsors. | Can self-manage money and little administration work needed. | It is not apparent that our organization is not-commercial. We don’t get perks for non-profits. |
+| 3 | **Non-profit organization** — Register as some kind of non-profit (including association or foundation). | Eligible for non-profit offers. | More administrative work is needed, including general meetings, statutes, and financial audits. |
+| 4 | **Tax-exempt foundation** —  |  |
