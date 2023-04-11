@@ -11,7 +11,7 @@
 # ร่วมงาน
 
 - **วันและเวลา:** วันพุธที่ 3 พฤษภาคม 2023
-- **สถานที่:** จะประกาศให้ทราบเร็วๆ นี้
+- **สถานที่:** BokTeer — Common Ground @ 31F G Tower (tentative)
 - **ลงทะเบียน:** จะเปิดให้ลงทะเบียนเร็วๆ นี้ ระหว่างนี้หากสนใจ สามารถ[ทิ้งอีเมลไว้ เมื่อเปิดให้ลงทะเบียนจะส่งอีเมลไปแจ้งครับ](https://forms.gle/vkB3puhVf5qrC3qs7)
 - **ส่งหัวข้อการนำเสนอ**: [Call for presentations](https://forms.gle/sGYu38ZCPrPdFeH89)
 
@@ -22,12 +22,12 @@
 - [x] Define the purpose and goals of the meetup
 - [x] Identify potential co-organizers and form a team — [Recruited organizers from Facebook](https://www.facebook.com/dtinth/posts/pfbid02P9yrQ7a8Mse3JDqCQYLS3SLRcxkiKwNvu5MNyeqAbNdazDu2pMo2QZD5B4ZV7nEXl?comment_id=5270107556425658), Messenger group created
 - [x] Choose a suitable date and time for the event — Potential date: 3 May evening
-- [ ] **&rarr; Select a suitable venue for the meetup** — Potential venues: Bok teer, Muse space, True 5G Pro Hub, Cleverse HQ, BACC
+- [x] Select a suitable venue for the meetup — Potential venues: Bok teer, Muse space, True 5G Pro Hub, Cleverse HQ, BACC — Tentative venue: Bok teer
 - [ ] Set a budget for the event and identify potential sponsors or partners
 - [ ] Create a simple event website or landing page with all the necessary information
 - [x] Launch a call for proposals (CFP) for speaker submissions — [CFP form](https://forms.gle/sGYu38ZCPrPdFeH89)
 - [x] Promote the CFP through social media, email newsletters, and relevant online communities — [CFP announcement](https://web.facebook.com/creatorsgarten/posts/pfbid0JkDJDAAKEQTLUrRemqfUcm7uSkA8AimSdQNDN7inq6dKhXq5hzBJRNpGgHaBEXjsl)
-- [ ] Review and select the best proposals based on relevance, quality, and diversity
+- [x] Review and select the best proposals based on relevance, quality, and diversity
 - [ ] Contact the selected speakers and confirm their participation
 - [ ] Develop a schedule for the meetup, including speaker sessions, networking breaks, and any additional activities
 - [ ] Promote the event through social media, email newsletters, and relevant online communities
