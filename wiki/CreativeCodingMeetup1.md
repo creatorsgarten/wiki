@@ -31,7 +31,7 @@
 - [ ] Contact the selected speakers and confirm their participation
 - [ ] Develop a schedule for the meetup, including speaker sessions, networking breaks, and any additional activities
 - [ ] Promote the event through social media, email newsletters, and relevant online communities
-- [ ] Set up a registration system for attendees — Set up Eventpop
+- [x] Set up a registration system for attendees — Set up [Eventpop](https://eventpop.me/s/creative-coding-meetup)
 - [ ] Communicate with attendees about the event details, schedule, and any updates
 
 # Organizers
