@@ -34,6 +34,17 @@
 - [x] Set up a registration system for attendees — Set up [Eventpop](https://eventpop.me/s/creative-coding-meetup)
 - [ ] Communicate with attendees about the event details, schedule, and any updates
 
+# กำหนดการ
+
+:::warning
+This is a very rough draft and may be subject to change.
+:::
+
+| Time | Event |
+|:---:| --- |
+| 18:00 | Registration and networking |
+| 
+
 # Organizers
 
 - Chayapatr Archiwaranguprok
