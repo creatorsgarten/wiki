@@ -43,7 +43,10 @@ This is a very rough draft and may be subject to change.
 | Time | Event |
 |:---:| --- |
 | 18:00 | Registration and networking |
-| 
+| 18:45 | Opening |
+| 19:00 | Part I: 2 full talks + 4 lightning talks |
+| 20:30 | Part II: 2 full talks |
+| 21:20 | Open space + closing |
 
 # Organizers
 
