@@ -29,7 +29,7 @@
 - [x] Promote the CFP through social media, email newsletters, and relevant online communities — [CFP announcement](https://web.facebook.com/creatorsgarten/posts/pfbid0JkDJDAAKEQTLUrRemqfUcm7uSkA8AimSdQNDN7inq6dKhXq5hzBJRNpGgHaBEXjsl)
 - [x] Review and select the best proposals based on relevance, quality, and diversity
 - [ ] Contact the selected speakers and confirm their participation
-- [ ] Develop a schedule for the meetup, including speaker sessions, networking breaks, and any additional activities
+- [x] Develop a schedule for the meetup, including speaker sessions, networking breaks, and any additional activities
 - [ ] Promote the event through social media, email newsletters, and relevant online communities
 - [x] Set up a registration system for attendees — Set up [Eventpop](https://eventpop.me/s/creative-coding-meetup)
 - [ ] Communicate with attendees about the event details, schedule, and any updates
@@ -44,8 +44,8 @@ This is a very rough draft and may be subject to change.
 |:---:| --- |
 | 18:00 | Registration and networking |
 | 18:45 | Opening |
-| 19:00 | Part I: 2 full talks + 4 lightning talks |
-| 20:30 | Part II: 2 full talks |
+| 19:00 | Part I — 2 full talks + 4 lightning talks |
+| 20:30 | Part II — 2 full talks |
 | 21:20 | Open space + closing |
 
 # Organizers
