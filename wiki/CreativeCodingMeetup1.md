@@ -28,7 +28,7 @@
 - [x] Launch a call for proposals (CFP) for speaker submissions — [CFP form](https://forms.gle/sGYu38ZCPrPdFeH89)
 - [x] Promote the CFP through social media, email newsletters, and relevant online communities — [CFP announcement](https://web.facebook.com/creatorsgarten/posts/pfbid0JkDJDAAKEQTLUrRemqfUcm7uSkA8AimSdQNDN7inq6dKhXq5hzBJRNpGgHaBEXjsl)
 - [x] Review and select the best proposals based on relevance, quality, and diversity
-- [ ] Contact the selected speakers and confirm their participation
+- [x] Contact the selected speakers and confirm their participation
 - [x] Develop a schedule for the meetup, including speaker sessions, networking breaks, and any additional activities
 - [ ] Promote the event through social media, email newsletters, and relevant online communities
 - [x] Set up a registration system for attendees — Set up [Eventpop](https://eventpop.me/s/creative-coding-meetup)
