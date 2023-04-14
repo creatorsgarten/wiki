@@ -11,7 +11,7 @@
 
 # Contents
 
-- [[Special/AllPages|Alphabetical page list]]
+- [[Special/RecentChanges|Recently-changed pages]]
 
 - [[SelfIntroduction|What is Creatorsgarten?]]
 
@@ -39,6 +39,8 @@
 
 - Knowledge base
   - [[Videos|How we record our talks and manage our YouTube channel]]
+
+- [[Special/AllPages|Alphabetical page list]]
 
 # Editing Pages
 
