@@ -48,6 +48,19 @@ This is a very rough draft and may be subject to change.
 | 20:30 | Part II — 2 full talks |
 | 21:20 | Open space + closing |
 
+# Venue setup check list
+
+| Item | Info |
+| ---- | ---- |
+| Internet connection | |
+| Parking | Available at Central Rama 9 |
+| Video equipments available | 1x Projector |
+| Video input port | _(HDMI or USB-C?)_ |
+| Video aspect ratio | 4:3 _(TBC)_ |
+| Audio equipments available | |
+| Audio input port | |
+| Audio channels | |
+
 # Organizers
 
 - Chayapatr Archiwaranguprok
