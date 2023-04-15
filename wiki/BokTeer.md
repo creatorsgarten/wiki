@@ -2,4 +2,4 @@
 [**Bok Teer - Beer Talk**](https://www.facebook.com/BokTeerBeerTalk) organizes [“chill-chill”-style seminars](https://www.facebook.com/BokTeerBeerTalk/events). Their events are held at [Common Ground G Tower Rama 9](https://www.commonground.work/th-en/locations/g-tower/).
 :::
 
-::map{src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15501.45973148637!2d100.5657039!3d13.7568529!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29e62ffffffff%3A0x109e22bdc9d374e6!2sPay%20Solution%20Co.%2C%20Ltd.!5e0!3m2!1sen!2sth!4v1681588598414!5m2!1sen!2sth"}
+::GoogleMap{src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15501.45973148637!2d100.5657039!3d13.7568529!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29e62ffffffff%3A0x109e22bdc9d374e6!2sPay%20Solution%20Co.%2C%20Ltd.!5e0!3m2!1sen!2sth!4v1681588598414!5m2!1sen!2sth"}
