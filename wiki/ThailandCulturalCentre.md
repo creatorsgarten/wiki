@@ -1,5 +1,5 @@
 :::lead
-**[Thailand Cultural Centre](https://metro.bemplc.co.th/Line-Maps?Line=1&Station=19)** MRT station is between [[PhraRam9|Phra Ram 9]] and [[Huai Khwang]] stations.
+**[Thailand Cultural Centre](https://metro.bemplc.co.th/Line-Maps?Line=1&Station=19)** MRT station is between [[PhraRam9|Phra Ram 9]] and [[Huai Khwang]] stations on the Blue Line (BL19).
 :::
 
 # Nearby places to hang out
