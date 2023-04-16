@@ -1,5 +1,5 @@
 :::lead
-**[Phra Ram 9](https://metro.bemplc.co.th/Line-Maps?Line=1&Station=20)** MRT station is between Phetchaburi and [[ThailandCulturalCentre|Thailand Cultural Centre]] stations.
+**[Phra Ram 9](https://metro.bemplc.co.th/Line-Maps?Line=1&Station=20)** MRT station is between Phetchaburi and [[ThailandCulturalCentre|Thailand Cultural Centre]] stations on the Blue Line (BL20).
 :::
 
 # Venues
