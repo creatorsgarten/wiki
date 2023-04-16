@@ -1,5 +1,5 @@
 :::lead
-**QSNCC** MRT station is between Khlong Toei and [[Asok|Sukhumvit (Asok)]] stations.
+**[QSNCC](https://metro.bemplc.co.th/Line-Maps?Line=1&Station=23)** MRT station is between Khlong Toei and [[Asok|Sukhumvit (Asok)]] stations on the Blue Line (BL23).
 :::
 
 # Venues
