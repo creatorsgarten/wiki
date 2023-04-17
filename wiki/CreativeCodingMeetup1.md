@@ -41,9 +41,9 @@
 
 | Item | Info |
 | ---- | ---- |
-| Internet connection | |
+| Internet connection | Wi-fi dedicated for PR available |
 | Parking | Available at Central Rama 9 |
-| Video equipments available | 1x Projector |
+| Video equipments available | 1x projector, 1x wireless HDMI transmitter, 1x screen |
 | Video input port | _(HDMI or USB-C?)_ |
 | Video aspect ratio | 4:3 _(TBC)_ |
 | Audio equipments available | |
