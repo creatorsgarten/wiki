@@ -17,6 +17,8 @@ exit from mrt - connect at B floor, go up the escalator 2 times to reach G floor
 
 - seated 60, standing 120, overflow max 200
 - wireless mic x2
+
+usually need 3 weeks advance notice to run an event there
 :::
 
 
