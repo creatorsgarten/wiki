@@ -38,6 +38,7 @@
   | [The Stupid Hackathon Bangkok](https://grtn.org/e/sht1) | [Coverage](/wiki/Coverage/sht1) &middot; [Feedback](/wiki/Feedback/sht1) |
 
 - Knowledge base
+  - [[Audio video equipments]]
   - [[Videos|How we record our talks and manage our YouTube channel]]
 
 - [[Special/AllPages|Alphabetical page list]]
