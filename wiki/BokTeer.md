@@ -9,25 +9,15 @@
 **By MRT**
 
 1. Go to [[Phra Ram 9]] MRT station.
-2. Take exit 3 towards **G Tower**.
-3. Go to 31st floor.
-
-:::Draft
-exit from mrt - connect at B floor, go up the escalator 2 times to reach G floor, exchange card for visitor card to 31f (they will take card until you leave)
-:::
+2. Take **Exit 3** towards **G Tower**. The underground link is connected to the B floor.
+3. Take the escalator up twice to reach the **G floor.**
+4. Go to the south wing lobby and exchange your ID card for elevator access (they will keep your ID card while you are in the premises).
+5. Go to the **north wing** and take the elevator to the **31st floor.**
 
 # Notes for organizers
 
-:::Draft
-- seated 60, standing 120, overflow max 200
-- wireless mic x2
-
-usually need 3 weeks advance notice to run an event there
-
-can tie in with Chang, AWS
-:::
-
-
+- Usually needs 3 weeks of advance notice to run an event at Common Ground.
+- Number of attendees: 60 for seated, 120 for sitting and standing comfortably, 140 max, more than that overflows.
 
 # Nearby places to hang out
 
