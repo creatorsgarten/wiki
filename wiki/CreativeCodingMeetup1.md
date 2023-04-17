@@ -39,6 +39,8 @@
 
 ## Venue setup check list
 
+[A/V setup tldraw](https://www.tldraw.com/r/v2_c_ar31Sg3WnoGEtAT7RzYBR)
+
 | Item | Info |
 | ---- | ---- |
 | Internet connection | Wi-fi dedicated for PR available |
