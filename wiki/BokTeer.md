@@ -14,7 +14,11 @@
 
 :::Draft
 exit from mrt - connect at B floor, go up the escalator 2 times to reach G floor, exchange card for visitor card to 31f (they will take card until you leave)
+
+- wireless mic x2
 :::
+
+
 
 # Nearby places to hang out
 
