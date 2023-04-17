@@ -16,7 +16,7 @@
 exit from mrt - connect at B floor, go up the escalator 2 times to reach G floor, exchange card for visitor card to 31f (they will take card until you leave)
 :::
 
-notes for organizers
+# Notes for organizers
 
 :::Draft
 - seated 60, standing 120, overflow max 200
