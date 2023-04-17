@@ -49,7 +49,7 @@
 | Video input port | HDMI |
 | Video resolution | 1920x1080 (16:9) |
 | Audio equipments available | [2x wireless mic, 1x wireless mic receiver (manual)](https://assets.sennheiser.com/global-downloads/file/5551/XSwireless_EN_0212.pdf), 1x [mixer](https://www.behringer.com/product.html?modelCode=P0A0J) [(manual)](https://mediadl.musictribe.com/media/sys_master/h07/h4f/8849860526110.pdf), 1x speaker |
-| Audio input port | XLR, USB |
+| Audio input port | XLR, Jack, USB |
 | Audio channels | 1 |
 
 # Organizers
