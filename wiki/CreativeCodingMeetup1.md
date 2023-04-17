@@ -67,5 +67,6 @@
 - [GitHub Discussion](https://github.com/orgs/creatorsgarten/discussions/10)
 - [Origin Story](https://web.facebook.com/dtinth/posts/pfbid02P9MsmrdyRumCFC3uzLKzfFJ7YBe7eCbsSs5pqjMEbLRY5M2SpbJo9Lkuxffc9PHGl)
 - [Eventpop][evp]
+- [Figma](https://www.figma.com/file/CYKl8hN7sj1D5fBpPWGIl2/Creative-coding-meetup?node-id=0%3A1&t=WlwQwflaiS2BaB2r-1)
 
 [evp]: https://www.eventpop.me/s/creative-coding-meetup
