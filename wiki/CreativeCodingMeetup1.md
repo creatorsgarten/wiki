@@ -46,9 +46,9 @@
 | Video equipments available | 1x projector, 1x wireless HDMI transmitter, 1x screen |
 | Video input port | _(HDMI or USB-C?)_ |
 | Video aspect ratio | 4:3 _(TBC)_ |
-| Audio equipments available | |
-| Audio input port | |
-| Audio channels | |
+| Audio equipments available | 2x wireless mic, 1x wireless mic receiver, 1x mixer, 1x speaker |
+| Audio input port | XLR, USB |
+| Audio channels | 1 |
 
 # Organizers
 
