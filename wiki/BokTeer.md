@@ -23,6 +23,8 @@ exit from mrt - connect at B floor, go up the escalator 2 times to reach G floor
 - wireless mic x2
 
 usually need 3 weeks advance notice to run an event there
+
+can tie in with Chang, AWS
 :::
 
 
