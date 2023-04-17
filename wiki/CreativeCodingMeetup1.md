@@ -50,7 +50,7 @@
 | Video resolution | 1920x1080 (16:9) |
 | Audio equipments available | [2x wireless mic, 1x wireless mic receiver (manual)](https://assets.sennheiser.com/global-downloads/file/5551/XSwireless_EN_0212.pdf), 1x [mixer](https://www.behringer.com/product.html?modelCode=P0A0J) ([manual](https://mediadl.musictribe.com/media/sys_master/h07/h4f/8849860526110.pdf)), 1x [speaker](https://www.bose.com/en_us/support/products/bose_speakers_support/bose_pro_portable_support/l1-compact-system.html) ([manual](https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/speakers/l1_compact_system/pdf/AM325334_00__OG_L1%20Compact_ENGvo.pdf)) |
 | Audio input port | XLR, Jack, USB |
-| Audio channels | 1 |
+| Audio channels | 2 |
 
 # Organizers
 
