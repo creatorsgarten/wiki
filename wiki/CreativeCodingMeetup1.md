@@ -39,7 +39,7 @@
 
 ## Venue setup check list
 
-[A/V setup tldraw](https://www.tldraw.com/r/v2_c_ar31Sg3WnoGEtAT7RzYBR)
+![](https://user-images.githubusercontent.com/193136/232590204-bf722137-9dd0-4364-a84e-8bcccf80a642.png)
 
 | Item | Info |
 | ---- | ---- |
@@ -51,6 +51,9 @@
 | Audio equipments available | [2x wireless mic, 1x wireless mic receiver (manual)](https://assets.sennheiser.com/global-downloads/file/5551/XSwireless_EN_0212.pdf), 1x [mixer](https://www.behringer.com/product.html?modelCode=P0A0J) ([manual](https://mediadl.musictribe.com/media/sys_master/h07/h4f/8849860526110.pdf)), 1x [speaker](https://www.bose.com/en_us/support/products/bose_speakers_support/bose_pro_portable_support/l1-compact-system.html) ([manual](https://assets.bose.com/content/dam/Bose_DAM/Web/consumer_electronics/global/products/speakers/l1_compact_system/pdf/AM325334_00__OG_L1%20Compact_ENGvo.pdf)) |
 | Audio input port | XLR, Jack, USB |
 | Audio channels | 2 |
+
+[A/V setup tldraw](https://www.tldraw.com/r/v2_c_ar31Sg3WnoGEtAT7RzYBR)
+
 
 # Organizers
 
