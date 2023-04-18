@@ -59,7 +59,7 @@ The situation can be expressed as roughly 4 states.
 From discussion on 2023-04-17: The path forward with a least friction would be to go to Step 2 first (start a “limited company”).
 
 - Unlike other stages, this stage only requires 3 people and a physical address. Can probably be done within a few days.
-  - @dtinth: Interested in incorporation under these conditions: (1) all financial tranactions public; (2) only founders, no employees, no salary; (3) someone can provide their address as company address; (4) financial automation tools developed as open source.
+  - @dtinth: Interested in incorporation under these conditions: (1) all financial tranactions public; (2) only founders, no employees, no salary; (3) someone can provide their address as company address; (4) financial automation tools developed as open source; (5) aim to keep as little money as possible.
   - @chayapatr: This will increase the operating costs due to overhead of taxation and process involved (e.g. have to visit the Revenue Department yearly).
   - @dtinth: If we want to be at stage 3/4 someday, we better learn how to properly manage money. By being in stage 2, we get to learn how to manage money, which will prepare us for stage 3. By being a legal entity, we also get to access corporate banking APIs, which we cannot do as individuals. This allows us to better streamline/automate our financials.
 
