@@ -1,4 +1,6 @@
+:::lead
 **Our mission is to democratize creation for all.**
+:::
 
 Building things to solve one's own problems should be a possibility for everyone, regardless of their age, economic status, education, or opportunities, without relying on governments or corporations.
 
