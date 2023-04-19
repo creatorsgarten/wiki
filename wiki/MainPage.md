@@ -15,7 +15,7 @@
 
 - [[SelfIntroduction|What is Creatorsgarten?]]
 
-- [[Democratize Creation for All]]
+- [[Democratize Creation for All|Our mission: Democratize creation for all]]
 
 - [[Initiatives|Our initiatives]]
 
