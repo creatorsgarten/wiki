@@ -11,7 +11,7 @@
 # ร่วมงาน
 
 - **วันและเวลา:** วันพุธที่ 3 พฤษภาคม 2023
-- **สถานที่:** [[BokTeer]] — Common Ground @ 31F G Tower (tentative)
+- **สถานที่:** [[Cleverse]] — 13F, Rungrojthanakul Building (MRT [[Phra Ram 9]])
 - **ลงทะเบียน:** <https://www.eventpop.me/s/creative-coding-meetup>
 
 ---
@@ -25,7 +25,7 @@
 - [x] Define the purpose and goals of the meetup
 - [x] Identify potential co-organizers and form a team — [Recruited organizers from Facebook](https://www.facebook.com/dtinth/posts/pfbid02P9yrQ7a8Mse3JDqCQYLS3SLRcxkiKwNvu5MNyeqAbNdazDu2pMo2QZD5B4ZV7nEXl?comment_id=5270107556425658), Messenger group created
 - [x] Choose a suitable date and time for the event — Potential date: 3 May evening
-- [x] Select a suitable venue for the meetup — Potential venues: Bok teer, Muse space, True 5G Pro Hub, Cleverse HQ, BACC — Tentative venue: Bok teer
+- [x] Select a suitable venue for the meetup — Potential venues: Bok teer, Muse space, True 5G Pro Hub, Cleverse HQ, BACC — Tentative venue: [[Cleverse]]
 - [ ] Set a budget for the event and identify potential sponsors or partners
 - [x] Create a simple event website or landing page with all the necessary information
 - [x] Launch a call for proposals (CFP) for speaker submissions — [CFP form](https://forms.gle/sGYu38ZCPrPdFeH89)
