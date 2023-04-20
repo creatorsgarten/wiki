@@ -51,6 +51,10 @@ If a page has a pencil icon (:Icon{icon="mdi:lead-pencil"}) next to the title, t
 
 - **Edit on GitHub:** You can also make changes to the files in the [wiki repo][repo] and it will be reflected on this website immediately. If you are not an organization member, you can submit a pull request to make an external contribution to this wiki.
 
+## Getting notified of changes
+
+- [Join the **Bangkok Open Source Discord** server](https://grtn.org/bkkoss-discord) and [join the “Creatorsgarten wiki changelog” thread](https://discord.com/channels/1062609208106832002/1085847407583055883), then you will receive notifications over Discord.
+
 # Tech Stack
 
 This wiki is powered by [Contentsgarten](https://contentsgarten.netlify.app/wiki/MainPage), a headless wiki engine that [uses a GitHub repository as a data storage][repo]. The frontend is powered by [Astro](https://astro.build/)[^astro]. The source code for both Contentsgarten and this wiki is [hosted on the Contentsgarten GitHub monorepo](https://github.com/creatorsgarten/contentsgarten/tree/main/creatorsgarten).
