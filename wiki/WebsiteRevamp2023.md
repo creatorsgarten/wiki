@@ -5,4 +5,4 @@
 
 # Links
 
-- Figma link: TBA
+- Figma link: <https://www.figma.com/file/px5xY5kdhBYL0d47Kjccme?node-id=2:3>
