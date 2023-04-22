@@ -8,6 +8,7 @@
 
 - [React Meetup 09/22](https://grtn.org/e/reactmeetup0922)
 - [Svelte Meetup Bangkok #1](https://grtn.org/e/svelte1)
+- [Creative coding meetup](https://grtn.org/e/creativecodingmeetup)
 
 # Sponsored
 
