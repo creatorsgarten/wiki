@@ -26,16 +26,16 @@
 - [x] Identify potential co-organizers and form a team — [Recruited organizers from Facebook](https://www.facebook.com/dtinth/posts/pfbid02P9yrQ7a8Mse3JDqCQYLS3SLRcxkiKwNvu5MNyeqAbNdazDu2pMo2QZD5B4ZV7nEXl?comment_id=5270107556425658), Messenger group created
 - [x] Choose a suitable date and time for the event — Potential date: 3 May evening
 - [x] Select a suitable venue for the meetup — Potential venues: Bok teer, Muse space, True 5G Pro Hub, Cleverse HQ, BACC — Tentative venue: [[Cleverse]]
-- [ ] Set a budget for the event and identify potential sponsors or partners
+- [x] Set a budget for the event and identify potential sponsors or partners — Sponsored by [[Cleverse]]
 - [x] Create a simple event website or landing page with all the necessary information
 - [x] Launch a call for proposals (CFP) for speaker submissions — [CFP form](https://forms.gle/sGYu38ZCPrPdFeH89)
 - [x] Promote the CFP through social media, email newsletters, and relevant online communities — [CFP announcement](https://web.facebook.com/creatorsgarten/posts/pfbid0JkDJDAAKEQTLUrRemqfUcm7uSkA8AimSdQNDN7inq6dKhXq5hzBJRNpGgHaBEXjsl)
 - [x] Review and select the best proposals based on relevance, quality, and diversity
 - [x] Contact the selected speakers and confirm their participation
 - [x] Develop a schedule for the meetup, including speaker sessions, networking breaks, and any additional activities
-- [ ] Promote the event through social media, email newsletters, and relevant online communities
+- [x] Promote the event through social media, email newsletters, and relevant online communities
 - [x] Set up a registration system for attendees — Set up [Eventpop](https://eventpop.me/s/creative-coding-meetup)
-- [ ] Communicate with attendees about the event details, schedule, and any updates
+- [x] Communicate with attendees about the event details, schedule, and any updates
 
 ## Venue setup check list
 
