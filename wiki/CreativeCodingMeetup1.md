@@ -39,7 +39,9 @@
 
 ## Venue setup check list
 
-![](https://user-images.githubusercontent.com/193136/232590204-bf722137-9dd0-4364-a84e-8bcccf80a642.png)
+![CleanShot 2023-04-23 at 01 36 28](https://user-images.githubusercontent.com/22584594/233796269-c510fa11-51db-4cdb-bb81-fa98184c5631.png)
+
+> Table below does not reflect to venue change to Cleverse
 
 | Item | Info |
 | ---- | ---- |
