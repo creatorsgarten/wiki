@@ -1,5 +1,11 @@
 Use this sandbox to test out Markdown and stuff.
 
+# Draft
+
+:::Draft
+Use the Draft component to jot down stuff
+:::
+
 # RatingTally
 
 A RatingTally is used to display ratings in [[Feedback]] pages.
