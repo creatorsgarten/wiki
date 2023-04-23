@@ -32,14 +32,8 @@
 
 [ส่งผลงานได้ทางลิงค์ Application form ของ Eventpop][form]
 
-:::warning
-This is a draft
+# รายชื่อผลงาน
+
+:::tip[Coming soon]
+ผลงานที่ได้รับเลือกจะมาแสดงตรงนี้ในภายหลัง
 :::
-
-
-
-**Google Docs** https://docs.google.com/document/d/1n7iQgRj8crPQKLYl_m0EYOcDFEBR1T_djuSV__xsYuE/edit
-
-# Submitted arts
-
-wil show here
