@@ -3,7 +3,7 @@
 :::
 
 [evp]: https://eventpop.me/s/creative-coding-meetup
-[form]: https://www.eventpop.me/events/14949-creative-coding-meetup/application_forms/893/applicants/new?token=QM4QCS4KJAQ9WLRM
+[form]: https://grtn.org/creative-art-submit
 
 # Rules
 
