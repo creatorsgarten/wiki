@@ -15,6 +15,8 @@
 5. Walk to Rungrojthanakul Building.
 6. Go to 13th floor.
 
+![Map](https://user-images.githubusercontent.com/193136/233851115-80cd8034-4d18-477b-a3b1-c12108fc96d8.jpg)
+
 # Hosted events
 
 - [React Meetup 09/22](https://grtn.org/e/reactmeetup0922)
