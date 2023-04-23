@@ -6,3 +6,4 @@
 # Links
 
 - Figma link: <https://www.figma.com/file/px5xY5kdhBYL0d47Kjccme?node-id=2:3>
+- Wiki API: <https://wiki.creatorsgarten.org/api>
