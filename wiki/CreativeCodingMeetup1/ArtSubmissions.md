@@ -20,3 +20,7 @@ This is a draft
 - MP3 file or link (e.g. SoundCloud)
 - Can include link to source code or live demo (optional)
 - At least 60 seconds in length
+
+# Submitted arts
+
+wil show here
