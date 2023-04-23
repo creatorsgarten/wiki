@@ -2,6 +2,8 @@
 This is a draft
 :::
 
+**Google Docs** https://docs.google.com/document/d/1n7iQgRj8crPQKLYl_m0EYOcDFEBR1T_djuSV__xsYuE/edit
+
 - รับผลงาน 2 ประเภท: Audio กับ Visual
 - ผลงานที่ส่งเข้ามาจะรวบรวมไว้บนเว็บไซต์
 - ผลงาน Visual อาจนำมาแสดงเป็น Intermission ในช่วงเบรคหรือระหว่างเซสชั่น โดยเปิดโชว์ และ Stream
