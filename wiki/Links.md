@@ -3,3 +3,4 @@
 - [Creatorsgarten Facebook Page](https://www.facebook.com/creatorsgarten)
 - [Creatorsgarten YouTube Channel](https://www.youtube.com/@creatorsgarten)
 - [Creatorsgarten Discord Server](https://grtn.org/discord)
+- [Creatorsgarten Calendar](https://calendar.google.com/calendar/u/0?cid=Y3JlYXRvcnNnYXJ0ZW5AZ21haWwuY29t)
