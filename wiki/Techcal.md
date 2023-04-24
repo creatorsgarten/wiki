@@ -4,7 +4,9 @@
 
 </div>
 
-Originally built by [@thangman22](https://twitter.com/thangman22) in 2019, it is now maintained by Creatorsgarten and other volunteers. You can help maintain this calendar by [joining our Discord server.](https://garten.page.link/discord-techcal)
+Originally built by [@thangman22](https://twitter.com/thangman22) in 2019, it is now maintained by Creatorsgarten and other volunteers since. In 2023, [@rayriffy redesigned the website.](https://www.facebook.com/rayriffy/posts/pfbid0e53qrfUXxLZhEkXjmXMNHBGXqFp9i4HXv8ASHqCqiQgiswxiNyfVJUGCgUTwZW2Ql)
+
+You can help maintain this calendar by [joining our Discord server.](https://garten.page.link/discord-techcal)
 
 # FAQ
 
