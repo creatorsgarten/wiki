@@ -36,3 +36,8 @@
 - [rayriffy/stupid-adventure - adventure game ticket challenge](https://github.com/rayriffy/stupid-adventure)
 - [rayriffy/stupid-randomizer - prize awarding game](https://github.com/rayriffy/stupid-randomizer)
 - [SaltyAom/stpd6-cli - ctf ticket challenge](https://github.com/SaltyAom/stpd6-cli)
+
+# Documents
+
+- [Call for sponsors](https://github.com/creatorsgarten/wiki/files/11311575/625a7bfa-d623-4f60-b1ff-26a6aa1fff1c_Call_for_Sponsor_The_th_Stupid_Hackathon_in_Thailand.pdf)
+
