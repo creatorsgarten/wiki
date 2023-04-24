@@ -14,6 +14,11 @@
 - [StupidHackTH/stupidhackth3-bot - slack bot](https://github.com/StupidHackTH/stupidhackth3-bot)
 - [mikephul/prize_drop - prize awarding game](https://github.com/mikephul/prize_drop)
 
+# Assets
+
+- [Image assets](https://drive.google.com/drive/folders/1Bgfo8-yMf7VfjMBU1y6VG71DZgaQCGID?usp=sharing)
+- [Stupid image shader](https://codesandbox.io/s/oq16v67ovz)
+
 # Documents
 
 - [Notion workspace](https://stupidhackth3.notion.site/The-Stupid-Hackathon-Thailand-3-a2d594409d1e47b08a549a5b33d98495)
