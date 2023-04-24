@@ -1,8 +1,8 @@
 ---
-key: value
+thing: stuff
 ---
 
-Use this sandbox to test out Markdown and stuff.
+Use this sandbox to test out Markdown and {{page.thing}}.
 
 # Draft
 
