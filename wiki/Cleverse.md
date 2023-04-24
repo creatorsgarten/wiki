@@ -29,6 +29,13 @@
 - [Code Golf Party #1](https://grtn.org/e/golf1)
 - [Code in the Wind #1](https://grtn.org/e/wind)
 
+# A/V equipments
+
+- 86-inch television
+- Mixer: [A-2000 Series Mixer Power Amplifier](https://toathailand.com/document/37-a-2000-series-mixer-power-amplifiers-brochure-(ce-au-version)-brochure.pdf) (unconfirmed)
+  - 3x XLR input, 2x RCA input
+- Microphones: [Shure SVX](https://www.shure.com/en-ASIA/products/wireless-systems/svx-wireless-systems) (unconfirmed)
+
 # Nearby places to hang out
 
 See [[PhraRam9|Phra Ram 9]].
