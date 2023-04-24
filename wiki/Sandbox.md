@@ -7,7 +7,7 @@ Use this sandbox to test out Markdown and {{page.thing}}.
 # Draft
 
 :::Draft
-Use the Draft component to jot down stuff
+<span onmouseover="console.log('meow')">Use the Draft component to jot down stuff</span>
 :::
 
 # RatingTally
