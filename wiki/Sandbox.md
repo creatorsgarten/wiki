@@ -1,3 +1,7 @@
+---
+key: value
+---
+
 Use this sandbox to test out Markdown and stuff.
 
 # Draft
