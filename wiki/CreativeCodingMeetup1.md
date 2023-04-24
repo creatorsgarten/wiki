@@ -37,7 +37,7 @@
 - [x] Set up a registration system for attendees — Set up [Eventpop](https://eventpop.me/s/creative-coding-meetup)
 - [x] Communicate with attendees about the event details, schedule, and any updates
 
-## Venue setup check list
+## A/V setup
 
 ![CleanShot 2023-04-23 at 01 36 28](https://user-images.githubusercontent.com/22584594/233796269-c510fa11-51db-4cdb-bb81-fa98184c5631.png)
 
