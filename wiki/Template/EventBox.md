@@ -1,6 +1,6 @@
 <div style="padding: 0 1em; background: white; border: 1px solid #ccc">
 
-{%- liquid
+{% liquid
 assign n = name | default: 'sht2'
 assign base = 'Events/' | append: n | getpage
 assign prefixes = 'Coverage,Feedback,OrganizerNotes,Sponsorship' | split: ','
@@ -13,6 +13,6 @@ for prefix in prefixes
     echo ' &middot; [' | append: prefix | append: '](/wiki/' | append: p.ref | append: ')'
   endif
 endfor
--%}
+%}
 
 </div>
