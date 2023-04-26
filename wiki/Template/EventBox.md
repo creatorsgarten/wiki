@@ -8,7 +8,7 @@ assign prefixes = 'Coverage,Feedback,Sponsorship' | split: ','
 for prefix in prefixes
   assign p = prefix | append: '/' | append: n | getpage
   if p.exists
-    echo ' &middot; [' | append: prefix | append: '](/wiki/' | append: p.ref | append: ']'
+    echo ' &middot; [' | append: prefix | append: '](/wiki/' | append: p.ref | append: ')'
   endif
 endfor
 -%}
