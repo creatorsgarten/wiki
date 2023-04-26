@@ -1,4 +1,4 @@
-<div style="padding: 0 1em; background: white; border: 1px solid #ccc">
+<div style="padding: 0 1em; background: white; border: 1px solid #ccc; text-align: center">
 
 {% liquid
 assign n = name | default: 'sht2'
