@@ -17,3 +17,5 @@ title: Creative Coding Meetup
 - **วันและเวลา:** วันพุธที่ 3 พฤษภาคม 2023
 - **สถานที่:** [[Cleverse]] — 13F, Rungrojthanakul Building (MRT [[Phra Ram 9]])
 - **ลงทะเบียน:** <https://www.eventpop.me/s/creative-coding-meetup>
+
+{% render EventBox %}
