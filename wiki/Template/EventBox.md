@@ -1,3 +1,5 @@
+<div style="padding: 0 1em; background: white; border: 1px solid #ccc">
+
 {%- liquid
 assign n = name | default: 'sht2'
 assign base = 'Events/' | append: n | getpage
@@ -12,3 +14,5 @@ for prefix in prefixes
   endif
 endfor
 -%}
+
+</div>
