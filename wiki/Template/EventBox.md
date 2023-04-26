@@ -1,7 +1,7 @@
 {%- liquid
 assign n = name | default: 'sht2'
 assign base = 'Events/' | append: n | getpage
-assign prefixes = 'Coverage,Feedback,Sponsorship' | split: ','
+assign prefixes = 'Coverage,Feedback,OrganizerNotes,Sponsorship' | split: ','
 -%}
 **[[{{ base.ref }}|{{ base.data.name | default: n }}]]**
 {%- liquid
