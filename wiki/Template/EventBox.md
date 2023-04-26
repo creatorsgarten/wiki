@@ -1,5 +1,5 @@
 {%- liquid
-assign n = name | default: 'sht1'
+assign n = name | default: 'sht2'
 assign base = 'Events/' | append: n | getpage
 assign prefixes = 'Coverage,Feedback,Sponsorship' | split: ','
 -%}
