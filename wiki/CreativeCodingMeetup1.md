@@ -1,5 +1,5 @@
 ---
-redirect: OrganizerNotes/creativecodingmeetup
+redirect: Events/creativecodingmeetup
 ---
 
 :::lead
