@@ -18,7 +18,4 @@ In most Creatorsgarten events, we use a form for collecting feedback after the e
 
 # Feedback Pages
 
-{% assign subpages = ref | getsubpages -%}
-{%- for subpage in subpages %}
-- [[{{subpage.ref}}]]
-{%- endfor -%}
+{% render 'SubpageList' %}
