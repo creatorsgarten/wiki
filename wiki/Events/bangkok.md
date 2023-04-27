@@ -16,3 +16,5 @@ hosts: ['Creatorsgarten']
 กิจกรรมนี้ จัดโดยสมาคมโปรแกรมเมอร์ไทย และกลุ่ม Creatorsgarten โดยได้รับความร่วมมือสนับสนุนจากกรุงเทพมหานคร
 
 `youtube: hr3dEJO6L3o`
+
+`oembed: https://twitter.com/itpiki/status/1650333371505995782`
