@@ -1,8 +1,8 @@
 # Social media
 
-- [Creatorsgarten Facebook Page](https://www.facebook.com/creatorsgarten) ({% render 'Grtn', path: 'fb' %})
-- [Creatorsgarten Instagram Profile](https://www.instagram.com/creatorsgarten/)
-- [Creatorsgarten YouTube Channel](https://www.youtube.com/@creatorsgarten)
+- [Creatorsgarten Facebook Page](https://www.facebook.com/creatorsgarten) {% render 'Grtn', path: 'fb' %}
+- [Creatorsgarten Instagram Profile](https://www.instagram.com/creatorsgarten/) {% render 'Grtn', path: 'ig' %}
+- [Creatorsgarten YouTube Channel](https://www.youtube.com/@creatorsgarten) {% render 'Grtn', path: 'ig' %}
 
 # On GitHub
 
