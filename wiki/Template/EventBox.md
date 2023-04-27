@@ -2,7 +2,7 @@
 <div style="margin: -1em 0">
 
 {% liquid
-assign n = name | default: 'sht2'
+assign n = name | default: 'sht1'
 assign base = 'Events/' | append: n | get_page
 assign prefixes = 'Coverage,Feedback,OrganizerNotes,Sponsorship' | split: ','
 -%}
