@@ -1,3 +1,5 @@
+{% render 'EventBox', name: 'sht1' %}
+
 # Write-ups
 
 - [“[Review] The Stupid Hackathon Bangkokที่ไม่ได้โง่ตามชื่องาน” by Tianwit Moungnoycharoen](https://medium.com/@jay44411/review-the-stupid-hackathon-bangkokที่ไม่ได้โง่ตามงาน-3a79b025f8a1)
