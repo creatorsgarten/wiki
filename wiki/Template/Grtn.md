@@ -1,0 +1,1 @@
+{% assign path = path | default: 'links' -%}[:Icon[ic:outline-shortcut] grtn.org/{{ path }}](https://grtn.org/{{ path }})
