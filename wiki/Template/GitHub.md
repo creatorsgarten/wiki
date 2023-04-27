@@ -4,4 +4,4 @@ unless repo contains '/'
   assign repo = 'creatorsgarten/' | append: repo
 endunless
 -%}
-[:Icon{icon=codicon:github}{{ repo }}](https://github.com/{{ repo }})
+[:Icon{icon=codicon:github} {{ repo }}](https://github.com/{{ repo }})
