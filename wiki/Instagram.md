@@ -1,5 +1,5 @@
 :::lead
-This is the wiki page for the [Creatorsgarten](https://creatorsgarten.org/) Instagram account.
+This is the wiki page for the [Creatorsgarten](https://creatorsgarten.org/) [Instagram account](https://www.instagram.com/creatorsgarten/).
 :::
 
 # Links
