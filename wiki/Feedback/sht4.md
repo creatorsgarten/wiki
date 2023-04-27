@@ -1,3 +1,5 @@
+{% render 'EventBox', name: ref %}
+
 **what did you like about this hackathon?  what did you enjoy the most?**
 
 - Like it very much, like a friendly meeting

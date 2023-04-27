@@ -1,3 +1,5 @@
+{% render 'EventBox', name: ref %}
+
 # Write-ups
 
 - [“วันนี้จะมาเล่าประสบการณ์อย่างละเอียด(?)หลังจากร่วมงาน The Stupid Hackathon Thailand #sht4 กันค่ะ!” by พพพ พิชชี่ พอเพียง](https://web.facebook.com/pichyapa.khanapattanawong.3/posts/555634921982030)

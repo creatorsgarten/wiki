@@ -1,3 +1,5 @@
+{% render 'EventBox', name: ref %}
+
 # Write-ups
 
 - [“OD + My Memory w/ The 5th Stupid Hackathon Thailand” by @balabeltmimi](https://balabeltmimi.medium.com/od-my-memory-w-the-5th-stupid-hackathon-thailand-6914ba8b5d34)

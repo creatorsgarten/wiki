@@ -1,3 +1,5 @@
+{% render 'EventBox', name: ref %}
+
 **What do you like about this event? What did you enjoy the most?**
 
 - สนุกครับ ได้มาเล่นเกม แล้วก็ได้รู้จักเพื่อนๆสาย Dev เพิ่มขึ้นด้วย (ที่สำคัญอาหารอร่อยมากครับ)
