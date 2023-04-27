@@ -1,3 +1,5 @@
+{% render 'EventBox', name: ref %}
+
 **What do you like about this hackathon? What did you enjoy the most?**
 
 - ช่วงโชว์ผลงาน แล้วก็ช่วงพี่ไทโชว์ของ
