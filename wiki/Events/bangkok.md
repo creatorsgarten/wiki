@@ -14,7 +14,3 @@ hosts: ['Creatorsgarten']
 กิจกรรม Bangkok Open Source Hackathon เราอยากจะสนับสนุนวัฒนธรรมของ Open Source และ Public Code, Public Money ในประเทศไทย เพื่อให้ประชาชนมีส่วนร่วมในการแก้ไขปัญหาได้มากขึ้น และเรียนรู้ซึ่งกันและกัน
 
 กิจกรรมนี้ จัดโดยสมาคมโปรแกรมเมอร์ไทย และกลุ่ม Creatorsgarten โดยได้รับความร่วมมือสนับสนุนจากกรุงเทพมหานคร
-
-`youtube: hr3dEJO6L3o`
-
-`oembed: https://twitter.com/itpiki/status/1650333371505995782`
