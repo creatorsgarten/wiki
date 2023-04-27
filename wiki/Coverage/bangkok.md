@@ -1,3 +1,5 @@
+{% render 'EventBox', name: 'bangkok' %}
+
 # Articles
 
 - The MATTER? (TBA)

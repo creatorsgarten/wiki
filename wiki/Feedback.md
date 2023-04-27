@@ -15,3 +15,7 @@ In most Creatorsgarten events, we use a form for collecting feedback after the e
 # Google Forms template
 
 [&rarr; Feedback template on Google Forms](https://docs.google.com/forms/d/e/1FAIpQLScKIdMybaZNWKYhO5nOxzBgM-YzPagF27qlTJarVe3yvHXKEg/viewform?usp=sf_link)
+
+# Feedback Pages
+
+{% render 'SubpageList', of: ref %}
