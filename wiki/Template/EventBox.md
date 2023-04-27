@@ -9,7 +9,7 @@ assign prefixes = 'Coverage,Feedback,OrganizerNotes,Sponsorship' | split: ','
 **[[{{ base.ref }}|{{ base.data.name | default: base.data.title | default: n }}]]**
 {%- liquid
 for prefix in prefixes
-  assign p = prefix | append: '/' | append: n | getpage
+  assign p = prefix | append: '/' | append: n | get_page
   if p.exists
     echo ' &middot; [' | append: prefix | append: '](/wiki/' | append: p.ref | append: ')'
   endif
