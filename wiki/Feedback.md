@@ -18,4 +18,4 @@ In most Creatorsgarten events, we use a form for collecting feedback after the e
 
 # Feedback Pages
 
-{% render 'SubpageList' %}
+{% render 'SubpageList', of: ref %}
