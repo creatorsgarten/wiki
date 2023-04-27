@@ -10,6 +10,8 @@ hosts: ['Creatorsgarten']
 **งาน Creative coding meetup** เป้าหมายคือ อยากชวนคนที่ชอบเรื่อง [[creative coding]] (เช่น สร้างภาพ สร้างเสียง หรือแต่งเพลงด้วยโค้ด) ได้มาเจอกัน เปิดเวทีให้โชว์ของ แลกเปลี่ยนความรู้ และได้ทำความรู้จักกัน และให้คนที่สนใจได้มาเปิดโลกของ creative coding
 :::
 
+{% render 'EventBox', name: 'creativecodingmeetup' %}
+
 # รูปแบบงาน
 
 - มีทอัพชิลๆ ให้คนที่สนใจได้มาเจอกัน
@@ -21,5 +23,3 @@ hosts: ['Creatorsgarten']
 - **วันและเวลา:** วันพุธที่ 3 พฤษภาคม 2023
 - **สถานที่:** [[Cleverse]] — 13F, Rungrojthanakul Building (MRT [[Phra Ram 9]])
 - **ลงทะเบียน:** <https://www.eventpop.me/s/creative-coding-meetup>
-
-{% render 'EventBox', name: 'creativecodingmeetup' %}
