@@ -1,1 +1,1 @@
-{% assign path = path | default: 'links' -%}[<span style="opacity: 0.5">[</span>:Icon{icon=ic:outline-shortcut}grtn.org/{{ path }}<span style="opacity: 0.5">]</span>](https://grtn.org/{{ path }})
+<span class="font-mono">{% assign path = path | default: 'links' -%}[<span style="opacity: 0.5">[</span>:Icon{icon=ic:outline-shortcut}grtn.org/{{ path }}<span style="opacity: 0.5">]</span>](https://grtn.org/{{ path }})</span>
