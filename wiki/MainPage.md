@@ -19,6 +19,8 @@
 
 - [[Initiatives|Our initiatives]]
 
+- [[DigitalPresence|Our digital presence]]
+
 - [[Discord|Our Discord servers]]
 
 - [[Links]]
