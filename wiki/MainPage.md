@@ -36,7 +36,7 @@
   | [stupid hackathon thailand the fourth / virtual 2020](https://grtn.org/e/sht4) | [Coverage](/wiki/Coverage/sht4) &middot; [Feedback](/wiki/Feedback/sht4) |
   | [The Stupid Hackathon Thailand #3](https://grtn.org/e/sht3) | [Coverage](/wiki/Coverage/sht3) &middot; [Feedback](/wiki/Feedback/sht3) |
   | [The Stupid Hackathon Thailand #2](https://grtn.org/e/sht2) | [Coverage](/wiki/Coverage/sht2) &middot; [Feedback](/wiki/Feedback/sht2) |
-  | [The Stupid Hackathon Bangkok](https://grtn.org/e/sht1) | [Coverage](/wiki/Coverage/sht1) &middot; [Feedback](/wiki/Feedback/sht1) |
+  | [The Stupid Hackathon Bangkok](https://grtn.org/e/sht1) | [Coverage](/wiki/Coverage/sht1) |
 
 - Knowledge base
   - [[Audio video equipments]]
