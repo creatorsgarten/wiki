@@ -1,3 +1,5 @@
+{% render 'EventBox', name: ref %}
+
 **What do you like about this event? What did you enjoy the most?**
 
 - ชอบตรงอิสระในการเลือกหัวข้อ แล้วก็ความปั่นในงาน
