@@ -1,4 +1,2 @@
 {% assign subpages = of | getsubpages -%}
-{%- for subpage in subpages %}
-- [[{{subpage.ref}}]]
-{%- endfor -%}
+{%- render 'PageList', pages: subpages -%}
