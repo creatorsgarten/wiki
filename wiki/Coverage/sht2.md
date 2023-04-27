@@ -1,3 +1,5 @@
+{% render 'EventBox', name: 'sht2' %}
+
 # Write-ups
 
 - [“มาเล่างาน The Stupid Hackathon Thailand #2 ให้อ่านกันค่ะ” by Natnalin Sompaiboon, _#TEAMAPPMAN_](https://medium.com/teamappman/มาเล่างาน-the-stupid-hackathon-thailand-2-ให้อ่านกันค่ะ-a6310bbe47e4)
