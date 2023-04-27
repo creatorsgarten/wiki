@@ -1,4 +1,4 @@
-{% assign subpages = of | default: ref | default: 'Coverage' | getsubpages -%}
+{% assign subpages = of | getsubpages -%}
 {%- for subpage in subpages %}
 - [[{{subpage.ref}}]]
 {%- endfor -%}
