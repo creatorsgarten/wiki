@@ -34,7 +34,7 @@ hosts: ['Creatorsgarten']
 
 ## BKK Changelog
 
-<iframe loading="lazy" src="https://www.youtube.com/embed/inkQI5yRd_Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="mx-auto w-full max-w-2xl aspect-video"></iframe>
+`youtube: inkQI5yRd_Y`
 
 [GitHub](https://github.com/creatorsgarten/bkkchangelog)
 
