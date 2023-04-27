@@ -1,3 +1,5 @@
+{% render 'EventBox', name: 'bangkok' %}
+
 **What do you like about this event? What did you enjoy the most?**
 
 * People
