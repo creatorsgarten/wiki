@@ -1,3 +1,5 @@
+{% render 'EventBox', name: ref %}
+
 # Write-ups
 
 - [“[Review] นั่งโง่ ๆ กับงาน Stupid Hackathon Thailand #3” by Natchapol Srisang](https://medium.com/@utopiabeam/review-นั่งโง่-ๆ-กับงาน-stupid-hackathon-thailand-3-d3502c536312)
