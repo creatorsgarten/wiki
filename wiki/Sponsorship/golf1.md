@@ -1,3 +1,5 @@
+{% render 'EventBox', name: ref %}
+
 Sponsorship areas:
 
 - **Monetary sponsor** — THB 8,000 per sponsor. This will help us cover the costs of the venue and beverages, and provides us funds in case of emergency (4/5 sponsor slots available).
