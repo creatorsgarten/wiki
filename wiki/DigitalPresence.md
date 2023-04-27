@@ -6,7 +6,7 @@
 
 # On GitHub
 
-Our [GitHub organization](https://github.com/creatorsgarten) hosts related software projects.
+Our [GitHub organization](https://github.com/creatorsgarten) {% render 'Grtn', path: 'gh' %} hosts related software projects.
 
 - [**configuration**](https://github.com/creatorsgarten/configuration) — The configuration repository holds the configuration for the GitHub organization, such as who are the members, which teams are available, which teams have access to which repos. [[GitOps|They are all managed in this central repository.]]
 - [**creatorsgarten.org**](https://github.com/creatorsgarten/creatorsgarten.org) — The website source code.
