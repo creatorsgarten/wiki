@@ -1,3 +1,5 @@
+{% render 'EventBox', name: ref %}
+
 # Live
 
 - [[Talk Session] - "เบื้องหลังเว็บอ่านการ์ตูนชนิดหนึ่ง ที่เฉพาะเจาะจงที่เร็วที่สุดในโลก" - a special session by SaltyAom](https://www.facebook.com/watch/live/?ref=watch_permalink&v=697408548021745)
