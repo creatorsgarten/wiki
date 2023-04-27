@@ -1,3 +1,5 @@
+{% render 'EventBox', name: ref %}
+
 **Please rate your overall experience about this hackathon! :)**
 
 ::RatingTally{tally="3=1,6=1,7=5,8=4,9=8,10=9"}
