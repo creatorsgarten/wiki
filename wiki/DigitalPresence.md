@@ -12,3 +12,11 @@ Our [GitHub organization](https://github.com/creatorsgarten) hosts related softw
 - [**creatorsgarten.org**](https://github.com/creatorsgarten/creatorsgarten.org) — The website source code.
 - [**grtn.org**](https://github.com/creatorsgarten/grtn.org) — The configuration for our short domain, grtn.org. Event organizers can create short links by [sending pull requests to this file](https://github.com/creatorsgarten/grtn.org/blob/main/_redirects).
 - [**contentsgarten**](https://github.com/creatorsgarten/contentsgarten) — Source code for the wiki engine used on the website.
+
+# Online community
+
+- [Creatorsgarten Discord Server](https://grtn.org/discord) {% render 'Grtn', path: 'dc' %}
+
+# Calendar
+
+- [Creatorsgarten Calendar](https://calendar.google.com/calendar/u/0?cid=Y3JlYXRvcnNnYXJ0ZW5AZ21haWwuY29t) {% render 'Grtn', path: 'cal' %}
