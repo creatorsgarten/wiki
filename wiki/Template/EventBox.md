@@ -1,4 +1,5 @@
 <div style="padding: 0 1em; background: white; border: 1px solid #ccc; text-align: center">
+<div style="margin: -0.5em 0">
 
 {% liquid
 assign n = name | default: 'sht2'
@@ -15,4 +16,5 @@ for prefix in prefixes
 endfor
 %}
 
+</div>
 </div>
