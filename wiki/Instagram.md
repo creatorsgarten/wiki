@@ -1,5 +1,5 @@
 :::lead
-This is the wiki page for the [Creatorsgarten](https://creatorsgarten.org/) [Instagram account](https://www.instagram.com/creatorsgarten/).
+This is the page for every links mentioned in the [Creatorsgarten](https://creatorsgarten.org/).
 :::
 
 # Links
@@ -7,3 +7,5 @@ This is the wiki page for the [Creatorsgarten](https://creatorsgarten.org/) [Ins
 | Title | Link |
 | --- | --- |
 | [Creative Coding Meetup](https://grtn.org/e/creativecodingmeetup) | [Submit your creative art](https://grtn.org/creative-art-submit) |
+| Social Media | [Facebook](https://grtn.org/facebook) [Instagram](https://grtn.org/instagram) [Discord](https://grtn.org/discord) [YouTube](https://grtn.org/youtube) |
+| Social Media | [Facebook](http://grtn.org/fb) [Instagram] |
