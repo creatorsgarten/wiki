@@ -42,7 +42,7 @@ A project to archive and generate a change log based on Traffy Fondue data.
 
 ## Thailand Area Ranking
 
-<iframe loading="lazy" src="https://www.youtube.com/embed/TTU2oSlbT_w" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="mx-auto w-full max-w-2xl aspect-video"></iframe>
+`youtube: TTU2oSlbT_w`
 
 [Web](https://tar.tensormik.com/) · [GitHub](https://github.com/kang49/thailand_area_ranking)
 
@@ -50,7 +50,7 @@ Thailand Area Ranking is an OpenSource project that helps users find suitable ar
 
 ## Bank For All
 
-<iframe loading="lazy" src="https://www.youtube.com/embed/su14UUhSVrM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="mx-auto w-full max-w-2xl aspect-video"></iframe>
+`youtube: su14UUhSVrM`
 
 [GitHub](https://github.com/bankforall/bank4all)
 
@@ -58,7 +58,7 @@ This is an open-source project aimed at creating a peer sharing and microfinance
 
 ## BKK Reward Hunter
 
-<iframe loading="lazy" src="https://www.youtube.com/embed/yd3uA1XOtww" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="mx-auto w-full max-w-2xl aspect-video"></iframe>
+`youtube: yd3uA1XOtww`
 
 [GitHub](https://github.com/wasdee/bkk-reward-hunter)
 
@@ -70,7 +70,7 @@ This is an open-source project aimed at creating a peer sharing and microfinance
 
 ## Ratchagitja
 
-<iframe loading="lazy" src="https://www.youtube.com/embed/8EC1OLZOZyo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="mx-auto w-full max-w-2xl aspect-video"></iframe>
+`youtube: 8EC1OLZOZyo`
 
 [GitHub](https://github.com/narze/ratchagitja.md)
 
@@ -78,7 +78,7 @@ This is an open-source project aimed at creating a peer sharing and microfinance
 
 ## PolicyTracka
 
-<iframe loading="lazy" src="https://www.youtube.com/embed/JhhmE1chbWQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="mx-auto w-full max-w-2xl aspect-video"></iframe>
+`youtube: JhhmE1chbWQ`
 
 [Web](https://policytracka.vercel.app) · [GitHub](https://github.com/policytracka/policytracka)
 
@@ -86,7 +86,7 @@ This is an open-source project aimed at creating a peer sharing and microfinance
 
 ## Fill You in the Blank
 
-<iframe loading="lazy" src="https://www.youtube.com/embed/on25fTHEtus" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="mx-auto w-full max-w-2xl aspect-video"></iframe>
+`youtube: on25fTHEtus`
 
 [Web](https://fill-you-in-the-blank.vercel.app/) · [GitHub](https://github.com/nattaaek/fill-you-in-the-blank) · [Discord](https://discord.gg/EJkkPTSRYC)
 
@@ -94,7 +94,7 @@ Fill You in the Blank (Bangkok CSR Matching Project) เป็นโครงก
 
 ## WeSpace
 
-<iframe loading="lazy" src="https://www.youtube.com/embed/ErotrrAm0eU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen class="mx-auto w-full max-w-2xl aspect-video"></iframe>
+`youtube: ErotrrAm0eU`
 
 [GitHub](https://github.com/BKK-WeSpace/tree-population)
 
