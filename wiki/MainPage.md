@@ -27,8 +27,8 @@
 
   | Event | Links |
   | --- | --- |
-  | [[Mathematics Night [TBD]]]
-  | [[Functional Programming Meetup]]
+  | [[Mathematics Night]] [TBD]
+  | [Functional Programming Meetup](https://www.eventpop.me/e/15089)
   | [Creative Coding Meetup](https://grtn.org/e/creativecodingmeetup) | [Organizer’s notes](/wiki/OrganizerNotes/creativecodingmeetup) |
   | [Bangkok Open Source Hackathon](https://grtn.org/e/bangkok) | [Coverage](/wiki/Coverage/bangkok) &middot; [Feedback](/wiki/Feedback/bangkok) |
   | [Code Golf Party #1](https://grtn.org/e/golf1) | [Feedback](/wiki/Feedback/golf1) &middot; [Sponsorship](/wiki/Sponsorship/golf1) |
