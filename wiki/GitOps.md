@@ -7,4 +7,6 @@ The core idea of GitOps is having a Git repository that always contains declarat
 [^p1]: [OpenGitOps (2021). “GitOps Principles.”](<https://github.com/open-gitops/documents/blob/main/PRINCIPLES.md>)
 [^p2]: [“What is GitOps?” _GitOps.tech_](https://www.gitops.tech/)
 
+This video explains how GitOps is being used in Creatorsgarten:
+
 `youtube: GR2tKv93BDY`
