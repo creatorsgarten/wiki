@@ -23,8 +23,6 @@
 
 - [[Discord|Our Discord servers]]
 
-- [[Links]]
-
 - Information pages about our [events](https://creatorsgarten.org/events/)
 
   | Event | Links |
