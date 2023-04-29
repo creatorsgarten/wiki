@@ -19,7 +19,7 @@
 
 # Hosted events
 
-- [React Meetup 09/22](https://grtn.org/e/reactmeetup0922)
+- {% render 'Event', name: 'reactmeetup0922' %}
 - [Svelte Meetup Bangkok #1](https://grtn.org/e/svelte1)
 - [Bangkok Open Source Hackathon](https://grtn.org/e/bangkok)
 - [Creative coding meetup](https://grtn.org/e/creativecodingmeetup)
