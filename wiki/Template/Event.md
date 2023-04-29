@@ -1,5 +1,4 @@
 {% liquid
 assign n = name | default: 'sht1' | split: '/' | last
 assign base = 'Events/' | append: n | get_page
--%}
-[[{{ base.ref }}|{{ base.data.name | default: base.data.title | default: n }}]]
+-%}:Icon{icon='{"body":"<path d=\"M158.5 88C158.5 126.936 126.936 158.5 88 158.5C49.0639 158.5 17.5 126.936 17.5 88C17.5 49.0639 49.0639 17.5 88 17.5C126.936 17.5 158.5 49.0639 158.5 88ZM225.5 225.5H366.5V366.5H225.5V225.5ZM225.5 18.4551C299.056 26.534 357.466 84.9439 365.545 158.5L225.5 158.5L225.5 18.4551ZM158.5 365.545C84.9439 357.466 26.534 299.056 18.4551 225.5L158.5 225.5L158.5 365.545Z\" stroke=\"black\" stroke-width=\"35\"/>","width":384,"height":384}'} [[{{ base.ref }}|{{ base.data.name | default: base.data.title | default: n }}]]
