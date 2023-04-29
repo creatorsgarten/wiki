@@ -5,6 +5,7 @@ date: 2 July 2022
 endDate: 3 July 2022
 site: 'https://stupidhackth.github.io/6'
 hosts: ['Creatorsgarten', 'StupidHackTH']
+eventpopId: 13089
 ---
 
 # About
