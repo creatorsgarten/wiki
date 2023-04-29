@@ -26,4 +26,4 @@ await require('jose').generateKeyPair('RS256').then(k => ({
 
 Please note that JWTs generated with a development keypair cannot be used to edit the wiki in production.
 
-:::Draft
+:::
