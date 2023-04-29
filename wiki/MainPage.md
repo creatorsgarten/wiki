@@ -23,7 +23,7 @@
 
 - [[Discord|Our Discord servers]]
 
-- [[Managing events with MC/OD]]
+- [[Managing events with MC-OD]]
 
 - Information pages about our [events](https://creatorsgarten.org/events/)
 
