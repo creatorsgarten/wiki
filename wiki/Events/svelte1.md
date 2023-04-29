@@ -4,6 +4,7 @@ location: Cleverse Office
 date: 24 June 2022
 site: https://www.eventpop.me/e/13132
 hosts: ['Creatorsgarten']
+eventpopId: 13132
 ---
 
 # 👾 งาน Svelte Meetup ครั้งแรกในไทย!
