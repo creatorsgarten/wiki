@@ -20,6 +20,6 @@ hosts: ['Creatorsgarten']
 
 # ร่วมงาน
 
-- **วันและเวลา:** วันพุธที่ 3 พฤษภาคม 2023
+- **วันและเวลา:** วันพุธที่ 3 พฤษภาคม 2023 เวลา 18:00 - 22:00
 - **สถานที่:** [[Cleverse]] — 13F, Rungrojthanakul Building (MRT [[Phra Ram 9]])
 - **ลงทะเบียน:** <https://www.eventpop.me/s/creative-coding-meetup>
