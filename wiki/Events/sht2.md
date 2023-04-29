@@ -5,6 +5,7 @@ date: 14 July 2018
 endDate: 15 July 2018
 site: https://stupidhackth.github.io/2
 hosts: ['Creatorsgarten', 'StupidHackTH']
+eventpopId: 3789
 ---
 
 # About
