@@ -1,6 +1,8 @@
 :::lead
-**grtn.org** is a URL short link website for [Creatorsgarten](https://creatorsgarten.org)'s assets. It is [[GitOps|managed on GitHub]] at {% render 'GitHub', repo: 'grtn.org' %}.
+**grtn.org** is a URL short link website for [Creatorsgarten](https://creatorsgarten.org)'s assets.
 :::
+
+It is [[GitOps|managed on GitHub]] at {% render 'GitHub', repo: 'grtn.org' %}.
 
 # Quick links
 
