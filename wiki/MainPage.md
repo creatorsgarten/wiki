@@ -61,5 +61,5 @@ If a page has a pencil icon (:Icon{icon="pixelarticons:edit"}) next to the title
 
 # Tech Stack
 
-This website ({% render 'GitHub', name: 'creatorsgarten.org' %}) is built with [Astro](https://astro.build/).
-This wiki is powered by [Contentsgarten](https://contentsgarten.netlify.app/wiki/MainPage) ({% render 'GitHub', name: 'contentsgarten' %}), a headless wiki engine that uses a GitHub repository as a data storage ({% render 'GitHub', name: 'wiki' %}).
+This website ({% render 'GitHub', repo: 'creatorsgarten.org' %}) is built with [Astro](https://astro.build/).
+This wiki is powered by [Contentsgarten](https://contentsgarten.netlify.app/wiki/MainPage) ({% render 'GitHub', repo: 'contentsgarten' %}), a headless wiki engine that uses a GitHub repository as a data storage ({% render 'GitHub', repo: 'wiki' %}).
