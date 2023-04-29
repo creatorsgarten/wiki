@@ -4,6 +4,7 @@ location: Seven Peaks
 date: 17 October 2020
 site: https://www.eventpop.me/e/9912/hacktoberfest-bkk-2020
 hosts: ['Creatorsgarten']
+eventpopId: 9912
 ---
 
 # About
