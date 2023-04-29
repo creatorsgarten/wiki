@@ -20,14 +20,15 @@
 # Hosted events
 
 - {% render 'Event', name: 'reactmeetup0922' %}
-- [Svelte Meetup Bangkok #1](https://grtn.org/e/svelte1)
-- [Bangkok Open Source Hackathon](https://grtn.org/e/bangkok)
-- [Creative coding meetup](https://grtn.org/e/creativecodingmeetup)
+- {% render 'Event', name: 'svelte1' %}
+- {% render 'Event', name: 'bangkok' %}
+- {% render 'Event', name: 'creativecodingmeetup' %}
+- {% render 'Event', name: 'functional' %}
 
 # Sponsored
 
-- [Code Golf Party #1](https://grtn.org/e/golf1)
-- [Code in the Wind #1](https://grtn.org/e/wind)
+- {% render 'Event', name: 'golf1' %}
+- {% render 'Event', name: 'wind' %}
 
 # A/V equipments
 
