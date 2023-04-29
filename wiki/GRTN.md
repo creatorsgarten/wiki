@@ -3,4 +3,4 @@
 :::
 
 - GitHub repo: {% render 'GitHub', repo: 'grtn.org' %}
-- List of short links: {% render 'Grtn', repo: 'ls' %}
+- List of short links: {% render 'Grtn', path: 'ls' %}
