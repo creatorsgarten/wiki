@@ -4,6 +4,7 @@ location: Seven Peaks
 date: 1 October 2020
 site: https://www.eventpop.me/e/9622/bkkjs14
 hosts: ['Creatorsgarten']
+eventpopId: 9622
 ---
 
 # About
