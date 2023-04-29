@@ -4,6 +4,7 @@ location: CODE CRAFT
 date: 9 February 2023
 site: https://www.eventpop.me/s/love
 hosts: ['Creatorsgarten']
+eventpopId: 14550
 ---
 
 งาน Data Driven Love ครั้งที่ 2 กลับมาอีกครั้ง วันพฤหัสที่ 9 กุมภาพันธ์ 2023 💜
