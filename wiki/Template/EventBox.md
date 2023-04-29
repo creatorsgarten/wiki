@@ -3,10 +3,9 @@
 
 {% liquid
 assign n = name | default: 'sht1' | split: '/' | last
-assign base = 'Events/' | append: n | get_page
 assign prefixes = 'Coverage,Feedback,OrganizerNotes,Sponsorship' | split: ','
 -%}
-**[[{{ base.ref }}|{{ base.data.name | default: base.data.title | default: n }}]]**
+**{% render 'Event', name: name %}**
 {%- liquid
 for prefix in prefixes
   assign p = prefix | append: '/' | append: n | get_page
