@@ -28,49 +28,49 @@ hosts: ['Creatorsgarten']
 
 ## Interactive art
 
-**Speaker:** [Pun Pitanpitayarat](https://www.punpitan.com/)
+**Speaker:** [Pun Pitanpitayarat](https://www.punpitan.com/) {% render 'Instagram', user: 'punpitan' %}
 
 เบื้องหลังงาน interactive และ immersive art ที่ผนวกศิลปะกับเทคโนโลยีเข้าด้วยกันเพื่อเล่าเรื่องราวผ่านการใช้เทคนิคพิเศษต่างๆและทำให้ผู้ชมได้มีส่วนร่วมในชิ้นงาน
 
 ## Regular expression as an irregular musical expression
 
-**Speaker:** Karnpapon Boonput
+**Speaker:** Karnpapon Boonput {% render 'GitHub', user: 'karnpapon' %}
 
 an exploration of how seemingly incomprehensible patterns and rules can be translated into a form of artistic expression.
 
 ## Fractal Animation with SVG
 
-**Speaker:** [Nattawut Phetmak](https://neizod.dev/)
+**Speaker:** [Nattawut Phetmak](https://neizod.dev/) {% render 'GitHub', user: 'neizod' %}
 
 แฟร็กทัล (fractal) เป็นวัตถุทางเรขาคณิตที่สามารถซูมดูได้อย่างไม่มีที่สิ้นสุด จึงเหมาะกับการนำมาทำภาพแอนิเมชันสะกดจิตเป็นอย่างมาก และมันจะมีอะไรดีกว่า SVG ขนาดเล็กจิ๋วอีกหละ ...
 
 ## The power of signed distance functions
 
-**Speaker:** [Thai Pangsakulyanont](https://dt.in.th/)
+**Speaker:** [Thai Pangsakulyanont](https://dt.in.th/) {% render 'GitHub', user: 'dtinth' %} {% render 'YouTube', user: 'dtinth' %}
 
 Signed distance function (SDF) เป็นคอนเซปต์นึงที่เรียบง่ายแต่ทรงพลังมากสำหรับการทำ procedural graphic รูปที่ใช้เปิดตัวงานตอนแรกก็สร้างด้วย SDF
 
 ## ทำเกมบนเว็บแบบไม่ใช้ game engine นั้นเป็นอย่างไร
 
-**Speaker:** Wachirawit Wacharak
+**Speaker:** Wachirawit Wacharak {% render 'GitHub', user: 'Tauhoo' %}
 
 จะเป็นการแชร์ประสบการณ์การพัฒนาเกม 3D บนเว็บไซต์ โดยไม่ใช้ game engine จากมุมมอง developer คนหนึ่งที่ไม่เคยทำเกม
 
 ## ฉันอยากให้ AI เป็นทาสจะทำอย่างไร
 
-**Speaker:** [Watid Jinggit](https://viz.studio/)
+**Speaker:** [Watid Jinggit](https://viz.studio/) {% render 'Facebook', user: 'VIZstudioCompany' %}
 
 เป็นเรื่องของ Designer กลุ่มนึง ที่เขียน Code ก็ไม่เป็นแถมภาษาอังกฤษยัง snakeๆ fishๆ แต่ก็ยังอยากจะใช้ AI ทำงานแทนตัวเอง เรื่องแบบนี้จะเป็นไปได้เหรอ~ เเต่บอกเลยว่า เราทำได้ แล้วก็อยากมาบอกเล่าเรื่องราว แสนรันทดของ Designer ที่ปากกัดตีนถีบ ต่อสู้ดิ้นรนในยุคที่ AI กำลังจะมาแย่งงานในอนาคต
 
 ## Sonic thread — Interactive sonic experience with Pure Data
 
-**Speaker:** Thanapat Ryan Ogaslert
+**Speaker:** Thanapat Ryan Ogaslert {% render 'YouTube', user: 'crsrcrsr9902' %}
 
 การทำงานเสียง เป็นปัจจัยที่ละเลยไปไม่ได้สำหรับการสร้างงาน interactive ที่เข้าถึงโสตสัมผัส ศิลปินและนักออกแบบสามารถเชื่อมต่อระบบสัมผัสเข้ากับระบบเสียงได้ ผ่านทางโปรแกรม open source ต่างๆ (Pure Data, Orca, Etc.) ที่จะนำเสนอในการบรรยาย พร้อมทั้งการเลือกอุปกรณ์ให้เหมาะสมกับ ขนาดและขอบเขตของงาน
 
 ## Creative coding in live coding context
 
-**Speaker:** [Wasawat Somno](https://www.wsdigital.dev/)
+**Speaker:** [Wasawat Somno](https://www.wsdigital.dev/) {% render 'GitHub', user: 'dodadoa' %}
 
 Literature review of what current tool do people use for live coding music/visual. Will show the example from my previous little project from sound: TidalCycle, SuperCollider, PureData to Visual: Hydra.js, p5js, Veda(GLSL), and TouchDesigner and explain some little for each program detail + pros/cons
 
