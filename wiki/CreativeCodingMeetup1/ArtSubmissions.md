@@ -46,9 +46,15 @@ note: in progress
 | [Just trying out strudel](https://drive.google.com/file/d/1apH6DBbwseIgymPBxOf-bakHxAQleXN3/view?usp=share_link) | dtinth | strudel ([source code](https://strudel.tidalcycles.org/?zXR46ueBGaSN)) |
 | [Differential (Love with CAL remake OST.)](https://drive.google.com/file/d/1HuvUptW8edP4tabZkyp9zxHVUfemwUhp/view) | [PKDboy](https://www.instagram.com/kpisabsentminded/) | REAPER |
 | [OneLastTimeBeforeWe](https://onelasttimebeforewe.deadlinealwaysexists.com/music/Part1_full.mp3) | [Joe Wan](https://www.youtube.com/@Joe_Wan) | Steinberg Cubase |
-| [30SecsBeforeDeath](https://30secsbeforedeath.deadlinealwaysexists.com/music/part4_final.mp3) | [Joe Wan](https://www.youtube.com/@Joe_Wan) | Steinberg Cubase |
+| [30SecsBeforeDeath (part4)](https://30secsbeforedeath.deadlinealwaysexists.com/music/part4_final.mp3) | [Joe Wan](https://www.youtube.com/@Joe_Wan) | Steinberg Cubase |
+| [30SecsBeforeDeath (part5)](https://30secsbeforedeath.deadlinealwaysexists.com/music/part5_final.mp3) | [Joe Wan](https://www.youtube.com/@Joe_Wan) | Steinberg Cubase |
 
 ## Visuals
 
 | Title | Artist | Tech |
 | ----- | ------ | ---- |
+| [Water: The Apology (experiment #1)](https://drive.google.com/file/d/1NoQKZNNckHVKHMjjcLZLz_Ev_xWfysxC/view?usp=sharing) | [wvwave](https://www.instagram.com/wvweeratouch/) | Physical cymatics with water. I used TouchDesigner to generate low frequency from audio input (mic.) and turn them to different set of frequencies. The video was recorded by high magnifier camera. |
+| [Hello Sunshine](https://drive.google.com/file/d/1LOHosFaeIU2ZuqO7kbGY0lI4_zjkdPZu/view) | [Teerapat Pisitsup](https://www.instagram.com/teerapatpisitsup/) | TouchDesigner |
+| [Ring Rotation](https://drive.google.com/drive/folders/1Htc0sYwXppwNDovdyWUQS-O5bblZuWZ5?usp=sharing) | [PopoTeaTree](https://www.instagram.com/juneygorllery/) | OpenFramework ([source code](https://github.com/PopoTeaTree/Morphing)) |
+| [OneLastTimeBeforeWe (/draw)](https://onelasttimebeforewe.deadlinealwaysexists.com/draw) | Krist Ponpairin | Wasm+HTMLCanvas |
+| [OneLastTimeBeforeWe (/art)](https://onelasttimebeforewe.deadlinealwaysexists.com/art) | Krist Ponpairin | Wasm+HTMLCanvas |
