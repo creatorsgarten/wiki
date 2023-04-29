@@ -6,6 +6,8 @@
 - List of short links: {% render 'Grtn', path: 'ls' %}
 - Edit links: {% render 'Grtn', path: 'edit' %}
 
+---
+
 # Rendering grtn.org links on this wiki
 
 On this wiki, you can reference links to grtn.org by rendering [[Template/Grtn]].
