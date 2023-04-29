@@ -61,6 +61,5 @@ If a page has a pencil icon (:Icon{icon="pixelarticons:edit"}) next to the title
 
 # Tech Stack
 
-This wiki is powered by [Contentsgarten](https://contentsgarten.netlify.app/wiki/MainPage), a headless wiki engine that [uses a GitHub repository as a data storage][repo]. The frontend is powered by [Astro](https://astro.build/)[^astro]. The source code for both Contentsgarten and this wiki is [hosted on the Contentsgarten GitHub monorepo](https://github.com/creatorsgarten/contentsgarten/tree/main/creatorsgarten).
-
-[^astro]: Our [main website][main-site] is also built with Astro, but unlike the main website which is statically-generated, the wiki is using server-side rendering (SSR) to allow updating the contents without rebuilding the site.
+This website ({% render 'GitHub', name: 'creatorsgarten.org' %}) is built with [Astro](https://astro.build/).
+This wiki is powered by [Contentsgarten](https://contentsgarten.netlify.app/wiki/MainPage) ({% render 'GitHub', name: 'contentsgarten' %}), a headless wiki engine that [uses a GitHub repository as a data storage][repo].
