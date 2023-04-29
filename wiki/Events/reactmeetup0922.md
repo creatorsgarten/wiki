@@ -4,6 +4,7 @@ location: Cleverse
 date: 30 September 2022
 site: 'https://www.eventpop.me/e/13545'
 hosts: ['React ไปวันๆ', 'Creatorsgarten']
+eventpopId: 13545
 ---
 
 # Talks
