@@ -30,16 +30,16 @@
   | Event | Links |
   | --- | --- |
   | [[Mathematics Night]] [TBD]
-  | [Functional Programming Meetup](/wiki/Events/functional)
-  | [Creative Coding Meetup](https://grtn.org/e/creativecodingmeetup) | [Organizer’s notes](/wiki/OrganizerNotes/creativecodingmeetup) |
-  | [Bangkok Open Source Hackathon](https://grtn.org/e/bangkok) | [Coverage](/wiki/Coverage/bangkok) &middot; [Feedback](/wiki/Feedback/bangkok) |
-  | [Code Golf Party #1](https://grtn.org/e/golf1) | [Feedback](/wiki/Feedback/golf1) &middot; [Sponsorship](/wiki/Sponsorship/golf1) |
-  | [The ៦th Stupid Hackathon in Thailand](https://grtn.org/e/sht6) | [Coverage](/wiki/Coverage/sht6) &middot; [Feedback](/wiki/Feedback/sht6) |
-  | [The 5th StuP1d H@CK THaIL@Nd](https://grtn.org/e/sht5) | [Coverage](/wiki/Coverage/sht5) &middot; [Feedback](/wiki/Feedback/sht5) |
-  | [stupid hackathon thailand the fourth / virtual 2020](https://grtn.org/e/sht4) | [Coverage](/wiki/Coverage/sht4) &middot; [Feedback](/wiki/Feedback/sht4) |
-  | [The Stupid Hackathon Thailand #3](https://grtn.org/e/sht3) | [Coverage](/wiki/Coverage/sht3) &middot; [Feedback](/wiki/Feedback/sht3) |
-  | [The Stupid Hackathon Thailand #2](https://grtn.org/e/sht2) | [Coverage](/wiki/Coverage/sht2) &middot; [Feedback](/wiki/Feedback/sht2) |
-  | [The Stupid Hackathon Bangkok](https://grtn.org/e/sht1) | [Coverage](/wiki/Coverage/sht1) |
+  | {% render 'Event', name: 'functional' %}
+  | {% render 'Event', name: 'creativecodingmeetup' %} | [Organizer’s notes](/wiki/OrganizerNotes/creativecodingmeetup) |
+  | {% render 'Event', name: 'bangkok' %} | [Coverage](/wiki/Coverage/bangkok) &middot; [Feedback](/wiki/Feedback/bangkok) |
+  | {% render 'Event', name: 'golf1' %} | [Feedback](/wiki/Feedback/golf1) &middot; [Sponsorship](/wiki/Sponsorship/golf1) |
+  | {% render 'Event', name: 'sht6' %} | [Coverage](/wiki/Coverage/sht6) &middot; [Feedback](/wiki/Feedback/sht6) |
+  | {% render 'Event', name: 'sht5' %} | [Coverage](/wiki/Coverage/sht5) &middot; [Feedback](/wiki/Feedback/sht5) |
+  | {% render 'Event', name: 'sht4' %} | [Coverage](/wiki/Coverage/sht4) &middot; [Feedback](/wiki/Feedback/sht4) |
+  | {% render 'Event', name: 'sht3' %} | [Coverage](/wiki/Coverage/sht3) &middot; [Feedback](/wiki/Feedback/sht3) |
+  | {% render 'Event', name: 'sht2' %} | [Coverage](/wiki/Coverage/sht2) &middot; [Feedback](/wiki/Feedback/sht2) |
+  | {% render 'Event', name: 'sht1' %} | [Coverage](/wiki/Coverage/sht1) |
 
 - Knowledge base
   - [[Audio video equipments]]
