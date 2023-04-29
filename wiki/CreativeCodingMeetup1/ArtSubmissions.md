@@ -36,6 +36,14 @@
 
 # รายชื่อผลงาน
 
-:::tip[Coming soon]
-ผลงานที่ได้รับเลือกจะมาแสดงตรงนี้ในภายหลัง
-:::
+note: in progress
+
+## Audio
+
+| Title | Artist | Tech |
+| ----- | ------ | ---- |
+| [Algebraic forms of Production function - ft. Prof. MacInnes](https://m.soundcloud.com/xnhp/algebraic-forms-of-production-function-ft-prof-macinnes) | phnx | Nerdiness and a guitar |
+| [Just trying out strudel](https://drive.google.com/file/d/1apH6DBbwseIgymPBxOf-bakHxAQleXN3/view?usp=share_link) | dtinth | strudel ([source code](https://strudel.tidalcycles.org/?zXR46ueBGaSN)) |
+
+
+
