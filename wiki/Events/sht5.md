@@ -5,6 +5,7 @@ date: 26 July 2021
 endDate: 1 August 2021
 site: https://stupidhackth.github.io/5
 hosts: ['Creatorsgarten', 'StupidHackTH']
+eventpopId: 11387
 ---
 
 # About
