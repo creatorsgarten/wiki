@@ -1,5 +1,5 @@
 :::lead
-**grtn.org** is a URL short link website for Creatorsgarten's assets
+**grtn.org** is a URL short link website for [Creatorsgarten](https://creatorsgarten.org)'s assets
 :::
 
 - GitHub repo: {% render 'GitHub', repo: 'grtn.org' %}
