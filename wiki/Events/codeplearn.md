@@ -4,6 +4,7 @@ location: Premier Prep
 date: 19 January 2019
 site: https://www.eventpop.me/e/4903/codeplearn
 hosts: ['Creatorsgarten']
+eventpopId: 4903
 ---
 
 # About
