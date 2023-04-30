@@ -1,5 +1,5 @@
 | Equipment | Description | Links | Notes |
 | --------- | ----------- | ----- | ----- |
 | [ATEM Mini Pro](https://www.blackmagicdesign.com/products/atemmini) | Live production switcher with 4 HDMI inputs | [Manual](https://www.blackmagicdesign.com/products/atemmini/gettingstarted) &middot; [Tech Specs](https://www.blackmagicdesign.com/products/atemmini/techspecs/W-APS-14) | USB-C<br>4x HDMI in, 1x HDMI out (with audio)<br>2x stereo mini jack in |
-| [DJI MIC](https://www.dji.com/mic) | Wireless microphone | [Manual](https://dl.djicdn.com/downloads/DJI_Mic/DJI_Mic_User_Manual_v1.0_en.pdf) &middot; [Tech Specs](https://www.dji.com/mic/specs) | 5 hours operating time<br>2m40s to charge<br> |
-| [Insta360 Link](https://www.insta360.com/product/insta360-link) | Gimbal webcam with head tracking | [Manual](https://dl.djicdn.com/downloads/DJI_Mic/DJI_Mic_User_Manual_v1.2_en.pdf) &middot; [Tech Specs](https://www.insta360.com/product/insta360-link#spece) |
+| [DJI MIC](https://www.dji.com/mic) | Wireless microphone | [Manual](https://dl.djicdn.com/downloads/DJI_Mic/DJI_Mic_User_Manual_v1.0_en.pdf) &middot; [Tech Specs](https://www.dji.com/mic/specs) | USB-C out<br>3.5mm headphone out<br>3.5mm TRS out (for camera)<br>5 hours operating time<br>2m40s to charge |
+| [Insta360 Link](https://www.insta360.com/product/insta360-link) | Gimbal webcam with head tracking | [Manual](https://dl.djicdn.com/downloads/DJI_Mic/DJI_Mic_User_Manual_v1.2_en.pdf) &middot; [Tech Specs](https://www.insta360.com/product/insta360-link#spece) | USB-C |
