@@ -89,8 +89,8 @@ Each talk goes through several stages before they are uploaded to the YouTube ch
 
 # Links
 
-- <https://youtube.com/@creatorsgarten>
-- [Thumbnail Figma][thumbfig]
+- {% render 'YouTube', name: 'creatorsgarten' %}
+- [:Icon{icon=cib:figma} Thumbnail Figma][thumbfig]
 
 [thumbfig]: https://www.figma.com/file/Lg0A78Zwm1T4rtcDljsIfK/Video-thumbnails?node-id=0-1&t=EIr6PBojoDVot7c5-0
 [streams]: https://www.youtube.com/playlist?list=PLTuz2sLvbRpwkoLi0AYDwdABU5dhkoGIr
