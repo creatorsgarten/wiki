@@ -55,3 +55,4 @@ note: in progress
 | [Ring Rotation](https://drive.google.com/drive/folders/1Htc0sYwXppwNDovdyWUQS-O5bblZuWZ5?usp=sharing) | [PopoTeaTree](https://www.instagram.com/juneygorllery/) | OpenFramework ([source code](https://github.com/PopoTeaTree/Morphing)) |
 | [OneLastTimeBeforeWe (/draw)](https://onelasttimebeforewe.deadlinealwaysexists.com/draw) | Krist Ponpairin | Wasm+HTMLCanvas |
 | [OneLastTimeBeforeWe (/art)](https://onelasttimebeforewe.deadlinealwaysexists.com/art) | Krist Ponpairin | Wasm+HTMLCanvas |
+| [JavaScript Bangkok 1.0.0 prototype SDF](https://drive.google.com/file/d/1rQn0GvSJVWFiG3nemNTGFHwrQXR85LnH/view?usp=sharing) | [@dtinth](https://dt.in.th) implementing [art style by @jirayutle](https://dribbble.com/shots/10593738-Javascript-Bangkok-1-0-0-CI-Pre-Release-Version) | GLSL ([source code](https://github.com/dtinth/html5-animation-video-renderer/blob/master/examples/jsbangkok-prototype.html)) |
