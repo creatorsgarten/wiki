@@ -1,15 +1,17 @@
 ---
-name: 'Svelte Meetup Bangkok #1'
+name: "Svelte Meetup Bangkok #1"
 location: Cleverse Office
 date: 24 June 2022
 site: https://www.eventpop.me/e/13132
-hosts: ['Creatorsgarten']
+hosts:
+  - Creatorsgarten
 event:
-  name: 'Svelte Meetup Bangkok #1'
+  name: "Svelte Meetup Bangkok #1"
   location: Cleverse Office
   date: 24 June 2022
   site: https://www.eventpop.me/e/13132
-  hosts: ['Creatorsgarten']
+  hosts:
+    - Creatorsgarten
   eventpopId: 13132
 ---
 
