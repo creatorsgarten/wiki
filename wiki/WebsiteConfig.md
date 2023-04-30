@@ -2,6 +2,10 @@
 websiteConfig:
   featureFlags:
     example: false
+  events:
+    upcoming:
+      - event: functional
+      - event: creativecodingmeetup
 ---
 
 {% for section in page.websiteConfig %}
