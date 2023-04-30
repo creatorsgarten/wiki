@@ -6,7 +6,7 @@ websiteConfig:
     upcoming:
       - event: functional
       - event: creativecodingmeetup
-    recurring:
+    recurrizng:
       - name: Hacktoberfest Thailand
         schedule: October
       - name: Stupid Hackathon in Thailand
