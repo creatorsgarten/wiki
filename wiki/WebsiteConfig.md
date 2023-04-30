@@ -3,10 +3,7 @@ websiteConfig:
   featureFlags:
     example: false
   events:
-    upcoming:
-      - event: functional
-      - event: creativecodingmeetup
-    recurrizng:
+    recurring:
       - name: Hacktoberfest Thailand
         schedule: October
       - name: Stupid Hackathon in Thailand
