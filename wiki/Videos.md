@@ -55,7 +55,7 @@ Livestream archives can be found on the [:Icon{icon=cib:facebook} Creatorsgarten
 
 # Preparing videos
 
-[Work on preparing VODs are being coordinated on Airtable.](https://airtable.com/shru5fGOzjhHHxo05)
+[Work on preparing VODs for some events are coordinated on Airtable.](https://airtable.com/shru5fGOzjhHHxo05)
 
 Each talk goes through several stages before they are uploaded to the YouTube channel.
 
