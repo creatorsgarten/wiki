@@ -1,3 +1,10 @@
+---
+venue:
+  name: Cleverse
+sponsor:
+  name: Cleverse
+---
+
 :::lead
 [**Cleverse**](https://cleverse.com/) is a venture builder based in Thailand.
 :::
