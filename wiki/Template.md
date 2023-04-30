@@ -1,0 +1,1 @@
+{% render 'SubpageList', of: ref %}
