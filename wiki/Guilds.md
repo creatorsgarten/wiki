@@ -2,7 +2,7 @@
 **Guilds** in Creatorsgarten:
 :::
 
-- [[Guilds / Bangkok Open Source]]
-- [[Guilds / Polaryz Club]]
-- [[Guilds / showdown.space]]
-- [[Guilds / Stupid Hackathon in Thailand]]
+- [[Bangkok Open Source]]
+- [[Polaryz Club]]
+- [[showdown.space]]
+- [[Stupid Hackathon in Thailand]]
