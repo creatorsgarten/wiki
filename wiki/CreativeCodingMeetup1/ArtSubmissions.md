@@ -36,10 +36,6 @@
 
 # รายชื่อผลงาน
 
-note: in progress
-
-## Audio
-
 | Title | Artist | Tech |
 | ----- | ------ | ---- |
 | **— Audio —** |
