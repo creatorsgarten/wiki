@@ -1,5 +1,5 @@
 :::lead
-**Bangkok Open Source** is a Creatorsgarten [[guild]] to promote the open-source philosophy among creators.
+**Bangkok Open Source** is a Creatorsgarten [[Guilds|guild]] to promote the open-source philosophy among creators.
 :::
 
 - Community-building
