@@ -6,30 +6,24 @@ If you’ve given talks in our events, you can find your talk videos published o
 
 # Help us grow our channel
 
-## Subscribe
+- **Subscribe** — We are currently aiming for 1,000 subscribers. You can help us by [subscribing to the channel!](https://youtube.com/@creatorsgarten).
 
-We are currently aiming for 1,000 subscribers. You can help us by [subscribing to the channel!](https://youtube.com/@creatorsgarten).
+- **Like, comment, and share** — Any engagement with our videos will help our channel to reach more people.
 
-## Like, Comment, Share!
+- **Improve our video metadata** — All of our video metadata is [[GitOps|managed on GitHub]] at {% render 'GitHub', repo: 'videos' %}. Whether you’re the author of a talk or someone who just wants to contribute, you can help us improve the video metadata to increase audience engagement.
 
-Any engagement with our videos will help our channel to reach more people.
+  For example, you can:
 
-## Improve our video metadata
+  - Customize the **video title** to make it more engaging.
+  - Improve the **thumbnail** to make it stand out.
+  - Add **timestamps** to highlight key points in your talk.
+  - Add a **description** that summarizes the content of your talk.
+  - Add **tags** to help viewers discover your talk.
+  - Add **subtitles** to make sure everyone can understand your talk.
+  - Include **links** to relevant resources.
+  - **Localize** the title and description to [internationalize your video.](https://notes.dt.in.th/LocalTalkInternationalization)
 
-All of our video metadata is [[GitOps|managed on GitHub]] at {% render 'GitHub', repo: 'videos' %}. Whether you’re the author of a talk or someone who just wants to contribute, you can help us improve the video metadata to increase audience engagement.
-
-For example, you can:
-
-- Customize the **video title** to make it more engaging.
-- Improve the **thumbnail** to make it stand out.
-- Add **timestamps** to highlight key points in your talk.
-- Add a **description** that summarizes the content of your talk.
-- Add **tags** to help viewers discover your talk.
-- Add **subtitles** to make sure everyone can understand your talk.
-- Include **links** to relevant resources.
-- **Localize** the title and description to [internationalize your video.](https://notes.dt.in.th/LocalTalkInternationalization)
-
-To make changes, [send us a pull request!](https://github.com/creatorsgarten/videos/blob/main/CONTRIBUTING.md) Once your PR is merged, the video metadata will be automatically updated.
+  To make changes, [send us a pull request!](https://github.com/creatorsgarten/videos/blob/main/CONTRIBUTING.md) Once your PR is merged, the video metadata will be automatically updated.
 
 # Livestream archives
 
