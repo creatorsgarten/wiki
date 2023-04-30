@@ -1,1 +1,1 @@
-{% render 'SubpageList' %}
+{% render 'SubpageList', of: 'ref' %}
