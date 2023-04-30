@@ -81,7 +81,7 @@ Each talk goes through several stages before they are uploaded to the YouTube ch
 
 # Publishing videos
 
-1. **Import into GitHub** — After the video is uploaded, import it into the [creatorsgarten/videos](https://github.com/creatorsgarten/videos) repository. This will create the metadata files.
+1. **Import into GitHub** — After the video is uploaded, import it into the {% render 'GitHub', repo: 'videos' %} repository. This will create the metadata files.
 
 2. **Prepare the metadata** — Update the metadata files. When the files are updated, they will automatically be reflected in YouTube.
 
@@ -89,7 +89,7 @@ Each talk goes through several stages before they are uploaded to the YouTube ch
 
 # Links
 
-- {% render 'YouTube', name: 'creatorsgarten' %}
+- {% render 'YouTube', user: 'creatorsgarten' %}
 - [:Icon{icon=cib:figma} Thumbnail Figma][thumbfig]
 
 [thumbfig]: https://www.figma.com/file/Lg0A78Zwm1T4rtcDljsIfK/Video-thumbnails?node-id=0-1&t=EIr6PBojoDVot7c5-0
