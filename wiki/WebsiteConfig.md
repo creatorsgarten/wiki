@@ -8,6 +8,8 @@ websiteConfig:
         schedule: October
       - name: Stupid Hackathon in Thailand
         schedule: Late Q2 - Early Q3
+      - name: Placeholder
+        schedule: Biweekly
 ---
 
 {% for section in page.websiteConfig %}
