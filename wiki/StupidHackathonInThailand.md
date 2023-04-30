@@ -5,5 +5,5 @@ guild:
 ---
 
 :::lead
-[**{{ page.guild.name }}**]({{ page.guild.site }})
+[**{{ page.guild.name }}**]({{ page.guild.site }}) is a Creatorsgarten [[Guilds|guild]] that organizes the Stupid Hackathon in Thailand event series.
 :::
