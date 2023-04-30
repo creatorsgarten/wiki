@@ -1,3 +1,9 @@
+---
+guild:
+  name: showdown.space
+  site: https://showdown.space/
+---
+
 :::lead
 **[showdown.space](https://showdown.space)**, a Creatorsgarten [[Guilds|guild]] led by [@dtinth](https://github.com/dtinth), hosts community tech events in the form of recreational tech contests and game shows.
 :::
