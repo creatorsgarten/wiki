@@ -1,10 +1,4 @@
 ---
-name: Bangkok Open Source Hackathon
-location: BITEC Bangna, Cleverse, DISTRICTX, ZillaSpace
-date: 19 February 2023
-site: https://www.eventpop.me/s/bangkok
-hosts:
-  - Creatorsgarten
 event:
   location: BITEC Bangna, Cleverse, DISTRICTX, ZillaSpace
   date: 19 February 2023

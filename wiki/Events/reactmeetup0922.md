@@ -1,11 +1,4 @@
 ---
-name: React Meetup 09/22
-location: Cleverse
-date: 30 September 2022
-site: https://www.eventpop.me/e/13545
-hosts:
-  - React ไปวันๆ
-  - Creatorsgarten
 event:
   name: React Meetup 09/22
   location: Cleverse

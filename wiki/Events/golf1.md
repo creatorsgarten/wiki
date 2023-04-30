@@ -1,11 +1,4 @@
 ---
-name: "Code Golf Party #1"
-location: Copper Bar
-date: 26 August 2022
-site: https://showdown.space/events/code-golf-party-1
-hosts:
-  - showdown.space
-  - Creatorsgarten
 event:
   name: "Code Golf Party #1"
   location: Copper Bar

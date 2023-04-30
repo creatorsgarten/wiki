@@ -1,12 +1,4 @@
 ---
-name: "The Stupid Hackathon Thailand #2"
-location: LINK Collaboration Space, Pathum Wan, Bangkok
-date: 14 July 2018
-endDate: 15 July 2018
-site: https://stupidhackth.github.io/2
-hosts:
-  - Creatorsgarten
-  - StupidHackTH
 event:
   name: "The Stupid Hackathon Thailand #2"
   location: LINK Collaboration Space, Pathum Wan, Bangkok

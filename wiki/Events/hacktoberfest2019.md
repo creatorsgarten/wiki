@@ -1,10 +1,4 @@
 ---
-name: Hacktoberfest Open Hack Day BKK 2019
-location: Thoughtworks
-date: 19 October 2019
-site: https://www.eventpop.me/e/7013
-hosts:
-  - Creatorsgarten
 event:
   name: Hacktoberfest Open Hack Day BKK 2019
   location: Thoughtworks

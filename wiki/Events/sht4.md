@@ -1,12 +1,4 @@
 ---
-name: stupid hackathon thailand the fourth / virtual 2020 (Online)
-location: Online
-date: 24 June 2020
-endDate: 27 June 2020
-site: https://stupidhackth.github.io/4
-hosts:
-  - Creatorsgarten
-  - StupidHackTH
 event:
   name: stupid hackathon thailand the fourth / virtual 2020 (Online)
   location: Online

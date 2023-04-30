@@ -1,12 +1,4 @@
 ---
-name: The ៦th Stupid Hackathon in Thailand
-location: The University of the Thai Chamber of Commerce
-date: 2 July 2022
-endDate: 3 July 2022
-site: https://stupidhackth.github.io/6
-hosts:
-  - Creatorsgarten
-  - StupidHackTH
 event:
   name: The ៦th Stupid Hackathon in Thailand
   location: The University of the Thai Chamber of Commerce

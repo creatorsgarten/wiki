@@ -1,12 +1,4 @@
 ---
-name: "Bkk.js #17 - Developer Showtime"
-location: WISESIGHT
-date: 29 October 2022
-site: https://eventpop.me/s/bkkjs17
-hosts:
-  - Creatorsgarten
-  - Dev Mountain Tech Festival
-  - Thai Tech Community
 event:
   name: "Bkk.js #17 - Developer Showtime"
   location: WISESIGHT
