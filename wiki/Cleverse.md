@@ -35,9 +35,9 @@
 | Kind | Equipment | Links | Notes |
 | ---- | --------- | ----- | ----- |
 | Video output | 86-inch television | |
-| Audio mixer/amplifier | [A-2000 Series Mixer Power Amplifier](https://toathailand.com/products/amplifiers/a-2000-series) | [Specs](https://toathailand.com/document/37-a-2000-series-mixer-power-amplifiers-brochure-(ce-au-version)-brochure.pdf) | 3x XLR input, 2x RCA input |
-| Microphones | [Shure SVX](https://www.shure.com/en-ASIA/products/wireless-systems/svx-wireless-systems) | | 1/4" and XLR output |
-| Audio Interface | [evo 4 2in/2out Audio Interface](https://evo.audio/products/audio-interfaces/evo-4/overview/) | [Manual](https://www.bhphotovideo.com/lit_files/593252.pdf) | USB-C<br>2x TRS jack/XLR input<br>1x TS Jack input (for guitar)<br>2x TS Jack monitor output<br>1x TRS Jack headphone output |
+| Audio mixer/amplifier | [A-2000 Series Mixer Power Amplifier](https://toathailand.com/products/amplifiers/a-2000-series) | [Specs](https://toathailand.com/document/37-a-2000-series-mixer-power-amplifiers-brochure-(ce-au-version)-brochure.pdf) | 3x XLR in<br>2x RCA in |
+| Microphones | [Shure SVX](https://www.shure.com/en-ASIA/products/wireless-systems/svx-wireless-systems) | | 1/4" and XLR out |
+| Audio Interface | [evo 4 2in/2out Audio Interface](https://evo.audio/products/audio-interfaces/evo-4/overview/) | [Manual](https://www.bhphotovideo.com/lit_files/593252.pdf) | USB-C<br>2x TRS jack/XLR in<br>1x TS Jack in (for guitar)<br>2x TS Jack monitor out<br>1x TRS Jack headphone out |
 
 # Nearby places to hang out
 
