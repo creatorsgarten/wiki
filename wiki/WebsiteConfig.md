@@ -1,6 +1,9 @@
 ---
 a: 1
 b: 2
+x:
+  y: 2
+  z: [3, 4]
 ---
 
 <table><thead><tr><th>Key</th><th>Value</th></tr></thead><tbody>
