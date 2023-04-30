@@ -4,7 +4,13 @@ location: Seven Peaks
 date: 1 October 2020
 site: https://www.eventpop.me/e/9622/bkkjs14
 hosts: ['Creatorsgarten']
-eventpopId: 9622
+event:
+  name: BKK.JS 14 Return of the BKK.JS
+  location: Seven Peaks
+  date: 1 October 2020
+  site: https://www.eventpop.me/e/9622/bkkjs14
+  hosts: ['Creatorsgarten']
+  eventpopId: 9622
 ---
 
 # About

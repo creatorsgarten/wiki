@@ -4,7 +4,13 @@ location: The Jam Factory
 date: 5 May 2022
 site: https://www.eventpop.me/e/12712
 hosts: ['Creatorsgarten']
-eventpopId: 12712
+event:
+  name: Biological Aesthetic of Nature, and How to Remain Curious Under Oppressive Education
+  location: The Jam Factory
+  date: 5 May 2022
+  site: https://www.eventpop.me/e/12712
+  hosts: ['Creatorsgarten']
+  eventpopId: 12712
 ---
 
 # About
