@@ -6,6 +6,11 @@ websiteConfig:
     upcoming:
       - event: functional
       - event: creativecodingmeetup
+    recurring:
+      - name: Hacktoberfest Thailand
+        schedule: October
+      - name: Stupid Hackathon in Thailand
+        schedule: Late Q2 - Early Q3
 ---
 
 {% for section in page.websiteConfig %}
