@@ -5,7 +5,14 @@ date: 20 April 2019
 endDate: 21 April 2019
 site: https://stupidhackth.github.io/3
 hosts: ['Creatorsgarten', 'StupidHackTH']
-eventpopId: 5646
+event:
+  name: 'The Stupid Hackathon Thailand #3'
+  location: Fastwork HQ, Emporium Tower, Bangkok
+  date: 20 April 2019
+  endDate: 21 April 2019
+  site: https://stupidhackth.github.io/3
+  hosts: ['Creatorsgarten', 'StupidHackTH']
+  eventpopId: 5646
 ---
 
 # About
