@@ -15,7 +15,7 @@ If you’ve given talks in our events, you can find your talk videos published o
   For example, you can:
 
   - Customize the **video title** to make it more engaging.
-  - Improve the **thumbnail** to make it stand out. [We work on thumbnail images in Figma.][thumbfig]
+  - Improve the **thumbnail** to make it stand out. [:Icon{icon=cib:figma} We work on thumbnail images in Figma.][thumbfig]
   - Add **timestamps** to highlight key points in your talk.
   - Add a **description** that summarizes the content of your talk.
   - Add **tags** to help viewers discover your talk.
@@ -27,7 +27,7 @@ If you’ve given talks in our events, you can find your talk videos published o
 
 # Livestream archives
 
-Livestream archives can be found on the [Creatorsgarten Facebook page](https://www.facebook.com/creatorsgarten/videos/) as well as on the [:Icon{icon=cib:youtube} Garten Streams playlist][streams] on YouTube.
+Livestream archives can be found on the [:Icon{icon=cib:facebook} Creatorsgarten Facebook page](https://www.facebook.com/creatorsgarten/videos/) as well as on the [:Icon{icon=cib:youtube} Garten Streams playlist][streams] on YouTube.
 
 # Common audio/video issues
 
