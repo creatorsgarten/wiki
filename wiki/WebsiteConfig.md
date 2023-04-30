@@ -1,8 +1,7 @@
 ---
 websiteConfig:
-  x:
-    y: 2
-    z: [3, 4]
+  featureFlags:
+    example: false
 ---
 
 {% for section in page.websiteConfig %}
