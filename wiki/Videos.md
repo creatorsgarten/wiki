@@ -15,7 +15,7 @@ If you’ve given talks in our events, you can find your talk videos published o
   For example, you can:
 
   - Customize the **video title** to make it more engaging.
-  - Improve the **thumbnail** to make it stand out.
+  - Improve the **thumbnail** to make it stand out. [We work on thumbnail images in Figma.](https://www.figma.com/file/Lg0A78Zwm1T4rtcDljsIfK/Video-thumbnails?node-id=0-1&t=EIr6PBojoDVot7c5-0)
   - Add **timestamps** to highlight key points in your talk.
   - Add a **description** that summarizes the content of your talk.
   - Add **tags** to help viewers discover your talk.
@@ -86,6 +86,3 @@ Each talk goes through several stages before they are uploaded to the YouTube ch
 2. **Prepare the metadata** — Update the metadata files. When the files are updated, they will automatically be reflected in YouTube.
 
 3. **Publish** — When the `published` property is set to `true`, then the video becomes Public on YouTube. (Otherwise it’s Unlisted.)
-
-
-If you’d like to help, you can find us [in the #📼-vod channel on Creatorsgarten’s Discord server](https://discord.gg/mVX8yEdhWX) and mention to “@VOD Team”.
