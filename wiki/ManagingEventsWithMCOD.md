@@ -8,7 +8,7 @@ title: Managing events with MC/OD
 this initial draft is written by ChatGPT. information may not be accurate.
 :::
 
-:::Lead
+:::lead
 The MC/OD model is a unique approach to event or camp management that emphasizes a flat organizational structure and distributed decision-making. In this model, multiple Master of Ceremonies (MCs) take on different responsibilities and aspects of the event or camp, with each MC managing and coordinating tasks related to their area of focus. Meanwhile, the One Day Director (OD) is responsible for overseeing the logistical aspects of the event or camp, such as scheduling, staffing, and managing the event site.
 :::
 
