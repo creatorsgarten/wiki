@@ -15,7 +15,7 @@ If you’ve given talks in our events, you can find your talk videos published o
   For example, you can:
 
   - Customize the **video title** to make it more engaging.
-  - Improve the **thumbnail** to make it stand out. [We work on thumbnail images in Figma.](https://www.figma.com/file/Lg0A78Zwm1T4rtcDljsIfK/Video-thumbnails?node-id=0-1&t=EIr6PBojoDVot7c5-0)
+  - Improve the **thumbnail** to make it stand out. [We work on thumbnail images in Figma.][thumbfig]
   - Add **timestamps** to highlight key points in your talk.
   - Add a **description** that summarizes the content of your talk.
   - Add **tags** to help viewers discover your talk.
@@ -27,7 +27,7 @@ If you’ve given talks in our events, you can find your talk videos published o
 
 # Livestream archives
 
-Livestream archives can be found on the [Creatorsgarten Facebook page](https://www.facebook.com/creatorsgarten/videos/).
+Livestream archives can be found on the [Creatorsgarten Facebook page](https://www.facebook.com/creatorsgarten/videos/) as well as on the [:Icon{icon=cib:youtube} Garten Streams playlist][streams] on YouTube.
 
 # Common audio/video issues
 
@@ -86,3 +86,11 @@ Each talk goes through several stages before they are uploaded to the YouTube ch
 2. **Prepare the metadata** — Update the metadata files. When the files are updated, they will automatically be reflected in YouTube.
 
 3. **Publish** — When the `published` property is set to `true`, then the video becomes Public on YouTube. (Otherwise it’s Unlisted.)
+
+# Links
+
+- <https://youtube.com/@creatorsgarten>
+- [Thumbnail Figma][thumbfig]
+
+[thumbfig]: https://www.figma.com/file/Lg0A78Zwm1T4rtcDljsIfK/Video-thumbnails?node-id=0-1&t=EIr6PBojoDVot7c5-0
+[streams]: https://www.youtube.com/playlist?list=PLTuz2sLvbRpwkoLi0AYDwdABU5dhkoGIr
