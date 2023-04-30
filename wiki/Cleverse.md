@@ -36,6 +36,7 @@
 - Mixer: [A-2000 Series Mixer Power Amplifier](https://toathailand.com/document/37-a-2000-series-mixer-power-amplifiers-brochure-(ce-au-version)-brochure.pdf) (unconfirmed)
   - 3x XLR input, 2x RCA input
 - Microphones: [Shure SVX](https://www.shure.com/en-ASIA/products/wireless-systems/svx-wireless-systems) (unconfirmed)
+- Audio Interface: [evo 4 2in/2out Audio Interface](https://evo.audio/products/audio-interfaces/evo-4/overview/) ([manual](https://www.bhphotovideo.com/lit_files/593252.pdf))
 
 # Nearby places to hang out
 
