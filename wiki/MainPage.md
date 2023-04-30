@@ -17,7 +17,7 @@
 
 - [[Democratize Creation for All|Our mission: Democratize creation for all]]
 
-- [[Initiatives|Our initiatives]]
+- [[Guilds]]
 
 - [[DigitalPresence|Our digital presence]]
 
