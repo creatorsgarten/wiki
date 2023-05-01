@@ -24,7 +24,8 @@
 
 # Events
 
-The wiki also contains information pages about our [events](/events/):
+The wiki also contains information pages about our [events](/events/)
+// TODO: Add all events
 
 | Event | Links |
 | --- | --- |
