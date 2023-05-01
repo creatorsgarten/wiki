@@ -4,8 +4,8 @@ unless events
 endunless
 assign prefixes = 'Coverage,Feedback,OrganizerNotes,Sponsorship' | split: ','
 %}
-| Event | Subpages | Slug |
-| ----- | -------- | ---- |{% for event in events %}{% liquid
+| Event | Subpages | Date | Slug |
+| ----- | -------- | ---- | ---- |{% for event in events %}{% liquid
 assign slug = event.ref | split: '/' | last
 %}
-| {% render 'Event', name: slug %} | {% render 'EventNamespaceLinks', name: slug %} | {{ slug }} |{% endfor %}
+| {% render 'Event', name: slug %} | {% render 'EventNamespaceLinks', name: slug %} | {{ event.data.date }} | {{ slug }} |{% endfor %}
