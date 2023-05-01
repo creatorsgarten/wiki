@@ -4,7 +4,5 @@ unless events
 endunless
 %}
 | Event | Slug | Subpages |
-| ----- | ---- | -------- |
-{% for event in events %}
-| {{ event.ref }} |
-{%- endfor %}
+| ----- | ---- | -------- |{% for event in events %}
+| {{ event.ref }} |{% endfor %}
