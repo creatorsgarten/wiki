@@ -50,7 +50,7 @@
 
 - **Edit on GitHub:** All of the wiki contents is stored inside the {% render 'GitHub', repo: 'wiki' %} repository. This lets you manage the wiki contents using your favorite tools like VS Code or Obsidian. Changes will be reflected on the website in a few minutes.
 
-- **Edit on Visual Studio Code for the Web:** [Click here to launch VS Code for the Web.](https://vscode.dev/github/creatorsgarten/wiki)
+- **Edit on Visual Studio Code for the Web:** [:Icon{icon="vscode-icons:file-type-vscode"} Click here to launch VS Code for the Web.](https://vscode.dev/github/creatorsgarten/wiki)
 
 - **Edit directly on the website:** Click on the pencil icon (:Icon{icon="pixelarticons:edit"}) to start editing. It is optimized for making quick and small changes. The editor is very rudimentary and not stable, so we recommend that you save your changes frequently to avoid conflicts and avoid losing your work.
 
