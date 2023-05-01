@@ -7,4 +7,4 @@ endunless
 | ----- | ---- | -------- |{% for event in events %}{% liquid
 assign slug = event.ref | split: '/' | last
 %}
-| {{ event.ref }} | {{ slug }} |{% endfor %}
+| {% render 'Event', name: slug }} | {{ slug }} |{% endfor %}
