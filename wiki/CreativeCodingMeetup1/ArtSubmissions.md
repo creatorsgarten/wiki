@@ -11,7 +11,7 @@
 | ----- | ------ | ---- |
 | **— Audio —** |
 | [Algebraic forms of Production function - ft. Prof. MacInnes](https://m.soundcloud.com/xnhp/algebraic-forms-of-production-function-ft-prof-macinnes) | phnx | Nerdiness and a guitar |
-| [Just trying out strudel](https://drive.google.com/file/d/1apH6DBbwseIgymPBxOf-bakHxAQleXN3/view?usp=share_link) | dtinth | strudel ([source code](https://strudel.tidalcycles.org/?zXR46ueBGaSN)) |
+| [Just trying out strudel](https://drive.google.com/file/d/1apH6DBbwseIgymPBxOf-bakHxAQleXN3/view?usp=share_link) | [@dtinth](https://dt.in.th/) | strudel ([source code](https://strudel.tidalcycles.org/?zXR46ueBGaSN)) |
 | [Differential (Love with CAL remake OST.)](https://drive.google.com/file/d/1HuvUptW8edP4tabZkyp9zxHVUfemwUhp/view) | [PKDboy](https://www.instagram.com/kpisabsentminded/) | REAPER |
 | [OneLastTimeBeforeWe](https://onelasttimebeforewe.deadlinealwaysexists.com/music/Part1_full.mp3) | [Joe Wan](https://www.youtube.com/@Joe_Wan) | Steinberg Cubase |
 | [30SecsBeforeDeath (part4)](https://30secsbeforedeath.deadlinealwaysexists.com/music/part4_final.mp3) | [Joe Wan](https://www.youtube.com/@Joe_Wan) | Steinberg Cubase |
