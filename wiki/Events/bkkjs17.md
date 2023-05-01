@@ -2,7 +2,7 @@
 event:
   name: "Bkk.js #17 - Developer Showtime"
   location: WISESIGHT
-  date: 29 October 2022
+  date: "2022-10-29"
   site: https://eventpop.me/s/bkkjs17
   hosts:
     - Creatorsgarten

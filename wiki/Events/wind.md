@@ -2,7 +2,7 @@
 event:
   name: "Code in the Wind #1"
   location: Online
-  date: May 17, 2022
+  date: "2022-05-17"
   site: https://showdown.space/events/code-in-the-wind-1/
   hosts:
     - showdown.space

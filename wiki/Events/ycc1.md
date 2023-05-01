@@ -2,8 +2,8 @@
 event:
   name: Young Creators' Camp
   location: KMITL School of Industrial Education and Technology
-  date: 21 March 2019
-  endDate: 23 March 2019
+  date: "2019-03-21"
+  endDate: "2019-03-23"
   site: https://www.facebook.com/ycccampth/
   hosts:
     - Creatorsgarten

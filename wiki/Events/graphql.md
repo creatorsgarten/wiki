@@ -2,7 +2,7 @@
 event:
   name: GraphQL Meetup 10.0
   location: Online
-  date: 20 August 2021
+  date: "2021-08-20"
   site: https://www.facebook.com/events/568445057514250/568445060847583/
   hosts:
     - Creatorsgarten

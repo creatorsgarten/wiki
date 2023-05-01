@@ -2,7 +2,7 @@
 event:
   name: Hacktoberfest Thailand 2022
   location: Thoughtworks Thailand
-  date: 29 October 2022
+  date: "2022-10-29"
   site: https://www.eventpop.me/e/13854
   hosts:
     - Creatorsgarten

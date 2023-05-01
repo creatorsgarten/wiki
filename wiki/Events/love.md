@@ -2,7 +2,7 @@
 event:
   name: Data Driven Love จีบแบบ Dev ยังไงไม่ให้นก
   location: CODE CRAFT
-  date: 12 February 2019
+  date: "2019-02-12"
   site: https://www.eventpop.me/e/5080/data-driven-love
   hosts:
     - Creatorsgarten

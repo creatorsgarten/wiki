@@ -2,8 +2,8 @@
 event:
   name: The Stupid Hackathon Bangkok
   location: Nap Lab Chula, Pathumwan, Bangkok
-  date: 30 September 2017
-  endDate: 1 October 2017
+  date: "2017-09-30"
+  endDate: "2017-10-01"
   site: https://stupidhackth.github.io/1
   hosts:
     - Creatorsgarten

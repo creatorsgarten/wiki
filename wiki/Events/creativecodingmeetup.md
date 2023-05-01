@@ -2,7 +2,7 @@
 event:
   name: Creative Coding Meetup
   location: Cleverse
-  date: 3 May 2023
+  date: "2023-05-03"
   site: https://www.eventpop.me/e/14949/creative-coding-meetup
   hosts:
     - Creatorsgarten

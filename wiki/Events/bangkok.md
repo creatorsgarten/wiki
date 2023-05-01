@@ -1,7 +1,7 @@
 ---
 event:
   location: BITEC Bangna, Cleverse, DISTRICTX, ZillaSpace
-  date: 19 February 2023
+  date: "2023-02-19"
   site: https://www.eventpop.me/s/bangkok
   hosts:
     - Creatorsgarten

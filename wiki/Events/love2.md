@@ -2,7 +2,7 @@
 event:
   name: "Data Driven Love #2"
   location: CODE CRAFT
-  date: 9 February 2023
+  date: "2023-02-09"
   site: https://www.eventpop.me/s/love
   hosts:
     - Creatorsgarten

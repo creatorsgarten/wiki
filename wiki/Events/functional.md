@@ -2,7 +2,7 @@
 event:
   name: "Functional Programming Meetup #1"
   location: Cleverse
-  date: 19 May 2023
+  date: "2023-05-19"
   site: https://www.eventpop.me/e/15089/functional
   hosts:
     - Creatorsgarten

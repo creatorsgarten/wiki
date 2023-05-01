@@ -2,8 +2,8 @@
 event:
   name: The 5th StuP1d H@CK THaIL@Nd (Online)
   location: Online
-  date: 26 July 2021
-  endDate: 1 August 2021
+  date: "2021-07-26"
+  endDate: "2021-08-01"
   site: https://stupidhackth.github.io/5
   hosts:
     - Creatorsgarten

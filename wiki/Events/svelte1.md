@@ -2,7 +2,7 @@
 event:
   name: "Svelte Meetup Bangkok #1"
   location: Cleverse Office
-  date: 24 June 2022
+  date: "2022-06-24"
   site: https://www.eventpop.me/e/13132
   hosts:
     - Creatorsgarten
