@@ -5,4 +5,7 @@ endunless
 %}
 | Event | Slug | Subpages |
 | ----- | ---- | -------- |{% for event in events %}
-| {{ event.ref }} |{% endfor %}
+{%- liquid
+assign slug = event.ref | split: '/' | last
+-%}
+| {{ event.ref }} | {{ slug }} |{% endfor %}
