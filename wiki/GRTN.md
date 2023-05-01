@@ -1,3 +1,7 @@
+---
+title: grtn.org
+---
+
 :::lead
 **grtn.org** is a URL short link website for [Creatorsgarten](https://creatorsgarten.org)'s assets.
 :::
