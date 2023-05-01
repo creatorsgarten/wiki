@@ -7,53 +7,47 @@
 **The Creatorsgarten Wiki** stores contents that are more frequently updated than the main [Creatorsgarten website][main-site].
 
 [main-site]: https://creatorsgarten.org/
-[repo]: https://github.com/creatorsgarten/wiki
 
 # Contents
 
 - [[Special/RecentChanges|Recently-changed pages]]
-
 - [[SelfIntroduction|What is Creatorsgarten?]]
-
-- [[Democratize Creation for All|Our mission: Democratize creation for all]]
-
+- [[Democratize Creation for All|Democratize creation for all — our manifesto]]
 - [[Guilds]]
-
 - [[DigitalPresence|Our digital presence]]
-
-- [[Discord|Our Discord servers]]
-
-- [[Managing events with MC-OD]]
-
-- Information pages about our [events](https://creatorsgarten.org/events/)
-
-  | Event | Links |
-  | --- | --- |
-  | [[Mathematics Night]] [TBD]
-  | {% render 'Event', name: 'functional' %}
-  | {% render 'Event', name: 'creativecodingmeetup' %} | [Organizer’s notes](/wiki/OrganizerNotes/creativecodingmeetup) |
-  | {% render 'Event', name: 'bangkok' %} | [Coverage](/wiki/Coverage/bangkok) &middot; [Feedback](/wiki/Feedback/bangkok) |
-  | {% render 'Event', name: 'golf1' %} | [Feedback](/wiki/Feedback/golf1) &middot; [Sponsorship](/wiki/Sponsorship/golf1) |
-  | {% render 'Event', name: 'sht6' %} | [Coverage](/wiki/Coverage/sht6) &middot; [Feedback](/wiki/Feedback/sht6) |
-  | {% render 'Event', name: 'sht5' %} | [Coverage](/wiki/Coverage/sht5) &middot; [Feedback](/wiki/Feedback/sht5) |
-  | {% render 'Event', name: 'sht4' %} | [Coverage](/wiki/Coverage/sht4) &middot; [Feedback](/wiki/Feedback/sht4) |
-  | {% render 'Event', name: 'sht3' %} | [Coverage](/wiki/Coverage/sht3) &middot; [Feedback](/wiki/Feedback/sht3) |
-  | {% render 'Event', name: 'sht2' %} | [Coverage](/wiki/Coverage/sht2) &middot; [Feedback](/wiki/Feedback/sht2) |
-  | {% render 'Event', name: 'sht1' %} | [Coverage](/wiki/Coverage/sht1) |
-
 - Knowledge base
   - [[Audio video equipments]]
+  - [[Discord|Discord community guide]]
   - [[Videos|How we record our talks and manage our YouTube channel]]
-
+  - [[ManagingEventsWithMCOD|Managing events with MC/OD]]
 - [[Special/AllPages|Alphabetical page list]]
+
+# Events
+
+The wiki also contains information pages about our [events](/events/):
+
+| Event | Links |
+| --- | --- |
+| [[Mathematics Night]] [TBD]
+| {% render 'Event', name: 'functional' %}
+| {% render 'Event', name: 'creativecodingmeetup' %} | [Organizer’s notes](/wiki/OrganizerNotes/creativecodingmeetup) |
+| {% render 'Event', name: 'bangkok' %} | [Coverage](/wiki/Coverage/bangkok) &middot; [Feedback](/wiki/Feedback/bangkok) |
+| {% render 'Event', name: 'golf1' %} | [Feedback](/wiki/Feedback/golf1) &middot; [Sponsorship](/wiki/Sponsorship/golf1) |
+| {% render 'Event', name: 'sht7' %} | [Coverage](/wiki/Coverage/sht7) &middot; [Feedback](/wiki/Feedback/sht7) |
+| {% render 'Event', name: 'sht6' %} | [Coverage](/wiki/Coverage/sht6) &middot; [Feedback](/wiki/Feedback/sht6) |
+| {% render 'Event', name: 'sht5' %} | [Coverage](/wiki/Coverage/sht5) &middot; [Feedback](/wiki/Feedback/sht5) |
+| {% render 'Event', name: 'sht4' %} | [Coverage](/wiki/Coverage/sht4) &middot; [Feedback](/wiki/Feedback/sht4) |
+| {% render 'Event', name: 'sht3' %} | [Coverage](/wiki/Coverage/sht3) &middot; [Feedback](/wiki/Feedback/sht3) |
+| {% render 'Event', name: 'sht2' %} | [Coverage](/wiki/Coverage/sht2) &middot; [Feedback](/wiki/Feedback/sht2) |
+| {% render 'Event', name: 'sht1' %} | [Coverage](/wiki/Coverage/sht1) |
 
 # Editing Pages
 
-If a page has a pencil icon (:Icon{icon="pixelarticons:edit"}) next to the title, then it is a wiki page that can be edited.
+- **Edit on GitHub:** All of the wiki contents is stored inside the {% render 'GitHub', repo: 'wiki' %} repository. This lets you manage the wiki contents using your favorite tools like VS Code or Obsidian. Changes will be reflected on the website in a few minutes.
 
-- **Edit directly on the website:** Click on the pencil icon to start editing. It is optimized for making quick and small changes, and the editor is not that stable. We recommend that you save your changes frequently to avoid conflicts and avoid losing your work.
+- **Edit on Visual Studio Code for the Web:** [:Icon{icon="vscode-icons:file-type-vscode"} Click here to launch VS Code for the Web.](https://vscode.dev/github/creatorsgarten/wiki)
 
-- **Edit on GitHub:** You can also make changes to the files in the [wiki repo][repo] and it will be reflected on this website immediately. If you are not an organization member, you can submit a pull request to make an external contribution to this wiki.
+- **Edit directly on the website:** Click on the pencil icon (:Icon{icon="pixelarticons:edit"}) to start editing. It is optimized for making quick and small changes. The editor is very rudimentary and not stable, so we recommend that you save your changes frequently to avoid conflicts and avoid losing your work.
 
 ## Getting notified of changes
 
@@ -63,3 +57,4 @@ If a page has a pencil icon (:Icon{icon="pixelarticons:edit"}) next to the title
 
 This website ({% render 'GitHub', repo: 'creatorsgarten.org' %}) is built with [Astro](https://astro.build/).
 This wiki is powered by [Contentsgarten](https://contentsgarten.netlify.app/wiki/MainPage) ({% render 'GitHub', repo: 'contentsgarten' %}), a headless wiki engine that uses a GitHub repository as a data storage ({% render 'GitHub', repo: 'wiki' %}).
+They are deployed to [Deploys.app](https://www.deploys.app/).
