@@ -11,39 +11,34 @@
 # Contents
 
 - [[Special/RecentChanges|Recently-changed pages]]
-
 - [[SelfIntroduction|What is Creatorsgarten?]]
-
-- [[Democratize Creation for All|Our mission: Democratize creation for all]]
-
+- [[Democratize Creation for All|Democratize creation for all — our manifesto]]
 - [[Guilds]]
-
 - [[DigitalPresence|Our digital presence]]
-
-- [[Discord|Our Discord servers]]
-
-- Information pages about our [events](https://creatorsgarten.org/events/)
-
-  | Event | Links |
-  | --- | --- |
-  | [[Mathematics Night]] [TBD]
-  | {% render 'Event', name: 'functional' %}
-  | {% render 'Event', name: 'creativecodingmeetup' %} | [Organizer’s notes](/wiki/OrganizerNotes/creativecodingmeetup) |
-  | {% render 'Event', name: 'bangkok' %} | [Coverage](/wiki/Coverage/bangkok) &middot; [Feedback](/wiki/Feedback/bangkok) |
-  | {% render 'Event', name: 'golf1' %} | [Feedback](/wiki/Feedback/golf1) &middot; [Sponsorship](/wiki/Sponsorship/golf1) |
-  | {% render 'Event', name: 'sht6' %} | [Coverage](/wiki/Coverage/sht6) &middot; [Feedback](/wiki/Feedback/sht6) |
-  | {% render 'Event', name: 'sht5' %} | [Coverage](/wiki/Coverage/sht5) &middot; [Feedback](/wiki/Feedback/sht5) |
-  | {% render 'Event', name: 'sht4' %} | [Coverage](/wiki/Coverage/sht4) &middot; [Feedback](/wiki/Feedback/sht4) |
-  | {% render 'Event', name: 'sht3' %} | [Coverage](/wiki/Coverage/sht3) &middot; [Feedback](/wiki/Feedback/sht3) |
-  | {% render 'Event', name: 'sht2' %} | [Coverage](/wiki/Coverage/sht2) &middot; [Feedback](/wiki/Feedback/sht2) |
-  | {% render 'Event', name: 'sht1' %} | [Coverage](/wiki/Coverage/sht1) |
-
 - Knowledge base
   - [[Audio video equipments]]
+  - [[Discord|Discord community guide]]
   - [[Videos|How we record our talks and manage our YouTube channel]]
   - [[ManagingEventsWithMCOD|Managing events with MC/OD]]
-
 - [[Special/AllPages|Alphabetical page list]]
+
+# Events
+
+The wiki also contains information pages about our [events](/events/):
+
+| Event | Links |
+| --- | --- |
+| [[Mathematics Night]] [TBD]
+| {% render 'Event', name: 'functional' %}
+| {% render 'Event', name: 'creativecodingmeetup' %} | [Organizer’s notes](/wiki/OrganizerNotes/creativecodingmeetup) |
+| {% render 'Event', name: 'bangkok' %} | [Coverage](/wiki/Coverage/bangkok) &middot; [Feedback](/wiki/Feedback/bangkok) |
+| {% render 'Event', name: 'golf1' %} | [Feedback](/wiki/Feedback/golf1) &middot; [Sponsorship](/wiki/Sponsorship/golf1) |
+| {% render 'Event', name: 'sht6' %} | [Coverage](/wiki/Coverage/sht6) &middot; [Feedback](/wiki/Feedback/sht6) |
+| {% render 'Event', name: 'sht5' %} | [Coverage](/wiki/Coverage/sht5) &middot; [Feedback](/wiki/Feedback/sht5) |
+| {% render 'Event', name: 'sht4' %} | [Coverage](/wiki/Coverage/sht4) &middot; [Feedback](/wiki/Feedback/sht4) |
+| {% render 'Event', name: 'sht3' %} | [Coverage](/wiki/Coverage/sht3) &middot; [Feedback](/wiki/Feedback/sht3) |
+| {% render 'Event', name: 'sht2' %} | [Coverage](/wiki/Coverage/sht2) &middot; [Feedback](/wiki/Feedback/sht2) |
+| {% render 'Event', name: 'sht1' %} | [Coverage](/wiki/Coverage/sht1) |
 
 # Editing Pages
 
