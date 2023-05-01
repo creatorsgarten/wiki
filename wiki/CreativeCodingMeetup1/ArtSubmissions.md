@@ -24,6 +24,14 @@
 | [OneLastTimeBeforeWe (/art)](https://onelasttimebeforewe.deadlinealwaysexists.com/art) | Krist Ponpairin | Wasm+HTMLCanvas |
 | [JavaScript Bangkok 1.0.0 prototype SDF](https://drive.google.com/file/d/1rQn0GvSJVWFiG3nemNTGFHwrQXR85LnH/view?usp=sharing) | [@dtinth](https://dt.in.th) implementing [art style by @jirayutle](https://dribbble.com/shots/10593738-Javascript-Bangkok-1-0-0-CI-Pre-Release-Version) | GLSL ([source code](https://github.com/dtinth/html5-animation-video-renderer/blob/master/examples/jsbangkok-prototype.html)) |
 
+# Usage
+
+ผลงานที่ส่งเข้ามาจะทำไปใช้ดังนี้:
+
+- ผลงาน Visuals — แสดงภายในงานและทาง livestream ระหว่างช่วงเบรคหรือช่วงต่อระหว่างเซสชั่น (breaks / intermission) โดยวีดีโอจะมี overlay ของงานทับ [(สามารถดูตัวอย่าง overlay ตามรูปนี้)](https://cdn.discordapp.com/attachments/1083744866758045778/1099693120586780692/image.png)
+- ผลงาน Audio — เปิดภายในงานและทาง livestream เป็น background music ในช่วงที่ไม่มีเซสชั่น
+- โปรโมตผ่านทาง Instagram {% render 'Instagram', user: 'creatorsgarten' %}
+
 ---
 
 :::details[__Archive:__ รายละเอียดกิจกรรม Art Submission (23 ~ 29 เมษายน 2023)]
