@@ -25,7 +25,6 @@
 # Events
 
 The wiki also contains information pages about our [events](/events/).
-For a full list of events, along with their related pages, see the [[Events]] page.
 
 | Event | Links |
 | --- | --- |
@@ -41,6 +40,8 @@ For a full list of events, along with their related pages, see the [[Events]] pa
 | {% render 'Event', name: 'sht3' %} | [Coverage](/wiki/Coverage/sht3) &middot; [Feedback](/wiki/Feedback/sht3) |
 | {% render 'Event', name: 'sht2' %} | [Coverage](/wiki/Coverage/sht2) &middot; [Feedback](/wiki/Feedback/sht2) |
 | {% render 'Event', name: 'sht1' %} | [Coverage](/wiki/Coverage/sht1) |
+
+For a full list of events, along with their related pages, see the [[Events]] page.
 
 # Editing Pages
 
