@@ -22,4 +22,4 @@ Overall, the MC/OD model offers a unique and innovative approach to event or cam
 
 # Further reading
 
-- <https://medium.com/stand-up-code/mc-od-ทางออกของการบริหารจัดการงานเพื่อสังคม-a09ffa97bfc0>v
+- <https://medium.com/stand-up-code/mc-od-ทางออกของการบริหารจัดการงานเพื่อสังคม-a09ffa97bfc0>
