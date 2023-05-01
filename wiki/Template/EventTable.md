@@ -8,4 +8,4 @@ assign prefixes = 'Coverage,Feedback,OrganizerNotes,Sponsorship' | split: ','
 | ----- | ---------- | ---- | ---- |{% for event in events %}{% liquid
 assign slug = event.ref | split: '/' | last
 %}
-| {% if event.data.event.unlisted %}:Icon{icon="codicon:eye-closed"} {% endif %}{% render 'Event', name: slug %} | {% render 'EventNamespaceLinks', name: slug %} | {{ event.data.event.date }} | {{ slug }} |{% endfor %}
+| {% render 'Event', name: slug %} {% if event.data.event.unlisted %}:Icon{icon="codicon:eye-closed"}{% endif %} | {% render 'EventNamespaceLinks', name: slug %} | {{ event.data.event.date }} | {{ slug }} |{% endfor %}
