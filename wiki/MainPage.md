@@ -25,7 +25,7 @@
 # Events
 
 The wiki also contains information pages about our [events](/events/).
-For a full list of event along with their related pages, see the [[Events]] page.
+For a full list of events, along with their related pages, see the [[Events]] page.
 
 | Event | Links |
 | --- | --- |
