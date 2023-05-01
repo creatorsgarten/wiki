@@ -12,3 +12,5 @@ event:
 ---
 
 soon enough. :)
+
+<tt>{{ page | json | escape }}</tt>
