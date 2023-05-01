@@ -22,8 +22,6 @@
 
 - [[Discord|Our Discord servers]]
 
-- [[Managing events with MC-OD]]
-
 - Information pages about our [events](https://creatorsgarten.org/events/)
 
   | Event | Links |
@@ -43,6 +41,7 @@
 - Knowledge base
   - [[Audio video equipments]]
   - [[Videos|How we record our talks and manage our YouTube channel]]
+  - [[ManagingEventsWithMCOD|Managing events with MC/OD]]
 
 - [[Special/AllPages|Alphabetical page list]]
 
