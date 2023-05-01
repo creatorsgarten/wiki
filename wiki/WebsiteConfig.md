@@ -10,6 +10,16 @@ websiteConfig:
         schedule: Late Q2 - Early Q3
       - name: Placeholder
         schedule: Biweekly
+  guilds:
+    - id: StupidHackTH
+      name: Stupid Hackathon in Thailand
+    - id: ShowdownSpace
+      name: showdown.space
+    - name: Tech Club Circle
+    - id: BangkokOpenSource
+      name: Bangkok Open Source
+    - id: CreativeCoding
+      name: Creative Coding
 ---
 
 {% for section in page.websiteConfig %}
