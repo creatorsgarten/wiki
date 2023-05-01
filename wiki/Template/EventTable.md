@@ -1,6 +1,6 @@
 {% liquid
 unless events
-  assign events = '{"match":{"event":true}}' | query_pages
+  assign events = '{"match":{"event":true}}' | query_pages | sort: 'data.event.date'
 endunless
 assign prefixes = 'Coverage,Feedback,OrganizerNotes,Sponsorship' | split: ','
 %}
