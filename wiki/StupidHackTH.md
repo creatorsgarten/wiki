@@ -1,4 +1,5 @@
 ---
+title: Stupid Hackathon in Thailand
 guild:
   name: Stupid Hackathon in Thailand
   site: https://stupidhackth.github.io/
