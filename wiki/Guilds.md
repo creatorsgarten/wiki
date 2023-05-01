@@ -5,4 +5,4 @@
 - [[Bangkok Open Source]]
 - [[Polaryz Club]]
 - [[showdown.space]]
-- [[Stupid Hackathon in Thailand]]
+- [[StupidHackTH|Stupid Hackathon in Thailand]]
