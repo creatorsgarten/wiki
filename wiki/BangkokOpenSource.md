@@ -1,5 +1,5 @@
 ---
-guild:
+guild: null
 ---
 
 :::lead
