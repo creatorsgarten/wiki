@@ -33,6 +33,7 @@ The wiki also contains information pages about our [events](/events/):
 | {% render 'Event', name: 'creativecodingmeetup' %} | [Organizer’s notes](/wiki/OrganizerNotes/creativecodingmeetup) |
 | {% render 'Event', name: 'bangkok' %} | [Coverage](/wiki/Coverage/bangkok) &middot; [Feedback](/wiki/Feedback/bangkok) |
 | {% render 'Event', name: 'golf1' %} | [Feedback](/wiki/Feedback/golf1) &middot; [Sponsorship](/wiki/Sponsorship/golf1) |
+| {% render 'Event', name: 'sht7' %} | [Coverage](/wiki/Coverage/sht7) &middot; [Feedback](/wiki/Feedback/sht7) |
 | {% render 'Event', name: 'sht6' %} | [Coverage](/wiki/Coverage/sht6) &middot; [Feedback](/wiki/Feedback/sht6) |
 | {% render 'Event', name: 'sht5' %} | [Coverage](/wiki/Coverage/sht5) &middot; [Feedback](/wiki/Feedback/sht5) |
 | {% render 'Event', name: 'sht4' %} | [Coverage](/wiki/Coverage/sht4) &middot; [Feedback](/wiki/Feedback/sht4) |
