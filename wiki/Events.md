@@ -1,5 +1,7 @@
+# Main events page
+
 :::lead
-[&rarr; Main events page](/events/)
+[&rarr; Click here to go to the main events page](/events/)
 :::
 
 # Creating a new event
