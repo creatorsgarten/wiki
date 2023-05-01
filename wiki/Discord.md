@@ -1,4 +1,6 @@
-ยินดีต้อนรับสู่เซิฟเวอร์ Discord [(&rarr; Join our Discord)](/wiki/Discord/Join)
+:::lead
+ยินดีต้อนรับสู่เซิฟเวอร์ Discord ของ Creatorsgarten [(&rarr; Join our Discord)](/wiki/Discord/Join)
+:::
 
 # ตั้งค่าการแจ้งเตือน
 
