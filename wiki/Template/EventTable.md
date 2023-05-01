@@ -5,6 +5,6 @@ endunless
 %}
 | Event | Slug | Subpages |
 | ----- | ---- | -------- |
-{% for event in events -%}
+{% for event in events %}
 | {{ event.ref }} |
 {%- endfor %}
