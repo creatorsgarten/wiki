@@ -5,6 +5,29 @@
 [evp]: https://eventpop.me/s/creative-coding-meetup
 [form]: https://grtn.org/creative-art-submit
 
+# รายชื่อผลงาน
+
+| Title | Artist | Tech |
+| ----- | ------ | ---- |
+| **— Audio —** |
+| [Algebraic forms of Production function - ft. Prof. MacInnes](https://m.soundcloud.com/xnhp/algebraic-forms-of-production-function-ft-prof-macinnes) | phnx | Nerdiness and a guitar |
+| [Just trying out strudel](https://drive.google.com/file/d/1apH6DBbwseIgymPBxOf-bakHxAQleXN3/view?usp=share_link) | dtinth | strudel ([source code](https://strudel.tidalcycles.org/?zXR46ueBGaSN)) |
+| [Differential (Love with CAL remake OST.)](https://drive.google.com/file/d/1HuvUptW8edP4tabZkyp9zxHVUfemwUhp/view) | [PKDboy](https://www.instagram.com/kpisabsentminded/) | REAPER |
+| [OneLastTimeBeforeWe](https://onelasttimebeforewe.deadlinealwaysexists.com/music/Part1_full.mp3) | [Joe Wan](https://www.youtube.com/@Joe_Wan) | Steinberg Cubase |
+| [30SecsBeforeDeath (part4)](https://30secsbeforedeath.deadlinealwaysexists.com/music/part4_final.mp3) | [Joe Wan](https://www.youtube.com/@Joe_Wan) | Steinberg Cubase |
+| [30SecsBeforeDeath (part5)](https://30secsbeforedeath.deadlinealwaysexists.com/music/part5_final.mp3) | [Joe Wan](https://www.youtube.com/@Joe_Wan) | Steinberg Cubase |
+| **— Visuals —** |
+| [Water: The Apology (experiment #1)](https://drive.google.com/file/d/1NoQKZNNckHVKHMjjcLZLz_Ev_xWfysxC/view?usp=sharing) | [wvwave](https://www.instagram.com/wvweeratouch/) | Physical cymatics with water. I used TouchDesigner to generate low frequency from audio input (mic.) and turn them to different set of frequencies. The video was recorded by high magnifier camera. |
+| [Hello Sunshine](https://drive.google.com/file/d/1LOHosFaeIU2ZuqO7kbGY0lI4_zjkdPZu/view) | [Teerapat Pisitsup](https://www.instagram.com/teerapatpisitsup/) | TouchDesigner |
+| [Ring Rotation](https://drive.google.com/drive/folders/1Htc0sYwXppwNDovdyWUQS-O5bblZuWZ5?usp=sharing) | [PopoTeaTree](https://www.instagram.com/juneygorllery/) | OpenFramework ([source code](https://github.com/PopoTeaTree/Morphing)) |
+| [OneLastTimeBeforeWe (/draw)](https://onelasttimebeforewe.deadlinealwaysexists.com/draw) | Krist Ponpairin | Wasm+HTMLCanvas |
+| [OneLastTimeBeforeWe (/art)](https://onelasttimebeforewe.deadlinealwaysexists.com/art) | Krist Ponpairin | Wasm+HTMLCanvas |
+| [JavaScript Bangkok 1.0.0 prototype SDF](https://drive.google.com/file/d/1rQn0GvSJVWFiG3nemNTGFHwrQXR85LnH/view?usp=sharing) | [@dtinth](https://dt.in.th) implementing [art style by @jirayutle](https://dribbble.com/shots/10593738-Javascript-Bangkok-1-0-0-CI-Pre-Release-Version) | GLSL ([source code](https://github.com/dtinth/html5-animation-video-renderer/blob/master/examples/jsbangkok-prototype.html)) |
+
+---
+
+:::details[__Archive:__ รายละเอียดกิจกรรม Art Submission (23 ~ 29 เมษายน 2023)]
+
 # Rules
 
 - ผลงานภาพเคลื่อนไหวที่ได้รับเลือก จะนำมาแสดงเป็นในช่วง Intermission (ช่วงเบรค หรือช่วงต่อระหว่างเซสชั่น) ส่วนผลงานเสียง จะนำมาใช้เป็น Background music ภายในงาน และรายชื่อผลงานที่ได้รับเลือกทั้งหมด จะนำมาแสดงบนเว็บไซต์ของงาน
@@ -32,23 +55,4 @@
 
 **[ส่งผลงานได้ทางลิงค์ Application form ของ Eventpop][form] ภายในวันเสาร์ที่ 29 เมษายน เวลา 18:00**
 
-----
-
-# รายชื่อผลงาน
-
-| Title | Artist | Tech |
-| ----- | ------ | ---- |
-| **— Audio —** |
-| [Algebraic forms of Production function - ft. Prof. MacInnes](https://m.soundcloud.com/xnhp/algebraic-forms-of-production-function-ft-prof-macinnes) | phnx | Nerdiness and a guitar |
-| [Just trying out strudel](https://drive.google.com/file/d/1apH6DBbwseIgymPBxOf-bakHxAQleXN3/view?usp=share_link) | dtinth | strudel ([source code](https://strudel.tidalcycles.org/?zXR46ueBGaSN)) |
-| [Differential (Love with CAL remake OST.)](https://drive.google.com/file/d/1HuvUptW8edP4tabZkyp9zxHVUfemwUhp/view) | [PKDboy](https://www.instagram.com/kpisabsentminded/) | REAPER |
-| [OneLastTimeBeforeWe](https://onelasttimebeforewe.deadlinealwaysexists.com/music/Part1_full.mp3) | [Joe Wan](https://www.youtube.com/@Joe_Wan) | Steinberg Cubase |
-| [30SecsBeforeDeath (part4)](https://30secsbeforedeath.deadlinealwaysexists.com/music/part4_final.mp3) | [Joe Wan](https://www.youtube.com/@Joe_Wan) | Steinberg Cubase |
-| [30SecsBeforeDeath (part5)](https://30secsbeforedeath.deadlinealwaysexists.com/music/part5_final.mp3) | [Joe Wan](https://www.youtube.com/@Joe_Wan) | Steinberg Cubase |
-| **— Visuals —** |
-| [Water: The Apology (experiment #1)](https://drive.google.com/file/d/1NoQKZNNckHVKHMjjcLZLz_Ev_xWfysxC/view?usp=sharing) | [wvwave](https://www.instagram.com/wvweeratouch/) | Physical cymatics with water. I used TouchDesigner to generate low frequency from audio input (mic.) and turn them to different set of frequencies. The video was recorded by high magnifier camera. |
-| [Hello Sunshine](https://drive.google.com/file/d/1LOHosFaeIU2ZuqO7kbGY0lI4_zjkdPZu/view) | [Teerapat Pisitsup](https://www.instagram.com/teerapatpisitsup/) | TouchDesigner |
-| [Ring Rotation](https://drive.google.com/drive/folders/1Htc0sYwXppwNDovdyWUQS-O5bblZuWZ5?usp=sharing) | [PopoTeaTree](https://www.instagram.com/juneygorllery/) | OpenFramework ([source code](https://github.com/PopoTeaTree/Morphing)) |
-| [OneLastTimeBeforeWe (/draw)](https://onelasttimebeforewe.deadlinealwaysexists.com/draw) | Krist Ponpairin | Wasm+HTMLCanvas |
-| [OneLastTimeBeforeWe (/art)](https://onelasttimebeforewe.deadlinealwaysexists.com/art) | Krist Ponpairin | Wasm+HTMLCanvas |
-| [JavaScript Bangkok 1.0.0 prototype SDF](https://drive.google.com/file/d/1rQn0GvSJVWFiG3nemNTGFHwrQXR85LnH/view?usp=sharing) | [@dtinth](https://dt.in.th) implementing [art style by @jirayutle](https://dribbble.com/shots/10593738-Javascript-Bangkok-1-0-0-CI-Pre-Release-Version) | GLSL ([source code](https://github.com/dtinth/html5-animation-video-renderer/blob/master/examples/jsbangkok-prototype.html)) |
+:::
