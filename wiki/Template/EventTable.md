@@ -5,7 +5,7 @@ endunless
 assign prefixes = 'Coverage,Feedback,OrganizerNotes,Sponsorship' | split: ','
 %}
 | Event | Namespaces | Date | Slug |
-| ----- | ---------- | ---- | ---- |{% for event in events %}{% liquid
+| ----- | ---------- | ----:| ---- |{% for event in events %}{% liquid
 assign slug = event.ref | split: '/' | last
 %}
 | {% render 'Event', name: slug %} {% if event.data.event.unlisted %}(:Icon{icon="codicon:eye-closed"}){% endif %} | {% render 'EventNamespaceLinks', name: slug %} | {{ event.data.event.date }} | {{ slug }} |{% endfor %}
