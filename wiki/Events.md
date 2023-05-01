@@ -25,6 +25,6 @@ event:
 TBA
 ```
 
-# Pages in {{ ref }}
+# Full event list
 
-{% render 'SubpageList', of: ref %}
+{% render 'EventTable' %}
