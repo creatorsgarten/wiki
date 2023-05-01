@@ -18,6 +18,29 @@ function transformFrontMatter(data, file) {
   //   delete data.hosts
   // }
 
+  // /* 2023-05-01: Format date. */
+  // if (file.startsWith('wiki/Events/') && data.event) {
+  //   const transformDate = (old) => {
+  //     const newDate = new Date(new Date(old).getTime() + 7 * 3600e3)
+  //       .toISOString()
+  //       .split('T')[0]
+  //     const dateComponent = parseInt(newDate.split('-').pop(), 10)
+  //     if (!String(old).includes(dateComponent)) {
+  //       // Validate that the parsed date component is present in the old text
+  //       throw new Error(
+  //         `The date component ${dateComponent} is not present in the original date ${old}.`,
+  //       )
+  //     }
+  //     return newDate
+  //   }
+  //   if (data.event.date) {
+  //     data.event.date = transformDate(data.event.date)
+  //   }
+  //   if (data.event.endDate) {
+  //     data.event.endDate = transformDate(data.event.endDate)
+  //   }
+  // }
+
   return data
 }
 
