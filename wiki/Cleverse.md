@@ -13,7 +13,7 @@ sponsor:
 
 # Getting there
 
-**By MRT**
+## By MRT
 
 1. Go to [[Phra Ram 9]] MRT station.
 2. Take **Exit 2** towards **Central Rama 9**. The underground link is connected to the B floor.
@@ -21,6 +21,12 @@ sponsor:
 4. Exit from the other side (Robinson).
 5. Walk to Rungrojthanakul Building.
 6. Go to 13th floor.
+
+## By car
+
+Cars can be parked at the 2nd–3rd floor at a rate of THB 20 per hour. Can stamp the parking paper for a THB 15 discount.
+
+## Map
 
 ![Map](https://user-images.githubusercontent.com/193136/233851115-80cd8034-4d18-477b-a3b1-c12108fc96d8.jpg)
 
