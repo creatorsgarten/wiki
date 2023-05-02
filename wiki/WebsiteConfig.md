@@ -24,7 +24,8 @@ websiteConfig:
   announcements:
     staging:
       enabled: true
-      message: Whee!
+      message: "Current event: Creative coding meetup — Watch live on Facebook."
+      link: https://www.facebook.com/creatorsgarten
       expiresAt: 2023-05-03T22:00:00+07:00
     production:
       enabled: false
