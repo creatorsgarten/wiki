@@ -21,6 +21,10 @@ event:
 - มี Talk ประมาณ 6 หัวข้อ หัวข้อละ 15–20 นาที เน้นแชร์ประสบการณ์และโชว์ของ ในขณะเดียวกันก็ให้ความรู้ไปด้วย ตัวอย่างเช่นเซสชั่น [AR on Web จากงาน Bkk.js #17](https://www.youtube.com/watch?v=JuWzquQwt4g&list=PLTuz2sLvbRpx9okBtTzA85rRsNqGlKR_5&index=2)
 - <em>อาจจะ</em>มี Art installation หรือ Live coding หรือ Demoparty ให้ใครที่มีผลงานได้เอามาโชว์
 
+# รับชมออนไลน์
+
+[**สามารถรับชมออนไลน์ได้ทางเพจ Creatorsgarten บน Facebook**](https://grtn.org/fb)
+
 # ร่วมงาน
 
 - **วันและเวลา:** วันพุธที่ 3 พฤษภาคม 2023 เวลา 18:00 - 22:00
