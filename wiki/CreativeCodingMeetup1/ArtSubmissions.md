@@ -1,6 +1,6 @@
 ---
 grtn: creative-art
-cover: https://assets.creatorsgarten.org/events/creativecodingmeetup.png
+image: https://assets.creatorsgarten.org/events/creativecodingmeetup.png
 ---
 
 :::lead
