@@ -28,11 +28,22 @@ websiteConfig:
       link: https://www.facebook.com/creatorsgarten
       start: 2023-05-03T18:00:00+07:00
       end: 2023-05-03T22:00:00+07:00
+    example:
+      enabled: false
+      message: "This is an example announcement."
+      link:
+      start: 2023-01-01T00:00:00+07:00
+      end: 2123-01-01T00:00:00+07:00
 ---
 
 {% for section in page.websiteConfig %}
+{% assign name = section[0] %}
 
-# {{ section[0] }}
+# {{ name }}
+
+{% if name == 'announcements' %}
+Announcements are for displaying site-wide banner at the top of the page. Useful for
+{% endif %}
 
 <table><thead><tr><th>Key</th><th>Value</th></tr></thead><tbody>
 {%- for entry in section[1] %}
