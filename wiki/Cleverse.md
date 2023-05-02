@@ -17,7 +17,7 @@ sponsor:
 
 1. Go to [[Phra Ram 9]] MRT station.
 2. Take **Exit 2** towards **Central Rama 9**.
-3. Walk to Rungrojthanakul (Unicity) Building.
+3. Walk to Rungrojthanakul (Unicity) Building. The office zone is the part of that building with Cafe Amazon.
 4. Go to 13th floor.
 
 ## By car
