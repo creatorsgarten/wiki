@@ -46,7 +46,8 @@
 - [Origin Story](https://web.facebook.com/dtinth/posts/pfbid02P9MsmrdyRumCFC3uzLKzfFJ7YBe7eCbsSs5pqjMEbLRY5M2SpbJo9Lkuxffc9PHGl)
 - [Eventpop][evp]
 - [Figma](https://www.figma.com/file/CYKl8hN7sj1D5fBpPWGIl2/Creative-coding-meetup?node-id=215-2&t=XjtNTUiymh15a2AO-0)
-- [[Creative Coding Meetup 1 / Art Submissions]]
+- [Facebook Event]](https://www.facebook.com/events/110037428737374)
+- [[CreativeCodingMeetup1/ArtSubmissions|Art submissions]]
 - Meeting notes
    - [2023-04-23 — Art submission](https://docs.google.com/document/d/1n7iQgRj8crPQKLYl_m0EYOcDFEBR1T_djuSV__xsYuE/edit)
 
