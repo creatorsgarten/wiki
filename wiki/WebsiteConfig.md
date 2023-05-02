@@ -21,6 +21,9 @@ websiteConfig:
         name: Bangkok Open Source
       - id: CreativeCoding
         name: Creative Coding
+  announcements:
+    staging: Whee!
+    production:
 ---
 
 {% for section in page.websiteConfig %}
