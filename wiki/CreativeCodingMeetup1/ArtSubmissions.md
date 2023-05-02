@@ -1,3 +1,8 @@
+---
+grtn: creative-art
+cover: https://assets.creatorsgarten.org/events/creativecodingmeetup.png
+---
+
 :::lead
 งาน [Creative coding meetup][evp] เปิดรับผลงานมาแสดงในงาน ทั้งภาพเคลื่อนไหว (Visuals) และเสียง (Audio)
 :::
