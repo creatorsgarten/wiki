@@ -23,10 +23,16 @@ websiteConfig:
         name: Creative Coding
   announcements:
     creativeCodingMeetup:
-      enabled: false
+      enabled: true
       message: "Current event: Creative coding meetup — Watch live on Facebook."
       link: https://www.facebook.com/creatorsgarten
       start: 2023-05-03T18:00:00+07:00
+      end: 2023-05-03T22:00:00+07:00
+    creativeCodingMeetupSoon:
+      enabled: true
+      message: "Upcoming event: Creative coding meetup. You can watch live on Facebook."
+      link: https://www.facebook.com/creatorsgarten
+      start:
       end: 2023-05-03T22:00:00+07:00
     example:
       enabled: false
