@@ -30,8 +30,8 @@ websiteConfig:
       end: 2023-05-03T22:00:00+07:00
     creativeCodingMeetupSoon:
       enabled: true
-      message: "Upcoming event: Creative coding meetup. You can watch live on Facebook."
-      link: https://www.facebook.com/creatorsgarten
+      message: "Upcoming event: Creative coding meetup on May 3rd. Live stream is available."
+      link: https://creatorsgarten.org/event/creativecodingmeetup
       start:
       end: 2023-05-03T22:00:00+07:00
     example:
@@ -41,6 +41,10 @@ websiteConfig:
       start: 2023-01-01T00:00:00+07:00
       end: 2123-01-01T00:00:00+07:00
 ---
+
+:::note
+Website configuration is cached. It can take up to 1 minute for changes to take effect.
+:::
 
 {% for section in page.websiteConfig %}
 {% assign name = section[0] %}
