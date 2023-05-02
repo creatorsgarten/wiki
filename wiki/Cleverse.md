@@ -16,11 +16,9 @@ sponsor:
 ## By MRT
 
 1. Go to [[Phra Ram 9]] MRT station.
-2. Take **Exit 2** towards **Central Rama 9**. The underground link is connected to the B floor.
-3. Take the escalator up twice to reach the **1 floor** (above G floor).
-4. Exit from the other side (Robinson).
-5. Walk to Rungrojthanakul Building.
-6. Go to 13th floor.
+2. Take **Exit 2** towards **Central Rama 9**.
+3. Walk to Rungrojthanakul (Unicity) Building.
+4. Go to 13th floor.
 
 ## By car
 
