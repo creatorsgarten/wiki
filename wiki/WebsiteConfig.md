@@ -42,7 +42,17 @@ websiteConfig:
 # {{ name }}
 
 {% if name == 'announcements' %}
-Announcements are for displaying site-wide banner at the top of the page. Useful for
+Announcements are for displaying site-wide banner at the top of the page. Useful for displaying current events.
+Each announcement will be evaluated according to this criteria:
+
+1. If `enabled` is false, it will not be shown.
+2. If `start` is set and the time has not yet arrived, it will not be shown.
+3. If `end` is set and the time has passed, it will not be shown.
+4. Otherwise, it will be shown.
+
+If many announcements fulfill the criteria, only the first one will be shown.
+
+You can preview the announcement by appending `?previewAnnouncement=<id>` to the URL. For example, `?previewAnnouncement=example`
 {% endif %}
 
 <table><thead><tr><th>Key</th><th>Value</th></tr></thead><tbody>
