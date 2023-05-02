@@ -42,9 +42,7 @@ websiteConfig:
       end: 2123-01-01T00:00:00+07:00
 ---
 
-:::note
-Website configuration is cached. It can take up to 1 minute for changes to take effect.
-:::
+**Note:** Website configuration is cached. It can take up to 1 minute for changes to take effect.
 
 {% for section in page.websiteConfig %}
 {% assign name = section[0] %}
