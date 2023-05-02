@@ -25,9 +25,11 @@ websiteConfig:
     staging:
       enabled: true
       message: Whee!
+      expiresAt: 2023-05-03T22:00:00+07:00
     production:
       enabled: false
       message: Whee!
+      expiresAt: 2023-05-03T22:00:00+07:00
 ---
 
 {% for section in page.websiteConfig %}
