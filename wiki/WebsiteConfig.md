@@ -30,7 +30,7 @@ websiteConfig:
       end: 2023-05-03T22:00:00+07:00
     creativeCodingMeetupSoon:
       enabled: true
-      message: "Upcoming event: Creative coding meetup on May 3rd. Live stream is available."
+      message: "Upcoming event: Creative coding meetup on May 3rd @ 18:00. Live streaming is available."
       link: https://creatorsgarten.org/event/creativecodingmeetup
       start:
       end: 2023-05-03T22:00:00+07:00
