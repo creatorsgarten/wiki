@@ -22,15 +22,12 @@ websiteConfig:
       - id: CreativeCoding
         name: Creative Coding
   announcements:
-    staging:
-      enabled: true
+    creativeCodingMeetup:
+      enabled: false
       message: "Current event: Creative coding meetup — Watch live on Facebook."
       link: https://www.facebook.com/creatorsgarten
-      expiresAt: 2023-05-03T22:00:00+07:00
-    production:
-      enabled: false
-      message: Whee!
-      expiresAt: 2023-05-03T22:00:00+07:00
+      start: 2023-05-03T18:00:00+07:00
+      end: 2023-05-03T22:00:00+07:00
 ---
 
 {% for section in page.websiteConfig %}
