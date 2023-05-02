@@ -22,8 +22,12 @@ websiteConfig:
       - id: CreativeCoding
         name: Creative Coding
   announcements:
-    staging: Whee!
+    staging:
+      enabled: true
+      message: Whee!
     production:
+      enabled: false
+      message: Whee!
 ---
 
 {% for section in page.websiteConfig %}
