@@ -25,7 +25,7 @@ websiteConfig:
     creativeCodingMeetup:
       enabled: true
       message: "Current event: Creative coding meetup — Watch live on Facebook."
-      link: https://www.facebook.com/creatorsgarten
+      link: https://creatorsgarten.org/wiki/CurrentEvent
       start: 2023-05-03T19:00:00+07:00
       end: 2023-05-03T22:00:00+07:00
     creativeCodingMeetupSoon:
@@ -37,7 +37,7 @@ websiteConfig:
     example:
       enabled: false
       message: "This is an example announcement."
-      link:
+      link: https://creatorsgarten.org/wiki/CurrentEvent
       start: 2023-01-01T00:00:00+07:00
       end: 2123-01-01T00:00:00+07:00
 ---
