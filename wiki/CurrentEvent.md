@@ -1,5 +1,7 @@
 # Creative coding meetup
 
+- [View list of talks on Eventpop](https://www.eventpop.me/e/14949/creative-coding-meetup)
+
 - [[CreativeCodingMeetup1/ArtSubmissions|View art submissions]]
 
 - [This meetup is being streamed live to Creatorsgarten Facebook Page.](https://grtn.org/fb)
