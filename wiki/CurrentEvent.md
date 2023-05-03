@@ -10,7 +10,13 @@
 
 - [Join our Discord community](https://grtn.org/dc)
 
-- [Send us your feedback](https://forms.gle/fw5r22fDEQSxAbLx6)
+- [**Send us your feedback**](https://forms.gle/fw5r22fDEQSxAbLx6)
+
+## Links from speakers
+
+1. <https://www.punpitan.com/>
+2. <https://github.com/karnpapon/anu>
+3. <https://neizod.dev/fractal-demo/>
 
 ---
 
