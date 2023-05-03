@@ -1,5 +1,9 @@
 # Current event: Creative coding meetup
 
+- [Watch live on our Facebook page](https://grtn.org/fb)
+- [[CreativeCodingMeetup1/ArtSubmissions|View art submissions]]
+- [Feedback form](https://forms.gle/fw5r22fDEQSxAbLx6)
+
 ---
 
 :::details[About this page]
