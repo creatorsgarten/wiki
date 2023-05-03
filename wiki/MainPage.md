@@ -29,6 +29,7 @@ The wiki also contains information pages about our [events](/events/).
 | Event | Links |
 | --- | --- |
 | [[Mathematics Night]] [TBD]
+| [[Creative Coding Demoparty]] [TBD]
 | {% render 'Event', name: 'functional' %}
 | {% render 'Event', name: 'creativecodingmeetup' %} | [Organizer’s notes](/wiki/OrganizerNotes/creativecodingmeetup) |
 | {% render 'Event', name: 'bangkok' %} | [Coverage](/wiki/Coverage/bangkok) &middot; [Feedback](/wiki/Feedback/bangkok) |
