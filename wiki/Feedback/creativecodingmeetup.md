@@ -10,6 +10,8 @@
 | Snacks and Drinks | 4.4 |
 
 :::details[View details]
+<div style="max-width: 400px">
+
 - Venue
 
   ::RatingTally{max=5 tally="2=1,4=1,5=5"}
@@ -33,6 +35,8 @@
 - Snacks and Drinks
 
   ::RatingTally{max=5 tally="3=1,4=2,5=4"}
+
+</div>
 :::
 
 **Any overall feedback for the venue?**
