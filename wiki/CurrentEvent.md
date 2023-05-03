@@ -12,11 +12,7 @@
 
 - [**Send us your feedback**](https://forms.gle/fw5r22fDEQSxAbLx6)
 
-## Links from speakers
-
-1. <https://www.punpitan.com/>
-2. <https://github.com/karnpapon/anu>
-3. <https://neizod.dev/fractal-demo/>
+- [Links from speakers](https://docs.google.com/document/d/1Thn5DlctsLyH_EijePnBeOq9nynv8EH3eESSsV4BK1g/edit)
 
 ---
 
