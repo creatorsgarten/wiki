@@ -85,7 +85,9 @@ Signed distance function (SDF) เป็นคอนเซปต์นึงท�
 
 Literature review of what current tool do people use for live coding music/visual. Will show the example from my previous little project from sound: TidalCycle, SuperCollider, PureData to Visual: Hydra.js, p5js, Veda(GLSL), and TouchDesigner and explain some little for each program detail + pros/cons
 
+# Code
 
+- **Art gallery:** {% render 'GitHub', repo: 'creatorsgarten/creative-coding-gallery' %}
 
 
 
