@@ -2,12 +2,12 @@ How satisfied were you with overall experiences?
 
 | Item | Score (out of 5) |
 | --- | ---:|
-| Venue
-| Transportation
-| Agenda
-| Speakers
-| Date and Time
-| Snacks and Drinks
+| Venue | 4.4 |
+| Transportation | 4.4 |
+| Agenda | 4.1 |
+| Speakers | 4.6 |
+| Date and Time | 3.9 |
+| Snacks and Drinks | 4.4 |
 
 :::details[View details]
 - Venue
