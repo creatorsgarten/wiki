@@ -14,4 +14,12 @@ How satisfied were you with overall experiences?
 
 - Speakers
 
+  ::RatingTally{max=5 tally="4=3,5=4"}
+
+- Date and Time
+
   ::RatingTally{max=5 tally="2=1,3=1,4=3,5=2"}
+
+- Snacks and Drinks
+
+  ::RatingTally{max=5 tally="3=1,4=2,5=4"}
