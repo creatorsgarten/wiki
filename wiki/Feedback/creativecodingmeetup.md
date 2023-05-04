@@ -6,12 +6,12 @@ As of 2023-05-04 @ 2 a.m.
 
 | Item | Score (out of 5) |
 | --- | ---:|
-| Venue | 4.4 |
-| Transportation | 4.4 |
-| Agenda | 4.1 |
-| Speakers | 4.6 |
+| Venue | 4.5 |
+| Transportation | 4.5 |
+| Agenda | 4.2 |
+| Speakers | 4.5 |
 | Date and Time | 3.9 |
-| Snacks and Drinks | 4.4 |
+| Snacks and Drinks | 4.6 |
 
 :::details[View details]
 <div style="max-width: 400px; margin: 0 auto">
