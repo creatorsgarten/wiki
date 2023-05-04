@@ -1,3 +1,7 @@
+---
+title: Do-ocracy
+---
+
 > Do-ers decide. \
 > Non do-ers stand aside. \
 > If you have opinions, be willing to hack. \
