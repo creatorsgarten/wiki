@@ -52,9 +52,10 @@ Cars can be parked at the 2nd–3rd floor at a rate of THB 20 per hour. Can stam
 
 Additional notes:
 
-- The normal setup at the venue is susceptible to audio feedback loop (speaker &rarr; mic &rarr; speaker).
-  The maximum audio level that does not result in a feedback loop is too quiet (people at the back cannot hear).
-  To fix this, some frequencies have to be filtered out using an equalizer and a limiter.
+- From {% render 'Event', name: 'creativecodingmeetup' %}
+  - The normal setup at the venue is susceptible to audio feedback loop (speaker &rarr; mic &rarr; speaker).
+    The maximum audio level that does not result in a feedback loop is too quiet (people at the back cannot hear).
+    To fix this, some frequencies have to be filtered out using an equalizer and a limiter.
 
 # Nearby places to hang out
 
