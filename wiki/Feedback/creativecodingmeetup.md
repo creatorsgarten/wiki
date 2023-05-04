@@ -14,7 +14,7 @@ As of 2023-05-04 @ 2 a.m.
 | Snacks and Drinks | 4.4 |
 
 :::details[View details]
-<div style="max-width: 400px">
+<div style="max-width: 400px; margin: 0 auto">
 
 - Venue
 
