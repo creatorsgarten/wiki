@@ -28,8 +28,12 @@
 # Key learnings
 
 - Digital mixers (through PC, ATEM, TV, …) introduce latency which may be unacceptable for latency-sensitive demos. We probably need a portable mixer hardware.
-
 - Forgot to add a “timer screen” despite multiple spare laptops. Next time, when listing roles, do not forget a “timekeeper.”
+- Action items
+   - Buy a mixer.
+   - Communicate and confirm with speakers about the talk duration more early on in the process.
+   - Make sure there is a “time-keeper” role when planning for the day.
+   - Put up a timer screen.
 
 # Organizers
 
