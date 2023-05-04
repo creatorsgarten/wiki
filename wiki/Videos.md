@@ -10,7 +10,7 @@ If you’ve given talks in our events, you can find your talk videos published o
 
 - **Like, comment, and share** — Any engagement with our videos will help our channel to reach more people.
 
-- **Improve our video metadata** — All of our video metadata is [[GitOps|managed on GitHub]] at {% render 'GitHub', repo: 'videos' %}. Whether you’re the author of a talk or someone who just wants to contribute, you can help us improve the video metadata to increase audience engagement.
+- **Improve our video metadata** — All of our video metadata is [[GitOps|managed on GitHub]] at {% render 'GitHub', repo: 'videos' %}. Whether you’re the author of a talk or someone who just wants to contribute, you can help us improve the video metadata to increase audience engagement. [Watch this segment to learn how Creatorsgarten manage YouTube videos on GitHub.](https://www.youtube.com/watch?v=GR2tKv93BDY&t=1502s)
 
   For example, you can:
 
