@@ -50,7 +50,7 @@ For a full list of events, along with their related pages, see the [[Events]] pa
 
 - **Edit on Visual Studio Code for the Web:** [:Icon{icon="vscode-icons:file-type-vscode"} Click here to launch VS Code for the Web.](https://vscode.dev/github/creatorsgarten/wiki)
 
-- **Edit directly on the website:** Click on the pencil icon (:Icon{icon="pixelarticons:edit"}) to start editing. It is optimized for making quick and small changes. The editor is very rudimentary and not stable, so we recommend that you save your changes frequently to avoid conflicts and avoid losing your work.
+- **Edit directly on the website:** Click on the "Edit this page :Icon{icon="pixelarticons:edit"}" button to start editing. It is optimized for making quick and small changes. The editor is very rudimentary and not stable, so we recommend that you save your changes frequently to avoid conflicts and avoid losing your work.
 
 ## Getting notified of changes
 
