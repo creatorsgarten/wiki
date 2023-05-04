@@ -1,4 +1,5 @@
-> Silence is consent
+> Silence is consent \
+> (— [The Apache Software Foundation](https://community.apache.org/committers/lazyConsensus.html))
 
 :::lead
 **Lazy consensus** เป็นเทคนิคนึงที่ช่วยให้เกิดการตัดสินใจและลงมือทำ
