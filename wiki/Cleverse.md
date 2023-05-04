@@ -46,9 +46,9 @@ Cars can be parked at the 2nd–3rd floor at a rate of THB 20 per hour. Can stam
 | Equipment | Description | Links | Notes |
 | --------- | ----------- | ----- | ----- |
 | LG TV SSCR2 86-inch television | Video output | | Default picture mode is APS (Auto Power Save)<br>For best latency and frame rate:<br>- On a Mac, click ‘Show all resolutions’ and set ‘Refresh rate’ to ‘60 Hertz’<br>- On the TV, set ‘Picture Mode’ to ‘Game’.<br>There is an audio delay of about 60 ms. |
-| [A-2000 Series Mixer Power Amplifier](https://toathailand.com/products/amplifiers/a-2000-series) | Audio mixer/amplifier | [Specs](https://toathailand.com/document/37-a-2000-series-mixer-power-amplifiers-brochure-(ce-au-version)-brochure.pdf) | 3x XLR in<br>2x RCA in |
+| [TOA A-2240 Mixer Power Amplifier](https://toathailand.com/products/amplifiers/a-2000-series) | Audio mixer/amplifier | [Specs](https://toathailand.com/document/37-a-2000-series-mixer-power-amplifiers-brochure-(ce-au-version)-brochure.pdf) | 3x XLR in<br>2x RCA in |
 | [Shure SVX](https://www.shure.com/en-ASIA/products/wireless-systems/svx-wireless-systems) | Wireless microphones system | | 1/4" and XLR out |
-| [evo 4 2in/2out Audio Interface](https://evo.audio/products/audio-interfaces/evo-4/overview/) | Audio interface | [Manual](https://www.bhphotovideo.com/lit_files/593252.pdf) | USB-C<br>2x TRS jack/XLR in<br>1x TS Jack in (for guitar)<br>2x TS Jack monitor out<br>1x TRS Jack headphone out |
+| [evo 4 2in/2out Audio Interface](https://evo.audio/products/audio-interfaces/evo-4/overview/) | Audio interface | [Manual](https://www.bhphotovideo.com/lit_files/593252.pdf) | USB-C<br>2x TRS jack/XLR in<br>1x TS Jack in (for guitar)<br>2x TS Jack monitor out<br>1x TRS Jack headphone out<br>Normally, this is used to record sound that comes out of the A-2240 mixer. |
 
 Additional notes:
 
