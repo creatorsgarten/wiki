@@ -1,5 +1,7 @@
 {% render 'EventBox', name: 'creativecodingmeetup' %}
 
+As of 2023-05-04 @ 2 a.m.
+
 **How satisfied were you with overall experiences?**
 
 | Item | Score (out of 5) |
