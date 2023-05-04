@@ -1,3 +1,5 @@
+{% render 'EventBox', name: 'creativecodingmeetup' %}
+
 **How satisfied were you with overall experiences?**
 
 | Item | Score (out of 5) |
