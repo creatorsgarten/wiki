@@ -49,10 +49,10 @@ for item in page.equipments
     echo item.name
   endif
   echo " | "
-  echo item.description | newline_to_br
+  echo item.description | replace: newline, " "
   echo " | "
   assign printed = false
-  for link in links
+  for link in item.links
     if printed
       echo " &middot; "
     endif
@@ -64,6 +64,6 @@ for item in page.equipments
     echo ")"
   endfor
   echo " | "
-  echo item.notes | newline_to_br
+  echo item.notes | replace: newline, " "
 endfor
 %}
