@@ -66,5 +66,6 @@
 - [Feedback form](https://forms.gle/fw5r22fDEQSxAbLx6)
 - Meeting notes
    - [2023-04-23 — Art submission](https://docs.google.com/document/d/1n7iQgRj8crPQKLYl_m0EYOcDFEBR1T_djuSV__xsYuE/edit)
+   - [2023-04-29 — Pre-event online sync](https://docs.google.com/document/d/1bqPFsigm7WF8u4-eAVIz2weWWvxkUbwvI2iVOz-s1CY/edit)
 
 [evp]: https://www.eventpop.me/s/creative-coding-meetup
