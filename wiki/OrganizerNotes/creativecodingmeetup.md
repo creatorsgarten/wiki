@@ -21,7 +21,13 @@
 
 ## A/V setup
 
+**Planned:**
+
 ![CleanShot 2023-04-23 at 01 36 28](https://user-images.githubusercontent.com/22584594/233796269-c510fa11-51db-4cdb-bb81-fa98184c5631.png)
+
+**Actual:**
+
+<img width="1715" alt="image" src="https://user-images.githubusercontent.com/193136/236237615-07774442-b7d8-43d8-8d72-cb0e16c64a73.png">
 
 [A/V setup tldraw](https://www.tldraw.com/r/v2_c_ar31Sg3WnoGEtAT7RzYBR)
 
