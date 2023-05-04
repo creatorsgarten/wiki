@@ -33,8 +33,8 @@ This page lists Creatorsgarten’s audio/video equipments and tracks who’s cur
 {% capture newline %}
 {% endcapture %}
 
-| Equipment | Description | Links | Notes | Custody |
-| --------- | ----------- | ----- | ----- | ------- |{% liquid
+| Equipment | Description &amp; Links | Notes | Custody |
+| --------- | ----------------------- | ----- | ------- |{% liquid
 for item in page.equipments
   echo newline
   echo "| "
@@ -49,7 +49,7 @@ for item in page.equipments
   endif
   echo " | "
   echo item.description
-  echo " | "
+  echo "<br>"
   assign printed = false
   for link in item.links
     if printed
