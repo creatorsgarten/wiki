@@ -27,7 +27,7 @@ equipments:
 ---
 
 :::lead
-This page tracks the audio/video equipment that belongs to Creatorsgarten, as well as who is currently taking custody of it.
+This page lists Creatorsgarten’s audio/video equipments and tracks who’s currently taking custody of it.
 :::
 
 {% capture newline %}
