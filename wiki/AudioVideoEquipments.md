@@ -64,5 +64,8 @@ for item in page.equipments
   endfor
   echo " | "
   echo item.notes
+  echo " | "
+  echo item.custody
+  echo " |"
 endfor
 %}
