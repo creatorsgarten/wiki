@@ -6,22 +6,14 @@ equipments:
     links:
       Manual: https://www.blackmagicdesign.com/products/atemmini/gettingstarted
       Tech Specs: https://www.blackmagicdesign.com/products/atemmini/techspecs/W-APS-14
-    notes: |
-      USB-C out
-      4x HDMI in, 1x HDMI out (with audio)
-      2x stereo mini jack in
+    notes: USB-C out<br>4x HDMI in, 1x HDMI out (with audio)<br>2x stereo mini jack in
   - name: DJI MIC
     url: https://www.dji.com/mic
     description: Wireless microphone
     links:
       Manual: https://dl.djicdn.com/downloads/DJI_Mic/DJI_Mic_User_Manual_v1.0_en.pdf
       Tech Specs: https://www.dji.com/mic/specs
-    notes: |
-      USB-C out
-      3.5mm headphone out
-      3.5mm TRS out (for camera)
-      5 hours operating time
-      2m40s to charge
+    notes: USB-C out<br>3.5mm headphone out<br>3.5mm TRS out (for camera)<br>5 hours operating time<br>2m40s to charge
   - name: Insta360 Link
     url: https://www.insta360.com/product/insta360-link
     description: Gimbal webcam with head tracking
@@ -49,7 +41,7 @@ for item in page.equipments
     echo item.name
   endif
   echo " | "
-  echo item.description | replace: newline, " "
+  echo item.description
   echo " | "
   assign printed = false
   for link in item.links
@@ -64,6 +56,6 @@ for item in page.equipments
     echo ")"
   endfor
   echo " | "
-  echo item.notes | replace: newline, " "
+  echo item.notes
 endfor
 %}
