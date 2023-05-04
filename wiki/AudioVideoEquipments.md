@@ -36,7 +36,7 @@ equipments:
 
 | Equipment | Description | Links | Notes |
 | --------- | ----------- | ----- | ----- |{% liquid
-for item in equipments
+for item in page.equipments
   echo newline
   echo "| "
   if item.url
