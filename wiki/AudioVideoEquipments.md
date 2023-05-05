@@ -15,7 +15,7 @@ equipments:
     links:
       Manual: https://dl.djicdn.com/downloads/DJI_Mic/DJI_Mic_User_Manual_v1.0_en.pdf
       Tech Specs: https://www.dji.com/mic/specs
-    notes: USB-C out<br>3.5mm headphone out<br>3.5mm TRS out (for camera)<br>5 hours operating time<br>2m40s to charge
+    notes: USB-C out<br>3.5mm headphone out<br>3.5mm TRS out (for camera)<br>4 hours operating time[^djimicbattery]<br>2m40s to charge
   - name: Insta360 Link
     custody: Pub
     url: https://www.insta360.com/product/insta360-link
@@ -69,3 +69,5 @@ for item in page.equipments
   echo " |"
 endfor
 %}
+
+[^djimicbattery]: From running Creative coding meetup, we found that the receiver is the first equipment to run out of battery when not charged.
