@@ -26,8 +26,8 @@
 - [[Special/AllPages|Alphabetical page list]]
 - [[Special/RecentChanges|Recently-changed pages]]
 
-# [[Guilds]]
-With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish guilds aligned with ongoing projects and member interests
+# Guilds
+With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish [[Guilds|guilds]] aligned with ongoing projects and member interests
 - **[[StupidHackTH|Stupid Hackathon Thailand]]**: the working group organizing the Stupid Hackathon in Thailand event series
 - **[[ShowdownSpace|Showdown Space]]**: a group led by [[https://github.com/dtinth|@dtinth]], to hosts community tech events in the form of recreational tech contests and game shows.
 - **[[BangkokOpenSource|Bangkok Open Source Initiative]]**: a collective to promote open-source culture and facilitate connections between creators, developers, and civic and government organizations
