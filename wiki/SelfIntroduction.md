@@ -26,7 +26,7 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 
 - **[[StupidHackTH|Stupid Hackathon Thailand]]**: the working group organizing the Stupid Hackathon in Thailand event series, which primarily consists of high school and university students
 - **[[ShowdownSpace|Showdown Space]]**: a group led by @dtinth, to hosts community tech events in the form of recreational tech contests and game shows.
-- **[[BangkokOpenSouce|Bangkok Open Source Initiative]]**: a collective formed spontaneously from the Bangkok Open Source Hackathon in 2023, to promote open-source culture and facilitate connections between creators, developers, and civic and government organizations
+- **[[BangkokOpenSource|Bangkok Open Source Initiative]]**: a collective formed spontaneously from the Bangkok Open Source Hackathon in 2023, to promote open-source culture and facilitate connections between creators, developers, and civic and government organizations
 - **Tech Club Circle**: a working group that maintains the circle of computer clubs in Thailand
 - **Creative Coders**: an interdisciplinary group of programmers and artists 
 
