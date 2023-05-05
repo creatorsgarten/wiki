@@ -10,17 +10,28 @@
 
 # Contents
 
-- [[Special/RecentChanges|Recently-changed pages]]
 - [[SelfIntroduction|What is Creatorsgarten?]]
-- [[Democratize Creation for All|Democratize creation for all — our manifesto]]
-- [[Guilds]]
+- [[Democratize Creation for All|Manifesto: Democratize creation for all]]
+- [[Guilds|Guilds/Initiatives/Working Groups within Creatorsgarten]]
 - [[DigitalPresence|Our digital presence]]
-- Knowledge base
+
+## Knowledge base
   - [[Audio video equipments]]
   - [[Discord|Discord community guide]]
   - [[Videos|How we record our talks and manage our YouTube channel]]
   - [[ManagingEventsWithMCOD|Managing events with MC/OD]]
+
+## Special
 - [[Special/AllPages|Alphabetical page list]]
+- [[Special/RecentChanges|Recently-changed pages]]
+
+# [[Guilds]]
+With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish guilds aligned with ongoing projects and member interests
+- **[[StupidHackTH|Stupid Hackathon Thailand]]**: the working group organizing the Stupid Hackathon in Thailand event series
+- **[[ShowdownSpace|Showdown Space]]**: a group led by @dtinth, to hosts community tech events in the form of recreational tech contests and game shows.
+- **[[BangkokOpenSource|Bangkok Open Source Initiative]]**: a collective to promote open-source culture and facilitate connections between creators, developers, and civic and government organizations
+- **Tech Club Circle**: a working group that maintains the circle of computer clubs in Thailand
+- **Creative Coders**: an interdisciplinary group of programmers and artists 
 
 # Events
 
