@@ -22,11 +22,11 @@ The movement was initiated in 2017 by a group of programmers to organize "[[Even
 
 As the group expanded and hosted more events unrelated to the annual Stupid Hackathon Thailand, it became clear that the name was no longer fitting. Therefore, in the closing session of [[Events/sht6|the sixth Stupid Hackathon Thailand]], the group announced its new name, "Creatorsgarten", which, as a result, also create a more cohesive collective with a more well-defined objective and traits.
 
-With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish guilds aligned with ongoing projects and member interests. These include:
+With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish "[[Guilds]]" aligned with ongoing projects and member interests. These include:
 
-- **Stupid Hackathon Thailand**: a group working to host an annual Stupid Hackathon Thailand, which primarily consists of high school and university students
-- **Showdown Space**: a group focused on creating recreational coding competitions
-- **Bangkok Open Source Initiative**: a collective formed spontaneously from the Bangkok Open Source Hackathon in 2023, to promote open-source culture and facilitate connections between creators, developers, and civic and government organizations
+- **[[StupidHackTH|Stupid Hackathon Thailand]]**: the working group organizing the Stupid Hackathon in Thailand event series, which primarily consists of high school and university students
+- **[[ShowdownSpace|Showdown Space]]**: a group led by @dtinth, to hosts community tech events in the form of recreational tech contests and game shows.
+- **[[BangkokOpenSouce|Bangkok Open Source Initiative]]**: a collective formed spontaneously from the Bangkok Open Source Hackathon in 2023, to promote open-source culture and facilitate connections between creators, developers, and civic and government organizations
 - **Tech Club Circle**: a working group that maintains the circle of computer clubs in Thailand
 - **Creative Coders**: an interdisciplinary group of programmers and artists 
 
