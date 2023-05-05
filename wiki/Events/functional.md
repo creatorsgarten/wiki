@@ -16,3 +16,4 @@ Let's talk about functional programming! If you're into FP, Clojure, Haskell, El
 # Links
 
 - [Facebook Event](https://facebook.com/events/205881275552948)
+- [Call for Speakers](https://airtable.com/shrATt9PA6zL2L287)
