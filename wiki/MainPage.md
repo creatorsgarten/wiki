@@ -8,9 +8,8 @@
 
 [main-site]: https://creatorsgarten.org/
 
-# Contents
+# About us
 
-## About us
 - [[SelfIntroduction|What is Creatorsgarten?]]
 - [[Democratize Creation for All|Manifesto: Democratize creation for all]]
 - [[Guilds|Guilds/Initiatives/Working Groups within Creatorsgarten]]
