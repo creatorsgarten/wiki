@@ -20,7 +20,7 @@ At its core, Creatorsgarten is a collective and meta-collective composed of crea
 
 The movement was initiated in 2017 by a group of programmers to organize "[[Events/sht1|The Stupid Hackathon Bangkok]]," which eventually evolved into "The Stupid Hackathon Thailand" team and community. From 2017 to 2021, "The Stupid Hackathon Thailand" held five annual Stupid Hackathons, two Hacktoberfest Thailand chapters, and several special events, such as "[[Events/ycc1|Young Creators' Camp]]," "[[Events/love|Data Driven Love]]," and "[[Events/codeplearn|Code Plearn.]]"
 
-As the group expanded and hosted more events unrelated to the annual Stupid Hackathon Thailand, it became clear that the name was no longer fitting. Therefore, in the closing session of the sixth Stupid Hackathon Thailand, the group announced its new name, "Creatorsgarten", which, as a result, also create a more cohesive collective with a more well-defined objective and traits.
+As the group expanded and hosted more events unrelated to the annual Stupid Hackathon Thailand, it became clear that the name was no longer fitting. Therefore, in the closing session of the [[Events/sht6|sixth Stupid Hackathon Thailand]], the group announced its new name, "Creatorsgarten", which, as a result, also create a more cohesive collective with a more well-defined objective and traits.
 
 With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish guilds aligned with ongoing projects and member interests. These include:
 
