@@ -1,3 +1,5 @@
+{% render 'EventBox', name: 'creativecodingmeetup' %}
+
 # Live
 
 - [Live video archive on Facebook](https://web.facebook.com/creatorsgarten/videos/262383566179746/)
