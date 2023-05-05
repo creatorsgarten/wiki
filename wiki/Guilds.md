@@ -6,3 +6,5 @@
 - [[Polaryz Club]]
 - [[showdown.space]]
 - [[StupidHackTH|Stupid Hackathon in Thailand]]
+- Tech Club Circle
+- Creative Coders
