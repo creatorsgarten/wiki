@@ -16,3 +16,4 @@ VS Code Day โดย Thailand Community Leaders โดยการสนับ�
 # Links
 
 - [Facebook Event](https://www.facebook.com/events/1588861994949479)
+- [Live Video](https://www.facebook.com/SparkTechTH/videos/783805536598954)
