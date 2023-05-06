@@ -16,10 +16,12 @@
 - [[DigitalPresence|Our digital presence]]
 
 ## Knowledge base
-  - [[Audio video equipments]]
-  - [[Discord|Discord community guide]]
-  - [[Videos|How we record our talks and manage our YouTube channel]]
-  - [[ManagingEventsWithMCOD|Managing events with MC/OD]]
+- [[Discord|Discord community guide]]
+- [[Videos|How we record our talks and manage our YouTube channel]]
+- [[ManagingEventsWithMCOD|Managing events with MC/OD]]
+
+## Database
+- [[Inventory]]
 
 ## Special
 - [[Special/AllPages|Alphabetical page list]]
