@@ -50,7 +50,8 @@ equipments:
   - name: Komono
     custody: Pub
     type: komono
-    description: Stickers<br>Shirts<br>Name tags
+    description: Small articles (小物)
+    notes: Stickers<br>Shirts<br>Name tags
 ---
 
 :::lead
