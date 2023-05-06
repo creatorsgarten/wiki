@@ -43,6 +43,8 @@ event:
 
 เบื้องหลังงาน interactive และ immersive art ที่ผนวกศิลปะกับเทคโนโลยีเข้าด้วยกันเพื่อเล่าเรื่องราวผ่านการใช้เทคนิคพิเศษต่างๆและทำให้ผู้ชมได้มีส่วนร่วมในชิ้นงาน
 
+`youtube: KCPjgyDsuN4`
+
 ## Regular expression as an irregular musical expression
 
 **Speaker:** Karnpapon Boonput &middot; {% render 'GitHub', user: 'karnpapon' %}
