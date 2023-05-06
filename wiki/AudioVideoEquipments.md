@@ -8,7 +8,7 @@ This page lists Creatorsgarten’s audio/video equipments and tracks who’s cur
 | Equipment | Description &amp; Links | Notes | Custody |
 | --------- | ----------------------- | ----- | ------- |{% liquid
 assign inventory = 'Inventory' | get_page
-for item in inventory.data.equipments
+for item in inventory.data.equipments | where: 'type', 'av'
   echo newline
   echo "| "
   if item.url
