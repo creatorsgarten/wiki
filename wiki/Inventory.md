@@ -35,6 +35,10 @@ equipments:
     custody: Riffy
     type: boardGame
     description: Board game guild
+  - name: HDMI Cable
+    custody: Riffy
+    type: av
+    description: Length 5m
 ---
 
 :::lead
