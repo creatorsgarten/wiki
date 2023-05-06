@@ -43,10 +43,6 @@ equipments:
     custody: Riffy
     type: toy
     description: There's 2 boxes full of LEGO bricks
-  - name: LEGO Box
-    custody: Riffy
-    type: toy
-    description: There's 2 boxes full of LEGO bricks
   - name: Komono
     custody: Pub
     type: komono
