@@ -2,6 +2,8 @@
 This page lists Creatorsgarten’s audio/video equipments and tracks who’s currently taking custody of it.
 :::
 
+The data is sourced from the [[Inventory]] page.
+
 {% capture newline %}
 {% endcapture %}
 
@@ -42,5 +44,3 @@ for item in inventory.data.equipments | where: 'type', 'av'
   echo " |"
 endfor
 %}
-
-[^djimicbattery]: From running Creative coding meetup, we found that the receiver is the first equipment to run out of battery when not charged.
