@@ -4,10 +4,6 @@
 **[Creatorsgarten](https://creatorsgarten.org/)** is a collective of creators. Through [workshops, meetups, hackathons, and much more](https://creatorsgarten.org/events/), we bring people together to work on new ideas, trying new things and collaborate across disciplines.
 :::
 
-**The Creatorsgarten Wiki** stores contents that are more frequently updated than the main [Creatorsgarten website][main-site].
-
-[main-site]: https://creatorsgarten.org/
-
 # About us
 
 - [[SelfIntroduction|What is Creatorsgarten?]]
@@ -19,6 +15,7 @@
 - [[Discord|Discord community guide]]
 - [[Videos|How we record our talks and manage our YouTube channel]]
 - [[ManagingEventsWithMCOD|Managing events with MC/OD]]
+- [[HowToUseWiki|How to use this wiki]]
 
 ## Database
 - [[Inventory]]
@@ -56,18 +53,6 @@ The wiki also contains information pages about our [events](/events/).
 | {% render 'Event', name: 'sht1' %} | [Coverage](/wiki/Coverage/sht1) |
 
 For a full list of events, along with their related pages, see the [[Events]] page.
-
-# Editing Pages
-
-- **Edit on GitHub:** All of the wiki contents is stored inside the {% render 'GitHub', repo: 'wiki' %} repository. This lets you manage the wiki contents using your favorite tools like VS Code or Obsidian. Changes will be reflected on the website in a few minutes.
-
-- **Edit on Visual Studio Code for the Web:** [:Icon{icon="vscode-icons:file-type-vscode"} Click here to launch VS Code for the Web.](https://vscode.dev/github/creatorsgarten/wiki)
-
-- **Edit directly on the website:** Click on the "Edit this page :Icon{icon="pixelarticons:edit"}" button to start editing. It is optimized for making quick and small changes. The editor is very rudimentary and not stable, so we recommend that you save your changes frequently to avoid conflicts and avoid losing your work.
-
-## Getting notified of changes
-
-- [Join the **Bangkok Open Source Discord** server](https://grtn.org/bkkoss-discord) and [join the “Creatorsgarten wiki changelog” thread](https://discord.com/channels/1062609208106832002/1085847407583055883), then you will receive notifications over Discord.
 
 # Tech Stack
 
