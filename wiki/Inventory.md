@@ -29,16 +29,20 @@ equipments:
     notes: USB-C out
   - name: Power Grid
     custody: Riffy
-    type: boardGame
+    type: toy
     description: Board game guild
   - name: Rummikub
     custody: Riffy
-    type: boardGame
+    type: toy
     description: Board game guild
   - name: HDMI Cable
     custody: Riffy
     type: av
     description: Length 5m
+  - name: LEGO Box
+    custody: Riffy
+    type: toy
+    description: There's 2 boxes full of LEGO bricks
 ---
 
 :::lead
