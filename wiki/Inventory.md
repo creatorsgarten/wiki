@@ -27,6 +27,14 @@ equipments:
       Manual: https://dl.djicdn.com/downloads/DJI_Mic/DJI_Mic_User_Manual_v1.2_en.pdf
       Tech Specs: https://www.insta360.com/product/insta360-link#spece
     notes: USB-C out
+  - name: Power Grid
+    custody: Riffy
+    type: boardGame
+    description: Board game guild
+  - name: Rummikub
+    custody: Riffy
+    type: boardGame
+    description: Board game guild
 ---
 
 :::lead
