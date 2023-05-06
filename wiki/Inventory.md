@@ -71,7 +71,8 @@ This page lists Creatorsgarten’s physical stuff, and tracks who’s currently 
 
 | Equipment | Description &amp; Links | Notes | Custody |
 | --------- | ----------------------- | ----- | ------- |{% liquid
-for item in page.equipments | where: 'type', type
+assign items = page.equipments | where: 'type', type
+for item in items
   echo newline
   echo "| "
   if item.url
