@@ -61,9 +61,17 @@ This page lists Creatorsgarten’s physical stuff, and tracks who’s currently 
 {% capture newline %}
 {% endcapture %}
 
+{% assign types = page.equipments | map: 'type' | uniq | sort %}
+
+# Inventory by type
+
+{% for type in types %}
+
+## {{ type }}
+
 | Equipment | Description &amp; Links | Notes | Custody |
 | --------- | ----------------------- | ----- | ------- |{% liquid
-for item in page.equipments
+for item in page.equipments | where: 'type', type
   echo newline
   echo "| "
   if item.url
@@ -97,3 +105,5 @@ for item in page.equipments
   echo " |"
 endfor
 %}
+
+{% endfor %}
