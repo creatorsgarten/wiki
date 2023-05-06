@@ -13,9 +13,9 @@
 
 ## Knowledge base
 - [[Discord|Discord community guide]]
+- [[HowToUseWiki|How to use this wiki]]
 - [[Videos|How we record our talks and manage our YouTube channel]]
 - [[ManagingEventsWithMCOD|Managing events with MC/OD]]
-- [[HowToUseWiki|How to use this wiki]]
 
 ## Database
 - [[Inventory]]
