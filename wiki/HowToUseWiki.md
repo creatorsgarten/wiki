@@ -1,3 +1,15 @@
+# How to edit pages
+
+- **Edit on GitHub:** All of the wiki contents is stored inside the {% render 'GitHub', repo: 'wiki' %} repository. This lets you manage the wiki contents using your favorite tools like VS Code or Obsidian. Changes will be reflected on the website in a few minutes.
+
+- **Edit on Visual Studio Code for the Web:** [:Icon{icon="vscode-icons:file-type-vscode"} Click here to launch VS Code for the Web.](https://vscode.dev/github/creatorsgarten/wiki)
+
+- **Edit directly on the website:** Click on the "Edit this page :Icon{icon="pixelarticons:edit"}" button to start editing. It is optimized for making quick and small changes. The editor is very rudimentary and not stable, so we recommend that you save your changes frequently to avoid conflicts and avoid losing your work.
+
+# How to get notified of changes to the wiki
+
+- [Join the **Bangkok Open Source Discord** server](https://grtn.org/bkkoss-discord) and [join the “Creatorsgarten wiki changelog” thread](https://discord.com/channels/1062609208106832002/1085847407583055883), then you will receive notifications over Discord.
+
 # Who can edit pages using the web editor?
 
 You can edit a page using the web editor if you meet all of these 3 conditions:
