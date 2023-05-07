@@ -2,6 +2,7 @@
 title: grtn.org
 grtnRedirects:
   edit: https://creatorsgarten.org/wiki/GRTN/editor
+  stats: https://analytics.amplitude.com/share/0739bde215694b80a3685704b0b2e834
   ls: https://grtn.org/routes.json
   links: https://grtn.org/routes.json
   gh: https://github.com/creatorsgarten
@@ -50,7 +51,7 @@ See the list of all links at <https://beta.grtn.org/routes.json>
 
 Short links are managed on this wiki. To add new links to `grtn.org`, update the YAML front matter of the page.
 
-- **URL redirects.** These are redirects to external URLs. To edit, go to <https://beta.grtn.org/edit> and edit the links.
+- **URL redirects.** These are redirects to external URLs. To edit, go to {% render 'Grtn', path: 'edit' %} and edit the links.
 
 - **Page shortcuts.** These are shortcut links to the page. For example, {% render 'Grtn', path: 'c' %} links to the [[CurrentEvent]] page. On that page, the shortcut link will also appear on the Metadata section in the side bar. To add a page shortcut, add a `grtn:` key to the page frontmatter:
 
@@ -69,3 +70,8 @@ On this wiki, you can reference links to grtn.org by rendering [[Template/Grtn]]
 ```
 
 Result &rarr; {% render 'Grtn', path: 'ls' %}
+
+# View link stats
+
+Link statistics are powered by [:Icon{icon=logos:amplitude-icon} Amplitude](https://amplitude.com/).
+To see the public chart, go to {% render 'Grtn', path: 'stats' %}.
