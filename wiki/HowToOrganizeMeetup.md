@@ -8,4 +8,6 @@ If you have attended several tech meetups, at some point you may wish a certain 
 The first step is to find an ally.
 Post on your Facebook to see if anyone is interested in joining you in organizing the meetup.
 You can also reach out to local tech organizations or existing meetups to see if they would be interested in partnering with you or offering advice.
+
+Next, invite people who have shown their interest into a chat group, such as Facebook Messenger.
 :::
