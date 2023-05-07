@@ -1,3 +1,7 @@
+---
+grtn: c
+---
+
 # Creative coding meetup
 
 Event page: {% render 'Event', name: 'creativecodingmeetup' %}
