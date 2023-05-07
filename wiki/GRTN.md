@@ -30,6 +30,11 @@ grtnRedirects:
   e/:event/v/:slug/edit: https://github.com/creatorsgarten/videos/blob/main/data/videos/:event/:slug.md?plain=1
   e/creativecodingmeetup/yt: https://www.youtube.com/playlist?list=PLTuz2sLvbRpy66hP5Cxm9XxSGQBoTULay
   v2: "https://creatorsgarten.org/wiki/GRTN#betagrtnorg"
+  azure: https://garten.page.link/azure
+  bkkoss: https://garten.page.link/bkkoss
+  bkkoss-discord: https://garten.page.link/bkkoss-discord
+  creative-art-submit: https://garten.page.link/creative-art-submit
+  fp-submit-talk: https://garten.page.link/fp-submit-talk
 ---
 
 :::lead
