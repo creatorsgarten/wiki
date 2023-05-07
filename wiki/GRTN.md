@@ -29,6 +29,7 @@ grtnRedirects:
   e/:event: https://creatorsgarten.org/event/:event
   e/:event/v/:slug/edit: https://github.com/creatorsgarten/videos/blob/main/data/videos/:event/:slug.md?plain=1
   e/creativecodingmeetup/yt: https://www.youtube.com/playlist?list=PLTuz2sLvbRpy66hP5Cxm9XxSGQBoTULay
+  v2: "https://creatorsgarten.org/wiki/GRTN#betagrtnorg"
 ---
 
 :::lead
