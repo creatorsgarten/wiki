@@ -1,5 +1,5 @@
 ---
-grtn: discord
+grtn: discord-guide
 ---
 
 :::lead
