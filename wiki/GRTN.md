@@ -35,38 +35,20 @@ grtnRedirects:
 **grtn.org** is a URL short link website for [Creatorsgarten](https://creatorsgarten.org)'s assets.
 :::
 
-It is [[GitOps|managed on GitHub]] at {% render 'GitHub', repo: 'grtn.org' %}.
+Source code is available at {% render 'GitHub', repo: 'grtn.org' %}.
 
 # Quick links
 
 - List of short links: {% render 'Grtn', path: 'ls' %}
 - Edit links: {% render 'Grtn', path: 'edit' %}
 
----
-
-# Rendering grtn.org links on this wiki
-
-On this wiki, you can reference links to grtn.org by rendering [[Template/Grtn]].
-
-```
-{% raw %}{% render 'Grtn', path: 'ls' %}{% endraw %}
-```
-
-Result &rarr; {% render 'Grtn', path: 'ls' %}
-
----
-
-# beta.grtn.org
-
-In this new version, **links are managed in the wiki**, so people can add new links easily.
-
-## List of all links
+# List of all links
 
 See the list of all links at <https://beta.grtn.org/routes.json>
 
-## How to add links
+# How to add links
 
-Adding new links to `grtn.org` can be done by updating the YAML front matter of the page.
+Short links are managed on this wiki. To add new links to `grtn.org`, update the YAML front matter of the page.
 
 - **URL redirects.** These are redirects to external URLs. To edit, go to <https://beta.grtn.org/edit> and edit the links.
 
@@ -77,3 +59,13 @@ Adding new links to `grtn.org` can be done by updating the YAML front matter of 
   grtn: c
   ---
   ```
+
+# Rendering grtn.org links on this wiki
+
+On this wiki, you can reference links to grtn.org by rendering [[Template/Grtn]].
+
+```
+{% raw %}{% render 'Grtn', path: 'ls' %}{% endraw %}
+```
+
+Result &rarr; {% render 'Grtn', path: 'ls' %}
