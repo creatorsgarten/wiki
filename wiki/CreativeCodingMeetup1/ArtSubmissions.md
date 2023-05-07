@@ -7,8 +7,6 @@ image: https://assets.creatorsgarten.org/events/creativecodingmeetup.png
 งาน [Creative coding meetup][evp] เปิดรับผลงานมาแสดงในงาน ทั้งภาพเคลื่อนไหว (Visuals) และเสียง (Audio)
 :::
 
-{% render 'Grtn', path: 'creative-art' %}
-
 [evp]: https://eventpop.me/s/creative-coding-meetup
 [form]: https://grtn.org/creative-art-submit
 
