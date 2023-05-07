@@ -1,6 +1,6 @@
 ---
 title: grtn.org
-grtn:
+grtnRedirects:
   edit: https://github.com/creatorsgarten/grtn.org/edit/main/_redirects
   ls: https://github.com/creatorsgarten/grtn.org/blob/main/_redirects
   links: https://github.com/creatorsgarten/grtn.org/blob/main/_redirects
