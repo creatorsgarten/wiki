@@ -2,8 +2,8 @@
 title: grtn.org
 grtnRedirects:
   edit: https://creatorsgarten.org/wiki/GRTN/editor
-  ls: https://github.com/creatorsgarten/grtn.org/blob/main/_redirects
-  links: https://github.com/creatorsgarten/grtn.org/blob/main/_redirects
+  ls: https://grtn.org/routes.json
+  links: https://grtn.org/routes.json
   gh: https://github.com/creatorsgarten
   dc: https://discord.gg/fsZq57cmRk
   discord: https://discord.gg/fsZq57cmRk
