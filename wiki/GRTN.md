@@ -52,3 +52,27 @@ On this wiki, you can reference links to grtn.org by rendering [[Template/Grtn]]
 ```
 
 Result &rarr; {% render 'Grtn', path: 'ls' %}
+
+---
+
+# beta.grtn.org
+
+In this new version, **links are managed in the wiki**, so people can add new links easily.
+
+## List of all links
+
+See the list of all links at <https://beta.grtn.org/routes.json>
+
+## How to add links
+
+Adding new links to `grtn.org` can be done by updating the YAML front matter of the page.
+
+- **URL redirects.** These are redirects to external URLs. To edit, go to <https://beta.grtn.org/edit> and edit the links.
+
+- **Page shortcuts.** These are shortcut links to the page. For example, {% render 'Grtn', path: 'c' %} links to the [[CurrentEvent]] page. On that page, the shortcut link will also appear on the Metadata section in the side bar. To add a page shortcut, add a `grtn:` key to the page frontmatter:
+
+  ```yaml
+  ---
+  grtn: c
+  ---
+  ```
