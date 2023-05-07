@@ -1,7 +1,7 @@
 ---
 title: grtn.org
 grtnRedirects:
-  edit: https://github.com/creatorsgarten/grtn.org/edit/main/_redirects
+  edit: https://creatorsgarten.org/wiki/GRTN/editor
   ls: https://github.com/creatorsgarten/grtn.org/blob/main/_redirects
   links: https://github.com/creatorsgarten/grtn.org/blob/main/_redirects
   gh: https://github.com/creatorsgarten
