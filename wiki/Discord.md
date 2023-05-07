@@ -1,3 +1,7 @@
+---
+grtn: discord
+---
+
 :::lead
 ยินดีต้อนรับสู่เซิฟเวอร์ Discord ของ Creatorsgarten [(&rarr; Join our Discord)](/wiki/Discord/Join)
 :::
