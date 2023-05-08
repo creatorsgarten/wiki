@@ -54,6 +54,8 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 - [[Inventory]]
 - [Finance]() - //TODO: Add Airtable link(s)
 
+- https://www.figma.com/file/Iez5fjWRbLL2N9ynoCf5qk/Creatorsgarten-Open-Model?type=whiteboard&node-id=0-1&t=l3rx3dvABuY1tZ6l-0
+
 # Tech Stack
 
 This website ({% render 'GitHub', repo: 'creatorsgarten.org' %}) is built with [Astro](https://astro.build/).
