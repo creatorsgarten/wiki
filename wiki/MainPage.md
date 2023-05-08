@@ -19,16 +19,6 @@ note: I think the spacing between each header is a bit too large, what do you al
 - [[DigitalPresence|Our digital presence]]
 - [[Lore]] - // TODO: Add page
 
-## Knowledge base
-- [[HowToUseWiki|How to use this wiki]]
-- [[Discord|Discord community guide]]
-- [[Videos|How we record our talks and manage our YouTube channel]]
-- [[ManagingEventsWithMCOD|Managing events with MC/OD]]
-
-## Database
-- [[Inventory]]
-- [Finance]() - //TODO: Add Airtable link(s)
-
 ## Special
 - [[Special/AllPages|Alphabetical page list]]
 - [[Special/RecentChanges|Recently-changed pages]]
@@ -53,6 +43,16 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 - The wiki also contains information pages about our [events](/events/).
 - For a full list of events, along with their related pages, see the [[Events]] page.
 - // TODO: add description about types of events (normal/pathfinder/recurring/series)
+
+## Knowledge base
+- [[HowToUseWiki|How to use this wiki]]
+- [[Discord|Discord community guide]]
+- [[Videos|How we record our talks and manage our YouTube channel]]
+- [[ManagingEventsWithMCOD|Managing events with MC/OD]]
+
+## Database
+- [[Inventory]]
+- [Finance]() - //TODO: Add Airtable link(s)
 
 # Tech Stack
 
