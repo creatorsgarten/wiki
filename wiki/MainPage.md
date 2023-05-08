@@ -10,7 +10,9 @@ Our wiki is under construction, please feel free to contribute!
 
 # [[Join|How to join us]]
 
-// Note: I think the spacing between each header is a bit too large, what do you all think? @chayapatr
+:::Note
+I think the spacing between each header is a bit too large, what do you all think? @chayapatr
+:::
 
 # About us
 
