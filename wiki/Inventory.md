@@ -40,7 +40,7 @@ equipments:
     type: av
     description: Length 5m
   - name: LEGO Box
-    custody: Riffy
+    custody: Pub
     type: toy
     description: There's 2 boxes full of LEGO bricks
   - name: Komono
