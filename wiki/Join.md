@@ -10,11 +10,13 @@ This page is under construction. Feel free to contribute!
 
 ## Working Groups
 
-# Projects
-
-## Series
+## Projects
 
 ## Events
+
+- Wayfinder: first time, exploring new ideas
+- Series: well-established series of events
+- Recurring: continuously occurring events
 
 # Culture
 
