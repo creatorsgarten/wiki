@@ -56,6 +56,10 @@ The wiki also contains information pages about our [events](/events/).
 
 For a full list of events, along with their related pages, see the [[Events]] page.
 
+# Links
+
+- [[FigJam - Creatorsgarten Structure|https://www.figma.com/file/Iez5fjWRbLL2N9ynoCf5qk/Creatorsgarten-Open-Model?type=whiteboard&node-id=0%3A1&t=Yyi8DDgOYvATBk2Z-1]]
+
 # Tech Stack
 
 This website ({% render 'GitHub', repo: 'creatorsgarten.org' %}) is built with [Astro](https://astro.build/).
