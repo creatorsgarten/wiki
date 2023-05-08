@@ -1,3 +1,7 @@
+:::lead
+**DRI** stands for **Directly Responsible Individual.**
+:::
+
 # Further reading
 
 - <https://about.gitlab.com/handbook/people-group/directly-responsible-individuals/>
