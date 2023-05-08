@@ -44,6 +44,15 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 - For a full list of events, along with their related pages, see the [[Events]] page.
 - // TODO: add description about types of events (normal/pathfinder/recurring/series)
 
+## Series
+| Name | Description |
+| ----- | ----- |
+| [[StupidHackTH\|The Stupid Hackathon in Thailand]]
+| [[HacktoberfestTH\|Hacktoberfest Thailand Chapter]] | TODO: Add Page
+| [[Scisart Night|Sciยศาสตร์ Night]]
+| [[9PMUniversity\|มหาวิทยาลัยสามทุ่ม / 9PM University]] | Originated by พ่อโจ้ // TODO: Add Page
+| [[SciDojo\|SciDojo]] | Originated by พ่อโจ้ // TODO: Add Page
+
 ## Knowledge base
 - [[HowToUseWiki|How to use this wiki]]
 - [[Discord|Discord community guide]]
@@ -53,8 +62,6 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 ## Database
 - [[Inventory]]
 - [Finance]() - //TODO: Add Airtable link(s)
-
-- https://www.figma.com/file/Iez5fjWRbLL2N9ynoCf5qk/Creatorsgarten-Open-Model?type=whiteboard&node-id=0-1&t=l3rx3dvABuY1tZ6l-0
 
 # Tech Stack
 
