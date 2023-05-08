@@ -48,9 +48,9 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 
 # Events
 
-The wiki also contains information pages about our [events](/events/).
-For a full list of events, along with their related pages, see the [[Events]] page.
-// TODO: add description about types of events (normal/pathfinder/recurring/series)
+- The wiki also contains information pages about our [events](/events/).
+- For a full list of events, along with their related pages, see the [[Events]] page.
+- // TODO: add description about types of events (normal/pathfinder/recurring/series)
 
 # Tech Stack
 
