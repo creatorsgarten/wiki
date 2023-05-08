@@ -71,6 +71,11 @@ To keep convention of streaming for many events to be streamlined (for the sake 
 
 4. Audio sample rate is set to **48kHz**, and video output resolution set to **1920x1080** with *common FPS values* of **60**
 
+5. We would like to reccomended to only use audio output from **Audio Hijack** as the only source of truth as well. This is for the best for streamer to only control audio levels in just one place, and **keeping audio recording** on each source for future editing. Each venue will have different setup, so please plan ahead.
+
+![CleanShot 2023-05-09 at 03 50 09](https://user-images.githubusercontent.com/22584594/236907486-5141eba5-41a0-44f5-9c60-48ef9c8ee8cf.png)
+
+
 # Preparing videos
 
 [Work on preparing VODs for some events are coordinated on Airtable.](https://airtable.com/shru5fGOzjhHHxo05)
