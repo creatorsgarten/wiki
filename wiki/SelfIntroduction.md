@@ -1,3 +1,7 @@
+---
+title: Self-Introduction
+---
+
 {% liquid
 assign events = '{"match":{"event":true}}' | query_pages | sort: 'data.event.date' | reverse
 assign eventCount = 0
