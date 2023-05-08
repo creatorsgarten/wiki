@@ -1,5 +1,6 @@
 ---
 title: Stupid Hackathon in Thailand
+image: https://assets.creatorsgarten.org/events/sht1.png
 guild:
   name: Stupid Hackathon in Thailand
   site: https://stupidhackth.github.io/
