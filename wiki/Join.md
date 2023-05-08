@@ -26,6 +26,10 @@ This page is under construction. Feel free to contribute!
 
 # How can you contribute?
 
+- Managing Creatorsgarten
+- Leading or contributing to the working groups
+- Creating or contributing to the projects
+
 # How can you join us?
 
 - Discord
