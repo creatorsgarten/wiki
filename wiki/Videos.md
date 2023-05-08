@@ -53,6 +53,24 @@ Livestream archives can be found on the [:Icon{icon=cib:facebook} Creatorsgarten
 
 - Missing presentation slides. They can be added in post.
 
+# Streaming
+
+To keep convention of streaming for many events to be streamlined (for the sake of editing as well). We would like to encourage to do following steps.
+
+1. Use [LiveKit](https://github.com/creatorsgarten/livekit) to create overlay for events, then adding into OBS by using browser capture.
+
+![CleanShot 2023-05-09 at 03 40 17](https://user-images.githubusercontent.com/22584594/236905447-f2e92ea5-f75d-4198-a057-1320b2aa3ab1.png)
+
+2. Use **h264 hardware encoder** with the maximum bitrate of **18000Kbps** for streaming. On avarage, we will output stream to the internet at 9000Kbps anyway.
+
+![CleanShot 2023-05-09 at 03 44 01](https://user-images.githubusercontent.com/22584594/236906138-b45dc7e0-2611-4caa-8342-beb8cd36627e.png)
+
+3. For recording, use **HEVC (h265) hardware encoder** for the best file efficiency with the same maximum bitrate of **18000Kbps** and record at the format of **mp4**.
+
+![CleanShot 2023-05-09 at 03 48 57](https://user-images.githubusercontent.com/22584594/236907154-26f745a0-0f3f-497c-8ec1-1dd5959fcb59.png)
+
+4. Audio sample rate is set to **48kHz**, and video output resolution set to **1920x1080** with *common FPS values* of **60**
+
 # Preparing videos
 
 [Work on preparing VODs for some events are coordinated on Airtable.](https://airtable.com/shru5fGOzjhHHxo05)
