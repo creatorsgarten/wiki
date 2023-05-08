@@ -33,7 +33,7 @@ Our wiki is under construction, please feel free to contribute!
 
 # Guilds
 
-With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish [[Guilds|guilds]] aligned with ongoing projects and member interests
+With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish [[Guilds|guilds]] aligned with ongoing projects and member interests.
 | Guild | Description |
 | ----- | ----- |
 | [[BangkokOpenSource\|Bangkok Open Source]] | a collective to promote open-source culture and facilitate connections between creators, developers, and civic and government organizations
