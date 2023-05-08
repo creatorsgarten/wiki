@@ -25,7 +25,7 @@ what is events?
   - Wiki
   - Learning
   - Creating
-  - Management (e.g. DRI/O, Do-o-cracy)
+  - Management (e.g. [[DRI]]/O, [[DoOcracy|Do-o-cracy]])
 
 # How can you contribute?
 
