@@ -59,25 +59,25 @@ To keep convention of streaming for many events to be streamlined (for the sake 
 
 1. Use [LiveKit](https://github.com/creatorsgarten/livekit) to create overlay for events, then adding into OBS by using browser capture.
 
-![CleanShot 2023-05-09 at 03 40 17](https://user-images.githubusercontent.com/22584594/236905447-f2e92ea5-f75d-4198-a057-1320b2aa3ab1.png)
+   ![CleanShot 2023-05-09 at 03 40 17](https://user-images.githubusercontent.com/22584594/236905447-f2e92ea5-f75d-4198-a057-1320b2aa3ab1.png)
 
 2. Use **h264 hardware encoder** with the maximum bitrate of **18000Kbps** for streaming. On avarage, we will output stream to the internet at 9000Kbps anyway.
 
-![CleanShot 2023-05-09 at 03 44 01](https://user-images.githubusercontent.com/22584594/236906138-b45dc7e0-2611-4caa-8342-beb8cd36627e.png)
+   ![CleanShot 2023-05-09 at 03 44 01](https://user-images.githubusercontent.com/22584594/236906138-b45dc7e0-2611-4caa-8342-beb8cd36627e.png)
 
 3. For recording, use **HEVC (h265) hardware encoder** for the best file efficiency with the same maximum bitrate of **18000Kbps** and record at the format of **mp4**.
 
-![CleanShot 2023-05-09 at 03 48 57](https://user-images.githubusercontent.com/22584594/236907154-26f745a0-0f3f-497c-8ec1-1dd5959fcb59.png)
+   ![CleanShot 2023-05-09 at 03 48 57](https://user-images.githubusercontent.com/22584594/236907154-26f745a0-0f3f-497c-8ec1-1dd5959fcb59.png)
 
 4. Audio sample rate is set to **48kHz**, and video output resolution set to **1920x1080** with *common FPS values* of **60**
 
-5. We would like to reccomended to only use audio output from **Audio Hijack** as the only source of truth as well. This is for the best for streamer to only control audio levels in just one place, and **keeping audio recording** on each source for future editing. Each venue will have different setup, so please plan ahead.
+5. We would like to recommend using **Audio Hijack** with **Loopback** to the mix sound instead of using OBS’s mixer. This is for the best for streamer to only control audio levels in just one place. Additionally, Audio Hijack lets you **separately record** each audio source for future editing. Each venue will have different setup, so please plan ahead.
 
-![CleanShot 2023-05-09 at 03 50 09](https://user-images.githubusercontent.com/22584594/236907486-5141eba5-41a0-44f5-9c60-48ef9c8ee8cf.png)
+   ![CleanShot 2023-05-09 at 03 50 09](https://user-images.githubusercontent.com/22584594/236907486-5141eba5-41a0-44f5-9c60-48ef9c8ee8cf.png)
 
 6. Main video feed that is either output from *ATEM Pro Mini* or *directly from Speaker Screen* must be extend to **16:9** ratio by height is counted from the top of the canvas to **the top of overlay navbar**. The rest of the space will be given to the camera itself. This convention is being made to make video thumbnail in each video to be consistant as well.
 
-![2023-05-03 20-36-16-0001](https://user-images.githubusercontent.com/22584594/236909087-05c89d36-4018-4165-b5ab-508046951f1a.png)
+   ![2023-05-03 20-36-16-0001](https://user-images.githubusercontent.com/22584594/236909087-05c89d36-4018-4165-b5ab-508046951f1a.png)
 
 
 # Preparing videos
