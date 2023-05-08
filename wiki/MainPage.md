@@ -14,12 +14,12 @@ Our wiki is under construction, please feel free to contribute!
 
 - [[SelfIntroduction|What is Creatorsgarten?]]
 - [[Democratize Creation for All|Manifesto: Democratize creation for all]]
-- [[Guilds|Guilds/Initiatives/Working Groups within Creatorsgarten]]
 - [[DigitalPresence|Our digital presence]]
+- [[Lore]] - // TODO: Add page
 
 ## Knowledge base
-- [[Discord|Discord community guide]]
 - [[HowToUseWiki|How to use this wiki]]
+- [[Discord|Discord community guide]]
 - [[Videos|How we record our talks and manage our YouTube channel]]
 - [[ManagingEventsWithMCOD|Managing events with MC/OD]]
 
