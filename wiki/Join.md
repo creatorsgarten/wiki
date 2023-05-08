@@ -8,12 +8,13 @@ This page is under construction. Feel free to contribute!
 
 # Structure
 
-## Working Groups
+## Guilds
 
 ## Projects
 
 ## Events
-
+what is events?
+- Normal
 - Wayfinder: first time, exploring new ideas
 - Series: well-established series of events
 - Recurring: continuously occurring events
