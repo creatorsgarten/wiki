@@ -58,7 +58,7 @@ For a full list of events, along with their related pages, see the [[Events]] pa
 
 # Links
 
-- [[FigJam - Creatorsgarten Structure|https://www.figma.com/file/Iez5fjWRbLL2N9ynoCf5qk/Creatorsgarten-Open-Model?type=whiteboard&node-id=0%3A1&t=Yyi8DDgOYvATBk2Z-1]]
+- [FigJam - Creatorsgarten Structure](https://www.figma.com/file/Iez5fjWRbLL2N9ynoCf5qk/Creatorsgarten-Open-Model?type=whiteboard&node-id=0%3A1&t=Yyi8DDgOYvATBk2Z-1)
 
 # Tech Stack
 
