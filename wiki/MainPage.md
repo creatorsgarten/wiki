@@ -4,6 +4,10 @@
 **[Creatorsgarten](https://creatorsgarten.org/)** is a collective of creators. Through [workshops, meetups, hackathons, and much more](https://creatorsgarten.org/events/), we bring people together to work on new ideas, trying new things and collaborate across disciplines.
 :::
 
+:::draft
+Our wiki is under construction, please feel free to contribute!
+:::
+
 - [[Join|How to join us]]
 
 # About us
@@ -21,44 +25,31 @@
 
 ## Database
 - [[Inventory]]
+- [Finance]() - //TODO: Add Airtable link(s)
 
 ## Special
 - [[Special/AllPages|Alphabetical page list]]
 - [[Special/RecentChanges|Recently-changed pages]]
 
-# Guilds
-With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish [[Guilds|guilds]] aligned with ongoing projects and member interests
-- **[[StupidHackTH|Stupid Hackathon Thailand]]**: the working group organizing the Stupid Hackathon in Thailand event series
-- **[[ShowdownSpace|showdown.space]]**: a group led by [@dtinth](https://github.com/dtinth), to hosts community tech events in the form of recreational tech contests and game shows.
-- **[[BangkokOpenSource|Bangkok Open Source Initiative]]**: a collective to promote open-source culture and facilitate connections between creators, developers, and civic and government organizations
-- **Tech Club Circle**: a working group that maintains the circle of computer clubs in Thailand
-- **Creative Coders**: an interdisciplinary group of programmers and artists 
+# Working Groups
+
+With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish [[Guilds|working groups]] aligned with ongoing projects and member interests
+| Group | Description |
+| [[BangkokOpenSource|Bangkok Open Source]] | a collective to promote open-source culture and facilitate connections between creators, developers, and civic and government organizations
+| [[ShowdownSpace|Showdown Space]] | a group led by [@dtinth](https://github.com/dtinth), to hosts community tech events in the form of recreational tech contests and game shows
+| [[WebDevelopers|Web Developers]] | //TODO: Add Page
+| [[CreativeCoders|Creative Coders]] | an interdisciplinary group of programmers and artists  //TODO: Add Page
+| [[IndieHackers|Indie Hackers]] - //TODO: Add Page
+| [[SoftwareEngineering|Software Engineering]] | //TODO: Add Page
+| [[TechClubCircle|University Club Working Group]] | a working group that maintains the circle of computer clubs in Thailand //TODO: Add Page
+| [[CoderDojoWorkingGroup|CoderDojo Working Group]] | //TODO: Add Page
+| [[HomeschoolNetworkWorkingGroup|Homeschool Network Working Group]] | //TODO: Add Page
 
 # Events
 
 The wiki also contains information pages about our [events](/events/).
-
-| Event | Links |
-| --- | --- |
-| [[Mathematics Night]] [TBD]
-| {% render 'Event', name: 'algoravesilentdisco' %}
-| {% render 'Event', name: 'functional' %}
-| {% render 'Event', name: 'creativecodingmeetup' %} | [Organizer’s notes](/wiki/OrganizerNotes/creativecodingmeetup) &middot; [Feedback](/wiki/Feedback/creativecodingmeetup) |
-| {% render 'Event', name: 'bangkok' %} | [Coverage](/wiki/Coverage/bangkok) &middot; [Feedback](/wiki/Feedback/bangkok) |
-| {% render 'Event', name: 'golf1' %} | [Feedback](/wiki/Feedback/golf1) &middot; [Sponsorship](/wiki/Sponsorship/golf1) |
-| {% render 'Event', name: 'sht7' %} | [Coverage](/wiki/Coverage/sht7) &middot; [Feedback](/wiki/Feedback/sht7) |
-| {% render 'Event', name: 'sht6' %} | [Coverage](/wiki/Coverage/sht6) &middot; [Feedback](/wiki/Feedback/sht6) |
-| {% render 'Event', name: 'sht5' %} | [Coverage](/wiki/Coverage/sht5) &middot; [Feedback](/wiki/Feedback/sht5) |
-| {% render 'Event', name: 'sht4' %} | [Coverage](/wiki/Coverage/sht4) &middot; [Feedback](/wiki/Feedback/sht4) |
-| {% render 'Event', name: 'sht3' %} | [Coverage](/wiki/Coverage/sht3) &middot; [Feedback](/wiki/Feedback/sht3) |
-| {% render 'Event', name: 'sht2' %} | [Coverage](/wiki/Coverage/sht2) &middot; [Feedback](/wiki/Feedback/sht2) |
-| {% render 'Event', name: 'sht1' %} | [Coverage](/wiki/Coverage/sht1) |
-
 For a full list of events, along with their related pages, see the [[Events]] page.
-
-# Links
-
-- [FigJam - Creatorsgarten Structure](https://www.figma.com/file/Iez5fjWRbLL2N9ynoCf5qk/Creatorsgarten-Open-Model?type=whiteboard&node-id=0%3A1&t=Yyi8DDgOYvATBk2Z-1)
+// TODO: add description about types of events (normal/pathfinder/recurring/series)
 
 # Tech Stack
 
