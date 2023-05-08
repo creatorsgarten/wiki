@@ -1,1 +1,1 @@
-- Bingsu.js
+- [Bingsu.js](https://bingsu.js.org/)
