@@ -13,3 +13,8 @@
 | [[TechClubCircle\|University Club Working Group]] | a working group that maintains the circle of computer clubs in Thailand //TODO: Add Page
 | [[CoderDojoWorkingGroup\|CoderDojo Working Group]] | //TODO: Add Page
 | [[HomeschoolNetworkWorkingGroup\|Homeschool Network Working Group]] | //TODO: Add Page
+
+# To be added properly
+- each guild has their own (DRI(s)/Orchestrator(s)/leader(s) <- which word should i use?) who oversee(s) that guild
+- each guild may have their own sub-cultures/lores/projects/events/people
+- guide: ow to establish a guild
