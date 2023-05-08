@@ -49,7 +49,7 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 | ----- | ----- |
 | [[StupidHackTH\|The Stupid Hackathon in Thailand]]
 | [[HacktoberfestTH\|Hacktoberfest Thailand Chapter]] | TODO: Add Page
-| [[Scisart Night|Sciยศาสตร์ Night]]
+| [[Scisart Night\|Sciยศาสตร์ Night]] | To be hosted every August
 | [[9PMUniversity\|มหาวิทยาลัยสามทุ่ม / 9PM University]] | Originated by พ่อโจ้ // TODO: Add Page
 | [[SciDojo\|SciDojo]] | Originated by พ่อโจ้ // TODO: Add Page
 
