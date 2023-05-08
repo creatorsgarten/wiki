@@ -31,9 +31,9 @@ Our wiki is under construction, please feel free to contribute!
 - [[Special/AllPages|Alphabetical page list]]
 - [[Special/RecentChanges|Recently-changed pages]]
 
-# Working Groups
+# Guilds
 
-With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish [[Guilds|working groups]] aligned with ongoing projects and member interests
+With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish [[Guilds|guilds]] aligned with ongoing projects and member interests
 | Group | Description |
 | ----- | ----- |
 | [[BangkokOpenSource\|Bangkok Open Source]] | a collective to promote open-source culture and facilitate connections between creators, developers, and civic and government organizations
