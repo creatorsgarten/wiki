@@ -34,7 +34,7 @@ Our wiki is under construction, please feel free to contribute!
 # Guilds
 
 With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish [[Guilds|guilds]] aligned with ongoing projects and member interests
-| Group | Description |
+| Guild | Description |
 | ----- | ----- |
 | [[BangkokOpenSource\|Bangkok Open Source]] | a collective to promote open-source culture and facilitate connections between creators, developers, and civic and government organizations
 | [[ShowdownSpace\|Showdown Space]] | a group led by [@dtinth](https://github.com/dtinth), to hosts community tech events in the form of recreational tech contests and game shows
