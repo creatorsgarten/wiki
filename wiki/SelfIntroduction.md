@@ -1,7 +1,7 @@
 {% liquid
 assign events = '{"match":{"event":true}}' | query_pages | sort: 'data.event.date' | reverse
 assign eventCount = 0
-for events as event
+for event in events
   unless event.data.unlisted
     assign eventCount = eventCount | plus: 1
   endunless
