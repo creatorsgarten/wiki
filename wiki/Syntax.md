@@ -40,9 +40,9 @@ This is a tip box
 This is a danger box
 :::
 
-# Details (collapsible) block
+# Details block
 
-Details blocks are useful for auxiliary information, esp. FAQ sections.
+Details blocks are useful for auxiliary information, esp. FAQ sections. They are rendered as a collapsible section.
 
 ```
 :::details[Summary here]
@@ -52,6 +52,20 @@ Details here
 
 :::details[Summary here]
 Details here
+:::
+
+# Draft block
+
+Draft blocks are useful for marking a piece of content as draft.
+
+```
+:::Draft
+1x projector, 1x hdmi tx, 2x wireless mic, 1x mic rx, 1x mixer, 1x speaker, stereo
+:::
+```
+
+:::Draft
+1x projector, 1x hdmi tx, 2x wireless mic, 1x mic rx, 1x mixer, 1x speaker, stereo
 :::
 
 # Message
