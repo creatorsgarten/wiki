@@ -33,7 +33,7 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 | [[ShowdownSpace\|Showdown Space]] | Hosting community tech events in the form of recreational tech contests and game shows
 | [[WebDevelopers\|Web Developers]] | The guild focusing on web development and brings together developers interested in creating websites and web applications
 | [[CreativeCoders\|Creative Coders]] | Creative coders who are interested in using technology to create interactive art, multimedia experiences, and other innovative projects
-| [[IndieHackers\|Indie Hackers]] | Community of hackers and developers who are interested in creating and building cool things using technology.
+| [[IndieHackers\|Indie Hackers]] | Community of hackers and developers who are interested in creating and building cool things using technology
 | [[SoftwareEngineering\|Software Engineering]] | A group for software engineers who are interested in sharing their knowledge, experiences, and best practices related to software development
 | [[TechClubCircle\|University Club Working Group]] | a working group that maintains the circle of computer clubs in Thailand. This group brings together computer clubs from universities across Thailand and provides a platform for collaboration, knowledge sharing, and networking
 | [[CoderDojoWorkingGroup\|CoderDojo Working Group]] | Supporting and promoting CoderDojo Thailand Group, a network of free, volunteer-led, community-based programming clubs for young people
