@@ -24,13 +24,41 @@ The schema is defined in [`parseFrontMatter.ts`](https://github.com/creatorsgart
 GET https://wiki.creatorsgarten.org/api/contentsgarten/search?input={}
 ```
 
-The `input` property is a JSON object that represents **filters** to apply when searching for pages.
+The `input` property is a JSON object that represents [**filters**](#filtering-pages) to apply when searching for pages.
+
+## Usage in Liquid
+
+Liquid templates
+
+## Filtering pages
+
 An empty filter `{}` will return all pages.
 However, only the first 256 results are returned.
 By adding these properties, you can narrow down the results:
 
 | Property | Description |
 | --- | --- |
-| `match` | Only return pages with matching frontmatter value. |
+| `match` | Only return pages with matching front matter value. |
 | `prefix` | Only return pages whose page ref matches a given prefix. The prefix must end with a `/`. |
 | `pageRef` | Only return pages with the given ref(s). May be a string or an array of strings. |
+
+Here are some examples:
+
+- `{"match":{"event.hosts":"showdown.space"}}` matches events whose [[ShowdownSpace|showdown.space]] is a host.
+- `{"prefix":"Feedback/"}` matches all feedback pages.
+- `{"pageRef":["WebsiteConfig","Inventory"]}` matches the [[WebsiteConfig]] and [[Inventory]] pages.
+
+## Matching front matter value
+
+You can find pages with a specific front matter value by using the `match` filter. It should be an object whose key is the property path, and value is the matching criteria.
+
+:::tip
+When the page data is being indexed, all scalar values are converted to strings. Therefore, when searching, you are searching against the _string representation_ of that value.
+For example, if you stored `true` in the front matter, it will be converted to `"true"` when indexed. When matching, you must use `"true"` to match it.
+:::
+
+The matching criteria can be:
+
+- A string — Will match if the value’s string representation matches the given string. If the value is an array, it will match if any of the array items’ string representation matches the given string.
+- An array of string — Like the string criteria, but will match if any of the strings in the array matches the value’s string representation.
+- `true` — Will match if the value is defined on the front matter.
