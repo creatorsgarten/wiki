@@ -120,3 +120,47 @@ Renders a box for pages related to the event.
 {% endraw %}
 
 {% render 'EventBox', name: 'creativecodingmeetup' %}
+
+## Facebook
+
+Renders a link to a Facebook profile with an icon.
+
+{% raw %}
+```
+{% render 'Facebook', user: 'creatorsgarten' %}
+```
+{% endraw %}
+
+{% render 'Facebook', user: 'creatorsgarten' %}
+
+## GitHub
+
+Renders a link to a GitHub user or GitHub repo with an icon.
+
+{% raw %}
+```
+{% render 'GitHub', user: 'creatorsgarten' %}
+```
+{% endraw %}
+
+{% render 'GitHub', user: 'creatorsgarten' %}
+
+{% raw %}
+```
+{% render 'GitHub', repo: 'creatorsgarten/wiki' %}
+```
+{% endraw %}
+
+{% render 'GitHub', repo: 'creatorsgarten/wiki' %}
+
+## Grtn
+
+Renders a Grtn shortcut link.
+
+{% raw %}
+```
+{% render 'Grtn', path: 'e' %}
+```
+{% endraw %}
+
+{% render 'Grtn', path: 'e' %}
