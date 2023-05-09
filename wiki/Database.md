@@ -15,3 +15,22 @@ A page can store arbitrary metadata in a YAML front matter. This frontmatter can
 ## Schema
 
 The schema is defined in [`parseFrontMatter.ts`](https://github.com/creatorsgarten/creatorsgarten.org/blob/main/src/functions/parseFrontMatter.ts).
+
+# Querying data
+
+## API
+
+```
+GET https://wiki.creatorsgarten.org/api/contentsgarten/search?input={}
+```
+
+The `input` property is a JSON object that represents **filters** to apply when searching for pages.
+An empty filter `{}` will return all pages.
+However, only the first 256 results are returned.
+By adding these properties, you can narrow down the results:
+
+| Property | Description |
+| --- | --- |
+| `match` | Only return pages with matching frontmatter value. |
+| `prefix` | Only return pages whose page ref matches a given prefix. The prefix must end with a `/`. |
+| `pageRef` | Only return pages with the given ref(s). May be a string or an array of strings. |
