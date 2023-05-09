@@ -4,7 +4,7 @@
 **[Creatorsgarten](https://creatorsgarten.org/)** is a collective of creators. Through [workshops, meetups, hackathons, and much more](https://creatorsgarten.org/events/), we bring people together to work on new ideas, trying new things and collaborate across disciplines.
 :::
 
-:::Draft
+:::warning[UNDER CONSTRUCTION]
 Our wiki is under construction, please feel free to contribute!
 :::
 
