@@ -40,6 +40,8 @@ This is a tip box
 This is a danger box
 :::
 
+---
+
 # Details block
 
 Details blocks are useful for auxiliary information, esp. FAQ sections. They are rendered as a collapsible section.
@@ -54,6 +56,8 @@ Details here
 Details here
 :::
 
+---
+
 # Draft block
 
 Draft blocks are useful for marking a piece of content as draft.
@@ -67,6 +71,8 @@ Draft blocks are useful for marking a piece of content as draft.
 :::Draft
 1x projector, 1x hdmi tx, 2x wireless mic, 1x mic rx, 1x mixer, 1x speaker, stereo
 :::
+
+---
 
 # Liquid
 
@@ -93,6 +99,16 @@ These variables can be used in Liquid tags.
 These variables can only be used in a page, and cannot be used in templates. To use in a template, they have to be explicitly passed in.
 :::
 
+## Filters
+
+These filters can be used to query data from pages in a wiki.
+
+- `get_page`
+- `get_subpages`
+- `query_pages`
+
+---
+
 # Message
 
 Messages are useful for discussing in the wiki.
@@ -114,6 +130,8 @@ this is another message \
 that spans multiple lines \
 also, when the `from=` attribute starts with an `@`, it is treated as GitHub username
 :::
+
+---
 
 # Template
 
