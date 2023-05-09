@@ -11,6 +11,7 @@ Our wiki is under construction, please feel free to contribute!
 # [[Join|How to join us]]
 
 ::Message[note: I think the spacing between each header is a bit too large, what do you all think?]{from=chayapatr}
+::Message[actually i think there should be _more_ spacing, see [Oliver Schöndorfer (2022). “The Right Space Around Headings in Web Typography”. _Pimp my Type._](https://pimpmytype.com/hugo-md/)]{from=dtinth}
 
 # About us
 
