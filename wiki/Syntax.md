@@ -164,3 +164,28 @@ Renders a Grtn shortcut link.
 {% endraw %}
 
 {% render 'Grtn', path: 'e' %}
+
+## Instagram
+
+Renders a link to a Instagram profile with an icon.
+
+{% raw %}
+```
+{% render 'Instagram', user: 'creatorsgarten' %}
+```
+{% endraw %}
+
+{% render 'Instagram', user: 'creatorsgarten' %}
+
+## YouTube
+
+Renders a link to a YouTube channel with an icon.
+
+{% raw %}
+```
+{% render 'Instagram', user: 'creatorsgarten' %}
+```
+{% endraw %}
+
+{% render 'Instagram', user: 'creatorsgarten' %}
+
