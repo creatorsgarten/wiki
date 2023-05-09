@@ -28,7 +28,7 @@ Details here
 
 # Discussion
 
-::Message[**this** is a message]{from=dtinth}
+::Message[**"this"** is a message]{from=dtinth}
 
 # Draft
 
