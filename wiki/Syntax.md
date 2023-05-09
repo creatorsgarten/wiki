@@ -108,3 +108,15 @@ Renders a link to the event.
 {% endraw %}
 
 {% render 'Event', name: 'creativecodingmeetup' %}
+
+## EventBox
+
+Renders a box for pages related to the event.
+
+{% raw %}
+```
+{% render 'EventBox', name: 'creativecodingmeetup' %}
+```
+{% endraw %}
+
+{% render 'EventBox', name: 'creativecodingmeetup' %}
