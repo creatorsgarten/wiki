@@ -68,6 +68,10 @@ Draft blocks are useful for marking a piece of content as draft.
 1x projector, 1x hdmi tx, 2x wireless mic, 1x mic rx, 1x mixer, 1x speaker, stereo
 :::
 
+# Liquid
+
+You can use Liquid [tags](https://liquidjs.com/tags/overview.html) and [filters](https://liquidjs.com/filters/overview.html) to add rudimentary logic to a wiki page.
+
 # Message
 
 Messages are useful for discussing in the wiki.
