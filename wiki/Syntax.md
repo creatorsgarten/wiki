@@ -89,3 +89,8 @@ this is another message \
 that spans multiple lines \
 also, when the `from=` attribute starts with an `@`, it is treated as GitHub username
 :::
+
+# Template
+
+Template lets you re-use content across multiple pages without having to duplicate. For a list of available template, see [[Template]].
+
