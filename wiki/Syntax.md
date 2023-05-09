@@ -82,6 +82,17 @@ You can use Liquid [tags](https://liquidjs.com/tags/overview.html) and [filters]
 {% assign showdownSpaceEvents = '{"match":{"event.hosts":"showdown.space"}}' | query_pages %}
 {% render 'PageList', pages: showdownSpaceEvents %}
 
+## Variables
+
+These variables can be used in Liquid tags.
+
+- `ref` The current page filename, e.g. `{{ref}}`.
+- `page` Data in frontmatter.
+
+:::warning
+These variables can only be used in a page, and cannot be used in templates. To use in a template, they have to be explicitly passed in.
+:::
+
 # Message
 
 Messages are useful for discussing in the wiki.
