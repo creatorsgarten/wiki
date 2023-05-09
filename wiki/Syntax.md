@@ -92,5 +92,7 @@ also, when the `from=` attribute starts with an `@`, it is treated as GitHub use
 
 # Template
 
-Template lets you re-use content across multiple pages without having to duplicate. For a list of available template, see [[Template]].
-
+Template lets you re-use content across multiple pages without having to duplicate content.
+A template is a page inside the `Template` namespace.
+To render a template, use the [{% raw %}`{% render %}`{% endraw %} Liquid syntax](https://liquidjs.com/tags/render.html) and specify the name of the template.
+For a list of available template, see [[Template]].
