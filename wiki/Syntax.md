@@ -109,7 +109,7 @@ These filters can be used to query data from pages in a wiki.
 | --- | --- |
 | `get_page` | Looks up the front-matter data from another page. Input is a page reference. Output is a page object with these properties: `ref`, `exists`, `data` |
 | `get_subpages` | Queries for pages inside another page’s namespace. Input is a page reference. For example, if input is `Feedback`, then this filter will query pages with ref beginning with `Feedback/`. Output is an array of page objects. |
-| `query_pages` | Queries for pages matching a criteria. Input is a JSON string describing the search query. Output is an array of page objects. |
+| `query_pages` | [Queries for pages matching a criteria. Input is a JSON string describing the search query.](/wiki/Database) Output is an array of page objects. |
 
 ---
 
