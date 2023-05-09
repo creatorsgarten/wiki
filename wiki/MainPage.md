@@ -17,7 +17,7 @@ note: I think the spacing between each header is a bit too large, what do you al
 - [[SelfIntroduction|What is Creatorsgarten?]]
 - [[Democratize Creation for All|Manifesto: Democratize creation for all]]
 - [[DigitalPresence|Our digital presence]]
-- [[Lore]] - // TODO: Add page
+- [[Lore]]
 
 ## Special
 - [[Special/AllPages|Alphabetical page list]]
