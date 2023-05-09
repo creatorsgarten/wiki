@@ -92,8 +92,10 @@ You can use Liquid [tags](https://liquidjs.com/tags/overview.html) and [filters]
 
 These variables can be used in Liquid tags.
 
-- `ref` The current page filename, e.g. `{{ref}}`.
-- `page` Data in frontmatter.
+| Variable | Description |
+| --- | --- |
+| `ref` | The current page filename, e.g. `{{ref}}`. |
+| `page` | Data in frontmatter. |
 
 :::warning
 These variables can only be used in a page, and cannot be used in templates. To use in a template, they have to be explicitly passed in.
@@ -103,9 +105,11 @@ These variables can only be used in a page, and cannot be used in templates. To 
 
 These filters can be used to query data from pages in a wiki.
 
-- `get_page`
-- `get_subpages`
-- `query_pages`
+| Filters | Description |
+| --- | --- |
+| `get_page` | Looks up the front-matter data from another page. Input is a page reference. Output is a page object with these properties: `ref`, `exists`, `data` |
+| `get_subpages` | Queries for pages inside another page’s namespace. Input is a page reference. For example, if input is `Feedback`, then this filter will query pages with ref beginning with `Feedback/`. Output is an array of page objects. |
+| `query_pages` | Queries for pages matching a criteria. Input is a JSON string describing the search query. Output is an array of page objects. |
 
 ---
 
