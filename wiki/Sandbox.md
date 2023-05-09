@@ -26,6 +26,10 @@ This is a danger box
 Details here
 :::
 
+# Discussion
+
+::Message[this is a message]{from=dtinth}
+
 # Draft
 
 :::Draft
