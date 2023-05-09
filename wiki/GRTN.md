@@ -38,6 +38,7 @@ grtnRedirects:
   fp-submit-talk: https://garten.page.link/fp-submit-talk
   e/shit7/notion: https://www.notion.so/The-Hackathon-7-Thailand-5f50c8df2af5487f9023ed25735295ef
   e/shit7/airtable: https://airtable.com/invite/l?inviteId=invEtmEZg1zb8id9W&inviteToken=e16dd77b6126bd3f558db81a2320c79dddecd50473323438d0110bf03d24a9a2&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+  e/shit7/figma: https://www.figma.com/file/fQk8oLorCYJcseJ2QDrHWW/SHiT-7?type=design&node-id=70-124&t=NukhZLgVwtKJiMVT-0
 ---
 
 :::lead
