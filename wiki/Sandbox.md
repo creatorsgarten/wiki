@@ -30,8 +30,10 @@ Details here
 
 ::Message[**"this"** is a message]{from=dtinth}
 
-::Message[**"this"** is a message \
-that spans 2 lines]{from=dtinth}
+:::Message{from=dtinth}
+this is another message \
+that spans multiple lines
+:::
 
 # Draft
 
