@@ -11,4 +11,6 @@ event:
     - StupidHackTH
 ---
 
+{% render 'EventBox', name: 'creativecodingmeetup' %}
+
 soon enough. :)
