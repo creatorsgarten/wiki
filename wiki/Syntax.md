@@ -236,3 +236,14 @@ Renders a link to a YouTube channel with an icon.
 
 {% render 'YouTube', user: 'creatorsgarten' %}
 
+# WikiLinks
+
+Use the double bracket notation to create links to wiki pages.
+
+```
+- [[Inventory]]
+- [[Special/RecentChanges|Recent changes]]
+```
+
+- [[Inventory]]
+- [[Special/RecentChanges|Recent changes]]
