@@ -28,7 +28,13 @@ The `input` property is a JSON object that represents [**filters**](#filtering-p
 
 ## Usage in Liquid
 
-Liquid templates
+You can use the `query_pages` Liquid filter to query the database inside a wiki page. See [[Syntax#filters]] for more information.
+
+For example, check out the source code of these pages to see how Liquid is used to generate a report based on wiki database:
+
+- [[Inventory]]
+- [[WebsiteConfig]]
+- [[Template/EventTable]]
 
 ## Filtering pages
 
