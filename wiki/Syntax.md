@@ -59,17 +59,19 @@ Details here
 Messages are useful for discussing in the wiki.
 
 ```
-::Message[**"this"** is a message]{from=@dtinth}
+::Message[**"this"** is a message]{from=person1}
 
 :::Message{from=@dtinth}
 this is another message \
-that spans multiple lines
+that spans multiple lines \
+also, when the `from=` attribute starts with an `@`, it is treated as GitHub username
 :::
 ```
 
-::Message[**"this"** is a message]{from=@dtinth}
+::Message[**"this"** is a message]{from=person1}
 
 :::Message{from=@dtinth}
 this is another message \
-that spans multiple lines
+that spans multiple lines \
+also, when the `from=` attribute starts with an `@`, it is treated as GitHub username
 :::
