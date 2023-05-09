@@ -115,7 +115,7 @@ These filters can be used to query data from pages in a wiki.
 
 # Message
 
-Messages are useful for discussing in the wiki.
+Messages are useful for discussing in the wiki. This helps facilitate the [Thread Mode](https://communitywiki.org/wiki/ThreadMode) in a wiki.
 
 ```
 ::Message[**"this"** is a message]{from=person1}
