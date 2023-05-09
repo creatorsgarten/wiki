@@ -183,9 +183,9 @@ Renders a link to a YouTube channel with an icon.
 
 {% raw %}
 ```
-{% render 'Instagram', user: 'creatorsgarten' %}
+{% render 'YouTube', user: 'creatorsgarten' %}
 ```
 {% endraw %}
 
-{% render 'Instagram', user: 'creatorsgarten' %}
+{% render 'YouTube', user: 'creatorsgarten' %}
 
