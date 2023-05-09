@@ -29,15 +29,15 @@ Our wiki is under construction, please feel free to contribute!
 With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish [[Guilds|guilds]] aligned with ongoing projects and member interests.
 | Guild | Description |
 | ----- | ----- |
-| [[BangkokOpenSource\|Bangkok Open Source]] | a collective to promote open-source culture and facilitate connections between creators, developers, and civic and government organizations
-| [[ShowdownSpace\|Showdown Space]] | a group led by [@dtinth](https://github.com/dtinth), to hosts community tech events in the form of recreational tech contests and game shows
-| [[WebDevelopers\|Web Developers]] | //TODO: Add Page
-| [[CreativeCoders\|Creative Coders]] | an interdisciplinary group of programmers and artists  //TODO: Add Page
-| [[IndieHackers\|Indie Hackers]] | //TODO: Add Page
-| [[SoftwareEngineering\|Software Engineering]] | //TODO: Add Page
-| [[TechClubCircle\|University Club Working Group]] | a working group that maintains the circle of computer clubs in Thailand //TODO: Add Page
-| [[CoderDojoWorkingGroup\|CoderDojo Working Group]] | //TODO: Add Page
-| [[HomeschoolNetworkWorkingGroup\|Homeschool Network Working Group]] | //TODO: Add Page
+| [[BangkokOpenSource\|Bangkok Open Source]] | Aiming to promote the open-source culture and facilitate connections between creators, developers, and civic and government organizations.
+| [[ShowdownSpace\|Showdown Space]] | Hosting community tech events in the form of recreational tech contests and game shows.
+| [[WebDevelopers\|Web Developers]] | The guild focusing on web development and brings together developers interested in creating websites and web applications.
+| [[CreativeCoders\|Creative Coders]] | Creative coders who are interested in using technology to create interactive art, multimedia experiences, and other innovative projects.
+| [[IndieHackers\|Indie Hackers]] | Community of hackers and developers who are interested in creating and building cool things using technology. 
+| [[SoftwareEngineering\|Software Engineering]] | A group for software engineers who are interested in sharing their knowledge, experiences, and best practices related to software development.
+| [[TechClubCircle\|University Club Working Group]] | a working group that maintains the circle of computer clubs in Thailand. This group brings together computer clubs from universities across Thailand and provides a platform for collaboration, knowledge sharing, and networking.
+| [[CoderDojoWorkingGroup\|CoderDojo Working Group]] | Supporting and promoting CoderDojo Thailand Group, a network of free, volunteer-led, community-based programming clubs for young people.
+| [[HomeschoolNetworkWorkingGroup\|Homeschool Network Working Group]] | Supporting the network of homeschooling families who are interested in incorporating technology and computer science education into their curriculum.
 
 # Events
 
