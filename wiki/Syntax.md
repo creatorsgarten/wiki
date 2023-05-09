@@ -4,7 +4,7 @@ This page documents the supported syntax in this [wiki](/wiki).
 
 Feel free to try out syntax in [[Sandbox]] page.
 
-# Containers
+# Callouts
 
 ```
 :::info
@@ -21,10 +21,6 @@ This is a tip box
 
 :::danger[BE CAREFUL]
 This is a danger box
-:::
-
-:::details[Summary here]
-Details here
 :::
 ```
 
@@ -44,6 +40,16 @@ This is a tip box
 This is a danger box
 :::
 
+# Details (collapsible) block
+
+```
 :::details[Summary here]
 Details here
 :::
+```
+
+:::details[Summary here]
+Details here
+:::
+
+
