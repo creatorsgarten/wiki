@@ -4,6 +4,28 @@ thing: other stuff
 
 Use this sandbox to test out Markdown and {{page.thing}}.
 
+# Container blocks
+
+:::info
+This is an info box
+:::
+
+:::warning
+This is a warning box
+:::
+
+:::tip
+This is a tip box
+:::
+
+:::danger
+This is a danger box
+:::
+
+:::details[Summary here]
+Details here
+:::
+
 # Draft
 
 :::Draft
