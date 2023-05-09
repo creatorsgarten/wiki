@@ -96,3 +96,15 @@ Template lets you re-use content across multiple pages without having to duplica
 A template is a page inside the `Template` namespace.
 To render a template, use the [{% raw %}`{% render %}`{% endraw %} Liquid syntax](https://liquidjs.com/tags/render.html) and specify the name of the template.
 For a list of available template, see [[Template]].
+
+## Event
+
+Renders a link to the event.
+
+{% raw %}
+```
+{% render 'Event', name: 'creativecodingmeetup' %}
+```
+{% endraw %}
+
+{% render 'Event', name: 'creativecodingmeetup' %}
