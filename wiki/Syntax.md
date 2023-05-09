@@ -72,6 +72,16 @@ Draft blocks are useful for marking a piece of content as draft.
 
 You can use Liquid [tags](https://liquidjs.com/tags/overview.html) and [filters](https://liquidjs.com/filters/overview.html) to add rudimentary logic to a wiki page.
 
+{% raw %}
+```
+{% assign showdownSpaceEvents = '{"match":{"event.hosts":"showdown.space"}}' | query_pages %}
+{% render 'PageList', pages: showdownSpaceEvents %}
+```
+{% endraw %}
+
+{% assign showdownSpaceEvents = '{"match":{"event.hosts":"showdown.space"}}' | query_pages %}
+{% render 'PageList', pages: showdownSpaceEvents %}
+
 # Message
 
 Messages are useful for discussing in the wiki.
