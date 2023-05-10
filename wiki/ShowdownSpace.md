@@ -71,3 +71,6 @@ The foundation layer is about creating re-usable components that can be reused a
 # Links
 
 - [Origin story](https://web.facebook.com/dtinth/posts/pfbid02UAvCVj7349tutSVogFTz1VuFResihY9BMoeWR4V76egY2QE9GpcfSDGw7QnD8Wawl)
+- {% render 'Facebook', user: 'showdown.space' %}
+- {% render 'GitHub', user: 'showdownspace' %}
+- [Website](https://showdown.space)
