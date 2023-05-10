@@ -1,4 +1,5 @@
 ---
+title: showdown.space
 guild:
   name: showdown.space
   site: https://showdown.space/
