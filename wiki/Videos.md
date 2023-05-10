@@ -69,6 +69,9 @@ To keep convention of streaming for many events to be streamlined (for the sake 
 
    ![CleanShot 2023-05-09 at 03 48 57](https://user-images.githubusercontent.com/22584594/236907154-26f745a0-0f3f-497c-8ec1-1dd5959fcb59.png)
 
+   ::Message[I have a lower-end machine (@rayriffy has an M1 Max while I have a normal M1 machine), so my recording quality is set to “Same as stream.” This makes OBS use 2x less load because only a single video encoder is used for both streaming and recording (instead of using separate encoders, consuming twice the resource).]{from=@dtinth}
+   ::Message[On file format, there is a caveat of MP4 file format. I have once lost an entire recording due to a system crash (MP4 files are unrecoverable if it is not finalized), so nowadays I record as MKV instead, and then use the **Remux recording** feature to remux it into MP4.]{from=@dtinth}
+
 4. Audio sample rate is set to **48kHz**, and video output resolution set to **1920x1080** with *common FPS values* of **60**
 
 5. We would like to recommend using **Audio Hijack** with **Loopback** to the mix sound instead of using OBS’s mixer. This is for the best for streamer to only control audio levels in just one place. Additionally, Audio Hijack lets you **separately record** each audio source for future editing. Each venue will have different setup, so please plan ahead.
