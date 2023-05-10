@@ -21,6 +21,10 @@ what is events?
 
 # Culture
 
+## Club
+
+## Lore
+
 - TODO: what are Creatorsgarten's key culture?
   - Wiki
   - Learning
