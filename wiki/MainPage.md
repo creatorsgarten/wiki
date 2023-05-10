@@ -36,8 +36,8 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 | [[IndieHackers\|Indie Hackers]] | Community of hackers and developers who are interested in creating and building cool things using technology
 | [[SoftwareEngineering\|Software Engineering]] | A group for software engineers who are interested in sharing their knowledge, experiences, and best practices related to software development
 | [[TechClubCircle\|University Club WG]] | a working group that maintains the circle of computer clubs in Thailand. This group brings together computer clubs from universities across Thailand and provides a platform for collaboration, knowledge sharing, and networking
-| [[CoderDojoWorkingGroup\|CoderDojo WG]] | Supporting and promoting CoderDojo Thailand Group, a network of free, volunteer-led, community-based programming clubs for young people
-| [[HomeschoolNetworkWorkingGroup\|Homeschool Network WG]] | Supporting the network of homeschooling families who are interested in incorporating technology and computer science education into their curriculum
+| [[CoderDojoWG\|CoderDojo WG]] | Supporting and promoting CoderDojo Thailand Group, a network of free, volunteer-led, community-based programming clubs for young people
+| [[HomeschoolNetworkWG\|Homeschool Network WG]] | Supporting the network of homeschooling families who are interested in incorporating technology and computer science education into their curriculum
 
 # Events
 
