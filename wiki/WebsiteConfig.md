@@ -65,7 +65,7 @@ You can preview the announcement by appending `?previewAnnouncement=<id>` to the
 
 <table><thead><tr><th>Key</th><th>Value</th></tr></thead><tbody>
 {%- for entry in section[1] %}
-<tr><td>{{entry[0] | escape}}</td><td><tt>{{ entry[1] | json | escape }}</tt></td></tr>
+<tr><td>{{entry[0] | escape}}</td><td><pre><code style="white-space:pre-wrap">{{ entry[1] | json | escape }}</code></pre></td></tr>
 {%- endfor %}
 </tbody></table>
 
