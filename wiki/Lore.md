@@ -1,3 +1,8 @@
+# Creatorsgarten's Lores
+
+- [กระติกน้ำ Microsoft Azure](https://grtn.org/azure)
+- สั่งสอนผมด้วยครับ
+
 // TODO: change lore to club
 
 ::Message[should we change lore -> club?]{from=@chayapatr}
