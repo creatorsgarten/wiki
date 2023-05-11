@@ -4,7 +4,9 @@ Hackerspace inside [[Cleverse]], maintained by [muse][muse] and Creatorsgarten.
 
 [muse]: https://muse.as
 
-- The space belongs to [[Cleverse]] and is maintained by [muse][muse]. It is multi-tenant (shared with other initiatives partnered with muse).
+- The space belongs to [[Cleverse]] and is maintained by [muse][muse].
+- We intend to use it as our home base.
+- It is multi-tenant (shared with other initiatives partnered with muse).
 
 :::Draft
 - still needs physical access control with logging
