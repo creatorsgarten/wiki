@@ -30,15 +30,17 @@ The name is not finalized yet.
 - 3D Printers (by muse)
 - CNC Machines (by muse)
 
+# Usage
+
+- 24/7 access.
+- It is OK to bring in food and beverages.
+- It is OK to store equipments belonging to the collective in the premises.
+
 :::Draft
-- 24/7 access
-- food ok
 - เสียง
 	- ใช้ CNC ไปใช้ใน corner
 	- กั้นเสียง
 
-- อุปกรณ์เก็บไว้ในห้องได้
-- เอาอาหารกับน้ำเข้ามาได้
 - ขนของในวันเสาร์อาทิตย์ ขออนุญาตขน
 	- ต้องขออนุญาตขน
 	- ลิฟต์วนมาได้ถึงชั้น 10 - ที่เหลือหิ้วมาถึงชั้น 13
