@@ -10,7 +10,7 @@ The Stupid Hackathon in Thailand (past: The Stupid Hackathon Thailand) is a Crea
 :::
 
 # Upcoming
-- [[wiki/Events/shit7|The 7th Stupid Hackathon in Thailand]]
+- [[Events/shit7|The 7th Stupid Hackathon in Thailand]]
 
 # Past Events
 - [[Events/sht1|Stupid Hackathon Bangkok]]
