@@ -45,9 +45,9 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 | Name | Description |
 | ----- | ----- |
 | [[StupidHackTH\|The Stupid Hackathon in Thailand]]
-| [[HacktoberfestThailand|Hacktoberfest Thailand Chapter]] | TODO: Add Page
+| [[HacktoberfestThailand\|Hacktoberfest Thailand Chapter]] | TODO: Add Page
 | [[Frontend\|Frontend Meetup Series]]
-| [[Scisart|Sciยศาสตร์ Night]] | To be hosted every August (I hope)
+| [[Scisart\|Sciยศาสตร์ Night]] | To be hosted every August (I hope)
 | [[MetaEvents\|Meta Events]] | Workshops, Meetups, Hackathons for Creatorsgarten by Creatorsgarten
 | [[9PMUniversity\|มหาวิทยาลัยสามทุ่ม / 9PM University]] | Originated by พ่อโจ้ // TODO: Add Page
 | [[SciDojo\|SciDojo]] | Originated by พ่อโจ้ // TODO: Add Page
