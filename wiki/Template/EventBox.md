@@ -3,7 +3,7 @@
 
 {% liquid
 assign n = name | default: 'sht1' | split: '/' | last
-assign prefixes = 'Coverage,Feedback,OrganizerNotes,Sponsorship' | split: ','
+assign prefixes = 'Coverage,FAQ,Feedback,OrganizerNotes,Sponsorship' | split: ','
 -%}
 **{% render 'Event', name: name %}**
 {%- liquid
