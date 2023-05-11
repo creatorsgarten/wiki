@@ -18,10 +18,6 @@ Our wiki is under construction, please feel free to contribute!
 - [[DigitalPresence|Our digital presence]]
 - [[GardenZero|Garden Zero]]
 
-## Special
-- [[Special/AllPages|Alphabetical page list]]
-- [[Special/RecentChanges|Recently-changed pages]]
-
 # Guilds
 
 With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish [[Guilds|guilds]] aligned with ongoing projects and member interests.
@@ -64,6 +60,10 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 - [[Inventory]]
 - [[Finance]]
 - [[Venues]]
+
+## Special
+- [[Special/AllPages|Alphabetical page list]]
+- [[Special/RecentChanges|Recently-changed pages]]
 
 # Tech Stack
 
