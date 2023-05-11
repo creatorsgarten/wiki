@@ -16,7 +16,7 @@ Our wiki is under construction, please feel free to contribute!
 - [[SelfIntroduction|What is Creatorsgarten?]]
 - [[DemocratizeCreationforAll|Manifesto: Democratize creation for all]]
 - [[DigitalPresence|Our digital presence]]
-- [[Lore]]
+- [[GardenZero|Garden Zero]]
 
 ## Special
 - [[Special/AllPages|Alphabetical page list]]
