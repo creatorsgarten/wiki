@@ -10,7 +10,7 @@
 [[HarbourSpace]]
 [[MicrosoftThailand]]
 [[MuseFoundation]]
-[[QNSCC]]
+[[QSNCC]]
 [[RISE]]
 [[SVLHouse]]
 [[SCB10X]]
