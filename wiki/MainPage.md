@@ -18,6 +18,8 @@ Our wiki is under construction, please feel free to contribute!
 - [[DigitalPresence|Our digital presence]]
 - [[GardenZero|Garden Zero]]
 
+# [[Projects]]
+
 # Guilds
 
 With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish [[Guilds|guilds]] aligned with ongoing projects and member interests.
