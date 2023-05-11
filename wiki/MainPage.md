@@ -12,6 +12,8 @@ Our wiki is under construction, please feel free to contribute!
 
 ::Message[note: I think the spacing between each header is a bit too large, what do you all think?]{from=@chayapatr}
 ::Message[actually i think there should be _more_ spacing, see [Oliver Schöndorfer (2022). “The Right Space Around Headings in Web Typography”. _Pimp my Type._](https://pimpmytype.com/hugo-md/) notice how in the article there is 80px of space before each heading, while we have only 50px]{from=@dtinth}
+::Message[i reduced the space below the heading]{from=@dtinth}
+
 
 # About us
 
