@@ -10,7 +10,7 @@ event:
   eventpopId: 13449
 ---
 
-# Code Golf Party #1
+{% render 'EventBox', name: ref %}
 
 A programming contest where participants try to solve problems with the smallest amount of code possible.
 
