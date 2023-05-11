@@ -8,8 +8,6 @@ websiteConfig:
         schedule: October
       - name: Stupid Hackathon in Thailand
         schedule: Late Q2 - Early Q3
-      - name: Placeholder
-        schedule: Biweekly
   guilds:
     featured:
       - id: StupidHackTH
