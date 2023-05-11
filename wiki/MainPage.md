@@ -34,7 +34,7 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 | [[HomeschoolNetworkWG\|Homeschool Network WG]] | Supporting the network of homeschooling families who are interested in incorporating technology and computer science education into their curriculum
 
 # Events
-## a full list of events, see the [[Events]] page
+## for a full list of events, see the [[Events]] page
 - // TODO: add details about HOW TO HOST AN EVENT
 - // TODO: add details about types of events (normal/pathfinder/recurring/series)
 
