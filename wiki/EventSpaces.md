@@ -1,7 +1,3 @@
-# Creatorsgarten HQ
-Creatorsgarten utilizes [[GardenSpace|Garden Space]] as its headquarter office.
-
-# Event Spaces
 | Name | Type | Location |
 | ----- | ----- | ----- |
 [[BITEC]]
