@@ -1,5 +1,5 @@
 :::lead
-Frequently asked questions for [Code Golf Party #1](/event/golf1)
+Frequently asked questions for {% render 'Event', name: 'golf1' %}
 :::
 
 # Registration
