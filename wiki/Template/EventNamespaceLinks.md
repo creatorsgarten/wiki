@@ -1,6 +1,6 @@
 {% liquid
 assign n = name | default: 'sht1' | split: '/' | last
-assign prefixes = 'Coverage,Feedback,OrganizerNotes,Sponsorship' | split: ','
+assign prefixes = 'Coverage,FAQ,Feedback,OrganizerNotes,Sponsorship' | split: ','
 assign printed = false
 for prefix in prefixes
   assign p = prefix | append: '/' | append: n | get_page
