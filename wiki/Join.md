@@ -1,8 +1,8 @@
-# What is Creatorsgarten?
-
-:::Draft
-This page is under construction. Feel free to contribute!
+:::warning[UNDER CONSTRUCTION]
+Our wiki is under construction, please feel free to contribute!
 :::
+
+# What is Creatorsgarten?
 
 - [[SelfIntroduction|What is Creatorsgarten?]]
 
