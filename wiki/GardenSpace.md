@@ -1,9 +1,12 @@
 :::lead
-Hackerspace inside [[Cleverse]], maintained by [muse](https://muse.as) and Creatorsgarten.
+Hackerspace inside [[Cleverse]], maintained by [muse][muse] and Creatorsgarten.
 :::
 
+[muse]: https://muse.as
+
+- The space belongs to [[Cleverse]] and is maintained by [muse][muse]. It is multi-tenant (shared with other initiatives partnered with muse).
+
 :::Draft
-- shared space with others
 - still needs physical access control with logging
 - 24/7 access
 - food ok
