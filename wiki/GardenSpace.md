@@ -14,6 +14,7 @@ The name is not finalized yet.
 
 # Name choices
 
+- Garden Space
 - Garden One
 - Garden[0] (“Garden Zero”)
 
@@ -21,21 +22,17 @@ The name is not finalized yet.
 
 - Creatorsgarten will develop a system to authorize and log people who enter the space.
 - This system will be shared with other communities that share this space.
+- Cleverse already has a physical access control system by Hikvision, which we will integrate.
+    - The system allows QR code to be scanned to enter the premises. We can try generating a one-time use QR code that allows entry.
+
+# Equipments
+
+- 3D Printers (by muse)
+- CNC Machines (by muse)
 
 :::Draft
-- still needs physical access control with logging
 - 24/7 access
 - food ok
-- qr code access
-- 3D Printers, CNC Machines
-
-- QR Authentication
-	- GitHub/EventPop - ชื่ออะไร
-	- Generate
-		- One Time - Gen creatorsgarten.org/dash
-	- Hikvision
-		- ชื่อรุ่น hardware, API
-
 - เสียง
 	- ใช้ CNC ไปใช้ใน corner
 	- กั้นเสียง
