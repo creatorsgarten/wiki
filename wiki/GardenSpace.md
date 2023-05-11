@@ -8,4 +8,5 @@ Hackerspace inside [[Cleverse]], maintained by [muse](https://muse.as) and Creat
 - 24/7 access
 - food ok
 - qr code access
+- 3D Printers, CNC Machines
 :::
