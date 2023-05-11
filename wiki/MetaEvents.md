@@ -1,5 +1,5 @@
 :::lead
-Meta Events is an event series hosted by Creatorsgarten Core Team for meta-contributions to the collective
+Meta Events is an event [[Series|series]] hosted by Creatorsgarten Core Team for meta-contributions to the collective
 :::
 
 # Internal Hackathon #1
@@ -7,5 +7,5 @@ Meta Events is an event series hosted by Creatorsgarten Core Team for meta-contr
 - Date: 25 April 2023
 
 # Contribute-athon #1
-- Venue: Jojo Cafe
+- Venue: [[GardenZero|Garden Zero]]
 - Date: TBD

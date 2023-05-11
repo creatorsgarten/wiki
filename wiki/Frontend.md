@@ -1,3 +1,7 @@
+---
+title: Frontend Meetup Series
+orchestrator: "[[WebDevelopers]]"
+---
 - [[Events/vscodeday2023|VS Code Day 2023]]
 - [[bkkjs17|BKK.JS 17]]
 - [[reactmeetup0922|React Meetup 9/22]]

@@ -11,8 +11,13 @@
 | [[IndieHackers\|Indie Hackers]] | Community of hackers and developers who are interested in creating and building cool things using technology
 | [[SoftwareEngineering\|Software Engineering]] | A group for software engineers who are interested in sharing their knowledge, experiences, and best practices related to software development
 | [[TechClubCircle\|University Club WG]] | a working group that maintains the circle of computer clubs in Thailand. This group brings together computer clubs from universities across Thailand and provides a platform for collaboration, knowledge sharing, and networking
-| [[CoderDojoWorkingGroup\|CoderDojo WG]] | Supporting and promoting CoderDojo Thailand Group, a network of free, volunteer-led, community-based programming clubs for young people
-| [[HomeschoolNetworkWorkingGroup\|Homeschool Network WG]] | Supporting the network of homeschooling families who are interested in incorporating technology and computer science education into their curriculum
+| [[CoderDojoWG\|CoderDojo WG]] | Supporting and promoting CoderDojo Thailand Group, a network of free, volunteer-led, community-based programming clubs for young people
+| [[HomeschoolNetworkWG\|Homeschool Network WG]] | Supporting the network of homeschooling families who are interested in incorporating technology and computer science education into their curriculum
+
+# Working Group
+:::draft
+ChatGPT: A working group is a special type of guild that is formed to maintain projects in collaboration with partners. It is a group of individuals who come together to work on a specific project or task, often with the goal of achieving a common objective.
+:::
 
 # To be added properly
 - each guild has their own (DRI(s)/Orchestrator(s)/leader(s) <- which word should i use?) who oversee(s) that guild

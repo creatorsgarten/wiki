@@ -14,7 +14,7 @@ Our wiki is under construction, please feel free to contribute!
 # About us
 
 - [[SelfIntroduction|What is Creatorsgarten?]]
-- [[Democratize Creation for All|Manifesto: Democratize creation for all]]
+- [[DemocratizeCreationforAll|Manifesto: Democratize creation for all]]
 - [[DigitalPresence|Our digital presence]]
 - [[Lore]]
 
@@ -37,9 +37,7 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 | [[CoderDojoWG\|CoderDojo WG]] | Supporting and promoting CoderDojo Thailand Group, a network of free, volunteer-led, community-based programming clubs for young people
 | [[HomeschoolNetworkWG\|Homeschool Network WG]] | Supporting the network of homeschooling families who are interested in incorporating technology and computer science education into their curriculum
 
-# Events
-
-- For a full list of events, along with their related pages, see the [[Events]] page.
+# Events (a full list of events, see the [[Events]] page)
 - // TODO: add details about HOW TO HOST AN EVENT
 - // TODO: add details about types of events (normal/pathfinder/recurring/series)
 
@@ -47,9 +45,9 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 | Name | Description |
 | ----- | ----- |
 | [[StupidHackTH\|The Stupid Hackathon in Thailand]]
-| [[HacktoberfestTH\|Hacktoberfest Thailand Chapter]] | TODO: Add Page
+| [[HacktoberfestThailand|Hacktoberfest Thailand Chapter]] | TODO: Add Page
 | [[Frontend\|Frontend Meetup Series]]
-| [[Scisart Night\|Sciยศาสตร์ Night]] | To be hosted every August (I hope)
+| [[Scisart|Sciยศาสตร์ Night]] | To be hosted every August (I hope)
 | [[MetaEvents\|Meta Events]] | Workshops, Meetups, Hackathons for Creatorsgarten by Creatorsgarten
 | [[9PMUniversity\|มหาวิทยาลัยสามทุ่ม / 9PM University]] | Originated by พ่อโจ้ // TODO: Add Page
 | [[SciDojo\|SciDojo]] | Originated by พ่อโจ้ // TODO: Add Page

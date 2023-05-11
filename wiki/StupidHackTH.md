@@ -1,14 +1,16 @@
 ---
 title: Stupid Hackathon in Thailand
 image: https://assets.creatorsgarten.org/events/sht1.png
+site: https://stupidhackth.github.io
+orchestrator: "[[TechClubCircle]]"
 ---
 
 :::lead
-The Stupid Hackathon in Thailand (past: The Stupid Hackathon Thailand) is a Creatorsgarten [[Series|serires]] which has been hosted annually since 2017.
+The Stupid Hackathon in Thailand (past: The Stupid Hackathon Thailand) is a Creatorsgarten [[Series|series]] which has been hosted annually since 2017.
 :::
 
 # Upcoming
-- [[Events/sht7|The 7th Stupid Hackathon in Thailand]]
+- [[wiki/Events/shit7|The 7th Stupid Hackathon in Thailand]]
 
 # Past Events
 - [[Events/sht1|Stupid Hackathon Bangkok]]

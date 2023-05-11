@@ -31,17 +31,4 @@ As the group expanded and hosted more events unrelated to the annual Stupid Hack
 
 With a growing number of members across a diverse range of fields, Creatorsgarten decided to establish "[[Guilds]]" aligned with ongoing projects and member interests. The establishment of these guilds within Creatorsgarten has allowed for a more structured approach to projects and collaborations. Each guild has its own unique culture and persona, attracting members with specific interests and skillsets. However, an individual within Creatorsgarten collective may join multiple guilds based on their interests and contributions.
 
-# Creatorsgarten Structure/Terminology (TO BE ADDED)
-- Guilds
- - Internal Guilds
- - Working Groups
-- Events
- - Regular
- - Pathfinder
- - Recurring
- - Series
-- Projects
-- Management/Meta
- - DRI/O
- - Join
- - Lore
+# [[Glossary|Creatorsgarten Structure/Terminology (TO BE ADDED)]]
