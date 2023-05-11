@@ -1,4 +1,4 @@
-<div style="padding: 0.25em 1em; background: white; border-radius: 0.25rem; text-align: center; box-shadow: 0 1px 3px 0 rgb(0 0 0 / .1), 0 1px 2px -1px rgb(0 0 0 / .1);">
+<div style="padding: 0.25em 1em; background: white; border-radius: 0.25rem; text-align: center; border: 2px solid black;">
 <div style="margin: -1em 0">
 
 {% liquid
