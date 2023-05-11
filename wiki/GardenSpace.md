@@ -2,11 +2,20 @@
 Hackerspace inside [[Cleverse]], maintained by [muse][muse] and Creatorsgarten.
 :::
 
+:::warning
+The name is not finalized yet.
+:::
+
 [muse]: https://muse.as
 
 - The space belongs to [[Cleverse]] and is maintained by [muse][muse].
 - We intend to use it as our home [[Bases|base]].
 - It is multi-tenant (shared with other initiatives partnered with muse).
+
+# Name choices
+
+- Garden One
+- Garden[0] (“Garden Zero”)
 
 # Physical security
 
