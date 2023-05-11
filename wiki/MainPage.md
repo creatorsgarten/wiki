@@ -10,10 +10,6 @@ Our wiki is under construction, please feel free to contribute!
 
 # [[Join|How to join us]]
 
-::Message[note: I think the spacing between each header is a bit too large, what do you all think?]{from=@chayapatr}
-::Message[actually i think there should be _more_ spacing, see [Oliver Schöndorfer (2022). “The Right Space Around Headings in Web Typography”. _Pimp my Type._](https://pimpmytype.com/hugo-md/) notice how in the article there is 80px of space before each heading, while we have only 50px]{from=@dtinth}
-::Message[i reduced the space below the heading]{from=@dtinth}
-
 
 # About us
 
@@ -76,3 +72,11 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 This website ({% render 'GitHub', repo: 'creatorsgarten.org' %}) is built with [Astro](https://astro.build/).
 This wiki is powered by [Contentsgarten](https://contentsgarten.netlify.app/wiki/MainPage) ({% render 'GitHub', repo: 'contentsgarten' %}), a headless wiki engine that uses a GitHub repository as a data storage ({% render 'GitHub', repo: 'wiki' %}).
 They are deployed to [Deploys.app](https://www.deploys.app/).
+
+# Discussions
+## Header Box
+::Message[note: I think the spacing between each header is a bit too large, what do you all think?]{from=@chayapatr}
+::Message[actually i think there should be _more_ spacing, see [Oliver Schöndorfer (2022). “The Right Space Around Headings in Web Typography”. _Pimp my Type._](https://pimpmytype.com/hugo-md/) notice how in the article there is 80px of space before each heading, while we have only 50px]{from=@dtinth}
+::Message[Oh, nice article :D -- but actually, i mean the gap between headers like h1 and h2, not about header and text]{from=@chayapatr}
+::Message[i reduced the space below the heading]{from=@dtinth}
+::Message[Thank you very much!]{from=@chayapatr}
