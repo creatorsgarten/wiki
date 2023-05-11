@@ -4,7 +4,7 @@
 
 Developing
 
-- [[GardenSpace]] (home base)
+- [[GardenSpace]] (Creatorsgarten's HQ)
 
 Planned
 
