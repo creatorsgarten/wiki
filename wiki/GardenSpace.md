@@ -8,6 +8,11 @@ Hackerspace inside [[Cleverse]], maintained by [muse][muse] and Creatorsgarten.
 - We intend to use it as our home base.
 - It is multi-tenant (shared with other initiatives partnered with muse).
 
+# Physical security
+
+- Creatorsgarten will develop a system to authorize and log people who enter the space.
+- This system will be shared with other communities that share this space.
+
 :::Draft
 - still needs physical access control with logging
 - 24/7 access
