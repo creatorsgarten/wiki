@@ -8,6 +8,8 @@ websiteConfig:
         schedule: October
       - name: Stupid Hackathon in Thailand
         schedule: Late Q2 - Early Q3
+      - name: Bingsu.js
+        schedule: Post meetups
   guilds:
     featured:
       - id: StupidHackTH
