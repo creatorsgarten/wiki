@@ -67,7 +67,7 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 ## Database
 - [[Inventory]]
 - [[Finance]]
-- [[EventSpaces]]
+- [[Venues]]
 
 # Tech Stack
 
