@@ -2,6 +2,8 @@
 Frequently asked questions for {% render 'Event', name: 'golf1' %}
 :::
 
+{% render 'EventBox', name: ref %}
+
 # Registration
 
 :::details[ได้รับบัตรแล้วต้องทำยังไงต่อ]
