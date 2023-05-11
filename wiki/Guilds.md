@@ -15,7 +15,7 @@
 | [[HomeschoolNetworkWG\|Homeschool Network WG]] | Supporting the network of homeschooling families who are interested in incorporating technology and computer science education into their curriculum
 
 # Working Group
-:::draft
+:::Draft
 ChatGPT: A working group is a special type of guild that is formed to maintain projects in collaboration with partners. It is a group of individuals who come together to work on a specific project or task, often with the goal of achieving a common objective.
 :::
 
