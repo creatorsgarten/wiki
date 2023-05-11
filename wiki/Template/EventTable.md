@@ -2,7 +2,6 @@
 unless events
   assign events = '{"match":{"event":true}}' | query_pages | sort: 'data.event.date' | reverse
 endunless
-assign prefixes = 'Coverage,FAQ,Feedback,OrganizerNotes,Sponsorship' | split: ','
 %}
 | Event | Namespaces | Date | Slug |
 | ----- | ---------- | ----:| ---- |{% for event in events %}{% liquid
