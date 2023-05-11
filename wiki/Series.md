@@ -1,2 +1,1 @@
-# Current Series
-[[MainPage]]
+# [[MainPage##Series|Current Series]]
