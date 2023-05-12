@@ -2,6 +2,7 @@
 
 | Term | Definition |
 | --- | --- |
+| **Base** | A physical space where Creatorsgarten members can use. |
 | **Club** | An informal group of people who have common interests, such as Board Games Club, Robotics Club, or Programming Club. Usually, it is leaderless. |
 | **DRI** | Directly Responsible Individual. A person who is responsible for a specific task. |
 | **Event** | A gathering of people for a specific purpose, such as a meetup, hackathon, camp, or a contest. |
