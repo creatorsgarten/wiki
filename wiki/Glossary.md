@@ -9,7 +9,7 @@
 | **Guild** | A sub-community of Creatorsgarten. Each guild has a specific focus, its own culture and leadership. |
 | **Series** | A group of events that are related to each other. |
 | **Space** | A place that can be used to organize an event. |
-| **Working Group (WG)** | A type of guild that collaborates with an external organization. |
+| **Working Group (WG)** | A special type of guild that is formed to maintain projects in collaboration with partners. |
 
 :::
 
