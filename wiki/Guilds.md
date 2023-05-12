@@ -21,5 +21,9 @@ ChatGPT: A working group is a special type of guild that is formed to maintain p
 
 # To be added properly
 - each guild has their own (DRI(s)/Orchestrator(s)/leader(s) <- which word should i use?) who oversee(s) that guild
+
+  ::Message[“leadership?”]{from=@dtinth}
+
 - each guild may have their own sub-cultures/lores/projects/events/people
+
 - guide: ow to establish a guild
