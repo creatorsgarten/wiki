@@ -24,6 +24,21 @@ sponsor:
 
 Cars can be parked at the 2nd–3rd floor at a rate of THB 20 per hour. Can stamp the parking paper for a THB 15 discount.
 
+:::Draft
+- หากนำรถยนต์ส่วนตัวมา สามารถจอดได้ที่ชั้น 2 และ 3 ของอาคาร 44/1 รุ่งโรจน์ธนกุล
+(มีป้าย UNICITY) ชม. ละ 20 บาท นำสลิปกระดาษสีขาวขึ้นมา Stamp ที่ Cleverse จะลดค่าจอดให้ 15.- 
+
+ ขึ้นลิฟต์มา Cleverse ชั้น 13
+ไม่ต้องแลกบัตร
+
+- มอเตอร์ไซค์ จอดได้ที่ชั้น 1 ข้างป้อม รปภ. ชม. ละ 5.- (Stamp ไม่ได้)
+
+MRT
+ทางออก 2 สถานี พระราม 9
+เดินมาจนเจออาคาร 44/1 รุ่งโรจน์ธนกุล
+(มีป้าย UNICITY) ขึ้นลิฟต์มา Cleverse ชั้น 13 ไม่ต้องแลกบัตร
+:::
+
 ## Map
 
 ![Map](https://user-images.githubusercontent.com/193136/233851115-80cd8034-4d18-477b-a3b1-c12108fc96d8.jpg)
@@ -56,6 +71,7 @@ Additional notes:
   - The normal setup at the venue is susceptible to audio feedback loop (speaker &rarr; mic &rarr; speaker).
     The maximum audio level that does not result in a feedback loop is too quiet (people at the back cannot hear).
     To fix this, some frequencies have to be filtered out using an equalizer and a limiter.
+
 
 # Nearby places to hang out
 
