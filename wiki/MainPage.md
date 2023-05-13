@@ -37,7 +37,7 @@ With a growing number of members across a diverse range of fields, Creatorsgarte
 
 # Events
 ## for a full list of events, see the [[Events]] page
-- // TODO: add details about HOW TO HOST AN EVENT
+- // TODO: add details about [[HowToHostAnEvent]]
 - // TODO: add details about types of events (normal/pathfinder/recurring/series)
 
 ## Series
