@@ -1,3 +1,7 @@
+---
+title: True5G PRO HUB
+---
+
 :::lead
 [**True5G PRO HUB: The Space of Immersive Discovery**](https://news.trueid.net/detail/wY4j5NXLnqq9) is located on the 4th floor of Siam Discovery.
 :::
