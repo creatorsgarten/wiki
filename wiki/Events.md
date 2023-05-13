@@ -6,10 +6,12 @@
 
 # Types of events
 
+:::Draft
 - **Normal events**
 - **Pathfinder events**
 - **Recurring events**
 - **Event series**
+:::
 
 # Creating a new event
 
