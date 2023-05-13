@@ -4,6 +4,13 @@
 [&rarr; Click here to go to the main events page](/events/)
 :::
 
+# Types of events
+
+- **Normal events**
+- **Pathfinder events**
+- **Recurring events**
+- **Event series**
+
 # Creating a new event
 
 To start a new event:
