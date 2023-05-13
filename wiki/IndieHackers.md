@@ -4,5 +4,5 @@ guild:
 ---
 
 :::lead
-**Bangkok Open Source** is a Creatorsgarten [[Guilds|guild]] of hackers and developers who are interested in creating and building cool things using technology
+**{{ page.guild.name }}** is a Creatorsgarten [[Guilds|guild]] of people who builds side projects, indie games, and indie products.
 :::
