@@ -7,4 +7,4 @@ endunless
 | ----- | ---------- | ----:| ---- |{% for event in events %}{% liquid
 assign slug = event.ref | split: '/' | last
 %}
-| {% render 'Event', name: slug %} {% if event.data.event.unlisted %}(:Icon{icon="codicon:eye-closed"}){% endif %} | {% render 'EventNamespaceLinks', name: slug %} | {{ event.data.event.date }} | {{ slug }} |{% endfor %}
+| {% render 'Event', name: slug %} {% if event.data.event.unlisted %}(:Icon{icon="codicon:eye-closed"}){% endif %} | {% render 'EventNamespaceLinks', name: slug %} | <span style="white-space: nowrap">{{ event.data.event.date }}</span> | {{ slug }} |{% endfor %}
