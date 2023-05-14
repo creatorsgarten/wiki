@@ -43,3 +43,7 @@ TBA
 # Full event list
 
 {% render 'EventTable' %}
+
+# Hosting an event
+
+See: [[HowToHostAnEvent]]
