@@ -14,7 +14,7 @@ Our wiki is under construction, please feel free to contribute!
 # About us
 
 - [[SelfIntroduction|What is Creatorsgarten?]]
-- [[DemocratizeCreationforAll|Manifesto: Democratize creation for all]]
+- [[DemocratizeCreationForAll|Manifesto: Democratize creation for all]]
 - [[DigitalPresence|Our digital presence]]
 - [[GardenZero|Garden Zero]]
 
