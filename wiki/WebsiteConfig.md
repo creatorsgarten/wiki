@@ -58,9 +58,7 @@ Each announcement will be evaluated according to this criteria:
 3. If `end` is set and the time has passed, it will not be shown.
 4. Otherwise, it will be shown.
 
-If many announcements fulfill the criteria, only the first one will be shown.
-
-You can preview the announcement by appending `?previewAnnouncement=<id>` to the URL. For example, `?previewAnnouncement=example`
+If many announcements fulfill the criteria, only the first one will be shown. Click on one of the announcement keys below to preview the announcement.
 {% endif %}
 
 <table><thead><tr><th>Key</th><th>Value</th></tr></thead><tbody>
