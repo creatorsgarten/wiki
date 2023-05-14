@@ -13,6 +13,10 @@
 - **Event series**
 :::
 
+# Suggesting an event
+
+Ideas for new events can be suggested at {% render 'Grtn', path: 'ideas' %}.
+
 # Creating a new event
 
 To start a new event:
