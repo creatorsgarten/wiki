@@ -64,8 +64,13 @@ You can preview the announcement by appending `?previewAnnouncement=<id>` to the
 {% endif %}
 
 <table><thead><tr><th>Key</th><th>Value</th></tr></thead><tbody>
-{%- for entry in section[1] %}
-<tr><td>{{entry[0] | escape}}</td><td><pre style="margin:0"><code style="white-space:pre-wrap">{{ entry[1] | json | escape }}</code></pre></td></tr>
+{%- for entry in section[1] %}{% liquid
+assign title = entry[0] | escape
+if name == 'announcements'
+  assign title = '<a href="?previewAnnouncement=' | append: title | append: '">' | append: title | append: '</a>'
+endif
+%}
+<tr><td>{{ title }}</td><td><pre style="margin:0"><code style="white-space:pre-wrap">{{ entry[1] | json | escape }}</code></pre></td></tr>
 {%- endfor %}
 </tbody></table>
 
