@@ -17,6 +17,7 @@ The name is not finalized yet.
 - Garden Space
 - Garden One
 - Garden[0] (“Garden Zero”)
+- gardens[0] (“Garden Index Zero”)
 
 # Physical security
 
