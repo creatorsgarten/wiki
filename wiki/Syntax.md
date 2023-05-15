@@ -76,7 +76,7 @@ Draft blocks are useful for marking a piece of content as draft.
 
 # Icon
 
-You can add any [Iconify icon](https://icon-sets.iconify.design/) by using the `:Icon` syntax:
+You can add [any icon supported by Iconify](https://icon-sets.iconify.design/) by using the `:Icon` syntax:
 
 ```
 :Icon{icon=material-symbols:train-outline}
