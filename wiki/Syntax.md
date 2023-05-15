@@ -74,6 +74,18 @@ Draft blocks are useful for marking a piece of content as draft.
 
 ---
 
+# Icon
+
+This wiki can render any [Iconify icon](https://icon-sets.iconify.design/) using the `:Icon` syntax:
+
+```
+:Icon{icon=material-symbols:train-outline}
+```
+
+:Icon{icon=material-symbols:train-outline}
+
+---
+
 # Liquid
 
 You can use Liquid [tags](https://liquidjs.com/tags/overview.html) and [filters](https://liquidjs.com/filters/overview.html) to add rudimentary logic to a wiki page.
