@@ -6,6 +6,19 @@ Our wiki is under construction, please feel free to contribute!
 
 - [[SelfIntroduction|What is Creatorsgarten?]]
 
+# How to work with us
+
+# How can you contribute?
+
+- Managing Creatorsgarten
+- Leading or contributing to the working groups
+- Creating or contributing to the projects
+
+# How can you join us?
+
+- Discord
+- GitHub
+
 # Structure
 
 ## Guilds
@@ -30,14 +43,3 @@ what is events?
   - Learning
   - Creating
   - Management (e.g. [[DRI]]/O, [[DoOcracy|Do-o-cracy]])
-
-# How can you contribute?
-
-- Managing Creatorsgarten
-- Leading or contributing to the working groups
-- Creating or contributing to the projects
-
-# How can you join us?
-
-- Discord
-- GitHub
