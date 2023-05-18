@@ -28,4 +28,4 @@ ChatGPT: A working group is a special type of guild that is formed to maintain p
 
 - each guild may have their own sub-cultures/lores/projects/events/people
 
-- guide: ow to establish a guild
+- guide: how to establish a guild
