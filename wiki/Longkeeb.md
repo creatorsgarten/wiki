@@ -26,7 +26,7 @@ Join us to explore the world of ergonomic mechanical keyboards, discuss design o
 
 Ready to embark on a journey of ergonomic excellence? Join Longkeeb today and immerse yourself in a community of passionate ergonomic and split keyboard enthusiasts. Whether you're looking to enhance your typing experience, share your creations, or learn from others, Longkeeb offers a supportive space for you to connect, collaborate, and thrive.
 
-Join us at 
+## Online community
 - **[facebook page](https://www.facebook.com/longkeebd)** 
 - **[discord](https://discord.gg/JJ5FkrYzCV)**
 
