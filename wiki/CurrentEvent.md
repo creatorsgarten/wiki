@@ -10,6 +10,12 @@ Event page: {% render 'Event', name: 'functional' %}
 
 - [Feedback form](https://forms.gle/KyrbE48WkmsneGdk6)
 
+- Thank you to our sponsors
+
+   - [Cleverse](https://cleverse.com/)
+   - [BorntoDev](https://www.borntodev.com/)
+   - [ODDS](https://medium.com/odds-team)
+
 ---
 
 :::details[Archive: Creative coding meetup #1]
