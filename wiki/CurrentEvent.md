@@ -6,6 +6,8 @@ grtn: c
 
 Event page: {% render 'Event', name: 'functional' %}
 
+- [Live video](https://www.facebook.com/creatorsgarten/videos/973668987143376/)
+
 - [Feedback form](https://forms.gle/KyrbE48WkmsneGdk6)
 
 ---
