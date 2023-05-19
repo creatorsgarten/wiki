@@ -6,7 +6,9 @@ grtn: c
 
 Event page: {% render 'Event', name: 'functional' %}
 
-# Creative coding meetup
+---
+
+:::details[Archive: Creative coding meetup #1]
 
 Event page: {% render 'Event', name: 'creativecodingmeetup' %}
 
@@ -23,6 +25,7 @@ Event page: {% render 'Event', name: 'creativecodingmeetup' %}
 - [**Send us your feedback**](https://forms.gle/fw5r22fDEQSxAbLx6)
 
 - [Links from speakers](https://docs.google.com/document/d/1Thn5DlctsLyH_EijePnBeOq9nynv8EH3eESSsV4BK1g/edit)
+:::
 
 ---
 
