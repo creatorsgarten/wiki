@@ -2,6 +2,10 @@
 grtn: c
 ---
 
+# Functional programming meetup #1
+
+Event page: {% render 'Event', name: 'functional' %}
+
 # Creative coding meetup
 
 Event page: {% render 'Event', name: 'creativecodingmeetup' %}
