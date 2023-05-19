@@ -6,6 +6,8 @@ grtn: c
 
 Event page: {% render 'Event', name: 'functional' %}
 
+- [Feedback form](https://forms.gle/KyrbE48WkmsneGdk6)
+
 ---
 
 :::details[Archive: Creative coding meetup #1]
