@@ -1,3 +1,7 @@
+---
+image: https://github.com/creatorsgarten/wiki/assets/193136/5d44b98c-a262-49c0-9f76-d60b371873ce
+---
+
 :::lead
 Hackerspace inside [[Cleverse]], maintained by [muse][muse] and Creatorsgarten.
 :::
