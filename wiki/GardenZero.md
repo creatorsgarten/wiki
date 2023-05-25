@@ -6,6 +6,10 @@ image: https://github.com/creatorsgarten/wiki/assets/193136/5d44b98c-a262-49c0-9
 Hackerspace inside [[Cleverse]], maintained by [muse][muse] and Creatorsgarten.
 :::
 
+:::Draft
+Garden Zero ก่อตั้งโดย 3 พันธมิตร Cleverse &times; Creatorsgarten &times; muse เพื่อใช้ในประโยชน์ทางสังคม open source, open knowledge, computer technology เพื่อสนับสนุนและขับเคลื่อนชุมชนให้ก้าวไปได้รวดเร็วยิ่งขึ้น โดยจะกำกับดูแลผ่านกฏกติกาด้านล่างนี้ ที่เห็นชอบ ผ่านการพูดคุยจนเรายึดหลักการและปฏิบัติตาม เราสามารถพูดคุย ปรับเปลี่ยนเพื่อสิ่งที่ดีกว่าได้เสมอ ร่วมรับผิดชอบ และโปร่งใสเท่าที่จะมากได้ (trust in radical truth and radical transparency)
+:::
+
 :::warning
 The name is not finalized yet.
 :::
