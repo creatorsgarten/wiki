@@ -24,9 +24,11 @@ Garden Zero ก่อตั้งโดย 3 พันธมิตร Cleverse &
 - Creatorsgarten will help develop the integration with Cleverse's Venue Access Control (HikVision)
    - This will move us to Phase 2
    - For now, can use the space after 18:00 as the Cleverse Academy is ongoing
-- Developers: Chun, Thai, Poom, Pub
+- Developers: Chun, Thai, Poom, Pub, Noom, Pavit
 - Access Control Stack
    - T3 Stack: TypeScript, tRPC, Next.js static builds (แบบไม่ใช้ server components)
+- Identity Provider: EventPop
+   - Linked with GitHub Account
 
 :::
 
