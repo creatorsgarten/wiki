@@ -14,6 +14,11 @@ Garden Zero ก่อตั้งโดย 3 พันธมิตร Cleverse &
 
 พื้นที่ 200 ตรม ภายในสำนักงาน [[Cleverse]]
 
+# Phases
+
+- ในเฟสแรก ยังไม่มีการทำ Access control จะเปิดให้เข้าได้เฉพาะ Core team ก่อน และยังไม่เปิดให้จัดอีเวนต์ในพื้นที่
+- ในเฟสที่สอง มี Access control แล้ว สมาชิก Creatorsgarten สามารถเข้ามาใช้ได้ถ้ามี Core team อยู่ โดยให้คนใน Core team ช่วยดูแล
+
 :::
 
 :::warning
