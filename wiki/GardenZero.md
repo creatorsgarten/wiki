@@ -72,22 +72,11 @@ Garden Zero ก่อตั้งโดย 3 พันธมิตร Cleverse &
 
 :::
 
-:::warning
-The name is not finalized yet.
-:::
-
 [muse]: https://muse.as
 
 - The space belongs to [[Cleverse]] and is maintained by [muse][muse].
 - Creatorsgarten intend to utilize it as the home [[Bases|base]].
 - It is multi-tenant (shared with other initiatives partnered with muse).
-
-# Name choices
-
-- Garden Space
-- Garden One
-- Garden[0] (“Garden Zero”)
-- gardens[0] (“Garden Index Zero”)
 
 # Physical security
 
@@ -100,6 +89,18 @@ The name is not finalized yet.
 
 - 3D Printers (by muse)
 - CNC Machines (by muse)
+
+
+:::warning
+The name's formatting is not finalized yet.
+:::
+
+# Name choices
+
+- Garden Space
+- Garden One
+- Garden[0] (“Garden Zero”)
+- gardens[0] (“Garden Index Zero”)
 
 # Usage
 
