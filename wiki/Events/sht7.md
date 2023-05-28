@@ -1,6 +1,6 @@
 ---
 event:
-  name: The Seventh Stupid Hackathon in Thailand
+  name: The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand
   location: TBA
   date: "2023-06-24"
   endDate: "2023-06-25"
