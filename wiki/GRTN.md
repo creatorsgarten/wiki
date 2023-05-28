@@ -37,12 +37,18 @@ grtnRedirects:
   bkkoss-discord: https://garten.page.link/bkkoss-discord
   creative-art-submit: https://garten.page.link/creative-art-submit
   fp-submit-talk: https://garten.page.link/fp-submit-talk
+  
+  e/sht7/notion: https://www.notion.so/The-Hackathon-7-Thailand-5f50c8df2af5487f9023ed25735295ef
+  e/sht7/airtable: https://airtable.com/invite/l?inviteId=invEtmEZg1zb8id9W&inviteToken=e16dd77b6126bd3f558db81a2320c79dddecd50473323438d0110bf03d24a9a2&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+  e/sht7/figma: https://www.figma.com/file/fQk8oLorCYJcseJ2QDrHWW/SHiT-7?type=design&node-id=70-124&t=NukhZLgVwtKJiMVT-0
+  e/sht7/qr: https://github.com/StupidHackTH/7/assets/28398789/1b020f16-dc66-4e8f-8a18-c3c74068c47e
+  e/sht7/balance: https://airtable.com/invite/l?inviteId=invagQPUBJ1gO0xGU&inviteToken=24139c32524c7d2b942331f64b3ff2ba03c16e72a0e3229bd5906dc200100b64&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
+  e/sht7/eventpop: https://www.eventpop.me/s/sht7
+  
   e/shit7/notion: https://www.notion.so/The-Hackathon-7-Thailand-5f50c8df2af5487f9023ed25735295ef
   e/shit7/airtable: https://airtable.com/invite/l?inviteId=invEtmEZg1zb8id9W&inviteToken=e16dd77b6126bd3f558db81a2320c79dddecd50473323438d0110bf03d24a9a2&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
   e/shit7/figma: https://www.figma.com/file/fQk8oLorCYJcseJ2QDrHWW/SHiT-7?type=design&node-id=70-124&t=NukhZLgVwtKJiMVT-0
-  e/shit7/qr: https://github.com/StupidHackTH/7/assets/28398789/1b020f16-dc66-4e8f-8a18-c3c74068c47e
-  e/shit7/balance: https://airtable.com/invite/l?inviteId=invagQPUBJ1gO0xGU&inviteToken=24139c32524c7d2b942331f64b3ff2ba03c16e72a0e3229bd5906dc200100b64&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
-  e/shit7/eventpop: https://www.eventpop.me/e/15113/shit7
+
   ideas: https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas
 ---
 

@@ -1,0 +1,2 @@
+{% render 'EventBox', name: ref %}
+

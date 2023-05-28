@@ -11,7 +11,7 @@ event:
     - StupidHackTH
 ---
 
-{% render 'EventBox', name: 'shit7' %}
+{% render 'EventBox', name: 'sht7' %}
 
 :::lead
 **หลังจากที่ได้รับการตอบรับเป็นอย่างดีมาตลอดใน The Stupid Hackathon Thailand ทั้ง 6 ครั้ง, ปีนี้เรากลับมาแล้วกับ [The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand](https://stupidhackth.github.io/7)!**
