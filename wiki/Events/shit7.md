@@ -14,7 +14,7 @@ event:
 {% render 'EventBox', name: 'shit7' %}
 
 :::lead
-หลังจากที่ได้รับการตอบรับเป็นอย่างดีมาตลอดใน The Stupid Hackathon Thailand ทั้ง 6 ครั้ง, ปีนี้เรากลับมาแล้วกับ **[The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand](https://stupidhackth.github.io/7)**!
+**หลังจากที่ได้รับการตอบรับเป็นอย่างดีมาตลอดใน The Stupid Hackathon Thailand ทั้ง 6 ครั้ง, ปีนี้เรากลับมาแล้วกับ [The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand](https://stupidhackth.github.io/7)!**
 :::
 
 ถ้าคุณเคยมีไอเดียอยากพัฒนาสิ่งแปลก ๆ ไม่เหมือนใคร แต่โดนหาว่าไอเดียของคุณ “nonsense” or “ไม่มีประโยชน์”, แล้วก็มาร่วมงานกับเราได้เลย ! เพราะในงานนี้ทุกคนสามารถ let loose ไอเดียอะไรก็ตามที่อยากทำได้เลยแบบ no limits on topics, no limits on technologies and even no limits on the รูปแบบ product ด้วย !
