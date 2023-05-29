@@ -9,6 +9,10 @@ sponsor:
 [**Cleverse**](https://cleverse.com/) is a venture builder based in Thailand.
 :::
 
+Cleverse has provided a lot of support to Creatorsgarten [hosting some of our events at their office](#hosted-events) and providing [sponsorship](#sponsored). The [[Garden Zero]] hackerspace is also located inside Cleverse.
+
+# Map
+
 ::GoogleMap{src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d15501.238079893834!2d100.5669873!3d13.7601988!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x30e29d4b41e10c99%3A0xd2976d4a1ccbda92!2sCleverse!5e0!3m2!1sen!2sth!4v1681589418256!5m2!1sen!2sth"}
 
 # Getting there
