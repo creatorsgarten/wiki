@@ -6,7 +6,8 @@ A compilation of helpful links provided by [Creatorsgarten](https://creatorsgart
 
 | Title | Link |
 | --- | --- |
-| Creative Coding Meetup | [grtn.org/e/creativecodingmeetup](https://grtn.org/e/creativecodingmeetup) |
+| [Calling For Sponsorship] - The 7th Stupid Hackathon in Thailand | [grtn.org/e/sht7/sponsorship](https://grtn.org/e/sht7/sponsorship) |
+| The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand | [grtn.org/e/sht7](https://grtn.org/e/sht7) |
 | Facebook | [grtn.org/facebook](https://grtn.org/facebook) |
 | Instagram | [grtn.org/instagram](https://grtn.org/instagram) |
 | Discord | [grtn.org/discord](https://grtn.org/discord) |
