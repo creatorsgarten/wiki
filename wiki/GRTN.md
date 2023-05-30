@@ -46,6 +46,7 @@ grtnRedirects:
   e/sht7/balance: https://airtable.com/invite/l?inviteId=invagQPUBJ1gO0xGU&inviteToken=24139c32524c7d2b942331f64b3ff2ba03c16e72a0e3229bd5906dc200100b64&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
   e/sht7/eventpop: https://www.eventpop.me/s/sht7
   e/sht7/sponsorship: https://creatorsgarten.org/wiki/Sponsorship/sht7
+  e/sht7/individual_spon: https://airtable.com/shrNVwrOuMHDqw8Cq
   
   e/shit7/notion: https://www.notion.so/The-Hackathon-7-Thailand-5f50c8df2af5487f9023ed25735295ef
   e/shit7/airtable: https://airtable.com/invite/l?inviteId=invEtmEZg1zb8id9W&inviteToken=e16dd77b6126bd3f558db81a2320c79dddecd50473323438d0110bf03d24a9a2&utm_medium=email&utm_source=product_team&utm_content=transactional-alerts
