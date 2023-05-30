@@ -1,9 +1,5 @@
 {% render 'EventBox', name: ref %}
 
-:::warning[UNDER CONSTRUCTION]
-This page is under construction, stay tuned!
-:::
-
 ****หลังจากที่ได้รับการตอบรับเป็นอย่างดีมาตลอดใน The Stupid Hackathon Thailand ทั้ง 6 ครั้ง, ปีนี้เรากลับมาแล้วกับ The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand!****
 
 # 🙋 What is The Stupid Hackathon?
@@ -46,6 +42,10 @@ Your sponsorship will bring a lot of laughter! We will make sure to acknowledge 
 - Having your name (and a text of choice) listed on our [assets tracking sheet](https://www.notion.so/8f7dd0d2af34434d9505b798ccf49c81).
 
 ### 👀 Individual Sponsorship
+
+:::info[For Individual Sponsorships]
+Donate to us directly at [our form](https://grtn.org/e/sht7/individual_spon)
+:::
 
 Your sponsorship will contribute to our fun! We will note your contributions in various ways, including (but not limited to):
 
