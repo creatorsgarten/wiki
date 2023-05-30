@@ -41,7 +41,6 @@ Your sponsorship will bring a lot of laughter! We will make sure to acknowledge 
 - Including the (same) image of your choice (1080x1080px) on [the hall of เกียรติยศ section of our website](https://stupidhackth.github.io/7)
 - Including image of your choice (maybe your face or a corporate logo) on our assets (keynotes, posters, etc.) and social media posts
 - Giving a shout-out to your company during the event.
-- Having your name (and a text of choice) listed on our [assets tracking sheet](https://www.notion.so/8f7dd0d2af34434d9505b798ccf49c81).
 
 ### 👀 Individual Sponsorship
 
@@ -53,7 +52,6 @@ Your sponsorship will contribute to our fun! We will note your contributions in 
 
 - Mentioning your name on our thank you post on our social media
 - Including your name on our website
-- Have your name (and a text of choice) listed on our [assets tracking sheet](https://www.notion.so/8f7dd0d2af34434d9505b798ccf49c81).
 - A sincere gratitude from us
 
 ## 📦 Non-Monetary Sponsorship
