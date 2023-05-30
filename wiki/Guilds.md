@@ -14,6 +14,7 @@
 | [[CoderDojoWG\|CoderDojo WG]] | Supporting and promoting CoderDojo Thailand Group, a network of free, volunteer-led, community-based programming clubs for young people
 | [[HomeschoolNetworkWG\|Homeschool Network WG]] | Supporting the network of homeschooling families who are interested in incorporating technology and computer science education into their curriculum
 | [[Longkeeb\|Longkeeb]] | Community for ergonomic/split keyboard enthusiasts. Explore, customize, and connect with fellow keyboard enthusiasts in Longkeeb guild.
+| [[Metagarten\|Metagarten]] | Meta-guild for organizing Creatorsgarten guilds and systems
 
 
 # Working Group
