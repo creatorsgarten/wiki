@@ -40,7 +40,6 @@ Your sponsorship will bring a lot of laughter! We will make sure to acknowledge 
 - Posting the image of your choice (1080x1080px) on our social media
 - Including the (same) image of your choice (1080x1080px) on [the hall of เกียรติยศ section of our website](https://stupidhackth.github.io/7)
 - Including image of your choice (maybe your face or a corporate logo) on our assets (keynotes, posters, etc.) and social media posts.
-- Including your message of choice on [the hall of เกียรติยศ section of our website](https://stupidhackth.github.io/7)
 - Giving a shout-out to your company during the event.
 
 ### 👀 Individual Sponsorship
