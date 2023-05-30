@@ -31,16 +31,19 @@ The stupid hackathon is [held all around the world](https://gist.github.com/chee
 
 ### 💰 I’m Rich™️ Sponsorship (value of ฿5,555 or more)
 
+**Note**: We used to call it **Corporate sponsorship,** but there are several people who support us this package individually, so we decided to change the name.
+
 Your sponsorship will bring a lot of laughter! We will make sure to acknowledge that you made the event possible in various ways, including (but not limited to):
 
 - Posting the image of your choice (1080x1080px) on our social media
 - Including the (same) image of your choice (1080x1080px) on [the hall of เกียรติยศ section of our website](https://stupidhackth.github.io/7)
 - Including image of your choice (maybe your face or a corporate logo) on our assets (keynotes, posters, etc.) and social media posts
-    
-    **Note**: We used to call it **Corporate sponsorship,** but there are several people who support us this package individually, so we decided to change the name.
-    
 - Giving a shout-out to your company during the event.
 - Having your name (and a text of choice) listed on our [assets tracking sheet](https://www.notion.so/8f7dd0d2af34434d9505b798ccf49c81).
+
+:::info
+Please contact us at: 
+:::
 
 ### 👀 Individual Sponsorship
 
