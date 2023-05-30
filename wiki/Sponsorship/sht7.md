@@ -1,6 +1,6 @@
 {% render 'EventBox', name: ref %}
 
-<div style="padding: 1rem; border: 2px solid #0003;">
+<div style="padding: 1rem; margin-top: 16px; border: 2px solid #0003;">
 หลังจากที่ได้รับการตอบรับเป็นอย่างดีมาตลอดใน The Stupid Hackathon Thailand ทั้ง 6 ครั้ง, ปีนี้เรากลับมาแล้วกับ The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand!
 </div>
 
