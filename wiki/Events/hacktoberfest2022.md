@@ -13,6 +13,8 @@ event:
 
 We are hosting the Thailand chapter of the annual Hacktoberfest event, a global open-source contribution challenge held each year in October to introduce and incentivize people to contribute to open-source software. We're thrilled to present exclusive talks and workshop sessions from open-source contributors to share this exciting experience with you!
 
+{% render 'EventBox', name: 'hacktoberfest2022' %}
+
 # 👀 Quick Information
 
 - Date: Saturday, 29 October 2022
