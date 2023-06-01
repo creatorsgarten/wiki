@@ -31,6 +31,7 @@ grtnRedirects:
   e/creativecodingmeetup/yt: https://www.youtube.com/playlist?list=PLTuz2sLvbRpy66hP5Cxm9XxSGQBoTULay
   e/reactmeetup0922/yt: https://www.youtube.com/playlist?list=PLTuz2sLvbRpznpYfNIUbUpRyZB9R8198o
   e/vscodeday2023/yt: https://www.youtube.com/playlist?list=PLTuz2sLvbRpxobrOOVPpeW_wGjqRjD8qt
+  e/functional/yt: https://www.youtube.com/playlist?list=PLTuz2sLvbRpwx_OwSnTh4tb_RpO3jo39L
   w/:slug: "https://creatorsgarten.org/wiki/:slug"
   v2: "https://creatorsgarten.org/wiki/GRTN#betagrtnorg"
   azure: https://garten.page.link/azure
