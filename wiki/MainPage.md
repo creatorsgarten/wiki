@@ -4,12 +4,16 @@
 **[Creatorsgarten](https://creatorsgarten.org/)** is a collective of antidisciplinary creators. Through [workshops, meetups, hackathons, and much more](https://creatorsgarten.org/events/), we bring people together to work on new ideas, trying new things and collaborate across disciplines.
 :::
 
+<div style="margin:1em 0; display: flex; flex-wrap: wrap; gap: 0.5rem">
+<a href="/wiki/Special/RecentChanges">Recent Changes</a>
+<a href="/wiki/Events">Events</a>
+</div>
+
 :::warning[UNDER CONSTRUCTION]
 Our wiki is under construction, please feel free to contribute!
 :::
 
 # [[Join|How to join us]]
-
 
 # About us
 
