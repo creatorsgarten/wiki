@@ -2,8 +2,8 @@
 quickLinks:
   - label: Recent Changes
     url: /wiki/Special/RecentChanges
-  - label: Events
-    url: /wiki/Events
+  - label: Event list
+    url: /wiki/Events#full-event-list
 ---
 
 > Connecting creators, making things
