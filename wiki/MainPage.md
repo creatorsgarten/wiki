@@ -2,8 +2,10 @@
 quickLinks:
   - label: Recent Changes
     url: /wiki/Special/RecentChanges
-  - label: Event list
+  - label: List of Events
     url: /wiki/Events#full-event-list
+  - label: List of Guilds
+    url: /wiki/Guilds#list-of-guilds
 ---
 
 > Connecting creators, making things
