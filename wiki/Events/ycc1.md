@@ -8,3 +8,5 @@ event:
   hosts:
     - Creatorsgarten
 ---
+
+ค่ายนักสร้างรุ่นเยาว์ Young Creator’s Camp เป็นค่ายที่นำนักเรียนมัธยมปลายมาลองสร้าง Software Product ให้ออกมาเป็น Prototype ภายในเวลาสามวัน
