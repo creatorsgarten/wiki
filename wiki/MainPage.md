@@ -1,12 +1,21 @@
+---
+quickLinks:
+  - label: Recent Changes
+    url: /wiki/Special/RecentChanges
+  - label: Events
+    url: /wiki/Events
+---
+
 > Connecting creators, making things
 
 :::lead
 **[Creatorsgarten](https://creatorsgarten.org/)** is a collective of antidisciplinary creators. Through [workshops, meetups, hackathons, and much more](https://creatorsgarten.org/events/), we bring people together to work on new ideas, trying new things and collaborate across disciplines.
 :::
 
-<div style="margin:1em 0; display: flex; flex-wrap: wrap; gap: 0.5rem">
-<a href="/wiki/Special/RecentChanges">Recent Changes</a>
-<a href="/wiki/Events">Events</a>
+<div style="margin:1em 0; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
+{%- for link in page.quickLinks -%}
+<a href="{{link.url}}" style="flex: none; border 1px solid #e6e6e6; padding: 0.25rem 0.5rem; border-radius: 999px">{{link.label}}</a>
+{%- endfor -%}
 </div>
 
 :::warning[UNDER CONSTRUCTION]
