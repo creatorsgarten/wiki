@@ -16,7 +16,7 @@ The stupid hackathon is [held all around the world](https://gist.github.com/chee
 
 # 💡 Quick information about this event
 
-- **Date: ** 24-25 June 2023
+- **Date:** 24-25 June 2023
 - **Website:** https://stupidhackth.github.io/7
 - **Venue: [TBD]**
 - **The number of participants:** around 100-120 participants.
