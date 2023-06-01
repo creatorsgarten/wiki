@@ -14,7 +14,7 @@ quickLinks:
 
 <div style="margin:1em 0; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center;">
 {%- for link in page.quickLinks -%}
-<div style="flex: none; border 1px solid #e6e6e6; padding: 0.25rem 0.5rem; border-radius: 999px"><a href="{{link.url}}">{{link.label}}</a></div>
+<span style="flex: none; border 1px solid #e6e6e6; padding: 0.25rem 0.5rem; border-radius: 999px"><a href="{{link.url}}">{{link.label}}</a></span>
 {%- endfor -%}
 </div>
 
