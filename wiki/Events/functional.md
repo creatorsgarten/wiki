@@ -13,6 +13,8 @@ event:
 
 Let's talk about functional programming! If you're into FP, Clojure, Haskell, Elixir, Scala, OCaml or other functional programming languages and practices - let's meet and talk about FP! Talks are in Thai.
 
+{% render 'EventBox', name: functional %}
+
 # 🎤 Talks
 
 - [A new build system built in Elixir and Alpine Linux](https://www.youtube.com/watch?v=8A4IAK2Pedg&list=PLTuz2sLvbRpwx_OwSnTh4tb_RpO3jo39L&index=1) by Sakchai Siripanyawuth
