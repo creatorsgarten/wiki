@@ -29,7 +29,7 @@ The stupid hackathon is [held all around the world](https://gist.github.com/chee
 
 ### 💰 I’m Rich™️ Sponsorship (value of ฿5,555 or more)
 
-:::info[For I’m Rich™️ Sponsorships, please contact us at:]
+:::info[For I’m Rich™️ Sponsorships]
 Please contact us at [our Facebook page](https://grtn.org/fb)
 :::
 
@@ -56,11 +56,13 @@ Your sponsorship will contribute to our fun! We will note your contributions in 
 
 ## 📦 Non-Monetary Sponsorship
 
-Other than that, we accept any items as a sponsorship. These can be items that will help us host the event or anything you want to include in the prize pool!
-
 :::info[For Non-Monetary Sponsorships:]
 Please contact us at [our Facebook page](https://grtn.org/fb)
 :::
+
+### Item Sponsorship
+
+Other than that, we accept any items as a sponsorship. These can be items that will help us host the event or anything you want to include in the prize pool!
 
 ---
 
