@@ -4,7 +4,7 @@ event:
   location: TBA
   date: "2023-06-24"
   endDate: "2023-06-25"
-  site: https://stupidhackth.github.io/7
+  site: https://www.eventpop.me/s/sht7
   unlisted: false
   hosts:
     - Creatorsgarten
