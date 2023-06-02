@@ -80,7 +80,6 @@ The budget is calculated based on expenses of previous events for the approximat
 ## 🪄 Swags
 
 - **T-shirt**
-    - **Estimated cost: ~100 THB * 120 = ~12,000 THB**
 - **Holographic Sticker**
     - **Estimated cost: ~3,265 THB**
 - **Anything else**
