@@ -107,4 +107,4 @@ Due to the event’s non-competitive nature, we want to be able to give as many 
 
 # 👾 About us
 
-The Stupid Hackathon in Thailand is hosted by the organizers of The Stupid Hacakthon in Thailand, which is a part of [Creatorsgarten](https://www.facebook.com/creatorsgarten).
+The Stupid Hackathon in Thailand is hosted by the organizers of The Stupid Hacakthon in Thailand, which is a guild of [Creatorsgarten](https://www.facebook.com/creatorsgarten).
