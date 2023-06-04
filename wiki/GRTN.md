@@ -55,6 +55,7 @@ grtnRedirects:
   e/shit7/figma: https://www.figma.com/file/fQk8oLorCYJcseJ2QDrHWW/SHiT-7?type=design&node-id=70-124&t=NukhZLgVwtKJiMVT-0
 
   ideas: https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas
+  streams: https://www.youtube.com/playlist?list=PLTuz2sLvbRpwkoLi0AYDwdABU5dhkoGIr
 ---
 
 :::lead
