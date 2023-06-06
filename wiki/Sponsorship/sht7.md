@@ -21,11 +21,15 @@ The stupid hackathon is [held all around the world](https://gist.github.com/chee
 - **Venue: [TBA]**
 - **The number of participants:** around 120 participants.
 - **Attendance fee:** None.
-    - This event is non-commercial [in the spirit of Stupid Hacking](http://stupidhackathon.github.io).
+    - This event is non-commercial [in the spirit of Stupid Hacking](http://stupidhackth.github.io).
 
 # ✨ Sponsor Packages
 
 ## 💸 Monetary Sponsorship
+
+:::info[See our balance sheets at]
+[grtn.org/e/sht7/balance](https://grtn.org/e/sht7/balance)
+:::
 
 ### 💰 I’m Rich™️ Sponsorship (value of ฿5,555 or more)
 
