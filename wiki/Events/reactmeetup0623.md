@@ -7,6 +7,7 @@ event:
   site: https://www.eventpop.me/e/15231
   unlisted: false
   hosts:
+    - React ไปวันๆ
     - Creatorsgarten
 ---
 
