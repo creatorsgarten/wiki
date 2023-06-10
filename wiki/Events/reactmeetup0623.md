@@ -9,6 +9,7 @@ event:
   hosts:
     - React ไปวันๆ
     - Creatorsgarten
+  eventpopId: 15231
 ---
 
 :::lead
