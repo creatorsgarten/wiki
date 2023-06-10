@@ -7,7 +7,7 @@ event:
   hosts:
     - Creatorsgarten
     - SparkTechThailand
-  eventpopId: 15044
+  eventpopId: 15113
 ---
 
 VS Code Day โดย Thailand Community Leaders โดยการสนับสนุนของ Microsoft
