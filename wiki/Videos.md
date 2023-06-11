@@ -78,10 +78,11 @@ To keep convention of streaming for many events to be streamlined (for the sake 
 
    ![CleanShot 2023-05-09 at 03 50 09](https://user-images.githubusercontent.com/22584594/236907486-5141eba5-41a0-44f5-9c60-48ef9c8ee8cf.png)
 
-6. Main video feed that is either output from *ATEM Pro Mini* or *directly from Speaker Screen* must be extend to **16:9** ratio by height is counted from the top of the canvas to **the top of overlay navbar**. The rest of the space will be given to the camera itself. This convention is being made to make video thumbnail in each video to be consistant as well.
+6. Main video feed that is either output from *ATEM Pro Mini* or *directly from Speaker Screen* must be extend to **3:2** ratio by height is counted from the top of the canvas to **the top of overlay navbar**. The rest of the space will be given to the camera itself. This convention is being made to make video thumbnail in each video to be consistant as well.
 
    ![2023-05-03 20-36-16-0001](https://user-images.githubusercontent.com/22584594/236909087-05c89d36-4018-4165-b5ab-508046951f1a.png)
 
+   ::Message[Actual canvas that being output from ATEM is actually 3:2, but basically put ATEm canvas to full without cropping, the rest of available space goes to camera]{from=@rayriffy}
 
 # Preparing videos
 
