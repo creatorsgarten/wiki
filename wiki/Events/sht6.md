@@ -37,7 +37,7 @@ The stupid hackathon is [held all around the world](https://gist.github.com/chee
 - [“#StupidHackTH ขึ้นชื่อว่าเป็นงานที่แม้แต่ทีม Staff เองก็ยังต้องแฮ็กกันไปด้วย รวมถึงงาน #SHiT6 ครั้งนี้ด้วย” by Thai Pangsakulyanont](https://www.facebook.com/dtinth/posts/pfbid02RfBtsxxzQmATueLT35t7a8sjKZjR2rtFva32X7mi8yZCzZ8QkCnLBixuJahqVDo3l)
 - [“รีวิวงาน SHiT๖ แฮคโง่ ๆ ประเทศไทย และเบื้องหลังสดุยอดนวัตกรรมอย่างบ้านสีเหลือง” by Nutthapat Pongtanyavichai](https://medium.com/@leomotors/รีวิวงาน-shit๖-แฮคโง่-ๆ-ประเทศไทย-และเบื้องหลังสดุยอดนวัตกรรมอย่างบ้านสีเหลือง-672061c8e5a1)
 - [“รีวิวงาน SHiT๖ แฮคโง่ ๆ ประเทศไทย และเบื้องหลังสุดยอดนวัตกรรมอย่างบ้านสีเหลือง (Part ๒)” by Nutthapat Pongtanyavichai](https://medium.com/@leomotors/รีวิวงาน-shit๖-แฮคโง่-ๆ-ประเทศไทย-และเบื้องหลังสุดยอดนวัตกรรมอย่างบ้านสีเหลือง-part-๒-c2515194699b)
-  [“ไม่น่าเชื่อว่างาน stupid hackathon จัดมาเป็นปีที่ 6 แล้ว” by Phoomparin - Mano](https://www.facebook.com/phoomparin.mano/posts/pfbid026mA3vTj2yHxYm6JSJPBfPGPP5tFXRS2VihSCuoFdQRYKETtnFZYRt3vUVH2RXfMjl?_rdc=1&_rdr)
+- [“ไม่น่าเชื่อว่างาน stupid hackathon จัดมาเป็นปีที่ 6 แล้ว” by Phoomparin - Mano](https://www.facebook.com/phoomparin.mano/posts/pfbid026mA3vTj2yHxYm6JSJPBfPGPP5tFXRS2VihSCuoFdQRYKETtnFZYRt3vUVH2RXfMjl?_rdc=1&_rdr)
 - [“รีวิวงาน The ៦th Stupid Hackathon Thailand” by Khanaphon Kana Phaengtan](https://blog.0002011.xyz/2022-07-04-shit6-summary)
 
 # Photos
