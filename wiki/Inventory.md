@@ -10,7 +10,7 @@ equipments:
       Tech Specs: https://www.blackmagicdesign.com/products/atemmini/techspecs/W-APS-14
     notes: USB-C out<br>4x HDMI in, 1x HDMI out (with audio)<br>2x stereo mini jack in
   - name: DJI MIC
-    custody: Poom
+    custody: Riffy
     type: av
     url: https://www.dji.com/mic
     description: Wireless microphone
@@ -19,7 +19,7 @@ equipments:
       Tech Specs: https://www.dji.com/mic/specs
     notes: USB-C out<br>3.5mm headphone out<br>3.5mm TRS out (for camera)<br>4 hours operating time<br>2m40s to charge
   - name: Insta360 Link
-    custody: Poom
+    custody: Riffy
     type: av
     url: https://www.insta360.com/product/insta360-link
     description: Gimbal webcam with head tracking
