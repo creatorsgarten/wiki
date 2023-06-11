@@ -9,7 +9,7 @@ event:
   hosts:
     - Creatorsgarten
     - StupidHackTH
-  eventpopId: 15231
+  eventpopId: 15113
 ---
 
 {% render 'EventBox', name: 'sht7' %}
