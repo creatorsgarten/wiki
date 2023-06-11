@@ -82,7 +82,7 @@ To keep convention of streaming for many events to be streamlined (for the sake 
 
    ![2023-05-03 20-36-16-0001](https://user-images.githubusercontent.com/22584594/236909087-05c89d36-4018-4165-b5ab-508046951f1a.png)
 
-   ::Message[Actual canvas that being output from ATEM is actually 3:2, but basically put ATEm canvas to full without cropping, the rest of available space goes to camera]{from=@rayriffy}
+   ::Message[Actual canvas that being output from ATEM is actually 3:2, but basically put ATEM canvas to full without cropping, the rest of available space goes to camera]{from=@rayriffy}
 
 # Preparing videos
 
