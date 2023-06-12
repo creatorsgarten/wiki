@@ -6,10 +6,13 @@ websiteConfig:
     recurring:
       - name: Hacktoberfest Thailand
         schedule: October
+        url: /wiki/HacktoberfestThailand
       - name: Stupid Hackathon in Thailand
         schedule: Late Q2 - Early Q3
+        url: /wiki/StupidHackTH
       - name: Bingsu.js
         schedule: Post meetups
+        url: https://bingsu.js.org/
   guilds:
     featured:
       - id: StupidHackTH
