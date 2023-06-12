@@ -2,7 +2,7 @@
 event:
   name: "Elm Meetup #1"
   location: TBD
-  date: "2023-07-08"
+  date: "2023-07-07"
   hosts:
 		- Elm Developers
     - Creatorsgarten
