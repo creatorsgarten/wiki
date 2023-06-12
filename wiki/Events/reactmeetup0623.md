@@ -22,23 +22,23 @@ Wonder what’s the React stack for 2023? Join us!
 
 - **Framer Motion is EZ** by Bas (Phat Thaveepholcharoen), Senior Software Engineer @ Bitkub Online
 
-  สอนการใช้งานตั้งแต่เริ่มต้นจนต่อยอดไปใช้งานได้จริง, basic animation, animation with gesture, transition and chaining animation
+  > สอนการใช้งานตั้งแต่เริ่มต้นจนต่อยอดไปใช้งานได้จริง, basic animation, animation with gesture, transition and chaining animation
 
 - **ละทิ้ง Client-Side JavaScript หวนคืนสู่ Server-Side Rendering** by Riffy (Phumrapee Limpianchop) @ Creatorsgarten
 
-  เขียน React โดยที่ไม่มี JavaScript อยู่บนหน้าเว็บเลย เป็นไปได้จริงดิ? เรามาหาคำตอบกันได้ใน session นี้
+  > เขียน React โดยที่ไม่มี JavaScript อยู่บนหน้าเว็บเลย เป็นไปได้จริงดิ? เรามาหาคำตอบกันได้ใน session นี้
 
 - **How to make snappy apps!** by ชาญ (ธีรภัทร เมืองพูล), Developer @ Thoughtworks
 
-  How data caching and optimistic UI makes app feels more responsive. Let's optimize the data fetching in react app by reducing fetch waterfall and prefetching data.
+  > How data caching and optimistic UI makes app feels more responsive. Let's optimize the data fetching in react app by reducing fetch waterfall and prefetching data.
 
 - **Building a Long-Lived Component with Headless UI** by Cal (Komkanit Sujautra), Full Stack Engineer @ Agoda
 
-  How much time you take to implement a fully accessible dropdown menu that works well in all browsers and perfect with your design? Let's build your last dropdown that works well everywhere!
+  > How much time you take to implement a fully accessible dropdown menu that works well in all browsers and perfect with your design? Let's build your last dropdown that works well everywhere!
 
 - **Level Up your Redux with Redux-Saga** by ภพ (สมภพ กุละปาลานนท์), Lead Software Engineer
 
-  ปัจจุบัน Redux เป็นหนึ่งใน Standard ในการ manage Data สำหรับ React แต่การจัดการ side effect ของ Redux นั้น ยิ่ง application ยิ่งใหญ่ยิ่งซับซ้อน ทีม Advance Dealing เลยเลือกใช้ Redux-Saga ในการ simplify และบริหารจัดการ Redux ให้ง่ายขึ้น
+  > ปัจจุบัน Redux เป็นหนึ่งใน Standard ในการ manage Data สำหรับ React แต่การจัดการ side effect ของ Redux นั้น ยิ่ง application ยิ่งใหญ่ยิ่งซับซ้อน ทีม Advance Dealing เลยเลือกใช้ Redux-Saga ในการ simplify และบริหารจัดการ Redux ให้ง่ายขึ้น
 
 # Links
 
