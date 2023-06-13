@@ -6,6 +6,7 @@ A compilation of helpful links provided by [Creatorsgarten](https://creatorsgart
 
 | Title | Link |
 | --- | --- |
+| The Stupid Hackathon in Thailand | [stupid.hackathon.in.th](https://stupid.hackathon.in.th) |
 | [Strong Bird Ticket] - The 7th Stupid Hackathon in Thailand | [แฮกโง่๗.leomotors.net](https://xn--12cm9i1ch1b7g.leomotors.net/ ) |
 | [Tickets] - The 7th Stupid Hackathon in Thailand | [grtn.org/e/sht7/eventpop](https://grtn.org/e/sht7/eventpop) |
 | [Calling For Sponsorship] - The 7th Stupid Hackathon in Thailand | [grtn.org/e/sht7/sponsorship](https://grtn.org/e/sht7/sponsorship) |
