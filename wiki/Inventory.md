@@ -1,7 +1,7 @@
 ---
 equipments:
   - name: ATEM Mini Pro
-    custody: Thai
+    custody: Riffy
     type: av
     url: https://www.blackmagicdesign.com/products/atemmini
     description: Live production switcher with 4 HDMI inputs
