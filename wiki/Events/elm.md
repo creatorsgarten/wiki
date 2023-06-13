@@ -4,7 +4,7 @@ event:
   location: TBD
   date: "2023-07-07"
   hosts:
-		- Elm Developers
+    - Elm Developers
     - Creatorsgarten
   unlisted: true
 image: https://user-images.githubusercontent.com/193136/236173173-755b513b-6398-46a7-9fcb-ced21153c094.png
