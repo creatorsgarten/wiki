@@ -1,3 +1,5 @@
+<div style="position:relative"><a style="position:absolute;top:0;right:0;display:block" href="/wiki/Template/GuildTable/editor">edit</a>
+
 | Guild | Description |
 | ----- | ----- |
 | [[BangkokOpenSource\|Bangkok Open Source]] | Aiming to promote the open-source culture and facilitate connections between creators, developers, and civic and government organizations
@@ -11,3 +13,5 @@
 | [[HomeschoolNetworkWG\|Homeschool Network WG]] | Supporting the network of homeschooling families who are interested in incorporating technology and computer science education into their curriculum
 | [[Longkeeb\|Longkeeb]] | Community for ergonomic/split keyboard enthusiasts. Explore, customize, and connect with fellow keyboard enthusiasts in Longkeeb guild.
 | [[Metagarten\|Metagarten]] | Meta-guild for organizing Creatorsgarten guilds and systems
+
+</div>
