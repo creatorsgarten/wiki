@@ -1,4 +1,4 @@
-<div style="position:relative"><a style="position:absolute;top:0;right:0;display:block" href="/wiki/Template/GuildTable/editor">edit</a>
+<div style="position:relative"><a style="position:absolute;top:0;right:0;display:block" href="/wiki/Template/GuildTable/editor"><small>[Edit]</small></a>
 
 | Guild | Description |
 | ----- | ----- |
