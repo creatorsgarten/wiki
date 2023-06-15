@@ -1,7 +1,7 @@
 ---
 event:
   name: The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand
-  location: TBA
+  location: KX
   date: "2023-06-24"
   endDate: "2023-06-25"
   site: https://www.eventpop.me/s/sht7
