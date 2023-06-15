@@ -26,6 +26,7 @@ The Stupid Hackathon in Thailand เป็น hackathon ที่ไม่ได
 
 - [👉 **สมัครเข้าร่วมงาน** (Pitching Bird Ticket)](https://web.facebook.com/creatorsgarten/posts/pfbid02JLmtP7bmzYg9r8rPswVjHAvjCHNBKMSNFQjt933r3Yo5bGM9UkoEWqMgSoCr4jccl) สามารถสมัครได้ทั้งแบบทีมและแบบเดี่ยว
 - ~~[แก้โจทย์เพื่อรับบัตรเข้าร่วมงาน](https://xn--12cm9i1ch1b7g.leomotors.net/)~~ (sold out)
+- [เว็บไซต์งาน: stupid.hackathon.in.th/7](https://stupid.hackathon.in.th/7/)
 - [ติดตามข่าวสารทางเพจ Creatorsgarten](https://grtn.org/fb)
 - [ดูผลงานจากปีก่อนๆ](https://stupid.hackathon.in.th)
 
