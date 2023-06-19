@@ -3,6 +3,7 @@
 | Guild | Description |
 | ----- | ----- |
 | [[BangkokOpenSource\|Bangkok Open Source]] | Aiming to promote the open-source culture and facilitate connections between creators, developers, and civic and government organizations
+| [[Hack.go.th WG\|Hack.go.th WG]] | Part of KaoGeek working group.
 | [[ShowdownSpace\|Showdown Space]] | Hosting community tech events in the form of recreational tech contests and game shows
 | [[WebDevelopers\|Web Developers]] | The guild focusing on web development and brings together developers interested in creating websites and web applications
 | [[CreativeCoders\|Creative Coders]] | Creative coders who are interested in using technology to create interactive art, multimedia experiences, and other innovative projects
