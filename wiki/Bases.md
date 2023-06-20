@@ -5,11 +5,11 @@
 Developing
 
 - [[GardenZero]] (Creatorsgarten's HQ)
+- [[Jojo Cafe / Jojo Soba]]
+- [[Tech Thaiban Space]] (@ Khon Kaen)
 
 Planned
 
-- Jojo Cafe / Jojo Soba
 - Know-Y
 - Clazy Cafe
 - muse (@ Pai)
-- FarmKits (@ Khon Kaen)
