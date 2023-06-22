@@ -2,7 +2,7 @@
 **Authgarten** is a central authentication system for Creatorsgarten projects.
 :::
 
-Event organizers and other initiatives can use Authgarten to authenticate Creatorsgarten members. It implements the OpenID Connect protocol and aims to be easily integrated.
+Event organizers and other initiatives can use Authgarten to authenticate Creatorsgarten members. It implements the OpenID Connect protocol and aims to be easily integrated into applications, especially [**Auth.js**](https://authjs.dev/).
 
 :::warning[In development]
 We are still developing this.
