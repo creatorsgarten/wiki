@@ -21,6 +21,23 @@ Here’s an overview:
 - [See the example `[...nextauth].ts` configuration file.](https://github.com/dtinth/authgarten-example/blob/main/pages/api/auth/%5B...nextauth%5D.ts)
 - [Try the demo.](https://authgarten-example.vercel.app/)
 
+## Express
+
+Use [`express-openid-connect`](https://www.npmjs.com/package/express-openid-connect) to protect your app. Just add the middleware and when user enters the app unauthenticated, they will be redirected to Authgarten.
+
+```js
+import { auth as oidc } from 'express-openid-connect'
+
+app.use(
+  oidc({
+    issuerBaseURL: 'https://creatorsgarten.org',
+    baseURL: 'http://localhost:3000',
+    clientID: 'YOUR_CLIENT_ID',
+    secret: 'LONG_RANDOM_STRING',
+  }),
+)
+```
+
 ## Manual integration
 
 1. Send user to `https://creatorsgarten.org/auth/authorize` with the following info:
