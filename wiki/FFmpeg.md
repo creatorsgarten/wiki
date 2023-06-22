@@ -13,3 +13,9 @@ ffmpeg -i IN.mp4 -vcodec libx265 -tag:v hvc1 -crf 18 OUT.mp4
 Note: **hvc1** tag is required for AVKit to playback properly.
 
 [ffmpeg-h265]: https://trac.ffmpeg.org/wiki/Encode/H.265
+
+:::Draft
+# Using M1's GPU to preprocess video
+
+:::
+
