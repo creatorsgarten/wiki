@@ -10,10 +10,28 @@ Event organizers and other initiatives can use Authgarten to authenticate Creato
 
 # Integration
 
-1. Add your app information to [`oauth.ts`](https://github.com/creatorsgarten/creatorsgarten.org/blob/main/src/constants/oauth.ts) and submit a pull request.
-
-2. Integrate with OpenID Connect with issuer: `https://creatorsgarten.org`
+1. Integrate with OpenID Connect using this issuer: `https://creatorsgarten.org`
 
     Example authentication configuration:
 
     - **NextAuth.js** — [`[...nextauth].ts`](https://github.com/dtinth/authgarten-example/blob/main/pages/api/auth/%5B...nextauth%5D.ts), [Demo](https://authgarten-example.vercel.app/)
+
+    See section below to learn how to integrate manually.
+
+2. (Optional) If your app is a first-party app (built by Creatorsgarten team for use in an event), you can add app information to [`oauth.ts`](https://github.com/creatorsgarten/creatorsgarten.org/blob/main/src/constants/oauth.ts) and submit a pull request to skip the data consent request.
+
+## Manual integration
+
+1. Send user to `https://creatorsgarten.org/auth/authorize` with the following info:
+
+    ```
+    ?client_id=
+    &scope=openid
+    &response_type=id_token
+    &redirect_uri=
+    &state=
+    ```
+
+2. User will have to log in and give consent to share information.
+
+3. We will redirect user back to your `redirect_url`.
