@@ -17,5 +17,14 @@ Note: **hvc1** tag is required for AVKit to playback properly.
 :::Draft
 # Using M1's GPU to preprocess video
 
+By using `libx265` encoder might causes your Mac to ran out of CPU for a very long time. If you're able to sacrifice post-preprocessed massive file size for a faster speed. Then `hevc_videotoolbox` would be handy as well.
+
+First do a `ffprobe` to determine input video's bitrate.
+
+```sh
+ffprobe -v quiet -select_streams v:0 -show_entries stream=bit_rate -of default=noprint_wrappers=1 IN.mp4
+```
+
+This command will answer video bitrate in *bits* unit.
 :::
 
