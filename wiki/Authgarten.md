@@ -34,4 +34,18 @@ Event organizers and other initiatives can use Authgarten to authenticate Creato
 
 2. User will have to log in and give consent to share information.
 
-3. We will redirect user back to your `redirect_url`.
+3. If the user provides consent, then they will be redirected to `redirect_uri` with the following query parameters:
+
+    ```
+    ?state=
+    &id_token=
+    ```
+
+    The `id_token` is a [JSON Web Token](https://jwt.io/).
+
+    - You can decode it to get the user information.
+    - You should verify the signature using the public key available at <https://creatorsgarten.org/.well-known/jwks>.
+    - You should check these claims in the payload:
+        - `iss` — Should be `https://creatorsgarten.org`
+        - `aud` — Should be the `client_id` you specified
+        - `exp` — Should be in the future
