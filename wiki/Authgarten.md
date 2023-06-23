@@ -69,3 +69,12 @@ app.use(
         - `iss` — Should be `https://creatorsgarten.org`
         - `aud` — Should be the `client_id` you specified
         - `exp` — Should be in the future
+
+# OAuth Scopes
+
+Each OAuth scope will add more claims to the resulting JWT, allowing you to request more information as needed.
+
+| Scope | Affected Claim | Description |
+| --- | --- | --- |
+| `email` | `email` | Include the email associated with the Eventpop account. |
+| `https://eventpop.me/e/<id>` | `eventpopTickets` | Include the ticket information that the user has with the specified event ID. Only works with Creatorsgarten events. |
