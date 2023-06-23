@@ -70,6 +70,23 @@ app.use(
         - `aud` — Should be the `client_id` you specified
         - `exp` — Should be in the future
 
+Here is an example code to decode the JWT.
+
+```js
+import { createRemoteJWKSet, jwtVerify } from 'jose'
+
+const issuer = 'https://creatorsgarten.org'
+const keySetUrl = new URL('https://creatorsgarten.org/.well-known/jwks')
+const clientId = 'example'
+const keySet = createRemoteJWKSet(keySetUrl)
+function validate(jwt) {
+  return jwtVerify(jwt, keySet, { issuer, audience: clientId })
+}
+
+const result = await validate('eyJhb.....')
+console.log(result)
+```
+
 # OAuth Scopes
 
 Each OAuth scope will add more claims to the resulting JWT, allowing you to request more information as needed.
