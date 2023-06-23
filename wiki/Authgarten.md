@@ -50,6 +50,8 @@ app.use(
     &state=
     ```
 
+    For example, go to this URL to see what data would be sent: <https://creatorsgarten.org/auth/authorize?client_id=_&scope=openid+email+https://eventpop.me/e/15113&response_type=id_token&redirect_uri=https://oauth.spacet.me>
+
 2. User will have to log in and give consent to share information.
 
 3. If the user provides consent, then they will be redirected to `redirect_uri` with the following query parameters:
