@@ -26,11 +26,11 @@ websiteConfig:
         name: Creative Coding
   announcements:
     SHiT7:
-      Enabled: True
-      Message: "Current Event: The 7th Stupid Hackathon in Thailand — Watch Live On Facebook."
-      Link: Https://www.facebook.com/creatorsgarten
-      Start: 2023-06-24T19:00:00+07:00
-      End: 2023-06-26T22:00:00+07:00
+      enabled: true
+      message: "Current Event: The 7th Stupid Hackathon in Thailand — Watch Live On Facebook."
+      link: https://www.facebook.com/creatorsgarten
+      start: 2023-06-24T19:00:00+07:00
+      end: 2023-06-26T22:00:00+07:00
     creativeCodingMeetup:
       enabled: true
       message: "Current event: Creative coding meetup — Watch live on Facebook."
