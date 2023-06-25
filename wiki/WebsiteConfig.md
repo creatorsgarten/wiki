@@ -27,8 +27,8 @@ websiteConfig:
   announcements:
     SHiT7:
       enabled: true
-      message: "Current Event: The 7th Stupid Hackathon in Thailand — Watch Live On Facebook."
-      link: https://www.facebook.com/creatorsgarten
+      message: "Current Event: The 7th Stupid Hackathon in Thailand — Live now on Facebook."
+      link: https://www.facebook.com/creatorsgarten/videos/119705651158274
       start: 2023-06-24T19:00:00+07:00
       end: 2023-06-26T22:00:00+07:00
     creativeCodingMeetup:
