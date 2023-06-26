@@ -10,9 +10,11 @@ event:
   eventpopId: 15503
 ---
 
-Join us for our second functional programming meetup! We'll be introducing the Elm language, a functional language designed for frontend developers, with short talks and mob-programming sessions to try out Elm together.
+If you are using React, Vue, Svelte or other frontend frameworks, you might wonder how you can incorporate functional programming patterns and practices in your work.
 
-If you have experience with frameworks like React, Vue, or Svelte, you'll get to know how functional programming can be applied to your work, as well as how you can make use of Elm in your next projects! People of all experience are welcome!
+In this meetup, we will cover how you can use the Elm programming language to write frontend code in a purely functional and type-safe manner, without sacrificing readability and speed.
+
+We'll be introducing the Elm language with short talks and mob-programming sessions to try out Elm together. You'll get to know how functional programming can be applied to your work, and how you can make use of Elm in your next projects! People of all experience are welcome.
 
 - Date: July 7th, 2023.
 - Time: 06:00 PM - 09:30 PM
