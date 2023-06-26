@@ -24,6 +24,10 @@ websiteConfig:
         name: Bangkok Open Source
       - id: CreativeCoding
         name: Creative Coding
+  services:
+    - name: NocoDB
+      description: Open source Airtable alternative
+      url: https://nocogarten.vercel.app
   announcements:
     SHiT7:
       enabled: true
