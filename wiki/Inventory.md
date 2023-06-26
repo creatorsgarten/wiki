@@ -27,7 +27,15 @@ equipments:
       Manual: https://dl.djicdn.com/downloads/DJI_Mic/DJI_Mic_User_Manual_v1.2_en.pdf
       Tech Specs: https://www.insta360.com/product/insta360-link#spece
     notes: USB-C out<br>When streaming, enable Streamer Mode in More Settings to enable 60fps output
-  - name: Power Grid
+  - name: Mac mini (M2)
+    custody: Pub
+    type: av
+    url: https://www.insta360.com/product/insta360-link
+    description: Preloaded with editing, and streaming tools.
+    url: https://apple.com/mac-mini
+    link:
+      Model Tech Specs: https://support.apple.com/kb/SP891?viewlocale=en_US&locale=en_US
+  - name: Power Grid (Board game)
     custody: Riffy
     type: toy
     description: Board game guild
