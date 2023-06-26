@@ -14,8 +14,8 @@ Join us for our second functional programming meetup! We'll be introducing the E
 
 If you have experience with frameworks like React, Vue, or Svelte, you'll get to know how functional programming can be applied to your work, as well as how you can make use of Elm in your next projects! People of all experience are welcome!
 
-Date: July 7th, 2023.
-Time: 6:00 PM onwards
+- Date: July 7th, 2023.
+- Time: 06:00 PM - 09:30 PM
 
 ### Agenda
 
