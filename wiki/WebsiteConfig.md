@@ -28,7 +28,7 @@ websiteConfig:
     services:
       - name: NocoDB
         description: Open source Airtable alternative
-        url: https://nocogarten.vercel.app
+        url: https://db.creatorsgarten.org/sso
   announcements:
     SHiT7:
       enabled: true
