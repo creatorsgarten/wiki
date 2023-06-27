@@ -29,6 +29,9 @@ websiteConfig:
       - name: NocoDB
         description: Open source Airtable alternative (testing)
         url: https://db.creatorsgarten.org/sso
+      - name: Wiki
+        description: Creatorsgarten’s public knowledge base
+        url: /wiki
   announcements:
     SHiT7:
       enabled: true
