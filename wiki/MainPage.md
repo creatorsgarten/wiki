@@ -6,6 +6,8 @@ quickLinks:
     url: /wiki/Events#full-event-list
   - label: List of Guilds
     url: /wiki/Guilds#list-of-guilds
+  - label: How to create a new page
+    url: /wiki/HowToUseWiki#how-to-create-a-new-page
 ---
 
 > Connecting creators, making things
