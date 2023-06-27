@@ -27,7 +27,7 @@ websiteConfig:
   integrations:
     services:
       - name: NocoDB
-        description: Open source Airtable alternative
+        description: Open source Airtable alternative (testing)
         url: https://db.creatorsgarten.org/sso
   announcements:
     SHiT7:
