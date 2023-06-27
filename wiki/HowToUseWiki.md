@@ -1,3 +1,7 @@
+# How to create a new page
+
+To create a new page, go to `https://creatorsgarten.org/wiki/<YourPageName>` and start editing! The page name must be CamelCase.
+
 # How to edit pages
 
 - **Edit on GitHub:** All of the wiki contents is stored inside the {% render 'GitHub', repo: 'wiki' %} repository. This lets you manage the wiki contents using your favorite tools like VS Code or Obsidian. Changes will be reflected on the website in a few minutes.
