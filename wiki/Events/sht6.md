@@ -21,6 +21,10 @@ Our main goal for this hackathon is to get makers to just _have fun_ and learn t
 
 The stupid hackathon is [held all around the world](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87), including New York (the original), San Francisco, Rhode Island, Canada, Netherlands, Germany, Austria, Sweden, Norway, Hawaii, UK, Shanghai, Singapore, and… here, Thailand! In the spirit of the stupid hackathons worldwide, this event is _non-commercial_ and free to attend.
 
+{% render 'EventBox', name: ref %}
+
+`youtube: nKFO4ujdnQ8`
+
 # Live
 
 - [[Talk Session] - "เบื้องหลังเว็บอ่านการ์ตูนชนิดหนึ่ง ที่เฉพาะเจาะจงที่เร็วที่สุดในโลก" - a special session by SaltyAom](https://www.facebook.com/watch/live/?ref=watch_permalink&v=697408548021745)
