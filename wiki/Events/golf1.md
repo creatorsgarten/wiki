@@ -10,8 +10,6 @@ event:
   eventpopId: 13449
 ---
 
-{% render 'EventBox', name: ref %}
-
 :::lead
 A programming contest where participants try to solve problems with the smallest amount of code possible.
 :::
@@ -23,6 +21,8 @@ A programming contest where participants try to solve problems with the smallest
 In each round, participants receive a programming problem and write a program that solves it. After the round ends, the solutions are then ranked by the number of characters in the source code. Then we look and learn from the solutions.
 
 We assume that many programming languages will be represented, so we hope that the participants can learn about programming languages that they may not use often, and find useful ideas in other programming languages that they can apply to their work.
+
+{% render 'EventBox', name: ref %}
 
 # Livestream recording
 
