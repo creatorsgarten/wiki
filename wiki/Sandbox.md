@@ -1,8 +1,25 @@
 ---
 thing: other stuff
+links:
+  - title: A
+    url: /
+  - title: B
+    url: /
+  - title: C
+    url: /
+  - title: D
+    url: /
 ---
 
 Use this sandbox to test out Markdown and {{page.thing}}.
+
+# Links
+
+<div style="display: flex; flex-direction: column; gap: 0.5rem">
+{%- for link in links -%}
+<a href="{{link.url}}">{{link.title}}</a>
+{%- endfor %}
+</div>
 
 # Container blocks
 
