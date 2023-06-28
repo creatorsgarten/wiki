@@ -13,6 +13,8 @@ event:
 
 After being away for a whle, BKK.JS #14 is coming back in October in offline format! Hear interesting stories from JavaScript developers with stories to tell, update new trends in the JavaScript world, and share experiences.
 
+{% render 'EventBox', name: ref %}
+
 # Talks
 
 - How I've Reduced a 2MB Web App to 14KB by Just Changing the Perspective by SaltyAom, Software Engineer at BRIKL
