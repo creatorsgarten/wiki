@@ -25,7 +25,7 @@ Use this sandbox to test out Markdown and {{page.thing}}.
 <div style="display: flex; flex-direction: column; gap: 0.5rem">
 {%- for link in page.links -%}
 {%- assign bg = link.bg | default: '#1c1916' -%}
-<a href="{{link.url}}" style="padding: 0.5rem; display: flex; text-align: center; border-radius: 0.25rem; background: {{ bg }}; color: #fff;"><span style="flex: 1"><strong>{{link.title}}</strong></span></a>
+<a href="{{link.url}}" style="padding: 0.5rem; display: flex; text-align: center; border-radius: 0.25rem; background: {{ bg }}; color: #fff;"><span style="flex: none"><iconify-icon icon="clarity:world-line"></iconify-icon></span><span style="flex: 1"><strong>{{link.title}}</strong></span></a>
 {%- endfor %}
 </div>
 
