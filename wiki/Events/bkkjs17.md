@@ -11,6 +11,8 @@ event:
   eventpopId: 13900
 ---
 
+{% render 'EventBox', name: ref %}
+
 # Schedule
 
 | Time        | Event                                                                                                                                                              |
