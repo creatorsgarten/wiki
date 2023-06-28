@@ -21,6 +21,8 @@ Our main goal for this hackathon is to get developers to just _have fun_ and lea
 
 The stupid hackathon is [held all around the world](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87), including New York (the original), San Francisco, Rhode Island, Canada, Netherlands, Germany, Austria, Sweden, Norway, Hawaii, UK, Shanghai, Singapore, and… here, Thailand! In the spirit of the stupid hackathons worldwide, this event is _non-commercial_ and free to attend.
 
+{% render 'EventBox', name: ref %}
+
 # Write-ups
 
 - [“OD + My Memory w/ The 5th Stupid Hackathon Thailand” by @balabeltmimi](https://balabeltmimi.medium.com/od-my-memory-w-the-5th-stupid-hackathon-thailand-6914ba8b5d34)
