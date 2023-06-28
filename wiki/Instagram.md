@@ -5,10 +5,11 @@ links:
     description: The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand
     url: https://airtable.com/shrUMPuXyTehMn7J4
   - title: The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand
-    description: stupid.hackathon.in.th/7
     url: https://stupid.hackathon.in.th/7/
     bg: '#FFBA00'
     fg: '#000000'
+  - title: The Stupid Hackathon in Thailand
+    url: https://stupid.hackathon.in.th/
   - title: Facebook
     url: https://grtn.org/fb
     bg: '#1877f2'
@@ -23,7 +24,7 @@ links:
     icon: 'mdi:youtube'
 ---
 
-<div style="display: flex; flex-direction: column; gap: 0.5rem">
+<div style="display: flex; flex-direction: column; gap: 0.75rem">
 {%- for link in page.links -%}
 {%- assign bg = link.bg | default: '#1c1916' -%}
 {%- assign fg = link.fg | default: '#ffffff' -%}
