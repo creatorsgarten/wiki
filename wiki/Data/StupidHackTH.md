@@ -5,7 +5,7 @@ This page keeps track of interesting metrics from each Stupid Hackathon event.
 | Number of teams | 6 | 30 | 23 | 20 | 22 | 15 | 33 |
 | Number of tickets |   | 97 | 105 | 80 | 139 | 105 | 174 |
 | Number of presenters |   | 71 | 74 | 57 | 76 | 71 |
-| Event rating |   | 8.57 | 8.50 | 9.44 | 8.00 | 9.00 |
+| Event rating |   | 8.57 | 8.50 | 9.44 | 8.00 | 9.00 | 8.85 |
 
 # Metrics
 
@@ -14,10 +14,10 @@ This page keeps track of interesting metrics from each Stupid Hackathon event.
     - Collected by counting the number of presentations.
 - **Number of tickets**
     - Represents how many tickets have been given out.
-    - Collected by checking the number of tickets in Eventpop.
+    - Collected by checking the number of tickets in Eventpop. This includes staff tickets.
 - **Number of presenters**
     - Represents how many people ended up coming to the event and presented.
-    - Collected by summing up the number of team members in each team.
+    - Collected by summing up the number of team members in each team found in the registration system.
 - **Event rating**
     - Represents the average rating of the event.
     - Collected by averaging the score in the [[Feedback|feedback form]].
