@@ -8,11 +8,15 @@ To create a new page, go to `https://creatorsgarten.org/wiki/<YourPageName>` and
 On a wiki page, you can hit the `e` key to edit the page or `.` to go edit the page in GitHub.dev (VS Code).
 :::
 
+- **Edit directly on the website:** Click on the “Edit this page :Icon{icon="pixelarticons:edit"}” button to start editing. It is optimized for making quick and small changes.
+
+  :::warning
+  The editor is very rudimentary and not stable, so we recommend that you save your changes frequently to avoid conflicts and avoid losing your work.
+  :::
+
 - **Edit on GitHub:** All of the wiki contents is stored inside the {% render 'GitHub', repo: 'wiki' %} repository. This lets you manage the wiki contents using your favorite tools like VS Code or Obsidian. Changes will be reflected on the website in a few minutes.
 
 - **Edit on Visual Studio Code for the Web:** [:Icon{icon="vscode-icons:file-type-vscode"} Click here to launch VS Code for the Web.](https://vscode.dev/github/creatorsgarten/wiki)
-
-- **Edit directly on the website:** Click on the "Edit this page :Icon{icon="pixelarticons:edit"}" button to start editing. It is optimized for making quick and small changes. The editor is very rudimentary and not stable, so we recommend that you save your changes frequently to avoid conflicts and avoid losing your work.
 
 # How to get notified of changes to the wiki
 
