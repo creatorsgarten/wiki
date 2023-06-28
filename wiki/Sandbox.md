@@ -6,7 +6,7 @@ links:
   - title: The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand
     url: https://stupid.hackathon.in.th/7/
     bg: '#FFBA00'
-    fg: '#ffffff'
+    fg: '#000000'
   - title: Facebook
     url: https://grtn.org/fb
     bg: '#1877f2'
