@@ -7,10 +7,10 @@ links:
     url: /
   - title: Facebook
     url: https://grtn.org/fb
-    bg: #1877f2
+    bg: '#1877f2'
   - title: Discord
     url: https://grtn.org/dc
-    bg: #5865f2
+    bg: '#5865f2'
 ---
 
 Use this sandbox to test out Markdown and {{page.thing}}.
