@@ -18,6 +18,8 @@ Activities for elementary and middle school students Get to know programming on 
 
 No one is wrong, no one is right, we will have fun together. And most importantly, it's free throughout the event!
 
+{% render 'EventBox', name: ref %}
+
 # Links
 
 - [Facebook Event](https://www.facebook.com/events/369429557166010/)
