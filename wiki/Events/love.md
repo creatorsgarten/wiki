@@ -15,6 +15,8 @@ Are you a developer facing love problems?
 
 Don't worry, let's hear from someone who has experience in love with 5 Sessions that will help solve your love problems and Open Session that is open to everyone to discuss their own love problems!
 
+{% render 'EventBox', name: ref %}
+
 # Links
 
 - [Facebook Event](https://www.facebook.com/events/348223013213549/)
