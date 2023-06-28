@@ -2,6 +2,8 @@
 
 # Live
 
+- [Garten Streams: The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand](https://www.youtube.com/watch?v=VXBSWZPEHcM)
+
 # Write-ups
 
 - [“Thailand Stupid Hackathon 7th เป็นงานที่สนุกมากกก” by Ruangyot Nanchiang](https://web.facebook.com/Rayato160/posts/pfbid02ZDyh2mG3G7a81fvs31i9UKRnnxme6kJcqR3W5FdnQjKpKqUdi7tjYx5Lb7yTu3VTl)
