@@ -29,6 +29,10 @@ links:
     icon: 'mdi:youtube'
 ---
 
+:::lead
+A compilation of helpful links provided by [Creatorsgarten](https://creatorsgarten.org/).
+:::
+
 <div style="display: flex; flex-direction: column; gap: 0.75rem">
 {%- for link in page.links -%}
 {%- assign bg = link.bg | default: '#1c1916' -%}
@@ -45,7 +49,3 @@ links:
 </a>
 {%- endfor -%}
 </div>
-
-:::lead
-A compilation of helpful links provided by [Creatorsgarten](https://creatorsgarten.org/).
-:::
