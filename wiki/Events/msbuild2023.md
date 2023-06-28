@@ -9,8 +9,8 @@ event:
     - SparkTechThailand
 ---
 
-:::Draft
-
-to be added
-
+:::lead
+มารับชมเซสชั่นที่น่าสนใจของ Microsoft Build ปีนี้ พร้อมพูดคุยกับเพื่อน ๆ นักพัฒนา ทีมพี่ ๆ Microsoft และ Community Leaders ในประเทศไทยไปด้วยกันอย่างอบอุ่นและเป็นกันเอง
 :::
+
+{% render 'EventBox', name: ref %}
