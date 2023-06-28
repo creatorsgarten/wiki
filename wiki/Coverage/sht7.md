@@ -20,6 +20,9 @@
 # Code
 
 - {% render 'GitHub', repo: 'StupidHackTH/7' %}
+- {% render 'GitHub', repo: 'StupidHackTH/sht7-vote' %}
+- {% render 'GitHub', repo: 'StupidHackTH/sht7-stats-announcement' %}
+- {% render 'GitHub', repo: 'rayriffy/sht7-randomizer' %}
 
 # Documents
 
