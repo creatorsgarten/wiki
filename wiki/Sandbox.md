@@ -21,10 +21,6 @@ links:
     icon: 'mdi:youtube'
 ---
 
-Use this sandbox to test out Markdown and {{page.thing}}.
-
-# Links
-
 <div style="display: flex; flex-direction: column; gap: 0.5rem">
 {%- for link in page.links -%}
 {%- assign bg = link.bg | default: '#1c1916' -%}
@@ -37,6 +33,11 @@ Use this sandbox to test out Markdown and {{page.thing}}.
 </a>
 {%- endfor %}
 </div>
+
+Use this sandbox to test out Markdown and {{page.thing}}.
+
+# Links
+
 
 # Container blocks
 
