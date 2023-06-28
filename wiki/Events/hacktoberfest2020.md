@@ -21,6 +21,8 @@ We are participating with multiple local agencies, corporate entities, and commu
 
 DigitalOcean and DEV is the host of the global Hacktoberfest challenge, while BRIKL and Seven Peaks hosts this local chapter.
 
+{% render 'EventBox', name: ref %}
+
 # Links
 
 - [Facebook Event](https://www.facebook.com/events/1033263830421330/)
