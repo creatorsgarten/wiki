@@ -1,16 +1,21 @@
 ---
 thing: other stuff
 links:
-  - title: A
-    url: /
-  - title: B
-    url: /
+  - title: Late submissions | The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand
+    url: https://airtable.com/shrUMPuXyTehMn7J4
+  - title: The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand
+    url: https://stupid.hackathon.in.th/7/
+    bg: '#FFBA00'
+    fg: '#ffffff'
   - title: Facebook
     url: https://grtn.org/fb
     bg: '#1877f2'
   - title: Discord
     url: https://grtn.org/dc
     bg: '#5865f2'
+  - title: YouTube
+    url: https://grtn.org/yt
+    bg: '#ff0000'
 ---
 
 Use this sandbox to test out Markdown and {{page.thing}}.
@@ -20,7 +25,7 @@ Use this sandbox to test out Markdown and {{page.thing}}.
 <div style="display: flex; flex-direction: column; gap: 0.5rem">
 {%- for link in page.links -%}
 {%- assign bg = link.bg | default: '#1c1916' -%}
-<a href="{{link.url}}" style="padding: 0.5rem; display: flex; text-align: center; border-radius: 0.25rem; background: {{ bg }}; color: #fff;"><span style="flex: 1">{{link.title}}</span></a>
+<a href="{{link.url}}" style="padding: 0.5rem; display: flex; text-align: center; border-radius: 0.25rem; background: {{ bg }}; color: #fff;"><span style="flex: 1"><strong>{{link.title}}</strong></span></a>
 {%- endfor %}
 </div>
 
