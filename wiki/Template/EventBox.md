@@ -1,4 +1,4 @@
-<div style="padding: 0.25em 1em; background: #f4f4f4; border-radius: 0.25rem; text-align: center; border: 2px solid #f4f4f4; color:black;">
+<nav style="padding: 0.25em 1em; background: #f4f4f4; border-radius: 0.25rem; text-align: center; border: 2px solid #f4f4f4; color:black;">
 <div style="margin: -1em 0">
 
 {% liquid
@@ -16,4 +16,4 @@ endfor
 %}
 
 </div>
-</div>
+</nav>
