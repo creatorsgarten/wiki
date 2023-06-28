@@ -16,3 +16,5 @@ Renowned physicist of the 20th century, Richard Feynman, once said of a friend o
 Therefore, we would like to invite everyone to come and discover this profound beauty together. Through two talk sessions of Prompt Suathim, a research fellow from the FREAK Lab and the University of British Columbia, who believes experimenting in biology is like cooking and that this science is more than just memorization. and Phoomparin Mano, a software developer trying to understand the beauty of nature that lies beneath the intricate structures and mechanisms that we can reach through mathematics and calculations.
 
 In addition to the two talks The event also includes a Discussion Panel that invites everyone to join in on the discussion of sparking creativity and the fun of learning, unfortunately today's education should be a mechanism to promote this. At times it hinders itself.
+
+{% render 'EventBox', name: ref %}
