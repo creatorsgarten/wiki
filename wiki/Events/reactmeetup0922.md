@@ -10,6 +10,8 @@ event:
   eventpopId: 13545
 ---
 
+{% render 'EventBox', name: ref %}
+
 # Talks
 
 - [Shipping open source software in a fully remote company](https://youtu.be/IVwBbhHOvSQ) by Mahatthana Kelvin Nomsawadi
