@@ -8,6 +8,8 @@ event:
     - Creatorsgarten
 ---
 
+{% render 'EventBox', name: ref %}
+
 # Talks
 
 - [Exploring Prisma with Nexus Plugin](https://youtu.be/UMbTg0Q67bY?t=1370) by Philip (Vorathep Sumetphong)
