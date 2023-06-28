@@ -19,6 +19,8 @@
 
 # Code
 
+- {% render 'GitHub', repo: 'StupidHackTH/7' %}
+
 # Documents
 
 # Reviews
