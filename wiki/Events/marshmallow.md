@@ -13,3 +13,5 @@ event:
 # About
 
 A chilling Hack Night meet-up event that invites everyone to create something they want to do in one night! No matter what your occupation or what you are good at building. I want to invite everyone to do what they like and talk and exchange.
+
+{% render 'EventBox', name: ref %}
