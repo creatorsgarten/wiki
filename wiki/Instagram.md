@@ -10,6 +10,8 @@ links:
     fg: '#000000'
   - title: The Stupid Hackathon in Thailand
     url: https://stupid.hackathon.in.th/
+    bg: '#e6e6e6'
+    fg: '#000000'
   - title: Facebook
     url: https://grtn.org/fb
     bg: '#1877f2'
