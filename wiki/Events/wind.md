@@ -11,3 +11,5 @@ event:
 # About
 
 Code in the Wind is a game show where contestants implement a web page according to the reference screenshot and a set of objectives using Tailwind CSS.
+
+{% render 'EventBox', name: ref %}
