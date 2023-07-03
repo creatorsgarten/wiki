@@ -21,4 +21,4 @@ Put this in an event page:
 ```
 {% endraw %}
 
-{% endunless -%}
+{% endif -%}
