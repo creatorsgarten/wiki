@@ -16,6 +16,8 @@ event:
 Wonder what’s the React stack for 2023? Join us!
 :::
 
+{% render 'EventpopButton', id: event.eventpopId %}
+
 {% render 'EventBox', name: ref %}
 
 # 🎤 Talks
