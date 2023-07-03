@@ -25,10 +25,10 @@ We'll be introducing the Elm language with short talks and mob-programming sessi
 
 ### Agenda
 
-Registration and Networking (6:00 PM - 6:30 PM)
-Introduction to Elm (6:30 PM - 7:00 PM)
-Mob Programming: Let's try Elm together (7:00 PM - 8:00 PM)
-Unlocking the Full Potential of Elm (8:00 PM - 8:30 PM)
-Networking (8:30 onwards)
+- Registration and Networking (6:00 PM - 6:30 PM)
+- Introduction to Elm (6:30 PM - 7:00 PM)
+- Mob Programming: Let's try Elm together (7:00 PM - 8:00 PM)
+- Unlocking the Full Potential of Elm (8:00 PM - 8:30 PM)
+- Networking (8:30 onwards)
 
 Note: It's highly recommended to bring your laptop with Elm pre-installed :)
