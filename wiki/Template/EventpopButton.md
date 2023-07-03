@@ -17,7 +17,7 @@ assign url = url | default: 'https://eventpop.me/'
 Put this in an event page:
 
 ```
-{% render 'EventpopButton', id: event.eventpopId %}
+{% render 'EventpopButton', id: page.event.eventpopId %}
 ```
 {% endraw %}
 
