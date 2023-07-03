@@ -19,6 +19,8 @@ We'll be introducing the Elm language with short talks and mob-programming sessi
 - Date: July 7th, 2023.
 - Time: 06:00 PM - 09:30 PM
 
+{% render 'EventpopButton', id: page.event.eventpopId %}
+
 {% render 'EventBox', name: ref %}
 
 ### Agenda
