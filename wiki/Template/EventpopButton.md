@@ -11,7 +11,7 @@ assign url = url | default: 'https://eventpop.me/'
 
 {%- if ref %}
 
-## How to use
+# How to use this template
 
 {% raw %}
 Put this in an event page:
