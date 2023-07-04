@@ -17,6 +17,8 @@
 
 # Videos
 
+- [พาชมบรรยากาศของงาน Stupid Hackathon ครั้งที่ 7 ไอเดียเจ๋งๆ ปั่นๆ กันทั้งนั้น](https://youtu.be/N09H1Rbuf9g)
+
 # Photos
 
 # Code
