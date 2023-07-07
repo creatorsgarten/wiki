@@ -2,7 +2,21 @@
 grtn: c
 ---
 
-# Functional programming meetup #1
+# Functional programming meetup #2: Elm for frontend developers
+
+Event page: {% render 'Event', name: 'functional2' %}
+
+- [Live streaming will be available on our Facebook page](https://www.facebook.com/creatorsgarten)
+
+- Thank you to our sponsors
+
+   - [Cleverse](https://cleverse.com/)
+   - [ODDS](https://medium.com/odds-team)
+   - [สมาคมโปรแกรมเมอร์ไทย](https://www.facebook.com/ThaiProgrammerSociety)
+
+---
+
+:::details[Archive: Functional programming meetup #1]
 
 Event page: {% render 'Event', name: 'functional' %}
 
@@ -16,7 +30,7 @@ Event page: {% render 'Event', name: 'functional' %}
    - [BorntoDev](https://www.borntodev.com/)
    - [ODDS](https://medium.com/odds-team)
 
----
+:::
 
 :::details[Archive: Creative coding meetup #1]
 
