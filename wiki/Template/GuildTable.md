@@ -8,7 +8,7 @@
 | [[WebDevelopers\|Web Developers]] | The guild focusing on web development and brings together developers interested in creating websites and web applications
 | [[CreativeCoders\|Creative Coders]] | Creative coders who are interested in using technology to create interactive art, multimedia experiences, and other innovative projects
 | [[IndieHackers\|Indie Hackers]] | Community of hackers and developers who are interested in creating and building cool things using technology
-| [[CMCGarten\|CMC Garten]] | Friends of Thi from Triam Udom.
+| [[CMCGarten\|CMC Garten]] | Friends of Thi from [TUCMC](https://clubs.triamudom.ac.th).
 | [[SoftwareEngineering\|Software Engineering]] | A group for software engineers who are interested in sharing their knowledge, experiences, and best practices related to software development
 | [[TechClubCircle\|University Club WG]] | a working group that maintains the circle of computer clubs in Thailand. This group brings together computer clubs from universities across Thailand and provides a platform for collaboration, knowledge sharing, and networking
 | [[CoderDojoWG\|CoderDojo WG]] | Supporting and promoting CoderDojo Thailand Group, a network of free, volunteer-led, community-based programming clubs for young people
