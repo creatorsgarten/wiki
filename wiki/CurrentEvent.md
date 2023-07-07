@@ -6,7 +6,7 @@ grtn: c
 
 Event page: {% render 'Event', name: 'functional2' %}
 
-- [**Live stream on Facebook page!**](https://www.facebook.com/creatorsgarten/videos/209707932038032)
+- [**Live stream on Facebook page!**](https://www.facebook.com/creatorsgarten/videos/292021870055011/)
 
 - [**Join our Discord server**](https://grtn.org/dc)
 
