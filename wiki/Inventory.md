@@ -30,9 +30,8 @@ equipments:
   - name: Mac mini (M2)
     custody: Pub
     type: av
-    url: https://www.insta360.com/product/insta360-link
-    description: Preloaded with editing, and streaming tools.
     url: https://apple.com/mac-mini
+    description: Preloaded with editing, and streaming tools.
     link:
       Model Tech Specs: https://support.apple.com/kb/SP891?viewlocale=en_US&locale=en_US
   - name: Power Grid (Board game)
