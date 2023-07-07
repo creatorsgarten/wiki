@@ -1,7 +1,7 @@
 ---
 equipments:
   - name: ATEM Mini Pro
-    custody: Riffy
+    custody: g0 S2
     type: av
     url: https://www.blackmagicdesign.com/products/atemmini
     description: Live production switcher with 4 HDMI inputs
@@ -19,7 +19,7 @@ equipments:
       Tech Specs: https://www.dji.com/mic/specs
     notes: USB-C out<br>3.5mm headphone out<br>3.5mm TRS out (for camera)<br>4 hours operating time<br>2m40s to charge
   - name: Insta360 Link
-    custody: Riffy
+    custody: g0 S2
     type: av
     url: https://www.insta360.com/product/insta360-link
     description: Gimbal webcam with head tracking
@@ -35,7 +35,7 @@ equipments:
     link:
       Model Tech Specs: https://support.apple.com/kb/SP891?viewlocale=en_US&locale=en_US
   - name: Power Grid (Board game)
-    custody: Riffy
+    custody: g0
     type: toy
     description: Board game guild
   - name: Rummikub
@@ -43,11 +43,11 @@ equipments:
     type: toy
     description: Board game guild
   - name: HDMI Cable
-    custody: Riffy
+    custody: g0 S2
     type: av
     description: Length 5m
   - name: LEGO Box
-    custody: Pub
+    custody: g0
     type: toy
     description: There's 2 boxes full of LEGO bricks
   - name: Komono
@@ -55,6 +55,14 @@ equipments:
     type: komono
     description: Small articles (小物)
     notes: Stickers<br>Shirts<br>Name tags
+  - name: 3.5mm extender (x2)
+    custody: g0 S2
+    type: av
+    description: Ugreen 3.5mm extender
+  - name: USB-A extender (x2)
+    custody: g0 S2
+    type: av
+    description: Ugreen 3.5mm extender
 ---
 
 :::lead
