@@ -60,6 +60,6 @@ QR code for this page:
 
 <p style="text-align:center"><span style="font-size:2.5em"><strong>grtn.org/c</strong></span></p>
 
-![image](https://user-images.githubusercontent.com/193136/235849308-a3260282-b1f2-402b-a8eb-bfd4ab73a479.png)
+<img src="https://user-images.githubusercontent.com/193136/235849308-a3260282-b1f2-402b-a8eb-bfd4ab73a479.png" alt="QR code" style="max-width: 480px">
 :::
 
