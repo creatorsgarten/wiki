@@ -33,6 +33,12 @@ websiteConfig:
         description: Creatorsgarten’s public knowledge base
         url: /wiki
   announcements:
+    elm:
+      enabled: true
+      message: "Current event: Functional programming meetup #2: Elm for frontend developers. Watch the livestream on Facebook"
+      link: https://creatorsgarten.org/wiki/CurrentEvent
+      start: 2023-07-07T18:30:00+07:00
+      end: 2023-07-07T22:00:00+07:00
     SHiT7:
       enabled: true
       message: "Current Event: The 7th Stupid Hackathon in Thailand — Live now on Facebook."
