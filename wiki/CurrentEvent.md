@@ -8,6 +8,8 @@ Event page: {% render 'Event', name: 'functional2' %}
 
 - [**Live stream on Facebook page!**](https://www.facebook.com/creatorsgarten/videos/209707932038032)
 
+- [**Join our Discord server**](https://grtn.org/dc)
+
 - Thank you to our sponsors
 
    - [Cleverse](https://cleverse.com/)
