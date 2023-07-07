@@ -19,3 +19,5 @@ Because we believe that we can enjoy learning new things without relying on the 
 How to Learn (Almost) Anything will be the starting point for the Workshop and many more crazy hackathons to come in the form of a meta-event where we'd like to invite everyone to talk about how to learn (Almost) Anything.
 
 {% render 'EventBox', name: ref %}
+
+- Airtable: https://airtable.com/shrHnpgf2tGbuPpYy
