@@ -6,7 +6,7 @@ grtn: c
 
 Event page: {% render 'Event', name: 'functional2' %}
 
-- [Live streaming will be available on our Facebook page](https://www.facebook.com/creatorsgarten)
+- [**Live streaming will be available on our Facebook page soon!**](https://www.facebook.com/creatorsgarten)
 
 - Thank you to our sponsors
 
