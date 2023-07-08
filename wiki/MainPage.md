@@ -13,7 +13,7 @@ quickLinks:
 > Connecting creators, making things
 
 :::lead
-**[Creatorsgarten](https://creatorsgarten.org/)** is a collective of antidisciplinary creators. Through [workshops, meetups, hackathons, and much more](https://creatorsgarten.org/events/), we bring people together to work on new ideas, trying new things and collaborate across disciplines.
+**[Creatorsgarten](https://creatorsgarten.org/)** is a collective of antidisciplinary creators. We bring people together to work on new ideas, trying new things and collaborate across disciplines.
 :::
 
 <div style="margin:1em 0; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; color: #0008">
