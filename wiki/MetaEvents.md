@@ -1,5 +1,5 @@
 :::lead
-Meta Events is an event [[Series|series]] hosted by Creatorsgarten Core Team for meta-contributions to the collective
+Meta Events is an event [[Series|series]] hosted by [[Metagarten]] for meta-contributions to the collective
 :::
 
 # Event[0]
