@@ -3,7 +3,7 @@ Meta Events is an event [[Series|series]] hosted by [[Metagarten]] for meta-cont
 :::
 
 # Event[0]
-- Venue: [[UTCC]]
+- Venue: [[HarbourSpace]]
 - Date: 29 January 2022
 
 # Event[1]
