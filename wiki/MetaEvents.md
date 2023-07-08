@@ -9,7 +9,7 @@ Meta Events is an event [[Series|series]] hosted by [[Metagarten]] for meta-cont
 # Event[1]
 - Venue: Hanaya Japanese Restaurant / Life Sathorn Sierra
 - Date: 8 January 2023
-- [Photo by Nutn0n](https://web.facebook.com/iamnutn0n/posts/pfbid0hZ2EAuwtTuHWUnNdCUkqwFMugHRMhGBQAUhnrQa531wnXBm4qoy1k5k53qWebaqAl)
+- [Group photo](https://web.facebook.com/iamnutn0n/posts/pfbid0hZ2EAuwtTuHWUnNdCUkqwFMugHRMhGBQAUhnrQa531wnXBm4qoy1k5k53qWebaqAl)
 
 # Internal Hackathon #1
 - Venue: Microsoft Thailand, 38th Floor All Season Place
