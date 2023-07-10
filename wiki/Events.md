@@ -27,6 +27,7 @@ To start a new event:
 {% raw %}
 ```
 ---
+image: https://user-images.githubusercontent.com/193136/236173173-755b513b-6398-46a7-9fcb-ced21153c094.png
 event:
   name:
   location: TBA
@@ -39,7 +40,7 @@ event:
 ---
 
 :::lead
-TBA
+To be announced
 :::
 
 {% render 'EventBox', name: ref %}
