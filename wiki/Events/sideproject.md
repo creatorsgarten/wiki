@@ -9,7 +9,7 @@ event:
 ---
 
 :::lead
-TBA
+To be announced
 :::
 
 {% render 'EventBox', name: ref %}
