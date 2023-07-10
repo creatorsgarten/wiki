@@ -5,13 +5,13 @@ event:
   date: "2023-07-22"
   # site:
   # eventpopId:
-  unlisted: true
+  unlisted: false
   hosts:
     - Creatorsgarten
 ---
 
 :::lead
-To be announced
+มานั่งคุยเรื่องคณิตศาสตร์ยามเย็นกัน
 :::
 
 {% render 'EventpopButton', id: page.event.eventpopId %}
