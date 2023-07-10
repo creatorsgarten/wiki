@@ -33,7 +33,8 @@ event:
   location: TBA
   date: "YYYY-MM-DD"
   endDate: "YYYY-MM-DD"
-  site:
+  # site:
+  # eventpopId:
   unlisted: true
   hosts:
     - Creatorsgarten
