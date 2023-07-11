@@ -4,7 +4,7 @@ event:
   location: Clazy Cafe
   date: "2023-07-22"
   # site:
-  # eventpopId:
+  eventpopId: 15629
   unlisted: false
   hosts:
     - Creatorsgarten
