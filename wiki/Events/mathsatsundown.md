@@ -3,7 +3,7 @@ event:
   name: Maths at Sundown
   location: Clazy Cafe
   date: "2023-07-22"
-  # site:
+  site: https://www.eventpop.me/e/15629
   eventpopId: 15629
   unlisted: false
   hosts:
