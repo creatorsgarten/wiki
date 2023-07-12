@@ -34,6 +34,16 @@
 - ช่วง Hack
 - อิสระในการ program, หลักๆ เลยคือได้พบปะชาว programmer ที่นิสัยคล้ายๆ กันคุยเรื่อง program เทคโนโลยีด้วยกันรู้เรื่อง หลักๆ คือได้พบปะคน แล้วก็ปล่อยผี ทำอะไรไร้สาระด้วยกัน
 
+:::Message{from=ChatGPT}
+- Participants enjoyed live music during work, pitching, creative freedom, and playing music instead of working.
+- Specific highlights mentioned were icebreaking activities, the start of the Stupid Hackathon, presenting ideas, and playing Tetr.io at night.
+- Some participants appreciated the opportunity to interact, collaborate on unique projects, observe others' work, and have challenging conversations with diverse developers, as well as engaging in party games.
+- There were a few instances where participants couldn't join due to emergencies or enjoyed the cold pizza but wanted more.
+- The music performances, especially during the evening, were highly praised and created a relaxed atmosphere.
+- Some comments expressed confusion or enjoyment about everything, while others mentioned the presence of snacks and desserts.
+-The Hackathon itself and the freedom to program, meet like-minded programmers, discuss technology, and have unproductive fun were appreciated.
+:::
+
 **Day 2 - ชอบกิจกรรมอะไรมากที่สุดฮะะะะ**
 
 - ชอบการนำเสนอผลงาน
@@ -93,7 +103,7 @@
 - บางช่วงไม่ลื่นไหล
 - จำไม่ได้ฮ๊าฟฟฟฟรู่
 - ไม่มีเลยย
-- (- x10)
+- \- (x10)
 
 **มีอะไรอยากให้เราแก้ไขเพื่อทำให้งานดีขึ้นไหม (ไม่มีใส่ 'ว้าว ดีเยี่ยม')**
 
