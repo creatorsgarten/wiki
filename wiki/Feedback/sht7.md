@@ -35,13 +35,11 @@
 - อิสระในการ program, หลักๆ เลยคือได้พบปะชาว programmer ที่นิสัยคล้ายๆ กันคุยเรื่อง program เทคโนโลยีด้วยกันรู้เรื่อง หลักๆ คือได้พบปะคน แล้วก็ปล่อยผี ทำอะไรไร้สาระด้วยกัน
 
 :::Message{from=ChatGPT}
-- Participants enjoyed live music during work, pitching, creative freedom, and playing music instead of working.
-- Specific highlights mentioned were icebreaking activities, the start of the Stupid Hackathon, presenting ideas, and playing Tetr.io at night.
-- Some participants appreciated the opportunity to interact, collaborate on unique projects, observe others' work, and have challenging conversations with diverse developers, as well as engaging in party games.
-- There were a few instances where participants couldn't join due to emergencies or enjoyed the cold pizza but wanted more.
-- The music performances, especially during the evening, were highly praised and created a relaxed atmosphere.
-- Some comments expressed confusion or enjoyment about everything, while others mentioned the presence of snacks and desserts.
--The Hackathon itself and the freedom to program, meet like-minded programmers, discuss technology, and have unproductive fun were appreciated.
+-   The most commonly mentioned favorite activities on Day 1 were live music during work, pitching, and the freedom to explore creative ideas.
+-   Some specific comments highlighted enjoying playing music instead of working, the competitive nature of grabbing food, and the excitement during the introduction, start, and presentation of the stupid hackathon.
+-   Participants also enjoyed playing Tetr.io at night, the icebreaking activities, and the overall experience of the hackathon, including interacting with diverse developers, witnessing unique projects, and engaging in party games.
+-   There were a few comments mentioning emergency situations preventing participation, appreciation for the pizza provided as dinner but expressing hunger due to limited availability, and enjoyment of the late-night activities such as Tetris and the H ecosystem.
+-   Additional comments expressed a relaxed atmosphere, enjoying live music, and finding it challenging to understand everything that was happening. Some participants mentioned the enjoyment of programming freely, meeting like-minded programmers, and engaging in conversations about technology while also embracing the opportunity to do something meaningless together.
 :::
 
 **Day 2 - ชอบกิจกรรมอะไรมากที่สุดฮะะะะ**
@@ -78,6 +76,15 @@
 - การนำเสนอ
 - ตอนhack
 
+:::Message{from=ChatGPT}
+-   The most commonly mentioned favorite activity on Day 2 was pitching, including the enjoyment of presenting projects and the excitement of pitching time.
+-   Participants expressed appreciation for the random prize giveaways and the fun of spinning the wheel for prizes.
+-   Other highlights included the distribution of prizes, the relaxed atmosphere, and the enjoyment of music during work.
+-   Some participants specifically mentioned the enjoyment of the random team assignment for pitching and the creative system of having desserts on the table for the selection process.
+-   Additional comments expressed enjoyment of the late-night activities, such as the pitching and prize announcement, and the overall satisfaction with the day, finding it fun and entertaining.
+-   There were a few miscellaneous comments and expressions of confusion regarding certain aspects of the activities on Day 2.
+:::
+
 **มีสิ่งที่คุณไม่ชอบในงานไหม**
 
 - ข้าวเย็นไม่พอฮะ;-; หิวมากกกก แงงงงงงงง
@@ -105,6 +112,14 @@
 - ไม่มีเลยย
 - \- (x10)
 
+:::Message{from=ChatGPT}
+-   The most commonly mentioned dislike was insufficient or limited food, particularly the shortage of dinner and prizes.
+-   Some participants expressed dissatisfaction with the event running over time on the last day and feeling cold due to excessive air conditioning.
+-   The lack of beds and the absence of a shower facility were mentioned as minor concerns.
+-   There were mixed opinions regarding the icebreaking activities on the first day, with some feeling that they were insufficient, leading to difficulties in team formation and a sense of exclusion.
+-   Other miscellaneous comments included not liking one's own hesitation to approach others, the absence of idea-selling sessions, the challenge of voting due to fatigue, uncertainty about being late or missing out on snacks, and feeling that the first day was somewhat dull compared to previous years.
+:::
+
 **มีอะไรอยากให้เราแก้ไขเพื่อทำให้งานดีขึ้นไหม (ไม่มีใส่ 'ว้าว ดีเยี่ยม')**
 
 - อยากให้งานมีฝ่ายพยาบาลด้วย เวลาเจ็บป่วยอะไรจะได้ขอรับยาได้ โชคดีที่ครั้งนี้มี 7-11 ใกล้ข้างตึก เลยลงไปซื้อยาได้สะดวก
@@ -131,6 +146,14 @@
 - ว้าว ดีเยี่ยม (สุด ๆ)
 - ว้าว ดีเยี่ยม (x12)
 
+:::Message{from=ChatGPT}
+-   Some participants suggested having a dedicated medical team or providing a designated area for medical assistance, as well as a more clearly defined and official setup for recreational corners, such as music and board game corners.
+-   There was a desire for more team-building activities and a multi-category voting system similar to the previous year's ranking system.
+-   Participants expressed interest in having a detailed agenda for other activities, particularly during specific time slots, and the desire for transparency in the prize distribution process.
+-   Feedback included concerns about insufficient food, limited prizes, and uneven distribution of prizes, especially for teams that did not receive awards during pitching.
+-   Miscellaneous comments expressed the need for air conditioning adjustments, increased food availability, the inclusion of additional activities to combat boredom, and a desire for random individual prize selection.
+:::
+
 **ให้คะแนนงานนี้หน่อย เต็ม 10 ให้เราเท่าไหร่**
 
 ::RatingTally{tally="6=4,7=3,8=5,9=7,10=15"}
@@ -156,6 +179,14 @@
 - หนาวไปนิดหนึ่ง
 - ประทับใจและรับรู้ถึงความตั้งใจจัดงานครับ สตาฟทุกคนจัดได้ดีมาก ๆ เลย พัฒนายิ่ง ๆ ขึ้นไปครับ ขอให้มีต่อไปทู้กปีคร้าบผม
 - แอร์หนาวไปปปปปป
+
+:::Message{from=ChatGPT}
+-   Suggestions included adjusting the air conditioning temperature to be less cold and ensuring sufficient power outlets for the developer tables.
+-   Participants recommended providing adequate food and prizes for everyone and ensuring equal distribution of meals.
+-   Some comments mentioned the desire for a more comfortable evening session and the need for better time management during the prize distribution process.
+-   Recommendations included announcing the availability of pillows and blankets for participants to bring, increasing the quantity of food provided, and incorporating breaks for meals between presentations.
+-   Overall positive feedback was given, acknowledging the well-organized event and expressing anticipation for future editions.
+:::
 
 **รู้จัก The โง่ จากช่องทางไหน**
 
@@ -190,6 +221,14 @@
 - จัดอีกนะคะ สู้ๆค่ะ
 - อยากได้ของรางวัล แต่มันหมดดดด ชื่ออยู่ท้ายๆ ไปไม่ถึง เห้อ
 - เมี้ยวววว
+
+:::Message{from=ChatGPT}
+-   Participants expressed interest in joining the event again next year if given the opportunity.
+-   Some comments included gratitude for organizing such great activities and sharing wacky thoughts.
+-   There were requests to bring back the event with even more exciting prizes.
+-   Appreciation was expressed for the well-organized event, enjoyable activities, and the lovable staff.
+-   Miscellaneous comments included mentions of Leomotors, requests for more information on contributing hacks, and expressions of love and support for the staff.
+:::
 
 **Ideas for next year**
 
