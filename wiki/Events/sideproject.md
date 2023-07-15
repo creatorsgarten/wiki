@@ -3,7 +3,6 @@ event:
   name: Side Project Showdown
   location: Cleverse
   date: "2023-07-21"
-  unlisted: true
   site: https://www.eventpop.me/e/15643
   eventpopId: 15643
   hosts:
