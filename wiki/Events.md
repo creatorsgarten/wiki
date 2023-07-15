@@ -35,7 +35,7 @@ event:
   endDate: "YYYY-MM-DD"
   # site:
   # eventpopId:
-  unlisted: true
+  unlisted: true # Remove this line when event is ready
   hosts:
     - Creatorsgarten
 ---
