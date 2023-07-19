@@ -24,11 +24,15 @@ Wonder what’s the React stack for 2023? Join us!
 
 ## Framer Motion is EZ
 
+`youtube: ZEKtdhlzMBA`
+
 **Speaker:** Bas (Phat Thaveepholcharoen), Senior Software Engineer @ Bitkub Online
 
 สอนการใช้งานตั้งแต่เริ่มต้นจนต่อยอดไปใช้งานได้จริง, basic animation, animation with gesture, transition and chaining animation
 
 ## ละทิ้ง Client-Side JavaScript หวนคืนสู่ Server-Side Rendering
+
+`youtube: jM0njSK-bPg`
 
 **Speaker:** Riffy (Phumrapee Limpianchop) @ Creatorsgarten
 
@@ -36,17 +40,23 @@ Wonder what’s the React stack for 2023? Join us!
 
 ## How to make snappy apps!
 
+`youtube: MR7GaoZDABc`
+
 **Speaker:** ชาญ (ธีรภัทร เมืองพูล), Developer @ Thoughtworks
 
 How data caching and optimistic UI makes app feels more responsive. Let's optimize the data fetching in react app by reducing fetch waterfall and prefetching data.
 
 ## Building a Long-Lived Component with Headless UI
 
+`youtube: LY3e3IAezBQ`
+
 **Speaker:** Cal (Komkanit Sujautra), Full Stack Engineer @ Agoda
 
 How much time you take to implement a fully accessible dropdown menu that works well in all browsers and perfect with your design? Let's build your last dropdown that works well everywhere!
 
 ## Level Up your Redux with Redux-Saga
+
+`youtube: g4zUmjKXqms`
 
 **Speaker:** ภพ (สมภพ กุละปาลานนท์), Lead Software Engineer
 
