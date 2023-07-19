@@ -7,6 +7,7 @@ event:
   hosts:
     - Spark Tech Thailand
     - Creatorsgarten
+    - TypeScript Thailand
   eventpopId: 15673
 ---
 
@@ -24,8 +25,8 @@ TypeScript Community Meetup ประจำเดือนกรกฎาคม 
 | - | - |
 | 13:30 | Welcome to TypeScript Community Meetup |
 | 13:45 | Developer session (TBC) |
-| 14:30 | Developer session (TBC) |
-| 15:15 | Developer session (TBC) |
-| 16:00 | Developer session (TBC) |
-| 16:45 | Developer session (TBC) |
+| 14:30 | Easily publishing fully-typed dependency with confidence |
+| 15:15 | To be a dinosaur with Typescript on Deno |
+| 16:00 | TypeScript for DevOps |
 | 16:45 | แนะนำ TypeScript Thailand |
+| 17:00 | ปิด Live |
