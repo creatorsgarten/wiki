@@ -55,7 +55,7 @@ grtnRedirects:
   e/shit7/figma: https://www.figma.com/file/fQk8oLorCYJcseJ2QDrHWW/SHiT-7?type=design&node-id=70-124&t=NukhZLgVwtKJiMVT-0
   ideas: https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas
   streams: https://www.youtube.com/playlist?list=PLTuz2sLvbRpwkoLi0AYDwdABU5dhkoGIr
-  artcouncil/notion: https://creatorsgarten.notion.site/Bangkok-Digital-Youth-Art-Council-690fa6a8d0fe4ef08a9e014f5d16b917?pvs=4
+  artcouncil/notion: https://www.notion.so/creatorsgarten/Bangkok-Digital-Youth-Art-Council-690fa6a8d0fe4ef08a9e014f5d16b917
 ---
 
 :::lead
