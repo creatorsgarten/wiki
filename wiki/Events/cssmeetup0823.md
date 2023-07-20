@@ -4,7 +4,6 @@ event:
   location: True Digital Park
   date: "2023-08-16"
   site: https://www.eventpop.me/e/15612
-  unlisted: true
   hosts:
     - React ไปวันๆ
     - Creatorsgarten
