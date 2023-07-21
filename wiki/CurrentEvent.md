@@ -8,7 +8,7 @@ Event page: {% render 'Event', name: 'sideproject' %}
 
 - [**Live stream on Facebook page!**](TBD)
 
-- [**Join our Discord server**](https://grtn.org/dc)
+- [**Vote for talks in our Discord server**](https://grtn.org/dc)
 
 - Thank you to our sponsors
   - Yosapol Jitrak
