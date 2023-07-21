@@ -39,6 +39,8 @@ Our wiki is under construction, please feel free to contribute!
 :::lead
 For a full list of events, see the [[Events]] page
 :::
+- How to host an event?
+- All events
 
 # Guilds
 
