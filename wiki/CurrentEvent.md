@@ -2,6 +2,28 @@
 grtn: c
 ---
 
+# Side Projects Showdown
+
+Event page: {% render 'Event', name: 'sideproject' %}
+
+- [**Live stream on Facebook page!**](TBD)
+
+- [**Join our Discord server**](https://grtn.org/dc)
+
+- Thank you to our sponsors
+  - Yosapol Jitrak
+  - Jarupong Pajakgo
+  - Manassarn Manoonchai
+  - Wasit Jingjit
+  - Chayatan Ang
+  - Kanin Kearpimy
+  - Wasan Chanpen
+  - Pae Phasit
+  - [Cleverse](https://cleverse.com/)
+  - [สมาคมโปรแกรมเมอร์ไทย](https://www.facebook.com/ThaiProgrammerSociety)
+
+---
+
 # Functional programming meetup #2: Elm for frontend developers
 
 Event page: {% render 'Event', name: 'functional2' %}
