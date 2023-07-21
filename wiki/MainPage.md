@@ -39,6 +39,7 @@ Our wiki is under construction, please feel free to contribute!
 - Oknize
 - Garden Gate
 - Techcal.dev
+See more on [[Projects]] page
 
 # Events
 :::lead
