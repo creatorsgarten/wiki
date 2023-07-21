@@ -24,7 +24,7 @@ TypeScript Community Meetup ประจำเดือนกรกฎาคม 
 | Time | Session |
 | - | - |
 | 13:30 | Welcome to TypeScript Community Meetup |
-| 13:45 | Developer session (TBC) |
+| 13:45 | Advanced Generic |
 | 14:30 | Easily publishing fully-typed dependency with confidence |
 | 15:15 | To be a dinosaur with Typescript on Deno |
 | 16:00 | TypeScript for DevOps |
