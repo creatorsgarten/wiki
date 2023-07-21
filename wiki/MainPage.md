@@ -33,9 +33,14 @@ Our wiki is under construction, please feel free to contribute!
 - [[DigitalPresence|Our digital presence]]
 - [[GardenZero|Garden Zero]]
 
-# [[Projects]]
+# Projects
+- Contentsgarten
+- Cluster.wiki
+- Oknize
+- Garden Gate
+- Techcal.dev
 
-# [[Events]]
+# Events
 :::lead
 For a full list of events, see the [[Events]] page
 :::
