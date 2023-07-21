@@ -24,7 +24,7 @@ Event page: {% render 'Event', name: 'sideproject' %}
 
 ---
 
-# Functional programming meetup #2: Elm for frontend developers
+:::details[Archive: Functional programming meetup #2: Elm for frontend developers]
 
 Event page: {% render 'Event', name: 'functional2' %}
 
@@ -38,7 +38,7 @@ Event page: {% render 'Event', name: 'functional2' %}
    - [ODDS](https://medium.com/odds-team)
    - [สมาคมโปรแกรมเมอร์ไทย](https://www.facebook.com/ThaiProgrammerSociety)
 
----
+:::
 
 :::details[Archive: Functional programming meetup #1]
 
