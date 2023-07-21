@@ -34,12 +34,14 @@ Our wiki is under construction, please feel free to contribute!
 - [[GardenZero|Garden Zero]]
 
 # Projects
+:::lead
+See more information on [[Projects]] page
+:::
 - Contentsgarten
 - Cluster.wiki
 - Oknize
 - Garden Gate
 - Techcal.dev
-See more on [[Projects]] page
 
 # Events
 :::lead
