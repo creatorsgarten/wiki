@@ -4,9 +4,6 @@ thing: other stuff
 
 Use this sandbox to test out Markdown and {{page.thing}}.
 
-# Links
-
-
 # Container blocks
 
 :::info
