@@ -24,7 +24,7 @@ To create a new page, go to `https://creatorsgarten.org/wiki/<YourPageName>` and
 
 # How to get notified of changes to the wiki
 
-- [Join the **Bangkok Open Source Discord** server](https://grtn.org/bkkoss-discord) and [join the “Creatorsgarten wiki changelog” thread](https://discord.com/channels/1062609208106832002/1085847407583055883), then you will receive notifications over Discord.
+- [Join the **Creatorsgarten** Discord server](https://grtn.org/dc) and [follow the “Wiki change log” thread in the forum](https://discord.com/channels/931905227848818769/1132692201688793122), then you will receive notifications over Discord.
 
 # Who can edit pages using the web editor
 
