@@ -4,6 +4,12 @@ thing: other stuff
 
 Use this sandbox to test out Markdown and {{page.thing}}.
 
+<!-- wysiwym-start -->
+
+# Rich text editing
+
+<!-- wysiwym-end -->
+
 # Container blocks
 
 :::info
