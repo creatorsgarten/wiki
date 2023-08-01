@@ -21,3 +21,4 @@ event:
 - [Announcement post](https://www.facebook.com/devMasterSomeday/posts/pfbid02j62XgsA3eoDp1wvXh2Hfk9q7KuUTNTguy4ddezJKY23LpXMWRjpCVqvRgPthe1JHl)
 - Speaker announcements
   - [Speaker 1](https://www.facebook.com/devMasterSomeday/posts/pfbid0222vHqLJxFX28TbfgWheXH1ycnBuFRfvJrM8HEDSTjSNCmGudXYeMwDxrLVZigYttl)
+  - [Speaker 2](https://www.facebook.com/devMasterSomeday/posts/pfbid035goJ4Lnb3UXnfLEPkz9Z6p7cex9HaTNsEsraQx1F7dQQiQ8AaPCdVL8MbR4vaDzRl)
