@@ -22,3 +22,4 @@ event:
 - Speaker announcements
   - [Speaker 1](https://www.facebook.com/devMasterSomeday/posts/pfbid0222vHqLJxFX28TbfgWheXH1ycnBuFRfvJrM8HEDSTjSNCmGudXYeMwDxrLVZigYttl)
   - [Speaker 2](https://www.facebook.com/devMasterSomeday/posts/pfbid035goJ4Lnb3UXnfLEPkz9Z6p7cex9HaTNsEsraQx1F7dQQiQ8AaPCdVL8MbR4vaDzRl)
+  - [Speaker 3](https://www.facebook.com/devMasterSomeday/posts/pfbid02pD6LGt9MXUkYkfh4e6pnqEjJCxCdMTacwKzb33txSK5JqsB1HqMyjmtzAQwZqxByl)
