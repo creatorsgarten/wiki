@@ -19,6 +19,15 @@ Garden Zero ก่อตั้งโดย 3 พันธมิตร Cleverse &
 - ในเฟสแรก ยังไม่มีการเชื่อมระบบ door access จึงเปิดให้เข้าได้เฉพาะ core team ก่อน และยังไม่เปิดให้จัดอีเวนต์ในพื้นที่
 - ในเฟสที่สอง มีการเชื่อมระบบ door access แล้ว ผู้เข้าร่วมกิจกรรม/เพื่อนของทีมงาน/แขก สามารถเข้ามาใช้ได้ถ้ามี core team อยู่ โดยให้คนใน core team ช่วยดูแล
 
+## วิธีเข้าสถานที่
+
+1. เข้าเว็บ creatorsgarten.org แล้วล็อกอิน
+2. เช็คในหน้า Dashboard ว่าสามารถเข้า Garden Zero ได้ (ถ้าเข้าได้ จะมี Access Card ให้กด)
+3. กดที่ Access Card เพื่อสร้าง QR code (มีอายุ 3 นาที)
+4. เอา QR code ไปสแกนเพื่อปลดล็อกประตู
+
+![](https://im.dt.in.th/ipfs/bafybeif3iujnebilwwnfzhwkgg5qj7nsajpjw73bpw4h7shzdtzvamqrby/image.webp)
+
 # ระเบียบการใช้งาน
 
 - 24/7 access ในส่วนของ garden zero, โถงทางเดิน, ห้องน้ำ
