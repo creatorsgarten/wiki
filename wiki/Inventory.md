@@ -19,7 +19,7 @@ equipments:
       Tech Specs: https://www.dji.com/mic/specs
     notes: USB-C out<br>3.5mm headphone out<br>3.5mm TRS out (for camera)<br>4 hours operating time<br>2m40s to charge
   - name: Insta360 Link
-    custody: g0 S2
+    custody: Pub
     type: av
     url: https://www.insta360.com/product/insta360-link
     description: Gimbal webcam with head tracking
