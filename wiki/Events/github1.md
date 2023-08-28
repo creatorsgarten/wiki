@@ -1,6 +1,6 @@
 ---
 event:
-  name: TypeScript Community Meetup
+  name: GitHub Community Meetup
   location: Online
   date: "2023-08-31"
   site: https://www.eventpop.me/e/16004
