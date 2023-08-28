@@ -1,7 +1,7 @@
 ---
 event:
   name: GitHub Community Meetup
-  location: Online
+  location: Cleverse
   date: "2023-08-31"
   site: https://www.eventpop.me/e/16004
   hosts:
