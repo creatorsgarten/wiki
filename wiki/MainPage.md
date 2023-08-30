@@ -1,4 +1,5 @@
 ---
+title: Creatorsgarten Wiki
 quickLinks:
   - label: Recent Changes
     url: /wiki/Special/RecentChanges
