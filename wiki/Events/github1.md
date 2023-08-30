@@ -7,7 +7,7 @@ event:
   hosts:
     - Spark Tech Thailand
     - Creatorsgarten
-    - TypeScript Thailand
+    - GitHub Community Thailand
   eventpopId: 16004
 ---
 
