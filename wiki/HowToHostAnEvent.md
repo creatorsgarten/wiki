@@ -27,6 +27,10 @@ Next, invite people who have shown their interest into a chat group, such as Fac
 
 Discuss within the group to find a suitable date and venue.
 
-- Take a look at [th.techcal.dev](https://th.techcal.dev/)
+- Take a look at [th.techcal.dev](https://th.techcal.dev/) to make sure there are no other events on the same date.
+
+- Once the date and venue is confirmed, create an event on [th.techcal.dev](https://th.techcal.dev/). You can put <abbr title="To be confirmed">TBC</abbr> or <abbr title="To be announced">TBA</abbr> in the event title if the details are not yet confirmed.
 
 # Prepare image assets
+
+See [[EventImages]] for image specifications.
