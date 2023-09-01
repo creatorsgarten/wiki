@@ -10,6 +10,10 @@ event:
     - React ไปวันๆ
     - Creatorsgarten
   eventpopId: 15231
+imageAssets:
+  cover: 'https://p-u.popcdn.net/event_details/covers/000/015/231/og_cover/f1e875f7e9f2691a2a83d8c4bd3919f358288d98.png?1684905799'
+  poster: 'https://p-u.popcdn.net/event_details/posters/000/015/231/large/d423a37bb9d5803a1986c3de4b917dc616155d2d.png?1684904664'
+  banner: 'https://im.dt.in.th/ipfs/bafybeidoacy6nfbagrlmd3ko4u4vr7ks5vzkvpdgkz3phzxy2byly4plxa/image.webp'
 ---
 
 :::lead
