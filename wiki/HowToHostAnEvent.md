@@ -1,9 +1,12 @@
 :::warning
-this initial draft is written by ChatGPT. information may not be accurate.
+this page is a draft, information may not be accurate or complete.
 :::
 
-::::Draft
+:::lead
 If you have attended several tech meetups, at some point you may wish a certain kind of meetup exists. Maybe someone encouraged you to run the meetup yourself. Maybe you agree. Thus it’s on you to turn the idea into a reality.
+:::
+
+# Find an ally and make a group
 
 The first step is to find an ally.
 Post on your Facebook to see if anyone is interested in joining you in organizing the meetup.
@@ -18,5 +21,12 @@ These examples are from both Creatorsgarten events and other events.
 - [React Meetup 06/23](https://www.facebook.com/devMasterSomeday/posts/pfbid02S1MLwXu9xtoqbD8wvkEsFJS6SPmRPbMf9K1tbmg6bwmvzYAMxoqBUTk6i3yEyCygl)
 :::
 
-Next, invite people who have shown their interest into a chat group, such as Facebook Messenger.
-::::
+Next, invite people who have shown their interest into a chat group, such as Facebook Messenger or [Discord](https://grtn.org/discord).
+
+# Find a date and a venue
+
+Discuss within the group to find a suitable date and venue.
+
+- Take a look at [th.techcal.dev](https://th.techcal.dev/)
+
+# Prepare image assets
