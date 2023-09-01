@@ -78,7 +78,11 @@ Additional notes:
 
 # Logo
 
-This is the Cleverse logo for as of 2023-07-04, for use in [images](/wiki/EventImages): [logo_cleverse.svg](https://github.com/creatorsgarten/wiki/assets/193136/fcae837a-a1eb-465d-a178-2591e759de1a)
+This is the Cleverse logo for as of 2023-07-04, for use in [images](/wiki/EventImages):
+
+![logo_cleverse.svg](https://github.com/creatorsgarten/wiki/assets/193136/fcae837a-a1eb-465d-a178-2591e759de1a)
+
+Download [logo_cleverse.svg](https://github.com/creatorsgarten/wiki/assets/193136/fcae837a-a1eb-465d-a178-2591e759de1a)
 
 # Nearby places to hang out
 
