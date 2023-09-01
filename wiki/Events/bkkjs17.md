@@ -9,6 +9,10 @@ event:
     - Dev Mountain Tech Festival
     - Thai Tech Community
   eventpopId: 13900
+imageAssets:
+  banner: https://im.dt.in.th/ipfs/bafybeidhp2xcezn2krnn5nrlrmavt63fy3a5k444w37gek5wf2y3myof5a/image.webp
+  poster: https://p-u.popcdn.net/event_details/posters/000/013/900/large/f5892a5bff143ed3f3eb02005b2115eba0ec5460.png?1667028889
+  cover: https://p-u.popcdn.net/event_details/covers/000/013/900/og_cover/b06ec8644227adece4aa4296eb1686d795468cd3.png?1667035232
 ---
 
 {% render 'EventBox', name: ref %}

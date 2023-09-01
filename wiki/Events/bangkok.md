@@ -7,6 +7,10 @@ event:
     - Creatorsgarten
   name: Bangkok Open Source Hackathon
   eventpopId: 13899
+imageAssets:
+  banner: https://im.dt.in.th/ipfs/bafybeia4mh6uuruxnoxscu6a2kzyj4mtzomej2uffpeemovmjwohgqntmm/image.webp
+  poster: https://p-u.popcdn.net/event_details/posters/000/013/899/large/adeaf5c2b87558df381cd16e6564460ff8951304.png?1676531249
+  cover: https://p-u.popcdn.net/event_details/covers/000/013/899/og_cover/7f7817bd94004cca354ee30e0948e5c315af304e.png?1675776056
 ---
 
 มาสร้างกรุงเทพให้เป็น "เมืองที่น่าอยู่สำหรับทุกคน" ด้วยการพัฒนาโปรเจคที่ "ทุกคนมีส่วนร่วมได้" 💖
@@ -24,16 +28,16 @@ event:
 
 # 🎤 Pitching
 
-| Team | Resources | Pitching |
-| - | - | - |
-| BKK Changelog | [GitHub](https://github.com/creatorsgarten/bkkchangelog) | [YouTube](https://www.youtube.com/watch?v=inkQI5yRd_Y&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=2) |
-| Thailand Area Ranking | [Web](https://tar.tensormik.com/) · [GitHub](https://github.com/kang49/thailand_area_ranking) | [YouTube](https://www.youtube.com/watch?v=TTU2oSlbT_w&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=3) |
-| Bank For All | [GitHub](https://github.com/bankforall/bank4all) | [YouTube](https://www.youtube.com/watch?v=su14UUhSVrM&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=4) |
-| BKK Reward Hunter | [GitHub](https://github.com/wasdee/bkk-reward-hunter) | [YouTube](https://www.youtube.com/watch?v=yd3uA1XOtww&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=5) |
-| Ratchagitja | [GitHub](https://github.com/narze/ratchagitja.md) | [YouTube](https://www.youtube.com/watch?v=8EC1OLZOZyo&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=6)
-| PolicyTracka | [Web](https://policytracka.vercel.app) · [GitHub](https://github.com/policytracka/policytracka) | [YouTube](https://www.youtube.com/watch?v=JhhmE1chbWQ&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=7) |
+| Team                  | Resources                                                                                                                                                 | Pitching                                                                                               |
+| --------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------ |
+| BKK Changelog         | [GitHub](https://github.com/creatorsgarten/bkkchangelog)                                                                                                  | [YouTube](https://www.youtube.com/watch?v=inkQI5yRd_Y&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=2) |
+| Thailand Area Ranking | [Web](https://tar.tensormik.com/) · [GitHub](https://github.com/kang49/thailand_area_ranking)                                                             | [YouTube](https://www.youtube.com/watch?v=TTU2oSlbT_w&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=3) |
+| Bank For All          | [GitHub](https://github.com/bankforall/bank4all)                                                                                                          | [YouTube](https://www.youtube.com/watch?v=su14UUhSVrM&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=4) |
+| BKK Reward Hunter     | [GitHub](https://github.com/wasdee/bkk-reward-hunter)                                                                                                     | [YouTube](https://www.youtube.com/watch?v=yd3uA1XOtww&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=5) |
+| Ratchagitja           | [GitHub](https://github.com/narze/ratchagitja.md)                                                                                                         | [YouTube](https://www.youtube.com/watch?v=8EC1OLZOZyo&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=6) |
+| PolicyTracka          | [Web](https://policytracka.vercel.app) · [GitHub](https://github.com/policytracka/policytracka)                                                           | [YouTube](https://www.youtube.com/watch?v=JhhmE1chbWQ&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=7) |
 | Fill You in the Blank | [Web](https://fill-you-in-the-blank.vercel.app/) · [GitHub](https://github.com/nattaaek/fill-you-in-the-blank) · [Discord](https://discord.gg/EJkkPTSRYC) | [YouTube](https://www.youtube.com/watch?v=on25fTHEtus&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=8) |
-| WeSpace | [GitHub](https://github.com/BKK-WeSpace/tree-population) | [YouTube](https://www.youtube.com/watch?v=ErotrrAm0eU&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=9) |
+| WeSpace               | [GitHub](https://github.com/BKK-WeSpace/tree-population)                                                                                                  | [YouTube](https://www.youtube.com/watch?v=ErotrrAm0eU&list=PLTuz2sLvbRpzm0mrgASH1s0PkMRNE5Fbl&index=9) |
 
 ## BKK Changelog
 
@@ -65,7 +69,7 @@ This is an open-source project aimed at creating a peer sharing and microfinance
 
 [GitHub](https://github.com/wasdee/bkk-reward-hunter)
 
-ทำไมเป็น Project Open Source แล้วจะหาตังไม่ได้? 
+ทำไมเป็น Project Open Source แล้วจะหาตังไม่ได้?
 คุณเบนได้แชร์โปรเจ็ค Bangkok Reward Hunter ของเขา
 แจ้งจับคนขับมอเตอร์ไซต์บนทางเท้ารับส่วนแบ่ง At Scale
 ใช้ AI ทำเป็นระบบอัตโนมัติ ช่วยระบุรายละเอียด และส่งแจ้ง

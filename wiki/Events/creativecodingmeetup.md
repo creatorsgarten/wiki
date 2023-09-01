@@ -7,6 +7,10 @@ event:
   hosts:
     - Creatorsgarten
   eventpopId: 14949
+imageAssets:
+  banner: https://im.dt.in.th/ipfs/bafybeide5mh67vvtz6ssbrqc3emfjgk3sostwgionpur2huqqteg4zminu/image.webp
+  poster: https://p-u.popcdn.net/event_details/posters/000/014/949/large/a29bbc1687b1d4bd2111b3427d0a9344de7dc866.png?1681331255
+  cover: https://p-u.popcdn.net/event_details/covers/000/014/949/og_cover/7ae6e457baea3c656011064cbb541ee690c0e9d5.png?1681331519
 ---
 
 :::lead
@@ -104,9 +108,3 @@ Literature review of what current tool do people use for live coding music/visua
 # Code
 
 - **Art gallery:** {% render 'GitHub', repo: 'creatorsgarten/creative-coding-gallery' %}
-
-
-
-
-
-
