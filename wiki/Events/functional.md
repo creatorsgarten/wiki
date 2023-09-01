@@ -7,6 +7,10 @@ event:
   hosts:
     - Creatorsgarten
   eventpopId: 15089
+imageAssets:
+  banner: https://im.dt.in.th/ipfs/bafybeidmb6l2wx6e5m5o5mgij7ijboucmfojovfjgzo64ldljrvs5dn3ym/image.webp
+  poster: https://p-u.popcdn.net/event_details/posters/000/015/089/large/cb3adfa13d901978e6e4818cf91aa3894923e608.png?1684057498
+  cover: https://p-u.popcdn.net/event_details/covers/000/015/089/og_cover/0c967f4f225a41a3a1a3a21ac5f82bd2377ee85f.png?1684057500
 ---
 
 # About
