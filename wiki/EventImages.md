@@ -1,3 +1,7 @@
+---
+image: https://im.dt.in.th/ipfs/bafybeiai3a6gzse4oujte5mn3p4ylasowi63rvhy3nyycriyqt2dwz3g5q/image.webp
+---
+
 :::lead
 When running a Creatorsgarten event, some image assets have to be prepared.
 :::
@@ -14,6 +18,6 @@ When running a Creatorsgarten event, some image assets have to be prepared.
 
 # Eventpop
 
-Eventpop event page
+![](https://im.dt.in.th/ipfs/bafybeicgnmtgdzmg2cg5uhka6xq54yoq7wnufpm3bjjidgivnc3bgu7tri/image.webp)
 
 ![](https://im.dt.in.th/ipfs/bafybeihqutqf6iu4tghmrztb2uwvasntatd6cerj6ddb343uoo2lhjmfdu/image.webp)
