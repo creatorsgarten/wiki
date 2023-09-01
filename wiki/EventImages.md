@@ -27,3 +27,5 @@ When running a Creatorsgarten event, some image assets have to be prepared.
 # Examples
 
 {% render 'EventImageExampleFromEvent', name: 'reactmeetup0623' %}
+
+{% render 'EventImageExampleFromEvent', name: 'functional' %}
