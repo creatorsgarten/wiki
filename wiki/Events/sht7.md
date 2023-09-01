@@ -10,6 +10,10 @@ event:
     - Creatorsgarten
     - StupidHackTH
   eventpopId: 15113
+imageAssets:
+  cover: https://p-u.popcdn.net/event_details/covers/000/015/113/og_cover/3b574f21ff3773bc6bb5943c57d7c8e87fa3024c.jpg?1683443140
+  poster: https://p-u.popcdn.net/event_details/posters/000/015/113/large/6bb3a1f126511f1fb445221c8a2071624020fce7.jpg?1683444258
+  banner: https://im.dt.in.th/ipfs/bafybeihntjccphpr4vjpwribitbor5ubp5w4kxuevdvg3eidtdajxsxwmy/image.webp
 ---
 
 :::lead
