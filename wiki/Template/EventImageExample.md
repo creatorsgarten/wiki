@@ -1,0 +1,1 @@
+<div style="aspect-ratio: 1920 / 658; background: url(https://im.dt.in.th/ipfs/bafybeickl4hs7iix4ntr7gbtlp3t2bvl4bk4muoqz6wm6cvqbhbc3buape/image.webp); background-size: cover;"></div>
