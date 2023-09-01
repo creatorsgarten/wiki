@@ -16,7 +16,7 @@ When running a Creatorsgarten event, some image assets have to be prepared.
 | Cover image | 1200x628 | Facebook: event cover; Eventpop: social sharing image |
 | Background image | 1440x668 | Eventpop: displayed behind event poster |
 | 【 **Prepare before the event** 】 | | |
-| Banner image | 1920x120 | Displayed on [live streams](https://www.facebook.com/creatorsgarten/live_videos) and [videos](https://www.youtube.com/@creatorsgarten) |
+| Banner image | 1920x120 | Displayed on [live streams](https://www.youtube.com/playlist?list=PLTuz2sLvbRpwkoLi0AYDwdABU5dhkoGIr) and [videos](https://www.youtube.com/@creatorsgarten) |
 
 # Eventpop
 
