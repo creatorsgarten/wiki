@@ -18,6 +18,10 @@ When running a Creatorsgarten event, some image assets have to be prepared.
 | 【 **Prepare before the event** 】 | | |
 | Banner image | 1920x120 | Displayed on [live streams](https://www.youtube.com/playlist?list=PLTuz2sLvbRpwkoLi0AYDwdABU5dhkoGIr) and [videos](https://www.youtube.com/@creatorsgarten) |
 
+# Resources
+
+- For Creatorsgarten’s logo and icon, see [[BrandAssets]]
+
 # Eventpop
 
 ![](https://im.dt.in.th/ipfs/bafybeicgnmtgdzmg2cg5uhka6xq54yoq7wnufpm3bjjidgivnc3bgu7tri/image.webp)
