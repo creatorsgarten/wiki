@@ -1,7 +1,7 @@
 ---
 image: https://user-images.githubusercontent.com/193136/236173173-755b513b-6398-46a7-9fcb-ced21153c094.png
 event:
-  name: How To Learn Almost Everything คู่มือเรียนรู้ (เกือบ) ทุกสิ่ง ฉบับนอกห้องเรียน
+  name: How To Learn Almost Everything
   location: TK Park
   date: "2023-09-16"
   # endDate: "YYYY-MM-DD"
