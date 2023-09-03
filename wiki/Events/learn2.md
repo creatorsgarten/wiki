@@ -1,5 +1,5 @@
 ---
-image: https://user-images.githubusercontent.com/193136/236173173-755b513b-6398-46a7-9fcb-ced21153c094.png
+image: https://p-u.popcdn.net/event_details/poster_squares/000/016/060/medium/ea29dc1e63d58abbd74afcb2760627f73f5cabb3.jpeg?1693533633
 event:
   name: How To Learn Almost Everything
   location: TK Park
