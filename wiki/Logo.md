@@ -1,5 +1,6 @@
 # Text logo
 
-![](https://creatorsgarten.org/images/creatorsgarten.svg)
-
-SVG file: [creatorsgarten.svg](https://creatorsgarten.org/images/creatorsgarten.svg)
+| Text logo |
+|:---:|
+| ![](https://creatorsgarten.org/images/creatorsgarten.svg) |
+| [creatorsgarten.svg](https://creatorsgarten.org/images/creatorsgarten.svg) |
