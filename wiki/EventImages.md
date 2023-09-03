@@ -38,6 +38,8 @@ When running a Creatorsgarten event, some image assets have to be prepared.
 
 {% render 'EventImageExampleFromEvent', name: 'bangkok' %}
 
+## Designed by Poom
+
 {% render 'EventImageExampleFromEvent', name: 'functional' %}
 
 ## Designed by Thai
