@@ -20,7 +20,7 @@ When running a Creatorsgarten event, some image assets have to be prepared.
 
 # Resources
 
-- For Creatorsgarten’s logo and icon, see [[BrandAssets]]
+- For Creatorsgarten’s logo and icon, see our [[brand assets]].
 
 # Eventpop
 
