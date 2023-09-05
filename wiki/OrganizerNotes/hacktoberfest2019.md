@@ -10,7 +10,7 @@ We used Facebook Group, Facebook Messenger, and Freehand.
 
 # Proposal
 
-![](https://im.dt.in.th/ipfs/bafybeiembh5jcwb2akmjzl3lwikvwknbzmawd5i45nswcxs33rxoy7g24y/image.webp)
+![](https://im.dt.in.th/ipfs/bafybeiayvx3rujrgbb3g2gdqxjrbfk5betyhqjtiauagisszejvpoo6ygq/image.webp)
 
 We have multiple developers community group, mostly disjoint, for example:
 
