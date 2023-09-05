@@ -30,6 +30,17 @@ Let's put many communities in the same venue and contribute to open source toget
 
 We are simply putting them in the same room so that we can do more together. More people to mingle. More diverse activities.
 
+# Co-organizing communities list
+
+![](https://im.dt.in.th/ipfs/bafybeigg6vmzjy35mar5eals57uupnxyj463popngttdph7a2iqjboqsqy/image.webp)
+
+# Notes from NoobProgrammer Thailand Community Meeting
+
+![](https://im.dt.in.th/ipfs/bafybeicluo6zx2zyl7xxefxs63qvgvworqinoydwhm5f6az35n7fqv4vli/image.webp)
+
+---
+
+
 **Venue information**
 
 - **The workspace** can hold about 100 people. There are 10 tables.
