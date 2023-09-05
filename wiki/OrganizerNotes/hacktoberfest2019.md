@@ -1,5 +1,17 @@
 {% render 'EventBox', name: ref %}
 
+The following notes are extracted from our Invision Freehand whiteboard. At that time, our board looked like this:
+
+![](https://im.dt.in.th/ipfs/bafybeici2zjkydnbg7rulyayg3wng4tcvwpos6oeajtd3xurpcuuojuesi/image.webp)
+
+# Communication tools
+
+We used Facebook Group, Facebook Messenger, and Freehand.
+
+# Proposal
+
+![](https://im.dt.in.th/ipfs/bafybeiembh5jcwb2akmjzl3lwikvwknbzmawd5i45nswcxs33rxoy7g24y/image.webp)
+
 We have multiple developers community group, mostly disjoint, for example:
 
 - Students group: YCC, YCI, NoobProgrammer
