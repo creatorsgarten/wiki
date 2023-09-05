@@ -4,9 +4,9 @@ The following notes are extracted from our Invision Freehand whiteboard. At that
 
 ![](https://im.dt.in.th/ipfs/bafybeiepb4sx4xjxzsdkva6tjllok2mtvxhztzwqjtvq5t42dcbtovtxee/image.webp)
 
-# Communication tools
-
 We used Facebook Group, Facebook Messenger, and Freehand.
+Most of the contents are out-of-date, as we communicate in other channels but didn't update the board.
+However, it has been archived here for posterity.
 
 # Proposal
 
@@ -38,17 +38,36 @@ We are simply putting them in the same room so that we can do more together. Mor
 
 ![](https://im.dt.in.th/ipfs/bafybeicluo6zx2zyl7xxefxs63qvgvworqinoydwhm5f6az35n7fqv4vli/image.webp)
 
----
+# Task board (outdated)
 
+![](https://im.dt.in.th/ipfs/bafybeigitfx2edinjynlq7o27ua7b54grnwy5gqyser3ddlebiyu4cpkdm/image.webp)
 
-**Venue information**
+# Calendar
+
+![](https://im.dt.in.th/ipfs/bafybeidmx4ndqjnoqa7wtr6oqjiz6hpqhgajxqm3seygkb52dtxitm2mc4/image.webp)
+
+# Open issues (outdated)
+
+![](https://im.dt.in.th/ipfs/bafybeica65euaxxdzihhn45iblacs3xvxlqta2vmwoiqwhm7x6ncgoxqku/image.webp)
+
+# Event list
+
+![](https://im.dt.in.th/ipfs/bafybeifqcay4j3na6mnfvidv2fq3xi3vbjfyab3jnihryoc6xuryw66h3q/image.webp)
+
+# Agenda planning
+
+![](https://im.dt.in.th/ipfs/bafybeifsq4dbnuvrp2ssplobth6lomvtpamleq4pyutwhtnqtnpbptjl6q/image.webp)
+
+# Venue information
 
 - **The workspace** can hold about 100 people. There are 10 tables.
 - **Event area**
 - **25 monitors**
   - I might want to scatter some monitors around the work/event space. The goal is to make it easy for other people to see what you’re working on.
 
-**Ways you can help**
+![](https://im.dt.in.th/ipfs/bafybeifv6co2rgccpwcfg4lbuvt2yeb43pgdgcmztbn45kxjaangkl4b2a/image.webp)
+
+# Ways you can help
 
 Here are some ways you can help to make this event more awesome!
 
