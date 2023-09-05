@@ -2,7 +2,7 @@
 
 The following notes are extracted from our Invision Freehand whiteboard. At that time, our board looked like this:
 
-![](https://im.dt.in.th/ipfs/bafybeici2zjkydnbg7rulyayg3wng4tcvwpos6oeajtd3xurpcuuojuesi/image.webp)
+![](https://im.dt.in.th/ipfs/bafybeiepb4sx4xjxzsdkva6tjllok2mtvxhztzwqjtvq5t42dcbtovtxee/image.webp)
 
 # Communication tools
 
