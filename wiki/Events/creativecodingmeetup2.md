@@ -4,10 +4,8 @@ event:
   name: Coding colorful sounds
   location: Cleverse
   date: "2023-09-22"
-  # endDate: "YYYY-MM-DD"
   site: https://chromatone.center/academy/events/coding-colorful-sounds/
   eventpopId: 16101
-  unlisted: true #  Remove this line when event is ready
   hosts:
     - Creatorsgarten
     - Chromatone
