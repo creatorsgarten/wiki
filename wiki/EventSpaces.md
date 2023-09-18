@@ -1,11 +1,12 @@
 | Name | Type | Location | Capacity |
 | ----- | ----- | ----- | ----- |
-| [[Arise by INFINITAS]] |  | 5th Fl., The PARQ (West Wing) | 50 |
+| [[AriseByINFINITAS]] |  | 5th Fl., The PARQ (West Wing) | 50 |
 | [[AreaX]] |  | 4th Fl., Siam Paragon | 30 |
 | [[BITEC]] |  |  |  | 
 | [[BangSpace]] |  |  |  |
 | [[BokTeer]] |  |  |  |
 | [[Cariva]] |  |  | 50 |
+| [[ClazyCafe]] |  | The Seasons Mall | 100 |
 | [[Cleverse]] |  | 13th Fl., Rungrojthanakul Building | 90 |
 | [[CodeCraft]] |  |  |  |
 | [[DocClub]] |  |  |  |
