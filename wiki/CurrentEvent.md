@@ -4,6 +4,8 @@ grtn: c
 
 # Creative Coding Meetup #2 - Coding Colorful Sounds
 
+Event page: {% render 'Event', name: 'creativecodingmeetup2' %}
+
 - [**Feedback form**](https://forms.gle/8SZfGsApQktq5Npy7)
 
 - [chromatone.center](https://chromatone.center)
