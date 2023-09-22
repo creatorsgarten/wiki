@@ -2,11 +2,17 @@
 grtn: c
 ---
 
-# Side Projects Showdown
+# Creative Coding Meetup #2 - Coding Colorful Sounds
+
+- [**Feedback form**](https://forms.gle/8SZfGsApQktq5Npy7)
+
+- [chromatone.center](https://chromatone.center)
+
+---
+
+:::details[Archive: Side Projects Showdown]
 
 Event page: {% render 'Event', name: 'sideproject' %}
-
-- [**Live stream on Facebook page!**](TBD)
 
 - [**Vote for talks in our Discord server**](https://grtn.org/dc)
 
@@ -22,7 +28,7 @@ Event page: {% render 'Event', name: 'sideproject' %}
   - [Cleverse](https://cleverse.com/)
   - [สมาคมโปรแกรมเมอร์ไทย](https://www.facebook.com/ThaiProgrammerSociety)
 
----
+:::
 
 :::details[Archive: Functional programming meetup #2: Elm for frontend developers]
 
