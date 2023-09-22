@@ -10,6 +10,10 @@ Event page: {% render 'Event', name: 'creativecodingmeetup2' %}
 
 - [chromatone.center](https://chromatone.center)
 
+- [slides.chromatone.center](https://slides.chromatone.center)
+
+- [(Closing slides)](https://docs.google.com/presentation/d/126fBX7Y_-309zoCwS1JWJ9um8R5UsLQxqFYu961_jNM/edit#slide=id.p)
+
 ---
 
 :::details[Archive: Side Projects Showdown]
