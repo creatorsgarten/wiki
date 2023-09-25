@@ -26,5 +26,5 @@
 | [[TheJamFactory]] |  |  |  |
 | [[ThoughtWorksThailand]] |  |  |  |
 | [[True5GProHub]] |  |  |  |
-| [[WiseSight]] |  | 33rd Fl., SUNTOWERS (Tower B) | 100 |
+| [[WiseSight]] |  | 33rd Fl., SUNTOWERS (Tower B) | 120 |
 | [[ZillaSpace]] |  |  |  |
