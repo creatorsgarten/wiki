@@ -22,8 +22,8 @@
 | [[SCB10X]] |  |  |  |
 | [[SCBXNEXTTECH]] |  | 4th Fl., Siam Paragon | 200 |
 | [[SevenPeaksSoftware]] |  | 5th Fl., The PARQ (East Wing) | 250 |
-| [[Skooldio]] |  | 5th Fl., The PARQ (East Wing) | 250 |
-| [[TheJamFactory]] |  | 20th Fl., MBK Center | 80 |
+| [[Skooldio]] |  | 20th Fl., MBK Center | 80 |
+| [[TheJamFactory]] |  |  |  |
 | [[ThoughtWorksThailand]] |  |  |  |
 | [[True5GProHub]] |  |  |  |
 | [[WiseSight]] |  | 33rd Fl., SUNTOWERS (Tower B) | 100 |
