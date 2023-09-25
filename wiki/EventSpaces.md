@@ -1,5 +1,6 @@
 | Name | Type | Location | Capacity |
 | ----- | ----- | ----- | ----- |
+| [[Agoda]] |  | 44th Fl., centralwOrld | 100 |
 | [[AriseByINFINITAS]] |  | 5th Fl., The PARQ (West Wing) | 50 |
 | [[AreaX]] |  | 4th Fl., Siam Paragon | 30 |
 | [[BITEC]] |  |  |  | 
@@ -12,7 +13,7 @@
 | [[DocClub]] |  |  |  |
 | [[FarmKits]] |  |  |  |
 | [[HarbourSpace]] |  |  |  |
-| [[K+]] |  |  | 200 |
+| [[K+Building]] |  | K+ Building, Soi Chula 20 | 200 |
 | [[MicrosoftThailand]] |  | 38th Fl., CRC Tower Building, All Seasons Place | 105 |
 | [[MuseFoundation]] |  |  |  |
 | [[QSNCC]] |  |  |  |
@@ -25,5 +26,5 @@
 | [[TheJamFactory]] |  | 20th Fl., MBK Center | 80 |
 | [[ThoughtWorksThailand]] |  |  |  |
 | [[True5GProHub]] |  |  |  |
-| [[WiseSight]] |  |  |  |
+| [[WiseSight]] |  | 33rd Fl., SUNTOWERS (Tower B) | 100 |
 | [[ZillaSpace]] |  |  |  |
