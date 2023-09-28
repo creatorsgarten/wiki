@@ -11,6 +11,7 @@ We use "Creatorsgarten" as a single word (similar to "Kindergarten"). Please cap
 - ✅ Creatorsgarten
 - ✅ creatorsgarten
 
+### Common misspellings
 - "Creators" is in a plural form: ❌ Creatorgarten
 - We use "garten" as in "Kindergarten" not "garden" or "gaten": ❌ Creatorgarden or ❌ Creatorgaten
 - Please do not capitalize the letter G: ❌ CreatorsGarten
