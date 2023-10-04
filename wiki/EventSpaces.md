@@ -10,6 +10,7 @@
 | [[ClazyCafe]] |  | The Seasons Mall | 100 |
 | [[Cleverse]] |  | 13th Fl., Rungrojthanakul Building | 90 |
 | [[CodeCraft]] |  |  |  |
+| [[DISTRICTX]] |  | 3rd Fl., One FYI Center Building (Office Zone) | 80 |
 | [[DocClub]] |  |  |  |
 | [[FarmKits]] |  |  |  |
 | [[HarbourSpace]] |  |  |  |
