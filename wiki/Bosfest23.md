@@ -26,6 +26,7 @@ title: Bangkok Open Source Festival '23
 ---
 
 :::Draft
+````
 - Sponsors ::
   - How to contribute
     - Money
@@ -68,7 +69,6 @@ Current Partners
 
 - # Projects ::
 
-
 - # Maintainers ::
   - Ring of people who contributes or maintains projects
     - Name, GitHub, Key Projects, their Personal Website
@@ -79,4 +79,5 @@ Current Partners
   - Repo is made by Thais, or at least one Thai maintainer.
   
 - 9:30 to 4:00PM at WiseSight
+```
 :::
