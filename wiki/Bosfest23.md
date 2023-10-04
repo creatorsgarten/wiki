@@ -25,7 +25,7 @@ title: Bangkok Open Source Festival '23
 
 ---
 
-:::draft
+:::Draft
 ```
 - Sponsors ::
   - How to contribute
