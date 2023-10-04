@@ -11,3 +11,4 @@ guild:
   - [Discord Community: Bangkok Open Source](https://grtn.org/bkkoss-discord)
 - Events
   - {% render 'Event', name: 'bangkok' %}
+- [[Bosfest23|Bangkok Open Source Festival '23]]
