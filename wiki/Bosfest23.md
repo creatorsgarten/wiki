@@ -26,7 +26,6 @@ title: Bangkok Open Source Festival '23
 ---
 
 :::Draft
-```
 - Sponsors ::
   - How to contribute
     - Money
@@ -80,6 +79,4 @@ Current Partners
   - Repo is made by Thais, or at least one Thai maintainer.
   
 - 9:30 to 4:00PM at WiseSight
-```
-
 :::
