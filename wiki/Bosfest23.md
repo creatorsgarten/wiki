@@ -21,4 +21,4 @@ title: Bangkok Open Source Festival '23
 - G0 Hack Club Meetups [@Phoomparin]
 
 # 🚀 Future Plan
-- We plan to scale up the campaign to the "Thai Open Source Festival" in 2024 -- nevertheless, people from other provinces in Thailand can still participate in this year's event as well (whether as a contributor, project maintainers, community managers, or else)
+- We plan to scale up the campaign to the "Thai Open Source Festival" in 2024 -- nevertheless, people from other provinces in Thailand can still participate in this year's event as well, whether as a contributor, project maintainers, community managers, or else.
