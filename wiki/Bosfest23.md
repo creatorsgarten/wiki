@@ -8,8 +8,8 @@ title: Bangkok Open Source Festival '23
 
 # ⭐️ Objectives (in brief)
 - Connect developers and communities from different circles
-- Promote Thai open-source projects and encourage people to contribute to them
-- Hacktoberfest stopped giving physical swags and the policy prohibits making swags with the Hacktoberfest brand, so why not make our own?
+- Promote Thai open-source projects and encourage developers to contribute them
+- Hacktoberfest stopped giving physical swags and their policy prohibits making swags with the Hacktoberfest brand, so why not make our own?
 
 # 🏕️ How to give swags [Draft]
 - Participants who contribute to open source projects in the *Thai Open Source Web Ring* or join the event within the campaign [or else?] will receive a point
