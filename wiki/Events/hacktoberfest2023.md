@@ -6,7 +6,6 @@ event:
   date: "2023-10-21"
   site: https://www.eventpop.me/e/16277/hacktoberfest-2023
   eventpopId: 16277
-  unlisted: true # Remove this line when event is ready
   hosts:
     - Creatorsgarten
 ---
