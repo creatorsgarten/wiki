@@ -1,5 +1,5 @@
 ---
-image: https://user-images.githubusercontent.com/193136/236173173-755b513b-6398-46a7-9fcb-ced21153c094.png
+image: https://im.dt.in.th/ipfs/bafybeicku73rzxibb6ykmwbkhcjrsa5zleat36bv65jxdpqtriqbtaxaui/image.webp
 event:
   name: Hacktoberfest Thailand 2023
   location: Wisesight
