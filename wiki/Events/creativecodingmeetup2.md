@@ -17,8 +17,12 @@ event:
 
 [**Chromatone**](https://chromatone.center/) comes to Creatorsgarten, the open community of developers in Bangkok to share all the insights discovered along our more than 5 years of Visual Music Language development. This **Creative coding meetup #2** at Cleverse will shine light on the source code and dev practices that enable endless audio-visual opportunities to be used in your web-apps.
 
-[Check out the full event information on Chromatone.center](https://chromatone.center/academy/events/coding-colorful-sounds/)
-
-{% render 'EventpopButton', id: page.event.eventpopId %}
-
 {% render 'EventBox', name: ref %}
+
+# Part 1
+
+`youtube:qthKClCRIl0`
+
+# Part 2
+
+`youtube:vlxQzHdx0DE`
