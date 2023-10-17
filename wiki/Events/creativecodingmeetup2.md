@@ -4,7 +4,7 @@ event:
   name: Coding colorful sounds
   location: Cleverse
   date: "2023-09-22"
-  site: https://chromatone.center/academy/events/coding-colorful-sounds/
+  site: https://academy.chromatone.center/events/coding-colorful-sounds/
   eventpopId: 16101
   hosts:
     - Creatorsgarten
