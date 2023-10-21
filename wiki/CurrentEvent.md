@@ -5,6 +5,7 @@ grtn: c
 # Hacktoberfest Thailand 2023
 
 - กดลิงค์นี้มาแก้บอร์ดเลย --> [Draw anything!](https://grtn.org/e/htbf2023/board) Share your projects, good first issues, tips and thoughts here for everyone to see!
+- หาโปรเจค contribute เลยวันนี้ --> [Bangkok Open Source Webring: open.source.in.th](https://open.source.in.th) ใครได้ 3 PR วันนี้เอาเสื้อไปเลยยย
 
 ---
 
