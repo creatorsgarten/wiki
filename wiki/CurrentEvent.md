@@ -4,7 +4,7 @@ grtn: c
 
 # Hacktoberfest Thailand 2023
 
-- [Draw anything!](https://grtn.org/e/htbf2023/board) Share your projects, good first issues, tips and thoughts here for everyone to see!
+- กดลิงค์นี้มาแก้บอร์ดเลย --> [Draw anything!](https://grtn.org/e/htbf2023/board) Share your projects, good first issues, tips and thoughts here for everyone to see!
 
 ---
 
