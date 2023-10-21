@@ -2,6 +2,14 @@
 grtn: c
 ---
 
+# Hacktoberfest Thailand 2023
+
+- [Draw anything!](https://grtn.org/e/htbf2023/board) Share your projects, good first issues, tips and thoughts here for everyone to see!
+
+---
+
+:::details[Archive: Creative Coding Meetup]
+
 # Creative Coding Meetup #2 - Coding Colorful Sounds
 
 Event page: {% render 'Event', name: 'creativecodingmeetup2' %}
@@ -14,7 +22,7 @@ Event page: {% render 'Event', name: 'creativecodingmeetup2' %}
 
 - [(Closing slides)](https://docs.google.com/presentation/d/126fBX7Y_-309zoCwS1JWJ9um8R5UsLQxqFYu961_jNM/edit#slide=id.p)
 
----
+:::
 
 :::details[Archive: Side Projects Showdown]
 
