@@ -57,6 +57,7 @@ grtnRedirects:
   ideas: https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas
   streams: https://www.youtube.com/playlist?list=PLTuz2sLvbRpwkoLi0AYDwdABU5dhkoGIr
   artcouncil/notion: https://www.notion.so/creatorsgarten/Bangkok-Digital-Youth-Art-Council-690fa6a8d0fe4ef08a9e014f5d16b917
+  bosf23/redeem: https://airtable.com/appG8sOm9jH66hzrW/shrxaf9AHoQOurbUt
 ---
 
 
