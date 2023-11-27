@@ -20,3 +20,10 @@ meetups:
   place: 'MK Siam Square One'
   url: https://www.facebook.com/events/371474812018279
 ---
+
+{% liquid
+%}
+|  Date | Name | Place |
+| ----- | ---- | ----- |{% for event in meetups %}
+%}
+| {{ event.date }} | [{{ event.name }}]({{ event.url }}) | {{ event.place }} |{% endfor %}
