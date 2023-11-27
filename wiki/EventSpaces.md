@@ -25,7 +25,7 @@
 | [[QSNCC]] |  |  |  |
 | [[RISE]] |  |  |  |
 | [[SVLHouse]] |  |  |  |
-| [[SCB10X]] |  |  |  |
+| [[SCB10X]] |  | 3rd Floor, FYI Center (Next to MRT QSNCC) | 30 - 200 |
 | [[SCBXNEXTTECH]] |  | 4th Fl., Siam Paragon | 200 |
 | [[SevenPeaksSoftware]] |  | 5th Fl., The PARQ (East Wing) | 250 |
 | [[Skooldio]] |  | 20th Fl., MBK Center | 80 |
