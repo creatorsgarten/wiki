@@ -21,8 +21,6 @@ meetups:
   url: https://www.facebook.com/events/371474812018279
 ---
 
-{% liquid
-%}
 |  Date | Name | Place |
-| ----- | ---- | ----- |{% for event in page.meetups %}
+| ----- | ---- | ----- |{% for event in page.meetups | sort: 'date' | reverse %}
 | {{ event.date }} | [{{ event.name }}]({{ event.url }}) | {{ event.place }} |{% endfor %}
