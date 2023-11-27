@@ -25,5 +25,4 @@ meetups:
 %}
 |  Date | Name | Place |
 | ----- | ---- | ----- |{% for event in page.meetups %}
-%}
 | {{ event.date }} | [{{ event.name }}]({{ event.url }}) | {{ event.place }} |{% endfor %}
