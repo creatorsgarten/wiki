@@ -64,4 +64,4 @@ The name Creatorsgarten comes from the word creators and garten, as in kindergar
 
 We invite you to join us on this journey of exploration and creation. Together, let’s create things.
 
-<span style="display: block; border: 2px solid black" class="not-prose">![](https://assets.creatorsgarten.org/images/cover.webp)</span>
+<span style="display: block; border: 2px solid black" class="not-prose">![](https://assets.creatorsgarten.org/cover.webp)</span>
