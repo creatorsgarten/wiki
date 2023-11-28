@@ -24,6 +24,11 @@ meetups:
   name: 'Onsen.js #7'
   place: Panpuri Onsen
   url: https://www.facebook.com/events/458938814945356/
+
+- date: '2019-11-28'
+  name: Pre-JSConf Japan Onsen.js
+  place: Ooedo Onsen Monogatari, Odaiba, Tokyo, Japan
+  url: https://www.facebook.com/photo/?fbid=10213345614029019&set=a.2784047494529
 ---
 
 :::lead
@@ -42,6 +47,8 @@ It is well known that taking a bath improves creativity and problem solving. [Ar
 Furthermore, taking bath makes you feel more fresh and energized. And it promotes good hygiene. Last but not least, the Onsen bath [“promotes muscle pain relief, fatigue alleviation and blood circulation.”](https://www.panpuri.com/wellness/onsen-treatment.html)
 
 Unfortunately, most offices don’t have Onsen baths. It is a problem that hinders and hampers productivity in workplaces around the world.
+
+# Places
 
 ## PAÑPURI Onsen & Spa
 
@@ -62,3 +69,7 @@ If I understand correctly, the day pass only allows a single entrance. That mean
 For first timers, I know it can feel quite daunting to take a communal bath with people you’ve just met! Once you enter the premises, please feel free to proceed to the Onsen pools right away; no need to wait. We can get to know each other afterwards!
 
 Please feel free to invite your friends, but please bear in mind that the work area has only 10 seats. There are other seats but they are not ideal for working (you are more likely to get back pain, leaving you worse off). Feel free to join and leave at any time. For example, I might stay until the place closes… or not, depending on situation.
+
+## Let’s Relax Onsen
+
+[Read Poom’s review here.](https://www.facebook.com/phoomparin.mano/posts/pfbid0XhPQzV2QVRUtv5JLyRpDLqVdwPo8CpdcQSg6wUHXJKcnE8hGvCeeuoGs67SWYpnzl)
