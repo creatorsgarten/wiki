@@ -31,7 +31,7 @@
 | [[Skooldio]] |  | 20th Fl., MBK Center | 80 |
 | [[SoftwareParkThailand]] |  | Software Park Building | 80 |
 | [[TheJamFactory]] |  |  |  |
-| [[ThoughtWorksThailand]] |  |  |  |
+| [[ThoughtworksThailand]] |   | 19th Floor G Tower | 120 |
 | [[True5GProHub]] |  |  |  |
 | [[WiseSight]] |  | 33rd Fl., SUNTOWERS (Tower B) | 120 |
 | [[ZillaSpace]] |  |  |  |
