@@ -7,6 +7,10 @@ event:
   hosts:
     - Creatorsgarten
   eventpopId: 16880
+imageAssets:
+  # banner: ''
+  poster: 'https://p-u.popcdn.net/event_details/posters/000/016/880/large/f80da03a9005242361ef54faa3f6477894d3ea2e.png?1702487967'
+  cover: 'https://p-u.popcdn.net/event_details/covers/000/016/880/og_cover/a29275acd9313c6817201adff6b421511b479b9a.png?1706236732'
 ---
 
 {% render 'EventBox', name: ref %}
