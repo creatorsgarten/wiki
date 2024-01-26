@@ -26,8 +26,7 @@ event:
 | 14:45 - 15:10 | **Session 2:** Reactive Programming, observe value change over the event. |
 | 15:10 - 15:25 | **Break** |
 | 15:25 - 15:40 | **Session 3:** สร้างเว็บแหล่งความรู้สวยๆ ด้วย VitePress |
-| 15:40 - 16:10 | **Session 4:** All about testing from 0 to 7
-(คิดก่อนทำ หรือ ทำแล้วค่อยคิด .. ที่จะ Test) |
+| 15:40 - 16:10 | **Session 4:** All about testing from 0 to 7 (คิดก่อนทำ หรือ ทำแล้วค่อยคิด .. ที่จะ Test) |
 | 16:10 - 16:20 | **Session 5:** Record CLI-based workflows with VHS |
 | 16:20 - 16:35 | **Session 6:** JavaScript Behind the Scenes of PyCon Thailand 2023 |
 | 16:35 - 17:00 | **Session 7:** A Journey into Next-gen CSS-in-JS Innovations |
