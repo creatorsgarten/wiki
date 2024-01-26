@@ -53,3 +53,7 @@ When running a Creatorsgarten event, some image assets have to be prepared.
 ## Designed by Ohm
 
 {% render 'EventImageExampleFromEvent', name: 'bkkjs17' %}
+
+## Designed by Riffy
+
+{% render 'EventImageExampleFromEvent', name: 'bkkjs19' %}
