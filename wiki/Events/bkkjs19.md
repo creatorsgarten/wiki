@@ -34,7 +34,7 @@ imageAssets:
 | 16:10 - 16:20 | **Session 5:** Record CLI-based workflows with VHS |
 | 16:20 - 16:35 | **Session 6:** JavaScript Behind the Scenes of PyCon Thailand 2023 |
 | 16:35 - 17:00 | **Session 7:** A Journey into Next-gen CSS-in-JS Innovations |
-| 17:00 - 17:15 | **Special:** Introducing Thailand JavaScript Communities |
-| 17:25 - 17:35 | **Lighting Talk #1** |
-| 17:35 - 17:45 | **Lighting Talk #2** |
-| 17:45 - 18:00 | **Closing + Networking** |
+| 17:00 - 17:10 | **Lighting Talk #1** |
+| 17:10 - 17:20 | **Lighting Talk #2** |
+| 17:20 - 17:30 | **Special:** Introducing Thailand JavaScript Communities |
+| 17:30 - 18:00 | **Closing + Networking** |
