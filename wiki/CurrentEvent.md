@@ -2,12 +2,28 @@
 grtn: c
 ---
 
+# BKK.js #19
+
+Slides:
+
+- [Thailand Developer Survey](https://docs.google.com/presentation/d/11rlLhgPE7bWd50ojoQW_xtSxhXdHgk8BRGyWRUaYCyI/edit?usp=drivesdk)
+
+- [npm package for write Jest easy](https://bit.ly/47NUB4Z)
+
+- [Reactive Programming, observe value change over the event.](https://www.canva.com/design/DAF6bm3NBkE/RjTRj9ldRMinL-oV0oCYXw/view?utm_content=DAF6bm3NBkE&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+
+- [All about testing from 0 to 7 (คิดก่อนทำ หรือ ทำแล้วค่อยคิด .. ที่จะ Test)](https://speakerdeck.com/up1/javascript-testing-every-day)
+
+---
+
+:::details[Hacktoberfest Thailand 2023]
+
 # Hacktoberfest Thailand 2023
 
 - กดลิงค์นี้มาแก้บอร์ดเลย --> [Draw anything!](https://grtn.org/e/htbf2023/board) Share your projects, good first issues, tips and thoughts here for everyone to see!
 - หาโปรเจค contribute เลยวันนี้ --> [Bangkok Open Source Webring: open.source.in.th](https://open.source.in.th) ใครได้ 3 PR วันนี้เอาเสื้อไปเลยยย
 
----
+:::
 
 :::details[Archive: Creative Coding Meetup]
 
