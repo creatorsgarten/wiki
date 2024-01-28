@@ -2,7 +2,7 @@
 
 # Organizer Onboarding
 
-## Joining Outline
+## Join Outline to collaborate on meeting notes
 
 We use the open-source [Outline](https://www.getoutline.com/) application to store and collaborate on meeting notes. To access them:
 
