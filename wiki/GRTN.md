@@ -61,6 +61,7 @@ grtnRedirects:
   tobeit: https://www.dropbox.com/scl/fi/56um89wjvs9ui62fqf66f/Ideation-for-everyone-ToBeIT-Shrink.pdf?rlkey=ws8nj3yv0zgq6ncqdou3nwqxx&dl=0
   e/bkkjs19/cfp: https://www.eventpop.me/events/16880/application_forms/1024/applicants/new
   dev-survey-2024: https://docs.google.com/forms/d/e/1FAIpQLScu7oEQG2rgm67_BzWEcj-NzRNe0Ai3OlejbJh3wJZ2YPQ7kw/viewform?usp=sf_link
+  algorave/sponsor: https://creatorsgarten.notion.site/Algorave-Bangkok-2024-Fact-Sheet-Sponsorship-Package-4789a73b7f5c4d68b7052afefadca464
 ---
 
 
