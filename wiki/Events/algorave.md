@@ -1,14 +1,14 @@
 ---
 event:
-  name: Algorave
-  location: Siam Discovery
-  date: "2023-09-24"
-  endDate: "2023-09-25"
+  name: a bit of thai tunes
+  location: Museum Siam
+  date: "2024-04-05"
+  endDate: "2024-04-06"
   # site:
   unlisted: true
   hosts:
     - Creatorsgarten
-  # eventpopId: 15113
+  # eventpopId: 17379
 ---
 
 :::lead
