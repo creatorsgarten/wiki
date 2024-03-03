@@ -34,7 +34,6 @@ equipments:
     description: Preloaded with editing, and streaming tools.
     link:
       Model Tech Specs: https://support.apple.com/kb/SP891?viewlocale=en_US&locale=en_US
-    notes: USB-C video/power in<br>HDMI in<br>USB-C and HDMI cables included
   - name: Arzopa A1 Gamut Slim
     custody: Thai
     type: av
@@ -42,6 +41,7 @@ equipments:
     description: Portable monitor, 14-inch 1080p60
     link:
       Manual: https://cdn.shopify.com/s/files/1/0570/9280/0675/files/Arzopa_A1S.pdf?v=1707041874
+    notes: USB-C video/power in<br>HDMI in<br>USB-C and HDMI cables included
   - name: Power Grid (Board game)
     custody: g0
     type: toy
