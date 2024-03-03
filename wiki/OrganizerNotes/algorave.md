@@ -1,8 +1,8 @@
 {% render 'EventBox', name: 'algorave' %}
 
-# Timeline
+# Activity log
 
-| Date | Event |
+| Date | Activity |
 | --- | --- |
 | 2023-07-11 | Notion page setup |
 | 2023-08-02 | 1st meeting |
