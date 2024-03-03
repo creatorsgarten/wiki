@@ -13,3 +13,4 @@
 | 2024-02-29 | [Nattanon posted event teaser on Facebook](https://www.facebook.com/iamnutn0n/posts/pfbid02ZsMjr6esaLTeShjcuZsE2MdXKgpJ4n979Z6pdVwkobyX1cNozgyFKTSDgAB7vLFel) |
 | 2024-03-02 | [Pub posted event teaser on Facebook](https://www.facebook.com/chayapatr/posts/pfbid0W1b5PHjvcjvW8ZgDDAVQJmk2zfsGGQhC6JU1ndZqPHgKjrmGWymSNwBDRZvjvy8Ll) |
 | 2024-03-02 | [Event published on Eventpop](https://www.eventpop.me/s/thai) |
+| 2024-03-03 | [Event announced on Instagram](https://www.instagram.com/p/C4Ct5LMP1FC/) |
