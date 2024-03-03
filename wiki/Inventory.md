@@ -34,6 +34,13 @@ equipments:
     description: Preloaded with editing, and streaming tools.
     link:
       Model Tech Specs: https://support.apple.com/kb/SP891?viewlocale=en_US&locale=en_US
+  - name: Arzopa A1 Gamut Slim
+    custody: Thai
+    type: av
+    url: https://www.arzopa.com/products/a1s-14-fhd-portable-monitor
+    description: Portable monitor, 14-inch 1080p60
+    link:
+      Manual: https://cdn.shopify.com/s/files/1/0570/9280/0675/files/Arzopa_A1S.pdf?v=1707041874
   - name: Power Grid (Board game)
     custody: g0
     type: toy
