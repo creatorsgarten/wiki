@@ -2,7 +2,7 @@
 thing: other stuff
 links:
   - title: a bit of thai tunes
-    description: The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand
+    description: 5-6 April 2024 @ Museum Siam
     url: https://eventpop.me/s/thai
   - title: Facebook
     url: https://grtn.org/fb
