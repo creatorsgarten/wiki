@@ -1,20 +1,9 @@
 ---
 thing: other stuff
 links:
-  - title: Late submissions
+  - title: a bit of thai tunes
     description: The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand
-    url: https://airtable.com/shrUMPuXyTehMn7J4
-  - title: Functional Meetup #2
-    description: elm for frontend developers
-    url:  https://www.eventpop.me/e/15503/elm
-  - title: The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand
-    url: https://stupid.hackathon.in.th/7/
-    bg: '#FFBA00'
-    fg: '#000000'
-  - title: The Stupid Hackathon in Thailand
-    url: https://stupid.hackathon.in.th/
-    bg: '#e6e6e6'
-    fg: '#000000'
+    url: https://eventpop.me/s/thai
   - title: Facebook
     url: https://grtn.org/fb
     bg: '#1877f2'
