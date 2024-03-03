@@ -29,7 +29,7 @@ A compilation of helpful links provided by [Creatorsgarten](https://creatorsgart
 {%- assign fg = link.fg | default: '#ffffff' -%}
 {%- assign icon = link.icon | default: 'clarity:world-line' -%}
 <a href="{{link.url}}" style="padding: 0.25rem 0.5rem; display: flex; text-align: center; border-radius: 0.25rem; background: {{ bg }}; color: {{ fg }};">
-<span style="font-size: 1.5em; display: flex; align-items: center; flex: none"><iconify-icon icon="{{ icon }}"></iconify-icon></span>
+<span style="font-size: 1.5em; display: flex; align-items: center; flex: none"><iconify-icon icon="{{ icon | escape }}"></iconify-icon></span>
 <span style="flex: 1; padding: 0.25rem; display: block;"><strong>{{link.title}}</strong>
 {%- if link.description -%}
 <br><span style="opacity: 0.8">{{ link.description }}</span>
