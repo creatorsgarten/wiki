@@ -34,6 +34,7 @@ equipments:
     description: Preloaded with editing, and streaming tools.
     link:
       Model Tech Specs: https://support.apple.com/kb/SP891?viewlocale=en_US&locale=en_US
+    notes: USB-C video/power in<br>HDMI in<br>USB-C and HDMI cables included
   - name: Arzopa A1 Gamut Slim
     custody: Thai
     type: av
