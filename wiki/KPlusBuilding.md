@@ -7,6 +7,11 @@ venue:
 Notes for organizers running an event at the 3rd floor of [**K+ Building**](https://www.kasikornbank.com/th/News/Documents/20200402_K+Building_ForAcademic.pdf).
 :::
 
+# Internet
+
+- The venue might not provide a Wi-Fi signal, in which case, we need to use mobile internet.
+  - AIS mobile network has stronger signal than Dtac inside the building.
+
 # Video
 
 - (To confirm) HDMI input at the left of the stage.
