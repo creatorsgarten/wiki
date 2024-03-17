@@ -30,4 +30,4 @@ Notes for organizers running an event at the 3rd floor of [**K+ Building**](http
 
 Blue: provided by venue; Red: we bring the equipments
 
-![](https://im.dt.in.th/ipfs/bafybeihjbr55ziti4ijtnnbw56u2sdawn7w5c4fszlljklngrnhfruimte/432305336_1108727186939847_1446032145830558043_n.jpg)
+![](https://im.dt.in.th/ipfs/bafybeietbjzq6vpi5afodueguathffoluevp4fuprebqk3nqpph5ima344/430023113_743245174586658_6376409057611435900_n.jpg)
