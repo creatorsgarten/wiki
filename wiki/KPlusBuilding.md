@@ -25,3 +25,9 @@ Notes for organizers running an event at the 3rd floor of [**K+ Building**](http
 
 - A [mixer](https://usa.yamaha.com/files/download/other_assets/6/331296/ql5_en_om_b0.pdf) is provided by the venue. XLR output from the venue’s mixer is available at the left of the stage. Livestreaming crew can use that signal for live streaming.
 - Wireless microphones are provided by the venue. Each mic needs 2 AA batteries, which can last for 2-3 hours. Organizers should buy spare batteries in case batteries run out.
+
+# Past setup
+
+Blue: provided by venue; Red: we bring the equipments
+
+![](https://im.dt.in.th/ipfs/bafybeihjbr55ziti4ijtnnbw56u2sdawn7w5c4fszlljklngrnhfruimte/432305336_1108727186939847_1446032145830558043_n.jpg)
