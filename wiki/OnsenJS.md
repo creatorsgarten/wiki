@@ -29,6 +29,11 @@ meetups:
   name: Pre-JSConf Japan Onsen.js
   place: Ooedo Onsen Monogatari, Odaiba, Tokyo, Japan
   url: https://www.facebook.com/photo/?fbid=10213345614029019&set=a.2784047494529
+
+- date: '2024-03-11'
+  name: Post-WordCamp Asia HotSpring.js
+  place: Beitou Public Hotspring, Taipei, Taiwan
+  url: https://web.facebook.com/dtinth/posts/pfbid0y2Kt7At3KGpsMbwH6ckepvbfgz9SDB7bjiEmB5kKz8YJjuLYpEZzwtTfBtTq6xMHl
 ---
 
 :::lead
