@@ -42,7 +42,8 @@ meetups:
 
 {% assign events = page.meetups | sort: 'date' | reverse %}
 |  Date | Name | Place |
-| ----- | ---- | ----- |{% for event in events %}
+| ----- | ---- | ----- |
+| Soon | Onsen.js #8 | … |{% for event in events %}
 | {{ event.date }} | [{{ event.name }}]({{ event.url }}) | {{ event.place }} |{% endfor %}
 
 **tl;dr:** Join us and work remotely with boosted productivity and cleanliness, with an Onsen communal bath available a few footsteps away from your workspace.
