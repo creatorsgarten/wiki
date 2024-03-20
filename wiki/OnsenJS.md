@@ -63,7 +63,7 @@ The work area has a USB plug on each seat, and a power outlet is available every
 
 A day pass costs 750 THB and gives you access to the onsen from 10 AM to 10:45 PM, after which the staffs will chase you out.
 
-[There are occasional promotions on GoWabi where prices drop down to 650 THB.](https://www.gowabi.com/th/provider/panpuri-wellness) Refer your friend and both you and your friend gets a 100 THB discount. If it’s your first time and you got no one to refer you, my referal code is thai-5702366.
+[There are occasional promotions on GoWabi where prices drop down to 690 THB.](https://www.gowabi.com/th/provider/panpuri-wellness) Refer your friend and both you and your friend gets a 100 THB discount. If it’s your first time and you got no one to refer you, my referal code is thai-5702366.
 
 Free Yoga class available at 6:30 PM, I guess…?
 
