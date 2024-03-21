@@ -50,7 +50,7 @@ Unfortunately, most offices don’t have Onsen baths. It is a problem that hinde
 
 # Event list
 
-Due to limited working space at the Onsen premises, we use the _friends invite friends_ system. If you know some of your friend is going and would like to join, feel free to ask them for an invite. Also, feel free to organize your own Onsen.js, and feel free to invite us!
+Due to limited working space at the Onsen premises, we use the _friends invite friends_ system. If you know some of your friend is going and would like to join, feel free to ask them for an invite. Also, feel free to [organize your own Onsen.js](#how-to-organize), and feel free to invite us!
 
 {% assign events = page.meetups | sort: 'date' | reverse %}
 |  Date | Name | Place |
@@ -83,3 +83,10 @@ Please feel free to invite your friends, but please bear in mind that the work a
 ## Let’s Relax Onsen
 
 [Read Poom’s review here.](https://www.facebook.com/phoomparin.mano/posts/pfbid0XhPQzV2QVRUtv5JLyRpDLqVdwPo8CpdcQSg6wUHXJKcnE8hGvCeeuoGs67SWYpnzl)
+
+# How to organize
+
+1. Gather a few friends who would like to go to an Onsen. Usually this is done in person, maybe at a meetup or something. Pick a date and place.
+2. Create a private Facebook event. Let invited guests invite others. You can link to this page for introduction to the event. If there are discounted vouchers to buy, let the people know.
+3. Enjoy the event!
+4. Take a group photo, post it on Facebook, and add it to the table above [by submitting a PR to this file](https://github.com/creatorsgarten/wiki/blob/main/wiki/OnsenJS.md).
