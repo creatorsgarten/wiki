@@ -86,7 +86,7 @@ Please feel free to invite your friends, but please bear in mind that the work a
 
 # How to organize
 
-1. Gather a few friends who would like to go to an Onsen. Usually this is done in person, maybe at a meetup or something. Pick a date and place.
+1. Gather a few friends who would like to go to an Onsen. Usually this is done in person, maybe at a meetup or something. Pick a date and place. For remote working, it is recommended to pick an off-peak time, such as weekday afternoon.
 2. Create a private Facebook event. Let invited guests invite others. You can link to this page for introduction to the event. If there are discounted vouchers to buy, let the people know.
 3. Enjoy the event!
 4. Take a group photo, post it on Facebook, and add it to the table above [by submitting a PR to this file](https://github.com/creatorsgarten/wiki/blob/main/wiki/OnsenJS.md).
