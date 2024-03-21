@@ -50,7 +50,7 @@ Unfortunately, most offices don’t have Onsen baths. It is a problem that hinde
 
 # Event list
 
-Due to limited working space at the Onsen premises, we use the _friends invite friends_ system. If you know some of your friend is going and would like to join, feel free to ask them for an invite. Also, feel free to [organize your own Onsen.js](#how-to-organize), and feel free to invite us!
+Due to limited working space at the Onsen premises, we use the _friends invite friends_ system. If you a friend who is going and would like to join, feel free to ask them for an invite. Also, feel free to [organize your own Onsen.js](#how-to-organize), and feel free to invite us!
 
 {% assign events = page.meetups | sort: 'date' | reverse %}
 |  Date | Name | Place |
