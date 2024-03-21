@@ -40,12 +40,6 @@ meetups:
 **“My body needs some Onsen…”** Take a break, meet up with great people, or work remotely, with an Onsen pool a few footsteps away!
 :::
 
-{% assign events = page.meetups | sort: 'date' | reverse %}
-|  Date | Name | Place |
-| ----- | ---- | ----- |
-| Soon | Onsen.js #8 | … |{% for event in events %}
-| {{ event.date }} | [{{ event.name }}]({{ event.url }}) | {{ event.place }} |{% endfor %}
-
 **tl;dr:** Join us and work remotely with boosted productivity and cleanliness, with an Onsen communal bath available a few footsteps away from your workspace.
 
 It is well known that taking a bath improves creativity and problem solving. [Archimedes found his Eureka moment in the bath.](https://en.wikipedia.org/wiki/Archimedes) Hundreds of people came up with thoughtful ideas in the shower and posted to [r/Showerthoughts](https://www.reddit.com/r/Showerthoughts/new/) every day. [“72% of people get their best ideas in the shower.”](https://www.businessinsider.com/why-people-get-their-best-ideas-in-the-shower-2016-1) Taking shower is known to contribute to increased dopamine flow and helps you become more relaxed, [bringing you to the “creative sweet spot”.](https://lifehacker.com/science-explains-why-our-best-ideas-come-in-the-shower-5987858)
@@ -53,6 +47,16 @@ It is well known that taking a bath improves creativity and problem solving. [Ar
 Furthermore, taking bath makes you feel more fresh and energized. And it promotes good hygiene. Last but not least, the Onsen bath [“promotes muscle pain relief, fatigue alleviation and blood circulation.”](https://www.panpuri.com/wellness/onsen-treatment.html)
 
 Unfortunately, most offices don’t have Onsen baths. It is a problem that hinders and hampers productivity in workplaces around the world.
+
+# Event list
+
+Due to limited working space at the Onsen premises, we use the _friends invite friends_ system. If you know some of your friend is going and would like to join, feel free to ask them for an invite. Also, feel free to organize your own Onsen.js, and feel free to invite us!
+
+{% assign events = page.meetups | sort: 'date' | reverse %}
+|  Date | Name | Place |
+| ----- | ---- | ----- |
+| Soon | Onsen.js #8 | … |{% for event in events %}
+| {{ event.date }} | [{{ event.name }}]({{ event.url }}) | {{ event.place }} |{% endfor %}
 
 # Places
 
