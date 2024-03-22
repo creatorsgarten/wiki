@@ -62,6 +62,8 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 ## PAÑPURI Onsen & Spa
 
+- [Buy a voucher on GoWabi](https://www.gowabi.com/th/provider/panpuri-wellness) (first-time GoWabi user can use code `thai-5702366` for 100 THB discount)
+
 PAÑPURI Onsen & Spa is at Gaysorn Tower, 12F. The closest BTS station is BTS Chid Lom.
 
 The work area has a USB plug on each seat, and a power outlet is available every 4 seats. Deodorants, face sprays, body lotions and mouthwash are available for use at the premises. There is also a relaxation area where you can take a nap. In the nap room, each chair has its own plug, but that room may not be suitable for work.
