@@ -17,12 +17,12 @@ meetups:
 
 - date: '2019-07-12'
   name: 'Onsen.js #6'
-  place: Panpuri Onsen
+  place: PAÑPURI Onsen & Spa
   url: https://www.facebook.com/dtinth/posts/pfbid0JDYx4MEkT9itqqFfSpF1z85gxUzBcFBiCPKrjj33V3JexTTBCq2H5HkcjqF71puWl
 
 - date: '2019-08-09'
   name: 'Onsen.js #7'
-  place: Panpuri Onsen
+  place: PAÑPURI Onsen & Spa
   url: https://www.facebook.com/events/458938814945356/
 
 - date: '2019-11-28'
@@ -34,6 +34,11 @@ meetups:
   name: Post-WordCamp Asia HotSpring.js
   place: Beitou Public Hotspring, Taipei, Taiwan
   url: https://web.facebook.com/dtinth/posts/pfbid0y2Kt7At3KGpsMbwH6ckepvbfgz9SDB7bjiEmB5kKz8YJjuLYpEZzwtTfBtTq6xMHl
+
+- date: '2024-03-22'
+  name: 'Onsen.js #8'
+  place: PAÑPURI Onsen & Spa
+  url: https://www.facebook.com/photo?fbid=2402955769891825&set=a.359894480864641
 ---
 
 :::lead
@@ -54,8 +59,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 {% assign events = page.meetups | sort: 'date' | reverse %}
 |  Date | Name | Place |
-| ----- | ---- | ----- |
-| Soon | Onsen.js #8 | … |{% for event in events %}
+| ----- | ---- | ----- |{% for event in events %}
 | {{ event.date }} | [{{ event.name }}]({{ event.url }}) | {{ event.place }} |{% endfor %}
 
 # Places
