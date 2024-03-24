@@ -37,3 +37,14 @@ Note that you don’t have to do all the steps yourself. You can share your idea
 7. Click **Publish** at the top right.
 8. Write the 5 objectives.
 9. Translate the objectives to another language.
+
+# Laundry list
+
+- Create Eventpop event
+- Create Facebook event
+- Add event to techcal
+- Update our editor fork to be up to date with upstream
+- Switch from Discord auth to Authgarten
+- Find a DJ to take care of music during the event? (be careful about copyright)
+
+
