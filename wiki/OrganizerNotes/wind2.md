@@ -49,6 +49,7 @@ Note that you don’t have to do all the steps yourself. You can share your idea
 - Create Facebook event
 - Add event to techcal
 - Update our editor fork to be up to date with upstream
+- Update live system to be more friendly with offline event
 - Switch from Discord auth to Authgarten
 - Find a DJ to take care of music during the event? (be careful about copyright)
 
