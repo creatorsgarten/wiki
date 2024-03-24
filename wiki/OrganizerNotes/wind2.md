@@ -7,10 +7,26 @@
 
 # How to create a challenge
 
+A challenge consists of:
+
+- **An example reference.**
+    - Made with code in Tailwind Play (just like participants).
+    - Verified to be possible to implement within 10 minutes.
+    - Will be made available after the event.
+    - Viewport size is 540x720.
+- **5 objectives.**
+    - An objective is binary (either completed or not completed), no partial scoring.
+    - Should be objectively verifiable.
+
 For examples, see the past challenges in [Code in the Wind #1](https://showdown.space/events/code-in-the-wind-1/#challenges).
 
-1. [Use this template to create a reference image](https://play.tailwindcss.com/FHzQWBQZtr?size=540x720)
+To create a challenge:
 
-2. Write 5 objectives.
-
-    - Make sure objectives are specific enough and verifiable.
+1. Prepare a reference mockup, maybe a screenshot or a design in Figma. Size is 540x720.
+2. Prepare a rough set of 5 objectives.
+3. Implement the reference code based on our [Tailwind Play template](https://play.tailwindcss.com/FHzQWBQZtr?size=540x720). Click the share button to get a link.
+4. Create a new page in our private challenge library. Go to **Challenge Library**, click **New doc** at the top right and select **New nested document.**
+5. Name the doc “[Difficulty] - [Name]”.
+6. Paste in the Tailwind CSS link.
+7. Click **Publish** at the top right.
+8. Write the 5 objectives.
