@@ -24,7 +24,7 @@ A challenge consists of:
 
 For examples, see the past challenges in [Code in the Wind #1](https://showdown.space/events/code-in-the-wind-1/#challenges).
 
-## Steps
+## Challenge creation steps
 
 Note that you don’t have to do all the steps yourself. You can share your idea in messenger group first, and we can collaborate on the challenge details together.
 
