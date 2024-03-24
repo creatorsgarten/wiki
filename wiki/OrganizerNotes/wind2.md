@@ -1,3 +1,8 @@
+# Status
+
+- Date and time: TBC
+- Place: TBC
+
 # Activity log
 
 | Date | Activity |
