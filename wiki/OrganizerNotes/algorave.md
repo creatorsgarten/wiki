@@ -7,6 +7,7 @@
 | 2023-07-11 | Notion page setup |
 | 2023-08-02 | 1st meeting |
 | 2023-08-05 | 2nd meeting |
+| 2024-02-09 | Artists 1st sync |
 | 2024-02-14 | Organizer sharing sessions announced |
 | 2024-02-22 | Organizer sharing sessions |
 | 2024-02-28 | [Poom posted event teaser on Facebook](https://www.facebook.com/phoomparin.mano/posts/pfbid037isAkdWEocGE52KJ8RPtL4FCq9SpDMX1dLkj1Gd5NRTAudiUdjT5MWrEKE4pQZNhl) |
