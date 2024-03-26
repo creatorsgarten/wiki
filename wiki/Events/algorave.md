@@ -4,8 +4,8 @@ event:
   location: Museum Siam
   date: "2024-04-05"
   endDate: "2024-04-06"
-  # site:
-  unlisted: true
+  site: https://eventpop.me/s/thai
+  unlisted: false
   hosts:
     - Creatorsgarten
   eventpopId: 17379
