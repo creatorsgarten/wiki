@@ -18,3 +18,4 @@
 | 2024-03-13 | [What is a bit of thai tunes?](https://www.facebook.com/permalink.php?story_fbid=pfbid021DT6cX1NhNxgNC3vKyicHs3AuRABHahm3NPdv2qtqRdJrghNX8MdUxkQ5ZGA3egql&id=61556690284832), [What is algorave?](https://www.facebook.com/permalink.php?story_fbid=pfbid029rBLmkU3GhvEinArzFTqMibpLHofkVvt4E5tGwWVJA6ngiFE8xmRMQ2CEzf8npgql&id=61556690284832) |
 | 2024-03-14 | [Eventpop ticket release](https://www.facebook.com/permalink.php?story_fbid=pfbid0UykkyK7WnB4SduByMsyNpEvJgrYyrfEKM1cH6Y6iGhYTPv7Xg2kgfsRGjyuA2hJul&id=61556690284832) |
 | 2024-03-22 | [Artist lineup posted](https://www.facebook.com/permalink.php?story_fbid=pfbid0EfyazCzoBoSbYXg4FgNKrd5yiXSR1yfV8r7qjoF7HN52XrNpkovz1GwqX55LRPRDl&id=61556690284832) |
+| 2024-03-24 | [Time Out Bangkok promoted the event](https://www.facebook.com/TimeOutBangkokTH/posts/pfbid02LXQBGspB8J2j1JdnoKaUaMDsEced99qinJXcan3BahY2NVQ2WHZ9ggi8rSDXkzbul) |
