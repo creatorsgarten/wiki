@@ -26,12 +26,15 @@ websiteConfig:
         name: Creative Coding
   integrations:
     services:
-      - name: NocoDB
-        description: Open source Airtable alternative (testing)
+      - name: Outline
+        description: Internal knowledge base
         url: https://db.creatorsgarten.org/sso
       - name: Wiki
         description: Creatorsgarten’s public knowledge base
         url: /wiki
+      - name: NocoDB
+        description: Open source Airtable alternative (testing)
+        url: https://db.creatorsgarten.org/sso
   announcements:
     elm:
       enabled: true
