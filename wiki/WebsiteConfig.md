@@ -28,7 +28,7 @@ websiteConfig:
     services:
       - name: Outline
         description: Internal knowledge base
-        url: https://db.creatorsgarten.org/sso
+        url: https://outline.creatorsgarten.org
       - name: Wiki
         description: Public knowledge base
         url: /wiki
