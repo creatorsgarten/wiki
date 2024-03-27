@@ -30,7 +30,7 @@ websiteConfig:
         description: Internal knowledge base
         url: https://db.creatorsgarten.org/sso
       - name: Wiki
-        description: Creatorsgarten’s public knowledge base
+        description: Public knowledge base
         url: /wiki
       - name: NocoDB
         description: Open source Airtable alternative (testing)
