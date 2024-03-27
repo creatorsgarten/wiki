@@ -47,9 +47,9 @@ event:
 
 | Time | Agenda | Place |
 | --- | --- | --- |
-| 14:30 – 16:00 | Workshop: Live Coding with Strudel & JavaScript | … |
-| 16:00 – 16:30 | Workshop (?): Coding Thainess | … |
-| 16:45 – 17:15 | Panel Discussion | … |
+| 14:30 – 16:00 | **Workshop: Live Coding with Strudel & JavaScript**<br>Limited availability, separate registration required | … |
+| 16:00 – 16:30 | **Workshop (?): Coding Thainess**<br>Limited availability, separate registration required | … |
+| 16:45 – 17:15 | **Panel discussion** | … |
 | 17:15 – 18:30 | … | … |
 | 18:30 – 21:30 | **Thainess Algorave Performance**<br>Lineup: TBA | ลานมิวเซียมสยาม |
 
