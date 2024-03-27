@@ -37,6 +37,8 @@ event:
 
 # Agenda
 
+::: draft
+
 ## วันศุกร์ที่ 5 เมษายน 2567
 
 | Time | Agenda | Place |
@@ -53,3 +55,4 @@ event:
 | 17:15 – 18:30 | … | … |
 | 18:30 – 21:30 | **Thainess Algorave Performance**<br>Lineup: TBA | ลานมิวเซียมสยาม |
 
+:::
