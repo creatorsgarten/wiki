@@ -6,12 +6,17 @@
 
 # Types of events
 
-:::Draft
-- **Normal events**
-- **Pathfinder events**
-- **Recurring events**
-- **Event series**
-:::
+- **Normal events** — Listed [below](#full-event-list) and in [Events](/events) page.
+
+- **[[Informal gatherings]]**
+
+# Full event list
+
+{% render 'EventTable' %}
+
+# Hosting an event
+
+See: [[HowToHostAnEvent]]
 
 # Suggesting an event
 
@@ -49,11 +54,3 @@ To be announced
 {% render 'EventBox', name: ref %}
 ```
 {% endraw %}
-
-# Full event list
-
-{% render 'EventTable' %}
-
-# Hosting an event
-
-See: [[HowToHostAnEvent]]
