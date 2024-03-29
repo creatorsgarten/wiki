@@ -51,7 +51,7 @@ It is well known that taking a bath improves creativity and problem solving. [Ar
 
 Furthermore, taking bath makes you feel more fresh and energized. And it promotes good hygiene. Last but not least, the Onsen bath [“promotes muscle pain relief, fatigue alleviation and blood circulation.”](https://www.panpuri.com/wellness/onsen-treatment.html)
 
-Unfortunately, most offices don’t have Onsen baths. It is a problem that hinders and hampers productivity in workplaces around the world. **Onsen.js** is a lightweight [[informal gathering]] for people who would like to visit an onsen, socialize, and work remotely.
+Unfortunately, most offices don’t have Onsen baths. It is a problem that hinders and hampers productivity in workplaces around the world. **Onsen.js** is a lightweight [[informal gatherings|informal gathering]] for people who would like to visit an onsen, socialize, and work remotely.
 
 # Event list
 
