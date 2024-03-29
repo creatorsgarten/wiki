@@ -41,12 +41,12 @@ event:
 
 | Time | Agenda |
 | --- | --- |
-| 18:30 – 21:30 | **Thainess Algorave Performance**<br>18:30 - Kamin x REx<br>19:00 - Michael Honeycomb, Footprint on Mars<br>19:30 - Toxification, ZIN<br>20:00 - Wrappedbyte, Tropical Boi<br>20:30 - Varut_O, 130.pdf |
+| 18:30 – 21:30 | **Thainess Algorave Performance**<br>18:30 - Kamin x REx<br>19:00 - Michael Honeycomb, Footprint on Mars<br>19:30 - Toxification, ZIN<br>20:00 - WrappedByte, Tropical Boi<br>20:30 - Varut_O, 130.pdf |
 
 ## วันเสาร์ที่ 6 เมษายน 2567
 
 | Time | Agenda |
 | --- | --- |
-| 15:00 – 17:00 | **Workshop: Live Coding with Strudel & JavaScript**<br>**Keynote: Coding Thainess**<br>Limited availability, separate registration required |
+| 15:00 – 17:00 | **Workshop: Live Coding with Strudel & JavaScript**<br>WrappedByte<br>**Keynote: Coding Thainess**<br>Yaboi Hanoi<br>[*Limited availability, separate registration required*](https://www.eventpop.me/e/17379/thai?aff=workshop) |
 | 17:15 – 18:15 | **Panel discussion** |
 | 18:30 – 21:30 | **Thainess Algorave Performance**<br>18:30 - Cache Collective<br>19:00 - Kittiphan Janbuala<br>19:30 - Kijjaz, punpitan<br>20:00 - inmintcondition, Panlert<br>20:30 - CRSRCRSRRR |
