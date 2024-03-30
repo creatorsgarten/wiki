@@ -3,7 +3,7 @@ this page is a draft, information may not be accurate or complete.
 :::
 
 :::lead
-If you have attended several tech meetups, at some point you may wish a certain kind of meetup exists. Maybe someone encouraged you to run the meetup yourself. Maybe you agree. Thus it’s on you to turn the idea into a reality.
+If you've attended some of our [[events]], you might wish a specific type of event existed. Perhaps someone has encouraged you to host the meetup yourself, and you’ve agreed. Thus, it’s on you to make it a reality.
 :::
 
 # Find an ally and make a group
