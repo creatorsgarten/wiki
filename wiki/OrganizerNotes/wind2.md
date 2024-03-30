@@ -1,6 +1,6 @@
-# Status
+# Fact sheet
 
-- Date and time: TBC
+- Date and time: TBC (tentative, late Apr – early May 2024)
 - Place: TBC
 - Expected duration: 2 – 3.5 hours
 - Confirmed sponsors: currently none
