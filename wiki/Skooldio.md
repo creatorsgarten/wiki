@@ -1,5 +1,8 @@
 MBK Tower 20F
 
+- Usually available in weekdays evenings?
+- No free parking provided
+
 Workshop
 
 - Mixer: YAMAHA MG10
