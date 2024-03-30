@@ -2,6 +2,8 @@
 
 - Date and time: TBC
 - Place: TBC
+- Expected duration: 2 – 3.5 hours
+- Confirmed sponsors: currently none
 
 # Activity log
 
