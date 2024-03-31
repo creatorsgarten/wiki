@@ -13,10 +13,16 @@ event:
     - Creatorsgarten
 ---
 
-:::lead
-??????
+:::warning[Tentative event]
+We are still working on the details for this event. Please check back later for more information.
 :::
 
+:::lead
+More information will be available soon.
+:::
+
+<!--
 {% render 'EventpopButton', id: page.event.eventpopId %}
+-->
 
 {% render 'EventBox', name: ref %}
