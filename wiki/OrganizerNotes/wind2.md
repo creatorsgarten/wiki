@@ -5,6 +5,12 @@
 - Expected duration: 2 – 3.5 hours
 - Confirmed sponsors: currently none
 
+# Status
+
+- Preparing problems
+- Looking for prize sponsors
+- Evaluating venue options
+
 # Activity log
 
 | Date | Activity |
