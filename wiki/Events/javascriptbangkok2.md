@@ -2,8 +2,8 @@
 image: https://user-images.githubusercontent.com/193136/236173173-755b513b-6398-46a7-9fcb-ced21153c094.png
 event:
   name: JavaScript Bangkok 2.0.0
-  location: TBA
-  # date: "YYYY-MM-DD"
+  location: True Digital Park (Tentative)
+  date: "2024-10-19"
   # endDate: "YYYY-MM-DD"
   # site:
   # eventpopId:
