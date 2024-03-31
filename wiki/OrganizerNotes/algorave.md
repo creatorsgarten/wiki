@@ -21,3 +21,4 @@
 | 2024-03-18 | [Museum Siam promoted the event](https://www.facebook.com/museumsiamfan/posts/pfbid038LvF1MtrEQZe6hQGBKpTKM9HZzfJp5FCrk2sMWM9WqMdzJ5F8Pbvk6MHYgUJxKNml) |
 | 2024-03-22 | [Artist lineup posted](https://www.facebook.com/permalink.php?story_fbid=pfbid0EfyazCzoBoSbYXg4FgNKrd5yiXSR1yfV8r7qjoF7HN52XrNpkovz1GwqX55LRPRDl&id=61556690284832) |
 | 2024-03-24 | [Time Out Bangkok promoted the event](https://www.facebook.com/TimeOutBangkokTH/posts/pfbid02LXQBGspB8J2j1JdnoKaUaMDsEced99qinJXcan3BahY2NVQ2WHZ9ggi8rSDXkzbul) |
+| 2024-03-27 | [Eventpass promoted the event](https://www.instagram.com/p/C5AC35XtkqJ/) |
