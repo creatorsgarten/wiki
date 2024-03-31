@@ -23,5 +23,6 @@ We use the open-source [Outline](https://www.getoutline.com/) application to sto
 | 2024-01-27 | Project announced at [BKK.js #19](https://creatorsgarten.org/event/bkkjs19), [Riffy announced the initiative on Facebook](https://web.facebook.com/rayriffy/posts/pfbid02GeHWokC9uj6wAz34duap95YKcY4kvRfAVWY5wnG3LPuHunvD8W6aQgCGxHCm4VFsl) |
 | 2024-02-04 | 2nd sync meeting |
 | 2024-02-18 | 3rd sync meeting |
-| 2024-03-13 | 4th sync meeting |
-| 2024-03-13 | 4th sync meeting |
+| 2024-03-03 | 4th sync meeting |
+| 2024-03-17 | 5th sync meeting |
+| 2024-03-31 | 6th sync meeting, we agreed to commit to a date and venue |
