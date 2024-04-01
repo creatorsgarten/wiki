@@ -1,4 +1,6 @@
+:::lead
 In contests and hackathons that employs a **prize pool system,** sponsors can choose to contribute to the event by adding their prize(s) to the pool.
+:::
 
 Winning participants of the event can choose one prize from the pool, with the first-ranked participant choosing first.
 
@@ -9,6 +11,10 @@ Winning participants of the event can choose one prize from the pool, with the f
 - [Code in the Wind #1](https://showdown.space/events/code-in-the-wind-1/) uses the prize pool system.
 
     - All prizes are [sponsored](https://showdown.space/events/code-in-the-wind-1/#sponsors). 
+
+- [Code Golf Party](https://showdown.space/events/code-golf-party-1/) uses the prize pool system.
+
+    - All prizes are [sponsored](https://showdown.space/events/code-golf-party-1/#sponsor-details).
 
 - [The Stupid Hackathon Thailand](https://stupidhackth.github.io/) (from the 2nd event onward) uses a modified prize pool system.
 
@@ -23,5 +29,7 @@ Winning participants of the event can choose one prize from the pool, with the f
         - In the 5th event (virtual), [a spinning wheel](https://www.mikkipastel.com/the-5th-stupid-hackathon-thailand/#:~:text=%E0%B9%84%E0%B8%87%E0%B9%80%E0%B8%99%E0%B8%AD%E0%B8%B0-,%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%80%E0%B8%A5%E0%B8%B7%E0%B8%AD%E0%B8%81%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A3%E0%B8%B2%E0%B8%87%E0%B8%A7%E0%B8%B1%E0%B8%A5,-%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AB%E0%B8%A1%E0%B8%B8%E0%B8%99%E0%B8%A7%E0%B8%87) is used to determine the prize for each winning team.
 
         - In the 6th event, [a 2d grid is projected onto a carpet on the floor](https://blog.rayriffy.com/engineering-behind-sht6#:~:text=Hackathon%3A%20Reward%20distribution). Each grid cell corresponds to a prize. Each winning participant is asked to throw an object onto the carpet, and receives the prize based on which cell the object landed on. This re-introduced the elements of skill into the lucky draw.
+
+        - In the 7th event, [prizes are randomly scattered on a virtual 2d board](https://web.facebook.com/rayriffy/posts/pfbid0AocbSpXibYMjiU1vBzeHDkE1hMygRY5cEF9Tydw1G5UGqNZykcpy1P7bJNVmJgWSl). Each participant holds down a button to place their character on the board, which picks the prize closest to them.
 
 </details>
