@@ -2,7 +2,11 @@
 In contests and hackathons that employs a **prize pool system,** sponsors can choose to contribute to the event by adding their prize(s) to the pool.
 :::
 
-Winning participants of the event can choose one prize from the pool, with the first-ranked participant choosing first.
+Winning participants of the event can choose one prize from the pool until prizes run out.
+
+- The first-ranked participant can choose any prize in the pool.
+- The second-ranked participant can choose any remaining prize in the pool.
+- …and so on.
 
 ---
 
