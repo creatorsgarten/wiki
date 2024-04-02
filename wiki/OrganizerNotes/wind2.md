@@ -21,6 +21,10 @@
 
 # Agenda
 
+:::warning[Draft]
+This agenda is a draft and is subject to change.
+:::
+
 | Time | Event |
 | ---- | ----- |
 | 18:00 | Registration |
