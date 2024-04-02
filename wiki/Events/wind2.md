@@ -1,7 +1,7 @@
 ---
 image: https://user-images.githubusercontent.com/193136/236173173-755b513b-6398-46a7-9fcb-ced21153c094.png
 event:
-  name:
+  name: 'Code in the Wind #2'
   location: Agoda (Tentative)
   date: "2024-05-01"
   # site:
