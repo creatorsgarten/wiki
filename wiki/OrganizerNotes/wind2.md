@@ -1,8 +1,8 @@
 # Fact sheet
 
-- Date and time: TBC (tentative, late Apr – early May 2024)
-- Place: TBC
-- Expected duration: 2 – 3.5 hours
+- Date and time: TBC (Tentative: Wednesday, May 1st, 2024)
+- Place: TBC (Tentative: Agoda)
+- Time (estimate): 18:00 ~ 22:15
 - Confirmed sponsors: currently none
 
 # Status
@@ -17,6 +17,13 @@
 | --- | --- |
 | 2024-03-22 | Created messenger group |
 | 2024-03-23 | [Announced intent to organize, call for staff](https://www.facebook.com/dtinth/posts/pfbid03zD1G36iy2Qtu4DU8tkidTi6fU13Gna1aSGQY83yRFpoWKqcFHxStCivFwNAcBQHl) |
+| 2024-04-02 | Venue scoting, agenda drafting |
+
+# Agenda
+
+| Time | Event |
+| ---- | ----- |
+| 18:00 | Registration |
 
 # How to create a challenge
 
