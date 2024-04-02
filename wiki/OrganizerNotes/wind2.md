@@ -1,3 +1,5 @@
+{% render 'EventBox', name: ref %}
+
 # Fact sheet
 
 - Date and time: TBC (Tentative: Wednesday, May 1st, 2024)
