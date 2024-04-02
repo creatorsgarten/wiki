@@ -28,6 +28,20 @@ This agenda is a draft and is subject to change.
 | Time | Event |
 | ---- | ----- |
 | 18:00 | Registration |
+| 18:30 | Opening |
+| 18:45 | Round 0 (10 mins, testing) |
+| 18:55 | Round 1 |
+| 19:20 | Round 2 |
+| 19:45 | Quiz to find more participants |
+| 20:00 | Round 3 |
+| 20:25 | Round 4 |
+| 20:50 | Break |
+| 21:00 | Final 1/2 |
+| 21:25 | Final 2/2 |
+| 21:50 | Photo |
+| 22:00 | Prize awarding & closing |
+| 22:15 | Networking |
+| 23:00 | Venue closes |
 
 # How to create a challenge
 
