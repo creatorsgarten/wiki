@@ -1,7 +1,13 @@
 ---
+equipmentCustodyChoices:
+  - Poom
+  - Pub
+  - Riffy
+  - Thai
+  - g0
 equipments:
   - name: ATEM Mini Pro
-    custody: g0 S2
+    custody: Riffy
     type: av
     url: https://www.blackmagicdesign.com/products/atemmini
     description: Live production switcher with 4 HDMI inputs
@@ -19,7 +25,7 @@ equipments:
       Tech Specs: https://www.dji.com/mic/specs
     notes: USB-C out<br>3.5mm headphone out<br>3.5mm TRS out (for camera)<br>4 hours operating time<br>2m40s to charge
   - name: Insta360 Link
-    custody: Pub
+    custody: Riffy
     type: av
     url: https://www.insta360.com/product/insta360-link
     description: Gimbal webcam with head tracking
@@ -28,7 +34,7 @@ equipments:
       Tech Specs: https://www.insta360.com/product/insta360-link#spece
     notes: USB-C out<br>When streaming, enable Streamer Mode in More Settings to enable 60fps output
   - name: Mac mini (M2)
-    custody: Pub
+    custody: Riffy
     type: av
     url: https://apple.com/mac-mini
     description: Preloaded with editing, and streaming tools.
@@ -51,9 +57,13 @@ equipments:
     type: toy
     description: Board game guild
   - name: HDMI Cable
-    custody: g0 S2
+    custody: Thai
     type: av
     description: Length 5m
+  - name: HDMI Cable
+    custody: Thai
+    type: av
+    description: Length 10m
   - name: LEGO Box
     custody: g0
     type: toy
