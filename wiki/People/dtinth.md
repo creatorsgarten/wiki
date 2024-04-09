@@ -1,6 +1,7 @@
 ---
 person:
   name: Thai Pangsakulyanont
+  image: https://github.com/dtinth.png
   github: dtinth
   instagram: dtinth
   x: dtinth
