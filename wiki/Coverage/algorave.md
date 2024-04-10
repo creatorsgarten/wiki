@@ -1,5 +1,7 @@
 {% render 'EventBox', name: ref %}
 
+# Pre-event PR
+
 ## Organizers
 - [Museum Siam - 𝙖 𝙗𝙞𝙩 𝙤𝙛 𝙩𝙝𝙖𝙞 𝙩𝙪𝙣𝙚𝙨 | บิดเปลี่ยนเสียงไทย 🇹🇭 🎼](https://www.facebook.com/museumsiamfan/posts/pfbid024Gp3CmTGvbSW3Ri7CkkZeUGh7yUB6mQW9bDK4qerQU7oyMzKREe34uKqS1XG366kl)
 - [Phoomparin Mano - ทีมเราจะจัดงาน a bit of thai tunes เขียนโค้ดมาทำดนตรี ที่มิวเซียมสยามต้นเดือนเมษานะฮะ](https://www.facebook.com/phoomparin.mano/posts/pfbid023xaCqgmp3svzu3z8euKKBbkaNJJPVS8vghPm5xHcoeyyBQuu5Utfcm7j49gejjkol)
@@ -14,3 +16,11 @@
 - [Art of - ชวนไปงาน a bit of thai tunes งานตีความดนตรีไทยออกมาเป็นแสงสีเสียง โดยศิลปินไทย ที่มิวเซียมสยาม](https://www.facebook.com/artofth/posts/pfbid0YzNmpspGvMXzpQePwJfi2Txofr9UbriQSedS8DTEn5d38EhbfbUtTNjGyZiA7pWxl)
 - [ปิยชาติ รุจิพรวศิน - ผสมผสานดนตรีไทยควบคู่กับเทคโนโลยี ผลงานคนไทยไปถึงต่างประเทศ 🎉🌎](https://www.facebook.com/PiyachartOfficial/posts/pfbid0jbEDafLKoVwSXsfVFFgymkDuPkUWZhtYHLnKC4iA5r9CinXjE5wWAMdb8xbuJhyWl)
 - [Time Out กรุงเทพฯ - ต้นเดือนหน้าที่มิวเซียมสยามกำลังจะมีงาน ‘a bit of thai tunes | บิดเปลี่ยนเสียงไทย](https://www.facebook.com/TimeOutBangkokTH/posts/pfbid02LUtgx6aAVSJX1vs9kj76Cf37eGUHcKKXD1dxSY4AnUjuDVp6Be9uzZUoFCp6bykql)
+
+# Event coverage
+
+- [Eventpop - #eventpopcheckin a bit of thai tune | บิดเปลี่ยนเสียงไทย](https://www.facebook.com/eventpop/posts/pfbid0hMvqZXQNgxUGG7L2SpHoDZYQ2VPHoooLF8GZVDM1VTykrbaBWcoUiPMENq9sCDqkl)
+- [Data Teller ข้อมูลเสี่ยงทาย - มาเล่าเบื้องหลังเพลงที่สองที่ได้ทำในงาน  A Bit of Thai Tunes กันต่อ](https://www.facebook.com/datatellerth/posts/pfbid0Qg7H9UwdUYzxBKqR9kiay7C2qQBMc4gii3wQimoVD7EAoWUDGMbM459eCQpUAJZCl)
+- [Kamin Phakdurong - โปรเจ็คสำหรับงาน A Bit of Thai Tunes ที่ Museum Siam](https://www.facebook.com/watch/?v=1465321387745856)
+- [Phumrapee Limpianchop - มาสรุปอีกรอบนึงสำหรับงาน a bit of thai tunes](https://www.facebook.com/rayriffy/posts/pfbid0sFHKHXmAdRRxUYd2DNLXt76Q2SUkVXWMZGjAKEDCHtU5J4B4xMSLzxSeGmLVxM2il)
+- [Thai PBS - Algorave จุดพบกันของดนตรีและคอมพิวเตอร์ | ทันโลกกับ Thai PBS](https://www.facebook.com/ThaiPBS/videos/409751765124753/)
