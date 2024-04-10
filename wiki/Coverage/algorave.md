@@ -24,16 +24,21 @@
 - [Ami Phaphadha - about the last last night](https://www.facebook.com/permalink.php?story_fbid=pfbid0ZfUbwKrfj7t4qbrHyVjbB4vTS7K54QjDujautoef6gBJPSEhRJAhLzVPDWZYPYYl&id=100013142772927)
 - [Creatorsgarten - some delightful moments from a bit of thai tunes (day 1)](https://www.facebook.com/creatorsgarten/posts/pfbid02s8WY5k4ydvGZG7eVoVAoxy6N1eKtdBoS2TvszKhh7grpQBrNnrBYGdMzBEbPiDYol)
 - [Creatorsgarten - 2nd day b/w at a bit of thai tunes by Ami Phaphadha](https://www.facebook.com/creatorsgarten/posts/pfbid02iV8HdJ5fVZWqr7jda8Yr6v3why9iHPks7w9wwYC7wcum7UEo52bwyzCqCsCznJZxl)
+- [Creatorsgarten - Thank you for visiting a bit of thai tunes; see you at our next project!](https://www.facebook.com/creatorsgarten/posts/pfbid02rqUNvth2yJFJpEdeAjLZ5anmcXmznQBDzwPVBQNj6LvVUv7Vm4YBJKyfvA5aSBsKl)
 - [Eventpop - #eventpopcheckin a bit of thai tune | บิดเปลี่ยนเสียงไทย](https://www.facebook.com/eventpop/posts/pfbid0hMvqZXQNgxUGG7L2SpHoDZYQ2VPHoooLF8GZVDM1VTykrbaBWcoUiPMENq9sCDqkl)
 - [Jan Sudarat - a bit of thai tunes concept เท่ เกร๋ เว่ออวัง](https://www.facebook.com/jan.ct.9/posts/pfbid0PAda5um41qqoGpck7UmmdfjREfvew9rKBNaCbr3SWLUVA1ViS7x2VNfFGaXp4QhXl)
+- [Nattapong Tiendee - ขึ้นสถานีสนามชัย เจองานหน้ามิวเซียมสยามเลยนะ วงแรกจะเริ่มแล้ว](https://www.facebook.com/Nattapong.Tiendee/posts/pfbid02jwSH9kjgCDK99HzJ7gtA9AgZ1B4njZXBred1RiZhocoMsz5xPc2mQdSvcMMYNpb2l)
+- [Patiphan Sumniang - ศาสตร์แห่งเสียงและCoding](https://www.facebook.com/patiphan.sumneerng/posts/pfbid02mzarMdWhD2aXpSaFo7ivAUoHdrUJdZ2QnKZMFumHTptAFazNwZ259yRyoapST2del)
 - [Technology and Creative Innovation - CMKL University](https://www.facebook.com/TCI.CMKL/posts/pfbid02ckuh8nBFPiUpYJ6LA4JhVsGMKgnj1765M9i8LYLZe9zYDV2wWteN578skyXetPWil)
+- [Thana Pai Saengsorn - at #abitofthaitunes](https://www.facebook.com/paipai.lactobacillus/posts/pfbid0fAUqq1dPHCcreZPqrVCYyDnM1L5mUdxsB6TDkSu3gCk5u7swnZpU4t7nNmE7P69Vl)
 - [Time Out - กรุงเทพฯ - บรรยากาศงานวันแรกของงาน](https://www.facebook.com/TimeOutBangkokTH/posts/pfbid0fhw65NzUerbdbzJcX38yZybyxFArRVP6nv2p8oyN1HVKy2RiBEYCM3VhQrkcFQQVl)
 - [Watcharaporn Aom - มางาน A bit of Thai tunes เป็นงานดนตรีผ่านการเขียนโค้ด](https://www.facebook.com/watcharaporn.donsang/posts/pfbid0FsswFPBUJ7DUwgcoTLn8zKrdKuEjKDPSQaTgBAgmFpAYiTdCAGyrSFY5U2FW1Yy7l)
 
 ## Reels
 
-- [Art Of](https://www.facebook.com/reel/329272946445274)
-- [EXOTIC QUIXOTIC](https://www.facebook.com/reel/327587600339408)
+- [Facebook - Art Of](https://www.facebook.com/reel/329272946445274)
+- [Facebook - EXOTIC QUIXOTIC](https://www.facebook.com/reel/327587600339408)
+- [TikTok - kobkala70](https://www.tiktok.com/@kobkala70/video/7354733023218175248)
 
 ## Videos
 
@@ -42,6 +47,8 @@
 
 ## Write-ups
 
+- [Chayanis Tuntearapong - เบื้องหลังของเพลง "ตามหาเธอในกรุงเทพ" (ชื่ออย่างไม่เป็นทางการ)](https://www.facebook.com/nunanct/posts/pfbid02n1MC33o7hwCX5cPzpuKTEtQyf9WEvHhATcDiG5ybC3SjWPpEw4BxakzWaVD4JUc4l)
 - [Data Teller ข้อมูลเสี่ยงทาย - มาเล่าเบื้องหลังเพลงที่สองที่ได้ทำในงาน  A Bit of Thai Tunes กันต่อ](https://www.facebook.com/datatellerth/posts/pfbid0Qg7H9UwdUYzxBKqR9kiay7C2qQBMc4gii3wQimoVD7EAoWUDGMbM459eCQpUAJZCl)
 - [Phumrapee Limpianchop - มาสรุปอีกรอบนึงสำหรับงาน a bit of thai tunes](https://www.facebook.com/rayriffy/posts/pfbid0sFHKHXmAdRRxUYd2DNLXt76Q2SUkVXWMZGjAKEDCHtU5J4B4xMSLzxSeGmLVxM2il)
 - [Wichai Sawangpongkasame - วันนี้ไปงาน a bit of thai tunes ที่ #Creatorsgarten จัด เห็นงานญาบอยฮานอยแล้วเท่จัด](https://www.facebook.com/permalink.php?story_fbid=pfbid0jGzhsdyAqdW3WGdnJDzDiyDiVUeqoxqm7LyRnHQpuWjBL9GSVZ9ZS8Hdt71UrqMWl&id=100007181862952)
+- [Chawit Hinngurn - LiveTubex x แดงปลาสวรรค์](https://www.facebook.com/tannysoft/posts/pfbid022H43nHqBFXeYwifP6p7stL9rEQKdh52rGnERHUyCkR9j1a7R2fB5yCiKSJww85NKl)
