@@ -1,5 +1,5 @@
 :::lead
-**Message signing** lets user generate a signature for a message, verified by Creatorsgarten’s servers.
+**Message signing** lets user generate a signature for a message. This signature can be later verified by Creatorsgarten’s servers. This can be useful if you want to prove a user’s identity or something.
 :::
 
 ## Signing a message
