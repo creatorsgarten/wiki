@@ -42,13 +42,13 @@
 
 ## Videos
 
-- [Kamin Phakdurong - โปรเจ็คสำหรับงาน A Bit of Thai Tunes ที่ Museum Siam](https://www.facebook.com/watch/?v=1465321387745856)
 - [Thai PBS - Algorave จุดพบกันของดนตรีและคอมพิวเตอร์ | ทันโลกกับ Thai PBS](https://www.facebook.com/ThaiPBS/videos/409751765124753/)
 
 ## Write-ups
 
 - [Chayanis Tuntearapong - เบื้องหลังของเพลง "ตามหาเธอในกรุงเทพ" (ชื่ออย่างไม่เป็นทางการ)](https://www.facebook.com/nunanct/posts/pfbid02n1MC33o7hwCX5cPzpuKTEtQyf9WEvHhATcDiG5ybC3SjWPpEw4BxakzWaVD4JUc4l)
+- [Chawit Hinngurn - LiveTubex x แดงปลาสวรรค์](https://www.facebook.com/tannysoft/posts/pfbid022H43nHqBFXeYwifP6p7stL9rEQKdh52rGnERHUyCkR9j1a7R2fB5yCiKSJww85NKl)
 - [Data Teller ข้อมูลเสี่ยงทาย - มาเล่าเบื้องหลังเพลงที่สองที่ได้ทำในงาน  A Bit of Thai Tunes กันต่อ](https://www.facebook.com/datatellerth/posts/pfbid0Qg7H9UwdUYzxBKqR9kiay7C2qQBMc4gii3wQimoVD7EAoWUDGMbM459eCQpUAJZCl)
+- [Kamin Phakdurong - โปรเจ็คสำหรับงาน A Bit of Thai Tunes ที่ Museum Siam](https://www.facebook.com/watch/?v=1465321387745856)
 - [Phumrapee Limpianchop - มาสรุปอีกรอบนึงสำหรับงาน a bit of thai tunes](https://www.facebook.com/rayriffy/posts/pfbid0sFHKHXmAdRRxUYd2DNLXt76Q2SUkVXWMZGjAKEDCHtU5J4B4xMSLzxSeGmLVxM2il)
 - [Wichai Sawangpongkasame - วันนี้ไปงาน a bit of thai tunes ที่ #Creatorsgarten จัด เห็นงานญาบอยฮานอยแล้วเท่จัด](https://www.facebook.com/permalink.php?story_fbid=pfbid0jGzhsdyAqdW3WGdnJDzDiyDiVUeqoxqm7LyRnHQpuWjBL9GSVZ9ZS8Hdt71UrqMWl&id=100007181862952)
-- [Chawit Hinngurn - LiveTubex x แดงปลาสวรรค์](https://www.facebook.com/tannysoft/posts/pfbid022H43nHqBFXeYwifP6p7stL9rEQKdh52rGnERHUyCkR9j1a7R2fB5yCiKSJww85NKl)
