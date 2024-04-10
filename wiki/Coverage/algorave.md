@@ -19,8 +19,29 @@
 
 # Event coverage
 
+## Photos
+
+- [Ami Phaphadha - about the last last night](https://www.facebook.com/permalink.php?story_fbid=pfbid0ZfUbwKrfj7t4qbrHyVjbB4vTS7K54QjDujautoef6gBJPSEhRJAhLzVPDWZYPYYl&id=100013142772927)
+- [Creatorsgarten - some delightful moments from a bit of thai tunes (day 1)](https://www.facebook.com/creatorsgarten/posts/pfbid02s8WY5k4ydvGZG7eVoVAoxy6N1eKtdBoS2TvszKhh7grpQBrNnrBYGdMzBEbPiDYol)
+- [Creatorsgarten - 2nd day b/w at a bit of thai tunes by Ami Phaphadha](https://www.facebook.com/creatorsgarten/posts/pfbid02iV8HdJ5fVZWqr7jda8Yr6v3why9iHPks7w9wwYC7wcum7UEo52bwyzCqCsCznJZxl)
 - [Eventpop - #eventpopcheckin a bit of thai tune | บิดเปลี่ยนเสียงไทย](https://www.facebook.com/eventpop/posts/pfbid0hMvqZXQNgxUGG7L2SpHoDZYQ2VPHoooLF8GZVDM1VTykrbaBWcoUiPMENq9sCDqkl)
-- [Data Teller ข้อมูลเสี่ยงทาย - มาเล่าเบื้องหลังเพลงที่สองที่ได้ทำในงาน  A Bit of Thai Tunes กันต่อ](https://www.facebook.com/datatellerth/posts/pfbid0Qg7H9UwdUYzxBKqR9kiay7C2qQBMc4gii3wQimoVD7EAoWUDGMbM459eCQpUAJZCl)
+- [Jan Sudarat - a bit of thai tunes concept เท่ เกร๋ เว่ออวัง](https://www.facebook.com/jan.ct.9/posts/pfbid0PAda5um41qqoGpck7UmmdfjREfvew9rKBNaCbr3SWLUVA1ViS7x2VNfFGaXp4QhXl)
+- [Technology and Creative Innovation - CMKL University](https://www.facebook.com/TCI.CMKL/posts/pfbid02ckuh8nBFPiUpYJ6LA4JhVsGMKgnj1765M9i8LYLZe9zYDV2wWteN578skyXetPWil)
+- [Time Out - กรุงเทพฯ - บรรยากาศงานวันแรกของงาน](https://www.facebook.com/TimeOutBangkokTH/posts/pfbid0fhw65NzUerbdbzJcX38yZybyxFArRVP6nv2p8oyN1HVKy2RiBEYCM3VhQrkcFQQVl)
+- [Watcharaporn Aom - มางาน A bit of Thai tunes เป็นงานดนตรีผ่านการเขียนโค้ด](https://www.facebook.com/watcharaporn.donsang/posts/pfbid0FsswFPBUJ7DUwgcoTLn8zKrdKuEjKDPSQaTgBAgmFpAYiTdCAGyrSFY5U2FW1Yy7l)
+
+## Reels
+
+- [Art Of](https://www.facebook.com/reel/329272946445274)
+- [EXOTIC QUIXOTIC](https://www.facebook.com/reel/327587600339408)
+
+## Videos
+
 - [Kamin Phakdurong - โปรเจ็คสำหรับงาน A Bit of Thai Tunes ที่ Museum Siam](https://www.facebook.com/watch/?v=1465321387745856)
-- [Phumrapee Limpianchop - มาสรุปอีกรอบนึงสำหรับงาน a bit of thai tunes](https://www.facebook.com/rayriffy/posts/pfbid0sFHKHXmAdRRxUYd2DNLXt76Q2SUkVXWMZGjAKEDCHtU5J4B4xMSLzxSeGmLVxM2il)
 - [Thai PBS - Algorave จุดพบกันของดนตรีและคอมพิวเตอร์ | ทันโลกกับ Thai PBS](https://www.facebook.com/ThaiPBS/videos/409751765124753/)
+
+## Write-ups
+
+- [Data Teller ข้อมูลเสี่ยงทาย - มาเล่าเบื้องหลังเพลงที่สองที่ได้ทำในงาน  A Bit of Thai Tunes กันต่อ](https://www.facebook.com/datatellerth/posts/pfbid0Qg7H9UwdUYzxBKqR9kiay7C2qQBMc4gii3wQimoVD7EAoWUDGMbM459eCQpUAJZCl)
+- [Phumrapee Limpianchop - มาสรุปอีกรอบนึงสำหรับงาน a bit of thai tunes](https://www.facebook.com/rayriffy/posts/pfbid0sFHKHXmAdRRxUYd2DNLXt76Q2SUkVXWMZGjAKEDCHtU5J4B4xMSLzxSeGmLVxM2il)
+- [Wichai Sawangpongkasame - วันนี้ไปงาน a bit of thai tunes ที่ #Creatorsgarten จัด เห็นงานญาบอยฮานอยแล้วเท่จัด](https://www.facebook.com/permalink.php?story_fbid=pfbid0jGzhsdyAqdW3WGdnJDzDiyDiVUeqoxqm7LyRnHQpuWjBL9GSVZ9ZS8Hdt71UrqMWl&id=100007181862952)
