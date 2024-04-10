@@ -28,4 +28,7 @@ When a person visit this link, this will generate a signature for them.
 
 Make a GET request to `https://creatorsgarten.org/dashboard/sign/verify`, passing `?signature` query param, e.g.
 
-<https://creatorsgarten.org/dashboard/sign/verify?signature=grtn_v1_b94d27b9934d3e08a52e52d7_644c35a6802c02345887f156_6616f6372507e7e12f17c2b7_1af9dcc56879174816dbb6e9>
+```
+https://creatorsgarten.org/dashboard/sign/verify?signature=grtn_v1_b94d27b9934d3e08a52e52d7_644c35a6802c02345887f156_6616f6372507e7e12f17c2b7_1af9dcc56879174816dbb6e9
+```
+
