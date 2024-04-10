@@ -50,3 +50,9 @@ event:
 | 15:00 – 17:00 | **Workshop: Live Coding with Strudel & JavaScript**<br>WrappedByte<br>**Keynote: Coding Thainess**<br>Yaboi Hanoi<br>[*Limited availability, separate registration required*](https://www.eventpop.me/e/17379/thai?aff=workshop) |
 | 17:15 – 18:15 | **Panel discussion** |
 | 18:30 – 21:30 | **Thainess Algorave Performance**<br>18:30 - Cache Collective<br>19:00 - Kittiphan Janbuala<br>19:30 - Kijjaz, punpitan<br>20:00 - inmintcondition, Panlert<br>20:30 - CRSRCRSRRR |
+
+# Coverage by Thai PBS
+
+`youtube: FrC436oCzjM`
+
+For more coverage see [[Coverage/algorave]].
