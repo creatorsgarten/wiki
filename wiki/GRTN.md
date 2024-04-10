@@ -64,6 +64,7 @@ grtnRedirects:
   algorave/sponsor: https://creatorsgarten.notion.site/Algorave-Bangkok-2024-Fact-Sheet-Sponsorship-Package-4789a73b7f5c4d68b7052afefadca464
   inventory/nfc/:serial: https://creatorsgarten.org/wiki/Inventory
   memberform: https://forms.gle/u1Dm9oPNejd6yPTT7
+  membersign: https://creatorsgarten.org/dashboard/sign?signMessage=https://grtn.org/memberform
 ---
 
 
