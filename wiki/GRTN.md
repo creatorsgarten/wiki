@@ -63,6 +63,7 @@ grtnRedirects:
   dev-survey-2024: https://docs.google.com/forms/d/e/1FAIpQLScu7oEQG2rgm67_BzWEcj-NzRNe0Ai3OlejbJh3wJZ2YPQ7kw/viewform?usp=sf_link
   algorave/sponsor: https://creatorsgarten.notion.site/Algorave-Bangkok-2024-Fact-Sheet-Sponsorship-Package-4789a73b7f5c4d68b7052afefadca464
   inventory/nfc/:serial: https://creatorsgarten.org/wiki/Inventory
+  memberform: https://forms.gle/u1Dm9oPNejd6yPTT7
 ---
 
 
