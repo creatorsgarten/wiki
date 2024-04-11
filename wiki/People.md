@@ -7,7 +7,7 @@ endunless
 | ----- | ---- |{% for person in people %}{% liquid
 assign slug = person.ref | split: '/' | last
 %}
-| [[People/{{slug}}]] | {{person.data.person.name}} |{% endfor %}
+| [[People/{{slug}}]] | {{person.data.person.name}} ({{person.data.person.nicknameTh}})<br /><small>{{person.data.person.intro}}</small> |{% endfor %}
 
 # Add yourself!
 
