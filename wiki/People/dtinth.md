@@ -2,6 +2,8 @@
 image: https://github.com/dtinth.png
 person:
   name: Thai Pangsakulyanont
+  nickname: Thai
+  nicknameTh: ไท
   github: dtinth
   instagram: dtinth
   x: dtinth
