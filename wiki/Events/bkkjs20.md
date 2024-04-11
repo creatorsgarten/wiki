@@ -37,6 +37,12 @@ We'll accepting applicants [via Eventpop](https://www.eventpop.me/events/26956-b
 
 Due to our venue requires attendee to pass through CentralwOrld security. We will only allow attendee with a valid ticket to enter premises. Please be sure to have a ticket when entering the area.
 
+## 🚶🏻‍♂️ วิธีการเดินทางเข้างาน / Guide to enter an event
+
+เราจะประกาศรายละเอียดเพิ่มเติมอีกครั้งใกล้ๆ วันงาน
+
+We will announce additional details closer to the event.
+
 ## ⚡ Lighting Talk
 
 Lighting Talk เปิดช่วงที่เราเปิดให้ผู้เข้าร่วมงานสามารถมีส่วนร่วมไปกับงานได้ผ่านการขึ้นมาพูดเกี่ยวกับหัวข้อที่ตนเองสนใจที่เกี่ยวข้องกับ JavaScript และอยากเผยแพร่ให้คนอื่นฟัง
