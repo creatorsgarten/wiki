@@ -23,11 +23,11 @@ Welcome to the second JavaScript meetup of 2024 by Creatorsgarten... BKK.JS #20!
 
 เรากำลังเปิดรับ Speaker มาพูดในงาน BKK.JS #20 อยู่โดยเนื้อหาที่นำเสนอควรมีความเกี่ยวข้องกับ JavaScript ในด้านใดก็ได้ เช่น frontend, backend, automation หรือ IoT และแต่ละคนจะมีเวลานำเสนอ 30 นาที
 
-เราจะปิดรับในวันที่ 30 เมษายน 23:59
+เราจะปิดรับในวันที่ 30 เมษายน 23:59 โดยสามารถ[ส่งมาได้ทาง Eventpop](https://www.eventpop.me/events/26956-bkkjs20/application_forms/1844/applicants/new)
 
 We're looking for speakers to give a talk/session at BKK.JS #20. The content of session should be related to JavaScript in any fields (i.e. frontend, backend, automation, and IoT). Session will be 30 minutes long.
 
-We'll accepting applicants until 30th April 23:59 (ICT)
+We'll accepting applicants [via Eventpop](https://www.eventpop.me/events/26956-bkkjs20/application_forms/1844/applicants/new) until 30th April 23:59 (ICT)
 
 ## 🎟️ ตั๋วเข้างาน / Tickets
 
