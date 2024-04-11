@@ -1,5 +1,5 @@
 ---
-image: https://github.com/dtinth.png
+image: https://im.dt.in.th/ipfs/bafybeibqgit2mjet2swpcf3vxnqhkms63utib72dpgfnbf76nrsmyhdcrq/yufuin.jpg
 person:
   name: Thai Pangsakulyanont
   intro: JavaScript musician
