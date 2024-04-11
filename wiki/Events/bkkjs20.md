@@ -1,7 +1,7 @@
 ---
 event:
   name: "BKK.JS #20"
-  location: Agoda
+  location: Agoda, 8th Fl.
   date: "2024-05-18"
   site: https://www.eventpop.me/e/26956
   unlisted: true
