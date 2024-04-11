@@ -14,3 +14,11 @@ imageAssets:
 ---
 
 {% render 'EventBox', name: ref %}
+
+ขอต้อนรับสู่งาน JavaScript meetup ครั้งที่สองในปีนี้ของ Creatorsgarten.... BKK.JS #20!!! ในครั้งนี้เราได้ร่วมงานกับ [Showdown Space](https://showdown.space/) เพื่อพาคุณสัมผัสกับงาน after-party
+
+## ตารางเวลา
+
+| เวลา / Time | รายการ / Session |
+| - | - |
+| 13:00 - 13:45 | ลงทะเบียน / Registration |
