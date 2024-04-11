@@ -49,7 +49,7 @@ For who unable to attend on-site at the venue, we're also providing a live strea
 
 Within 1 month, all sessions will be uploaded to [Creatorsgarten YouTube channel](https://youtube.com/@creatorsgarten) for future archival.
 
-## 🕐 ตารางเวลา
+## 🕐 ตารางเวลา / Timetables
 
 | เวลา / Time | รายการ / Session |
 | - | - |
