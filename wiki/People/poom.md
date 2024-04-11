@@ -2,6 +2,7 @@
 image: https://im.dt.in.th/ipfs/bafybeihuebpts3zquwvnwt347ej5jdd2kxvilgedagfqzvu36pt44dcsae/poom.jpg
 person:
   name: Phoomparin Mano
+  intro: software engineer
   nickname: Poom
   nicknameTh: ภูมิ
   github: heypoom

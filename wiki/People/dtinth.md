@@ -2,6 +2,7 @@
 image: https://github.com/dtinth.png
 person:
   name: Thai Pangsakulyanont
+  intro: JavaScript musician
   nickname: Thai
   nicknameTh: ไท
   github: dtinth
