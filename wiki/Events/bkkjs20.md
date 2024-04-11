@@ -9,6 +9,7 @@ event:
     - Creatorsgarten
   eventpopId: 26956
 imageAssets:
+  poster: 'https://github.com/creatorsgarten/wiki/assets/22584594/bfac66e0-0bb9-406f-826c-66332a185b53'
   cover: 'https://p-u.popcdn.net/event_details/covers/000/026/956/og_cover/defd6b464e6b2db055e70cc956cc0adf90a9edb9.png'
 ---
 
