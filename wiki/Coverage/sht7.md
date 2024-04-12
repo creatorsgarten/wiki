@@ -21,6 +21,8 @@
 
 # Photos
 
+- [Photos](https://drive.google.com/drive/folders/1me6M9o8yriJM797jVpgNaxwZCSAu8kv7)
+
 # Code
 
 - {% render 'GitHub', repo: 'StupidHackTH/7' %}
