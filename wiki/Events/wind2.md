@@ -1,5 +1,5 @@
 ---
-image: https://user-images.githubusercontent.com/193136/236173173-755b513b-6398-46a7-9fcb-ced21153c094.png
+image: https://github.com/creatorsgarten/wiki/assets/22584594/53d757f0-7dc2-4360-b3a4-8cc3413eae8b
 event:
   name: 'Code in the Wind #2'
   location: Agoda, 8th Fl.
