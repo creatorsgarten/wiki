@@ -17,7 +17,7 @@ imageAssets:
 
 {% render 'EventBox', name: ref %}
 
-ขอต้อนรับสู่งาน JavaScript meetup ครั้งที่สองในปีนี้ของ Creatorsgarten.... BKK.JS #20!!! ในครั้งนี้เราได้ร่วมงานกับ [Showdown Space](https://showdown.space/) เพื่อพาคุณสัมผัสกับงาน after-party
+ขอต้อนรับสู่งาน JavaScript meetup ครั้งที่สองในปีนี้ของ Creatorsgarten.... BKK.JS #20!!! ในครั้งนี้เราได้ร่วมงานกับ [Showdown Space](https://showdown.space/) เพื่อพาคุณสัมผัสกับงาน after-party สำหรับ developers สาย frontend
 
 Welcome to the second JavaScript meetup of 2024 by Creatorsgarten... BKK.JS #20!!! This time we're collaborating with [Showdown Space](https://showdown.space/) to bring you the best after-party competition event for frontend developers.
 
