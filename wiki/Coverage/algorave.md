@@ -51,4 +51,5 @@
 - [Data Teller ข้อมูลเสี่ยงทาย - มาเล่าเบื้องหลังเพลงที่สองที่ได้ทำในงาน  A Bit of Thai Tunes กันต่อ](https://www.facebook.com/datatellerth/posts/pfbid0Qg7H9UwdUYzxBKqR9kiay7C2qQBMc4gii3wQimoVD7EAoWUDGMbM459eCQpUAJZCl)
 - [Kamin Phakdurong - โปรเจ็คสำหรับงาน A Bit of Thai Tunes ที่ Museum Siam](https://www.facebook.com/watch/?v=1465321387745856)
 - [Phumrapee Limpianchop - มาสรุปอีกรอบนึงสำหรับงาน a bit of thai tunes](https://www.facebook.com/rayriffy/posts/pfbid0sFHKHXmAdRRxUYd2DNLXt76Q2SUkVXWMZGjAKEDCHtU5J4B4xMSLzxSeGmLVxM2il)
+- [Thai Pangsakulyanont - สัปดาห์ที่แล้ว ที่งาน a bit of thai tunes ลองทำกิจกรรมให้คนที่ผ่านไปผ่านมา เข้ามาเปลี่ยนสีอาคารมิวเซียมสยามได้](https://www.facebook.com/dtinth/posts/pfbid02K3gTefLcM4hZotdwPEwntEgVtWvrJy1RrrZcYR3jPmqQvPVd4HT2WJngzenKLyhPl)
 - [Wichai Sawangpongkasame - วันนี้ไปงาน a bit of thai tunes ที่ #Creatorsgarten จัด เห็นงานญาบอยฮานอยแล้วเท่จัด](https://www.facebook.com/permalink.php?story_fbid=pfbid0jGzhsdyAqdW3WGdnJDzDiyDiVUeqoxqm7LyRnHQpuWjBL9GSVZ9ZS8Hdt71UrqMWl&id=100007181862952)
