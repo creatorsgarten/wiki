@@ -10,7 +10,7 @@ person:
   x: betichhh
   facebook: panithi.makthiengtrong
   linkedin: panithi-makthiengtrong-80365a205
-  youtube: '@betich8740'
+  youtube: 'betich8740'
   site: https://betich.me
 ---
 
