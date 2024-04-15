@@ -10,7 +10,7 @@ person:
   instagram: dtinth
   x: dtinth
   linkedin: dtinth
-  youtube: ['@dtinth', '@flicknote']
+  youtube: ['dtinth', 'flicknote']
   site: https://dt.in.th/
 ---
 
