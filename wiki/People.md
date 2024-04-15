@@ -11,6 +11,6 @@ assign slug = person.ref | split: '/' | last
 
 # Add yourself!
 
-Fill in this form: {% render 'Grtn', path: 'memberform' %} and we will create a wiki page for you. Once we create the wiki page, you can edit it afterwards.
+Fill in this form: {% render 'Grtn', path: 'memberform' %} and we will create a wiki page for you. Once we create the wiki page, you can edit it afterwards. Note that you need a GitHub account.
 
 (Feel free to create the wiki page by yourself if you feel adventurous, by the way! Just that the schema isn’t well documented yet...)
