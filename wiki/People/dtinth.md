@@ -6,6 +6,7 @@ person:
   nickname: Thai
   nicknameTh: ไท
   github: dtinth
+  facebook: dtinth
   instagram: dtinth
   x: dtinth
   linkedin: dtinth
