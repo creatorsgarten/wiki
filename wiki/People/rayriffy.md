@@ -10,7 +10,7 @@ person:
   x: rayriffy
   facebook: rayriffy
   linkedin: rayriffy
-  youtube: '@rayriffy'
+  youtube: rayriffy
   site: https://rayriffy.com
 ---
 
