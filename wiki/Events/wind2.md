@@ -28,9 +28,13 @@ We’re inviting web developers and frontend enthusiasts to join us for **Code i
 
   Test your frontend skills as you’ll be given a reference web design image and 10 minutes to implement it in code using HTML and Tailwind CSS.
 
-- **Networking:** พบปะ พูดคุย แลกเปลี่ยนประสบการณ์และความรู้ กับนักพัฒนาท่านอื่นๆ ภายในงาน
+- **Mingle with fellow developers:** พบปะ พูดคุย แลกเปลี่ยนประสบการณ์และความรู้ กับนักพัฒนาท่านอื่นๆ ภายในงาน
 
   Connect with other developers — share experiences and knowledge with peers.
+
+- **Learn from the Masters:** เรียนรู้จากปรมาจารย์ สังเกตการทำงานของนักพัฒนาฟรอนต์เอ็นด์มากฝีมือในการแก้ไขโจทย์ต่างๆ
+
+  Observe experienced frontend developers tackle the coding challenge and gain valuable insights into their approach.
 
 ## 🎟️ บัตรเข้างาน / Tickets
 
@@ -45,9 +49,17 @@ Due to our venue requires attendees to pass through centralwOrld security. We ca
 | 18:00 - 18:30 | ลงทะเบียน / Registration |
 | 18:30 - 18:45 | เปิดงาน อธิบายกิจกรรม / Opening + Rules |
 | 18:45 - 18:55 | รอบทดสอบ / Test round |
-| 18:55 - 20:50 | รอบคัดเลือก / Qualification rounds |
+| 18:55 - 20:50 | **รอบคัดเลือก (※) / Qualification rounds (※)** |
 | 20:50 - 21:00 | พักเบรก / Break |
-| 21:00 - 21:50 | รอบชิงชนะเลิศ / Final rounds |
+| 21:00 - 21:50 | **รอบชิงชนะเลิศ (※) / Final rounds (※)** |
 | 21:50 - 22:00 | ร่วมถ่ายรูป / Photos |
 | 22:00 - 22:15 | แจกรางวัล / Prize awards |
 | 22:15 - 23:00 | Networking |
+
+**Notes:**
+
+- ในแต่ละรอบจะมีนักพัฒนา 8 คน ขึ้นมาประชันฝีมือบนเวที แต่ทุกท่านสามารถลองทำโจทย์ไปพร้อมๆ กับผู้ร่วมสนุกด้วยได้เช่นเดียวกัน อยากจะโค้ดตามไปด้วย ดูและสังเกตเทคนิคของเซียนโค้ด หรือจะไปพูดคุยกับเพื่อนๆ คนอื่น ก็ได้หมดเลย!
+
+  Eight developers will take center stage per round to tackle the design challenge in a live coding showdown. But don't worry if you don't get picked! The same challenge will be available for everyone to try at their own pace. Feel free to code along, observe the masters, or simply network with fellow developers.
+
+
