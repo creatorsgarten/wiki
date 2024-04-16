@@ -38,3 +38,16 @@ We’re inviting web developers and frontend enthusiasts to join us for **Code i
 
 Due to our venue requires attendees to pass through centralwOrld security. We can only allow attendee with a valid ticket to enter the premises. Please be sure to have a ticket when entering the area.
 
+## 🕐 ตารางเวลา / Timetables
+
+| เวลา / Time | รายการ / Session |
+| - | - |
+| 18:00 - 18:30 | ลงทะเบียน / Registration |
+| 18:30 - 18:45 | เปิดงาน อธิบายกิจกรรม / Opening + Rules |
+| 18:45 - 18:55 | รอบทดสอบ / Test round |
+| 18:55 - 20:50 | รอบคัดเลือก / Qualification rounds |
+| 20:50 - 21:00 | พักเบรก / Break |
+| 21:00 - 21:50 | รอบชิงชนะเลิศ / Final rounds |
+| 21:50 - 22:00 | ร่วมถ่ายรูป / Photos |
+| 22:00 - 22:15 | แจกรางวัล / Prize awards |
+| 22:15 - 23:00 | Networking |
