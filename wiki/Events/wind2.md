@@ -18,7 +18,11 @@ event:
 We’re inviting web developers and frontend enthusiasts to join us for **Code in the Wind #2**, a {% render 'Event', name: 'bkkjs20' %} after-party where you can meet up, hang out, and participate in a friendly coding challenge using HTML, CSS, and Tailwind CSS.
 :::
 
-กิจกรรมภายในงาน:
+{% render 'EventpopButton', id: page.event.eventpopId %}
+
+{% render 'EventBox', name: ref %}
+
+## 🎉 กิจกรรมภายในงาน / What to expect
 
 - **Code in the Wind:** ร่วมสนุกกับกิจกรรมทดสอบความเร็วและทักษะด้าน frontend โดยผู้ร่วมสนุกจะได้รับภาพตัวอย่างเป็นดีไซน์ และมีเวลา 10 นาทีในการอิมพลีเมนต์เป็นโค้ดด้วย HTML และ Tailwind CSS
 
@@ -29,10 +33,6 @@ What to expect:
 - **Code in the Wind:** Test your frontend skills as you’ll be given a reference web design image and 10 minutes to implement it in code using HTML and Tailwind CSS.
 
 - **Networking:** Connect with other developers — share experiences and knowledge with peers.
-
-{% render 'EventpopButton', id: page.event.eventpopId %}
-
-{% render 'EventBox', name: ref %}
 
 ## 🎟️ บัตรเข้างาน / Tickets
 
