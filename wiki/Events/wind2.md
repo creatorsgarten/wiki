@@ -26,13 +26,11 @@ We’re inviting web developers and frontend enthusiasts to join us for **Code i
 
 - **Code in the Wind:** ร่วมสนุกกับกิจกรรมทดสอบความเร็วและทักษะด้าน frontend โดยผู้ร่วมสนุกจะได้รับภาพตัวอย่างเป็นดีไซน์ และมีเวลา 10 นาทีในการอิมพลีเมนต์เป็นโค้ดด้วย HTML และ Tailwind CSS
 
+  Test your frontend skills as you’ll be given a reference web design image and 10 minutes to implement it in code using HTML and Tailwind CSS.
+
 - **Networking:** พบปะ พูดคุย แลกเปลี่ยนประสบการณ์และความรู้ กับนักพัฒนาท่านอื่นๆ ภายในงาน
 
-What to expect:
-
-- **Code in the Wind:** Test your frontend skills as you’ll be given a reference web design image and 10 minutes to implement it in code using HTML and Tailwind CSS.
-
-- **Networking:** Connect with other developers — share experiences and knowledge with peers.
+  Connect with other developers — share experiences and knowledge with peers.
 
 ## 🎟️ บัตรเข้างาน / Tickets
 
