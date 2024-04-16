@@ -68,14 +68,11 @@ Due to our venue requires attendees to pass through centralwOrld security. We ca
 
   Code in the Wind is divided into 2 main parts: **Qualification rounds** and **Final rounds.**
 
-- ในแต่ละรอบ ผู้ร่วมสนุก 8 คนจะได้รับโจทย์ ประกอบด้วย รูปภาพอ้างอิง, objectives 5 ข้อ, พร้อมข้อมูลที่จำเป็นสำหรับการสร้างหน้าเว็บตามแบบ (เช่น URL ไฟล์รูปภาพต่างๆ หรือข้อความที่ปรากฏในแบบ)
+- ในแต่ละรอบ ผู้ร่วมสนุก 8 คนจะได้รับโจทย์ ประกอบด้วย รูปภาพอ้างอิง, objectives 5 ข้อ, พร้อมข้อมูลที่จำเป็นสำหรับการสร้างหน้าเว็บตามแบบ (เช่น URL ไฟล์รูปภาพต่างๆ หรือข้อความที่ปรากฏในแบบ) สามารถดูโจทย์ก่อนๆ ได้ที่เว็บไซต์ของ [Code in the Wind #1](https://showdown.space/events/code-in-the-wind-1/)
 
-  In each round, 8 participants on the stage will be given a challenge consisting of a reference image, 5 objectives, and the necessary information to build a web page accordingly (e.g. image file URLs or text to display).
+  In each round, 8 participants on the stage will be given a challenge consisting of a reference image, 5 objectives, and the necessary information to build a web page accordingly (e.g. image file URLs or text to display). You can find the challenges for the previous event on [Code in the Wind #1](https://showdown.space/events/code-in-the-wind-1/)’s website.
 
-- ให้เขียนโค้ดเพื่อสร้างเว็บตามแบบที่กำหนดให้ ภายในเวลาจำกัด โดยใช้ Editor ที่ทางเราจะจัดเตรียมไว้ให้ ซึ่งการทำงานจะเหมือนกับ [Tailwind Play](https://play.tailwindcss.com)
+- ให้เขียนโค้ดเพื่อสร้างเว็บตามแบบที่กำหนดให้ภายในเวลาจำกัด โดยใช้ code editor ที่ทางเราจะจัดเตรียมไว้ให้ ซึ่งการทำงานจะเหมือนกับ [Tailwind Play](https://play.tailwindcss.com)
 
-  Participants will have limited time to implement the given design using the provided editor based on [Tailwind Play](https://play.tailwindcss.com).
-
-- สามารถดูโจทย์ก่อนๆ ได้ที่เว็บไซต์ของ [Code in the Wind #1](https://showdown.space/events/code-in-the-wind-1/)
-
-  You can find the challenges for the previous event on [Code in the Wind #1](https://showdown.space/events/code-in-the-wind-1/)’s website.
+  Participants will have limited time to implement the given design using the provided code editor based on [Tailwind Play](https://play.tailwindcss.com).
+  
