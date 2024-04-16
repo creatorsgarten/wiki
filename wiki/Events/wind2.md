@@ -73,3 +73,4 @@ Due to our venue requires attendees to pass through centralwOrld security. We ca
 | ในรอบคัดเลือก ผู้ที่ทำคะแนนสูงสุด 2 ท่านในแต่ละรอบ จะได้ผ่านเข้าสู่รอบชิงชนะเลิศ | In the qualifiers, the 2 top participants in each qualifier round will advance to the finals. |
 | ในรอบชิงชนะเลิศ เราจะทำการแจกรางวัลตามคะแนนที่ได้จากรอบชิงชนะเลิศทั้งหมด | After the finals, prizes will be awarded based on total score in all final rounds. |
 | คุณสามารถตกแต่งหน้าเว็บ โดยใช้คลาสต่างๆ ของ Tailwind CSS, หรือจะเขียน CSS ใส่ใน `<style>` หรือจะใช้ inline style ก็ได้ | You can style your web page using Tailwind CSS’ classes, regular CSS using `<style>` elements, or inline styles. |
+| ห้ามใช้ JavaScript บนหน้าเว็บ | No client side scripting is allowed. |
