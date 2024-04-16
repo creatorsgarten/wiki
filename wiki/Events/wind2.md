@@ -62,4 +62,16 @@ Due to our venue requires attendees to pass through centralwOrld security. We ca
 
   Eight developers will take center stage per round to tackle the design challenge in a live coding showdown. But don't worry if you don't get picked! The same challenge will be available for everyone to try at their own pace. Feel free to code along, observe the masters, or simply network with fellow developers.
 
+## 📝 รูปแบบกิจกรรม / Mechanics
 
+- กิจกรรมจะแบ่งเป็น 2 ส่วนหลักๆ คือ **รอบคัดเลือก** และ **รอบชิงชนะเลิศ**
+
+  Code in the Wind is divided into 2 main parts: **Qualification rounds** and **Final rounds.**
+
+- ในแต่ละรอบ ผู้ร่วมสนุก 8 คนจะได้รับโจทย์ ประกอบด้วย รูปภาพอ้างอิง, objectives 5 ข้อ, พร้อมข้อมูลที่จำเป็นสำหรับการสร้างหน้าเว็บตามแบบ (เช่น URL ไฟล์รูปภาพต่างๆ หรือข้อความที่ปรากฏในแบบ)
+
+  In each round, 8 participants on the stage will be given a challenge consisting of a reference image, 5 objectives, and the necessary information to build a web page accordingly (e.g. image file URLs or text to display).
+
+- สามารถดูโจทย์ก่อนๆ ได้ที่เว็บไซต์ของ [Code in the Wind #1](https://showdown.space/events/code-in-the-wind-1/)
+
+  You can find the challenges for the previous event on [Code in the Wind #1](https://showdown.space/events/code-in-the-wind-1/)’s website.
