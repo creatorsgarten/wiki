@@ -5,7 +5,7 @@ event:
   location: Agoda, 8th Fl.
   date: "2024-05-18"
   # site:
-  eventpopId: 29657
+  eventpopId: 26957
   unlisted: true # Remove this line when event is ready
   hosts:
     - Creatorsgarten
