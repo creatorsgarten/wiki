@@ -72,6 +72,10 @@ Due to our venue requires attendees to pass through centralwOrld security. We ca
 
   In each round, 8 participants on the stage will be given a challenge consisting of a reference image, 5 objectives, and the necessary information to build a web page accordingly (e.g. image file URLs or text to display).
 
+- ให้เขียนโค้ดเพื่อสร้างเว็บตามแบบที่กำหนดให้ ภายในเวลาจำกัด โดยใช้ Editor ที่ทางเราจะจัดเตรียมไว้ให้ ซึ่งการทำงานจะเหมือนกับ [Tailwind Play](https://play.tailwindcss.com)
+
+  Participants will have limited time to implement the given design using the provided editor based on [Tailwind Play](https://play.tailwindcss.com).
+
 - สามารถดูโจทย์ก่อนๆ ได้ที่เว็บไซต์ของ [Code in the Wind #1](https://showdown.space/events/code-in-the-wind-1/)
 
   You can find the challenges for the previous event on [Code in the Wind #1](https://showdown.space/events/code-in-the-wind-1/)’s website.
