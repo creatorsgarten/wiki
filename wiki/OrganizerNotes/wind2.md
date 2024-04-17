@@ -11,7 +11,7 @@
 
 # Status
 
-| Item | Status |
+| Item&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Status |
 | ---- | ------ |
 | Venue | ✅ Agoda |
 | Date | ✅ Saturday, May 18th, 2024 |
