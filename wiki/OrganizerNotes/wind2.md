@@ -2,10 +2,12 @@
 
 # Fact sheet
 
-- Date and time: TBC (Tentative: Wednesday, May 1st, 2024)
-- Place: TBC (Tentative: Agoda)
-- Time (estimate): 18:00 ~ 22:15
-- Confirmed sponsors: currently none
+- Date and time: Saturday, May 18th, 2024
+- Place: Agoda 8F
+- Time: 18:30 ~ 23:00
+- Confirmed sponsors:
+    - Agoda
+    - Cleverse
 
 # Status
 
