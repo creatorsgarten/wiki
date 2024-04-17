@@ -11,9 +11,19 @@
 
 # Status
 
-- Preparing problems
-- Looking for prize sponsors
-- Evaluating venue options
+| Item | Status |
+| ---- | ------ |
+| Venue | ✅ Agoda |
+| Date | ✅ Saturday, May 18th, 2024 |
+| Food | ✅ Sponsored by Agoda |
+| Prizes | ⚠️ 0 / 8 |
+| Music | ⚠️ Still need someone to help play music during each round. It should be safe to stream the music to Twitch and Facebook without getting copyright strike. |
+| Editor | ✅ Code editor is working now |
+| Challenges | ⚠️ Still working on it |
+| Authentication | ⚠️ Authgarten needs an event mode where people can sign in with their ticket reference code, in case a user needs to borrow someone’s laptop and their Eventpop account is tied to Facebook and they don’t want to input their Facebook credentials into someone else’s computer. |
+| Voting system | ⚠️ Unimplemented |
+| Quiz | ⚠️ Unimplemented |
+| Quiz questions | ⚠️ Unprepared |
 
 # Activity log
 
