@@ -6,7 +6,7 @@ event:
   date: "2024-05-18"
   # site:
   eventpopId: 26957
-  unlisted: true # Remove this line when event is ready
+  unlisted: false # Remove this line when event is ready
   hosts:
     - Creatorsgarten
     - showdown.space
