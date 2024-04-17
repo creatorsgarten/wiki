@@ -33,7 +33,10 @@
 | --- | --- |
 | 2024-03-22 | Created messenger group |
 | 2024-03-23 | [Announced intent to organize, call for staff](https://www.facebook.com/dtinth/posts/pfbid03zD1G36iy2Qtu4DU8tkidTi6fU13Gna1aSGQY83yRFpoWKqcFHxStCivFwNAcBQHl) |
-| 2024-04-02 | Venue scoting, agenda drafting |
+| 2024-04-02 | Venue scoting, agenda drafting, tentative date set to May 1 |
+| 2024-04-06 | We learned that 2024-05-01 is a holiday and it’s final exam season for students |
+| 2024-04-09 | Venue scoting again, tentative date moved to May 18 |
+| 2024-04-17 | [Events announced on Facebook](https://www.facebook.com/creatorsgarten/posts/pfbid0pTewehWdCNPnKnFkcekjbdpnjAkhiWoyEu8waTYY4hqD6yeExFkFCVLDGjcAyP2ql) |
 
 # Agenda
 
