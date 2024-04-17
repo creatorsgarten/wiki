@@ -16,6 +16,8 @@
 | Venue | ✅ Agoda |
 | Date | ✅ Saturday, May 18th, 2024 |
 | Food | ✅ Sponsored by Agoda |
+| Eventpop page | ✅ Published |
+| Ticket types | ⚠️ To prepare |
 | Prizes | ⚠️ 0 / 8 |
 | Music | ⚠️ Still need someone to help play music during each round. It should be safe to stream the music to Twitch and Facebook without getting copyright strike. |
 | Editor | ✅ Code editor is working now |
