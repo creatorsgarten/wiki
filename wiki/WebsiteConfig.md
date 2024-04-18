@@ -32,6 +32,9 @@ websiteConfig:
       - name: Wiki
         description: Public knowledge base
         url: /wiki
+      - name: Grist
+        description: Modern relational spreadsheet, another open source Airtable alternative (testing)
+        url: https://grist.creatorsgarten.org
       - name: NocoDB
         description: Open source Airtable alternative (testing)
         url: https://db.creatorsgarten.org/sso
