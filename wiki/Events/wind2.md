@@ -4,6 +4,7 @@ event:
   name: 'Code in the Wind #2'
   location: Agoda, 8th Fl.
   date: "2024-05-18"
+  site: https://www.eventpop.me/e/26957
   # site:
   eventpopId: 26957
   unlisted: false # Remove this line when event is ready
