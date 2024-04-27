@@ -10,6 +10,9 @@ websiteConfig:
       - name: Stupid Hackathon in Thailand
         schedule: Late Q2 - Early Q3
         url: /wiki/StupidHackTH
+      - name: BKK.JS
+        schedule: Every quater
+        url: https://bkk.js.org/
       - name: Bingsu.js
         schedule: Post meetups
         url: https://bingsu.js.org/
