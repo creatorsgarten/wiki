@@ -1,7 +1,7 @@
 ---
 websiteConfig:
   featureFlags:
-    deviceAuthorization: true
+    deviceAuthorization: false
     example: false
   events:
     recurring:
