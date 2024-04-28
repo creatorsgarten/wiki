@@ -17,12 +17,13 @@
 | Date | ✅ Saturday, May 18th, 2024 |
 | Food | ✅ Sponsored by Agoda |
 | Eventpop page | ✅ Published |
-| Ticket types | ⚠️ To prepare |
+| Ticket types | ✅ To prepare |
+| Ticket challenges | ✅ Prepared |
 | Prizes | ⚠️ 0 / 8 |
 | Music | ⚠️ Still need someone to help play music during each round. It should be safe to stream the music to Twitch and Facebook without getting copyright strike. |
 | Editor | ✅ Code editor is working now |
 | Challenges | ⚠️ Still working on it |
-| Authentication | ⚠️ Authgarten needs an event mode where people can sign in with their ticket reference code, in case a user needs to borrow someone’s laptop and their Eventpop account is tied to Facebook and they don’t want to input their Facebook credentials into someone else’s computer. |
+| Authentication | ✅ [Mobile sign-in has been implemented in Authgarten](https://github.com/creatorsgarten/creatorsgarten.org/issues/613) |
 | Voting system | ⚠️ Unimplemented |
 | Quiz | ⚠️ Unimplemented |
 | Quiz questions | ⚠️ Unprepared |
@@ -37,6 +38,7 @@
 | 2024-04-06 | We learned that 2024-05-01 is a holiday and it’s final exam season for students |
 | 2024-04-09 | Venue scoting again, tentative date moved to May 18 |
 | 2024-04-17 | [Events announced on Facebook](https://www.facebook.com/creatorsgarten/posts/pfbid0pTewehWdCNPnKnFkcekjbdpnjAkhiWoyEu8waTYY4hqD6yeExFkFCVLDGjcAyP2ql) |
+| 2024-04-27 | Initial tickets release + challenger pre-registration |
 
 # Agenda
 
