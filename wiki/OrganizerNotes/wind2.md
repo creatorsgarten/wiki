@@ -19,10 +19,10 @@
 | Eventpop page | ✅ Published |
 | Ticket types | ✅ To prepare |
 | Ticket challenges | ✅ Prepared |
-| Prizes | ⚠️ 0 / 8 |
+| Prizes | ⚠️ 0 / 8 confirmed<br>⌛ Awaiting info from 2 sponsors |
 | Music | ⚠️ Still need someone to help play music during each round. It should be safe to stream the music to Twitch and Facebook without getting copyright strike. |
 | Editor | ✅ Code editor is working now |
-| Challenges | ⚠️ Still working on it |
+| Challenges | ⚠️ 5 challenges in library (at least 6 needed)<br>⚠️ Still have to pick 6 problems |
 | Authentication | ✅ [Mobile sign-in has been implemented in Authgarten](https://github.com/creatorsgarten/creatorsgarten.org/issues/613) |
 | Voting system | ⚠️ Unimplemented |
 | Quiz | ⚠️ Unimplemented |
