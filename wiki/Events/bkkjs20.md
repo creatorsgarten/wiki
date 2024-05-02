@@ -83,4 +83,4 @@ Within 1 month, all sessions will be uploaded to [Creatorsgarten YouTube channel
 | 16:15 - 16:30 | **Lighting Talk #1** |
 | 16:30 - 16:45 | **Lighting Talk #2** |
 | 16:45 - 17:00 | ปิดงาน และร่วมถ่ายรูป / Closing & Photos |
-| 18:00 - 23:00 | **After party** {% render 'Event', name: 'wind2' %} |
+| 18:00 - 23:00 | **After party** {% render 'Event', name: 'wind2' %} (Ticket sold separately) |
