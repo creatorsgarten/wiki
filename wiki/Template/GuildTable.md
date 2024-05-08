@@ -17,5 +17,7 @@
 | [[ClusterWikiWG\|Cluster.wiki WG]] | Developing Contentsgarten-engine, Cluster.wiki, and Super.Cluster.wiki as an open-source information sharing platform across organizations
 | [[OkNizeWG\|Oknize WG]] | Developing Oknize, an event organizing toolset for organizers
 | [[Metagarten\|Metagarten]] | Meta-guild for organizing Creatorsgarten guilds and systems
+| [[DXBlockWG\|DX Block WG]] | Rethinking Data Science Learning Approach
+
 
 </div>
