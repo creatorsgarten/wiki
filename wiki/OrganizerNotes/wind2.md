@@ -25,7 +25,7 @@
 | Website | ✅ <https://showdown.space/events/code-in-the-wind-2/> |
 | Music | ⚠️ Still need someone to help play music during each round. It should be safe to stream the music to Twitch and Facebook without getting copyright strike. |
 | Editor | ✅ Code editor is working now |
-| Challenges | ⚠️ 5 challenges in library (at least 6 needed)<br>⚠️ Still have to pick 6 problems |
+| Challenges | ✅ 6 challenges have been prepared |
 | Authentication | ✅ [Mobile sign-in has been implemented in Authgarten](https://github.com/creatorsgarten/creatorsgarten.org/issues/613) |
 | Voting system | ⚠️ Unimplemented |
 | Quiz | ⚠️ Unimplemented |
