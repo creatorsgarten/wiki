@@ -20,10 +20,10 @@
 | Eventpop page | ✅ Published |
 | Ticket types | ✅ To prepare |
 | Ticket challenges | ✅ Prepared |
-| Prizes | ✅ 4 / 8 confirmed |
+| Prizes | ✅ 8 / 8 confirmed |
 | Sponsors | ⚠️ To set up sponsor page |
 | Website | ✅ <https://showdown.space/events/code-in-the-wind-2/> |
-| Music | ⚠️ Still need someone to help play music during each round. It should be safe to stream the music to Twitch and Facebook without getting copyright strike. |
+| Music | ✅ [Copyright free deep house mix](https://www.youtube.com/watch?v=fJ_0V0ZgTOI) |
 | Editor | ✅ Code editor is working now |
 | Challenges | ✅ 6 challenges have been prepared |
 | Authentication | ✅ [Mobile sign-in has been implemented in Authgarten](https://github.com/creatorsgarten/creatorsgarten.org/issues/613) |
