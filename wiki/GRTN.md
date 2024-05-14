@@ -66,6 +66,7 @@ grtnRedirects:
   memberform: https://docs.google.com/forms/d/e/1FAIpQLSeliUMyWqPM3GDvJGd47CiH4iPr2C9cPAV2CqLuOMa_Cceh7Q/viewform
   membersign: https://creatorsgarten.org/dashboard/sign?signMessage=https://grtn.org/memberform
   e/bkkjs20/cfs: https://www.eventpop.me/events/26956-bkkjs20/application_forms/1844/applicants/new
+  nfco: 'https://creatorsgarten.github.io/nfc-onboarder/?url=https://grtn.org/inventory/nfc/{sn}'
 ---
 
 
