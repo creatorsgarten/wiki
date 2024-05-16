@@ -81,6 +81,10 @@ equipments:
     custody: g0 S2
     type: av
     description: Ugreen 3.5mm extender
+  - name: item 418 (x6)
+    custody: g0 S2
+    type: komono
+    description: I am a teapot
 ---
 
 :::lead
