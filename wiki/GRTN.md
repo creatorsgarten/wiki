@@ -5,6 +5,7 @@ grtnRedirects:
   stats: https://analytics.amplitude.com/share/0739bde215694b80a3685704b0b2e834
   ls: https://grtn.org/routes.json
   links: https://grtn.org/routes.json
+  dash: https://creatorsgarten.org/dashboard
   gh: https://github.com/creatorsgarten
   dc: https://discord.gg/fsZq57cmRk
   discord: https://discord.gg/fsZq57cmRk
