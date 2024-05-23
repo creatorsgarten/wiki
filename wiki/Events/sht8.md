@@ -13,10 +13,11 @@ event:
     - ESC
   # eventpopId: 15113
 ---
+
+{% render 'EventBox', name: ref %}
+
 :::lead
 To be announced
 :::
 
 {% render 'EventpopButton', id: page.event.eventpopId %}
-
-{% render 'EventBox', name: ref %}
