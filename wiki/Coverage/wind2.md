@@ -6,4 +6,6 @@
 
   > เราปฏิเสธไม่ได้เลยว่า Frontend Developer นั้นไม่ได้มีพื้นที่ให้แสดงความสามารถออกมาบ่อยครั้งนัก แต่งาน CITW#2 นี้ เป็นงานงานหนึ่งที่ทำให้พวกเราได้มีพื้นที่ให้แสดงออกถึง skillset, creativity, และ craftsmanship ออกมาให้คนอื่นๆ ได้เห็นถึงศักยภาพของพวกเรา และช่วยเป็นแรงบันดาลใจ แรงพลักดันให้คนอื่นๆ ได้ฝึกปรือ พัฒนา และเรียนรู้สิ่งใหม่ๆ มากยิ่งขึ้น
 
+- [Write up by Thai Pangsakulyanont](https://www.facebook.com/dtinth/posts/pfbid02VWNVr17JrNej9qcWjEj3zabnviBUBdpAetezUJg5bxCCKvw6mbfWgm1aqVrvCmXXl)
+
 - [Creatorsgarten’s post](https://www.facebook.com/creatorsgarten/posts/pfbid0MBzS2ohqqLYgVjLWLgwqPXtGXMWAiEDDhdUJEgpBNM2JXp1iiEaaHtitekzqxDaYl)
