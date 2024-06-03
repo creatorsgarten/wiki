@@ -27,9 +27,9 @@
 | Editor | ✅ Code editor is working now |
 | Challenges | ✅ 6 challenges have been prepared |
 | Authentication | ✅ [Mobile sign-in has been implemented in Authgarten](https://github.com/creatorsgarten/creatorsgarten.org/issues/613) |
-| Voting system | ⚠️ Unimplemented |
-| Quiz | ⚠️ Unimplemented |
-| Quiz questions | ⚠️ Unprepared |
+| Voting system | ✅ Done |
+| Quiz | ✅ Done |
+| Quiz questions | ✅ Done |
 
 # Activity log
 
@@ -42,12 +42,9 @@
 | 2024-04-09 | Venue scoting again, tentative date moved to May 18 |
 | 2024-04-17 | [Events announced on Facebook](https://www.facebook.com/creatorsgarten/posts/pfbid0pTewehWdCNPnKnFkcekjbdpnjAkhiWoyEu8waTYY4hqD6yeExFkFCVLDGjcAyP2ql) |
 | 2024-04-27 | Initial tickets release + challenger pre-registration |
+| 2024-05-18 | Event date |
 
 # Agenda
-
-:::warning[Draft]
-This agenda is a draft and is subject to change.
-:::
 
 | Time | Event |
 | ---- | ----- |
@@ -109,5 +106,3 @@ Note that you don’t have to do all the steps yourself. You can share your idea
 - Update live system to be more friendly with offline event
 - Switch from Discord auth to Authgarten
 - Find a DJ to take care of music during the event? (be careful about copyright)
-
-
