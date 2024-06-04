@@ -1,3 +1,5 @@
+{% render 'EventBox', name: ref %}
+
 # Useful Links
 
 - Notion - https://grtn.org/e/sht8/notion
