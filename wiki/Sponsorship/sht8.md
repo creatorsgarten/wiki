@@ -14,7 +14,6 @@
 ## 40,000 THB
 
 - We can produce base swags [Swag & Prizes](https://www.notion.so/Swag-Prizes-227bb23aa2734088b5a98adfb4fa3f04?pvs=21).
-- We may be able to provide air conditioning at night for the participants.
 
 ## 65,000 THB
 
