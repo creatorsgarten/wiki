@@ -57,6 +57,7 @@ grtnRedirects:
   e/shit7/figma: https://www.figma.com/file/fQk8oLorCYJcseJ2QDrHWW/SHiT-7?type=design&node-id=70-124&t=NukhZLgVwtKJiMVT-0
   e/sht8/notion: https://www.notion.so/creatorsgarten/stipud-honkatack-in-thailand-dan-of-smile-farang-took-jai-chob-si-d6b825b1c7de495583da2609893df69c?pvs=4
   e/sht8/figma: https://www.figma.com/design/pqQYtEHwSscHD6ZEYqk1bL/SHiT-8?node-id=0%3A1&t=TH1JcnqCqu8B6upe-1
+  e/sht8/sponsor: https://creatorsgarten.org/wiki/Sponsorship/sht8
   ideas: https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas
   streams: https://www.youtube.com/playlist?list=PLTuz2sLvbRpwkoLi0AYDwdABU5dhkoGIr
   artcouncil/notion: https://www.notion.so/creatorsgarten/Bangkok-Digital-Youth-Art-Council-690fa6a8d0fe4ef08a9e014f5d16b917
