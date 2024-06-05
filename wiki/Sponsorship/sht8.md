@@ -2,24 +2,50 @@
 
 # 🤝 Sponsorship - สตูปิดแฮคกะธอน ครั้งที่ 8 
 
+## 🙋 What is The Stupid Hackathon?
 
-# Budgeting Plan
+**The Stupid Hackathon in Thailand** is a collaborative hackathon in Thailand with non-competitive intentions and no focuses on business value.
 
-## 0 THB
+Our main goal for this hackathon is to get makers to just *have fun* and learn together, through working on any project they can dream of, fostering a community of enthusiastic creators.
 
-- We can hopefully run the hackathon with the generosity of venue provider.
-- Without food sponsor, participants and staffs may have to pay for food themselves.
-- But this should not stop us from having fun together!!
+The stupid hackathon is [held all around the world](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87), including New York (the original), San Francisco, Rhode Island, Canada, Netherlands, Germany, Austria, Sweden, Norway, Hawaii, UK, Shanghai, Singapore, and… here, Thailand! In the spirit of the stupid hackathons worldwide, this event is *non-commercial* and free to attend.
 
-## 40,000 THB
+# 💡 Quick information about this event
 
-- We can produce base swags [Swag & Prizes](https://www.notion.so/Swag-Prizes-227bb23aa2734088b5a98adfb4fa3f04?pvs=21).
+- **Date:** 13-14 July 2024
+- **Website:** [https://stupid.hackathon.in.th](https://stupid.hackathon.in.th)
+- **Venue:** Faculty of Engineering, Chulalongkorn University
+- **The number of participants:** around 120 participants.
+- **Attendance fee:** None.
 
-## 65,000 THB
+This event is non-commercial [in the spirit of Stupid Hacking](http://stupid.hackathon.in.th).
 
-- We can independently provide meals and snacks.
-- We can add prizes.
+**For this event to become a reality, we need your support.**
 
-## 100,000 THB
+## Sponsorship Packages
 
-- We can have an abundance of both food and swags
+### 💸 Financial Sponsor
+
+TBA
+
+### 🏆 Prizes Sponsor
+
+TBA
+
+## Budgeting Plan
+
+### 40,000 THB
+
+- everyone has food to survive for another day
+
+### 60,000 THB
+
+- cool prizes
+
+### 100,000 THB
+
+- cool swags for everyone to collect
+
+### 999,999 THB
+
+- p'Pub will fly down from a helicopter to welcome everyone.
