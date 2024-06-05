@@ -17,7 +17,7 @@ event:
 {% render 'EventBox', name: ref %}
 
 :::lead
-To be announced
+Tickets will be announced soon!
 :::
 
 # Stupid Hackathon คืออะไร?😃
@@ -50,9 +50,6 @@ generate by chat gpt, translate by google translate(lurb  gg translate)
 13-14 กรกฎาคมนี้ พบกัน คณะวิศวกรรมศาสตร์ ตึก100 ชั้น 1-3
 
 ติดตามลายระเอียดได้ที่ 
-
-spoiled alert
-ปีก่อนทำไร
 
 
 {% render 'EventpopButton', id: page.event.eventpopId %}
