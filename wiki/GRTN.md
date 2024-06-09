@@ -73,6 +73,7 @@ grtnRedirects:
   nfco: 'https://creatorsgarten.github.io/nfc-onboarder/?url=https://grtn.org/inventory/nfc/{sn}'
   wind: https://codeinthewind-editor-shell.pages.dev/
   wind-feedback: https://docs.google.com/forms/d/e/1FAIpQLScr__I1tcTk4OB2Bmxjw3QGyYxXtXRjjdVpAcFCWZ095ZE8qg/viewform?usp=sf_link
+  jsbkk-cfs: https://sessionize.com/javascript-bangkok-2024/
 ---
 
 
