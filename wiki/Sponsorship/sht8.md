@@ -59,7 +59,7 @@ Your sponsorship will bring a lot of merit and joy to our event! We'll make sure
 ### 🙏 Graab Sponsorship (฿8,888 or more)
 
 - Mentioning your name on our “thank you post” on our social media
-- A video of Mr.Chaiyapat promoting you or your company for 30 seconds
+- A video of Mr.[Chayapatr](https://www.facebook.com/chayapatr/) promoting you or your company for 30 seconds
 - Including your logo on our website hall of sponsorship
 - Your logo will be shown on a board and poster at the event
 - Airtime for you to promote yourself or your company at the event
