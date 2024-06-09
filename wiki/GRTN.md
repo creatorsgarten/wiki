@@ -74,6 +74,7 @@ grtnRedirects:
   wind: https://codeinthewind-editor-shell.pages.dev/
   wind-feedback: https://docs.google.com/forms/d/e/1FAIpQLScr__I1tcTk4OB2Bmxjw3QGyYxXtXRjjdVpAcFCWZ095ZE8qg/viewform?usp=sf_link
   jsbkk-cfs: https://sessionize.com/javascript-bangkok-2024/
+  jsbkk-onboarding: https://outline.creatorsgarten.org/s/1624e26a-c230-4f5b-9fb0-e9214e5384ae
 ---
 
 
