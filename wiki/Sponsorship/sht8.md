@@ -1,6 +1,6 @@
 {% render 'EventBox', name: ref %}
 
-# 🤝 [Calling for Sponsors] Stipud Honkatack in Thailand 888
+# 🤝 Calling for Sponsors - Stipud Honkatack in Thailand 888
 
 ## What is The Stupid Hackathon?
 
