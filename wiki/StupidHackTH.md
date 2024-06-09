@@ -21,5 +21,4 @@ The Stupid Hackathon in Thailand (past: The Stupid Hackathon Thailand) is a Crea
 - [[Events/sht5|The 5th Stupid Hack Thailand]]
 - [[Events/sht6|The 6th Stupid Hackathon in Thailand]]
 - [[Events/sht7|The 7th Stupid Hackathon in Thailand]]
-
-- [[Events/sht8]The 8th Stupid Hackathon in Thailand]]
+- [[Events/sht8|The 8th Stupid Hackathon in Thailand]]
