@@ -22,30 +22,27 @@ This event is non-commercial [in the spirit of Stupid Hacking](http://stupid.hac
 
 **For this event to become a reality, we need your support.**
 
-## Sponsorship Packages
+## Sponsorship package
 
-### 💸 Financial Sponsor
+### 🙏 Graab Sponsorship (฿8,888 or more)
 
-TBA
+- Mentioning your name on our “thank you post” on our social media
+- A video of Mr.Chaiyapat promoting you or your company for 30 seconds
+- Including your logo on our website hall of sponsorship
+- Your logo will be shown on a board and poster at the event
+- Airtime for you to promote yourself or your company at the event
 
-### 🏆 Prizes Sponsor
+### 🐱 Meow Sponsorship (฿3,141 or more)
 
-TBA
+- Mentioning your name on our “thank you post” on our social media
+- Including your logo on our website hall of sponsorship
+- Your logo will be shown on a board and poster at the event
+- Airtime for you to promote yourself or your company at the event
 
-## Budgeting Plan
+### Note!
 
-### 40,000 THB
+Every 1,000 THB that exceed your sponsorship package you will be given an extra logo board at the event (Maximum 5 boards)
 
-- everyone has food to survive for another day
+## 📦 Non-Monetary Sponsorship
 
-### 60,000 THB
-
-- cool prizes
-
-### 100,000 THB
-
-- cool swags for everyone to collect
-
-### 999,999 THB
-
-- p'Pub will fly down from a helicopter to welcome everyone.
+We accept any items as a sponsorship. These can be items that will help us host the event or anything you want to include in the prize pool!
