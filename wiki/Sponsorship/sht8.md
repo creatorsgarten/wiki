@@ -42,41 +42,6 @@ Join us in Thailand for a day of boundless creativity, learning, and laughter. L
 - 🙆‍♀️ An apparatus for interweb access
 - 🙆‍♀️ A stupid idea you want to turn into reality-ish
 
-There are no evaluation criteria, the only evaluation criterion: the stupider the project is, the better. There is zero (0) pressure about a thing.💡About this event
-
-**The Stupid Hackathon in Thailand** is a unique, collaborative event where innovation meets pure fun. Unlike traditional hackathons, this one has no competitive edge and no emphasis on business value. It is all about unleashing creativity and enjoying the process of making something outlandish and entertaining.
-
-Our main goal is simple: we want makers to *have fun* and learn together. Whether it is creating “seal” programming language, hilarious solution for zoom, or nothing…, participants can work on any project they dream of. It is about fostering a community of enthusiastic creators who enjoy the journey of building and experimenting.
-
-Whether a developer, a designer, or an aspiring hacker from whatever-background with crazy, stupid, or crazy-stupid ideas and an itch for experimentation, we welcome you to join the most ridiculous hackathon ever held to date.
-
-The Stupid Hackathon is a global phenomenon, [held in cities all around the world] (https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87). From its origins in New York to vibrant events in San Francisco, Rhode Island, Canada, the Netherlands, Germany, Austria, Sweden, Norway, Hawaii, the UK, Shanghai, Singapore, and now, right here in Thailand! Staying true to the spirit of these global gatherings, our event is completely *non-commercial* and free for everyone to attend.
-
-- *What makes The Stupid Hackathon in Thailand special? **
-- *A Celebration of Absurdity: ** Encouraging participants to think outside the box and embrace the bizarre.
-- *Community Building: ** Bringing together like-minded individuals who share a passion for creativity and innovation.
-- *Free and Open to All: ** Ensuring accessibility for everyone, making it a truly inclusive event.
-- *Workshops and Talks: ** Inspiring sessions from creative thinkers and innovators who have mastered the art of the absurd.
-- *Showcase of Projects: ** A fun and interactive demo session where participants can present their wacky creations.
-- *Networking Opportunities: ** Connect with other makers, share ideas, and even collaborate on future projects.
-- *Swag and Prizes: ** While it is not competitive, we still love to reward creativity with some cool, fun goodies.
-
-Join us in Thailand for a day of boundless creativity, learning, and laughter. Let’s make some ridiculous projects together!
-
-**Be stupid with us! 🤪**
-
-- *Things you do not need to attend StUPId HacK: **
-
-🙅‍️️ Previous hackathon experience
-
-🙅‍️ Years of coding experience
-
-- *Things you need to attend STUPid hACk: **
-
-🙆‍♀️ An apparatus for interweb access
-
-🙆‍♀️ A stupid idea you want to turn into reality-ish
-
 There are no evaluation criteria, the only evaluation criterion: the stupider the project is, the better. There is zero (0) pressure about a thing.
 
 ## 💡About this event
