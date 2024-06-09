@@ -111,7 +111,7 @@ Due to the event’s non-competitive nature, we want to be able to give as many 
 
 **Option 2 →** Let us choose: we promise that the award will be stupid.
 
-### 🔆 M**iscellaneous**
+### 🔆 Miscellaneous
 
 - Name Tag
     - **Estimated cost: ~20 THB * 120 = ~2,400 THB**
