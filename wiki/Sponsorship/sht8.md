@@ -88,7 +88,6 @@ The budget is calculated based on expenses of previous events for the approximat
 ### 🍕 Meals, Snacks & Beverages
 
 - **Estimated cost (3 meals for 120 people): ~45,000 THB**
-    - Extra: 5,400 THB — free Evian for everyone!
 - **Snacks**
     - **Estimated Cost: ~1,500 THB**
 
