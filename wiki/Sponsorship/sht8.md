@@ -62,7 +62,7 @@ Your sponsorship will bring a lot of merit and joy to our event! We'll make sure
 - Including your logo on our website hall of sponsorship
 - Your logo will be shown on a board and poster at the event
 - Airtime for you to promote yourself or your company at the event
-- A video of (Mr. [Chayapatr](https://www.github.com/chayapatr/) or Mr. [SaltyAom](https://github.com/saltyaom) or Mr. [Phoomparin](https://www.github.com/heypoom) or Mr. [Panithi](https://github.com/betich)) or Ms. [Phaphadha](https://creatorsgarten.org/wiki/People/anejung) promoting you or your company for 30 seconds (settled by [the best probabilistic-based decision making system of all time](https://en.wikipedia.org/wiki/Rock_paper_scissors))
+- A video of (Mr. [Chayapatr](https://www.github.com/chayapatr/) or Mr. [SaltyAom](https://github.com/saltyaom) or Mr. [Phoomparin](https://www.github.com/heypoom) or Mr. [Panithi](https://github.com/betich) or Ms. [Phaphadha](https://creatorsgarten.org/wiki/People/anejung)) promoting you or your company for 30 seconds (settled by [the best probabilistic-based decision making system of all time](https://en.wikipedia.org/wiki/Rock_paper_scissors))
 
 ### 🙏 Waii Sponsorship (฿3,141 or more)
 
