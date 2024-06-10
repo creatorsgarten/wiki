@@ -54,6 +54,10 @@ There are no evaluation criteria, the only evaluation criterion: the stupider th
 
 ## 💸 Sponsorship package
 
+:::info[For Sponsorships]
+Please contact us at [our Facebook page](https://grtn.org/fb)
+:::
+
 Your sponsorship will bring a lot of merit and joy to our event! We'll make sure everyone knows you made the Stupid Hackathon possible by showcasing your support in several fun and creative ways.
 
 ### 🙏 Graab Sponsorship (฿8,888 or more)
