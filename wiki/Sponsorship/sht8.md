@@ -81,27 +81,6 @@ We accept any items as a sponsorship. These can be items that will help us host 
 
 ---
 
-## 💰 Budgeting Plans
-
-The budget is calculated based on expenses of previous events for the approximation of 120 people. NOTE: Expenses may vary based on the budget that we get.
-
-### 🍕 Meals, Snacks & Beverages
-
-- **Estimated cost (3 meals for 120 people): ~45,000 THB**
-- **Snacks**
-    - **Estimated Cost: ~1,500 THB**
-
-### 🪄 Swags
-
-- **T-shirt**
-    - **Estimated cost: ~100 THB * 120 = ~12,000 THB**
-- **Holographic Sticker**
-    - **Estimated cost: ~3,265 THB**
-- **Anything else**
-    - Keychain
-    - Coffee Mug
-    - Tote Bag
-
 ### 🤖 Prize Pool
 
 Due to the event’s non-competitive nature, we want to be able to give as many prizes to give to as many participants as possible, with just a few grand prizes.
@@ -109,13 +88,6 @@ Due to the event’s non-competitive nature, we want to be able to give as many 
 **Option 1 →** Prizes of your choice: We’d prefer many small-to-medium prizes, with grand prizes being rare items. 
 
 **Option 2 →** Let us choose: we promise that the award will be stupid.
-
-### 🔆 Miscellaneous
-
-- Name Tag
-    - **Estimated cost: ~20 THB * 120 = ~2,400 THB**
-- Venue decoration:
-- Enhance the hackathon experience through your custom contribution: e.g. 3d printer, VR headset, Cloud credits, etc.
 
 ---
 
