@@ -6,6 +6,7 @@ event:
   date: "2023-07-13"
   endDate: "2023-07-14"
   site: https://www.eventpop.me/s/sht8
+  unlisted: false
   hosts:
     - Creatorsgarten
     - StupidHackTH
