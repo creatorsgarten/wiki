@@ -3,8 +3,8 @@ image: https://github.com/betich/betich/assets/28398789/40a205cb-a1ec-46e1-99ae-
 event:
   name: The โง่ Hackathon ครั้งที่ 8 แห่งประเทศ Thailand
   location: คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์​มหาวิทยาลัย
-  date: "2023-07-13"
-  endDate: "2023-07-14"
+  date: "2024-07-13"
+  endDate: "2024-07-14"
   site: https://www.eventpop.me/s/sht8
   unlisted: false
   hosts:
