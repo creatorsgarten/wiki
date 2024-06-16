@@ -1,7 +1,7 @@
 ---
 image: https://github.com/StupidHackTH/StupidHackTH.github.io/assets/28398789/cd958ec1-02a4-4c21-bde4-89f5912e0bb2
 event:
-  name: THE STIPUD HONKATHACK IN THAILAND DAN OF SMILE FARANG TOOK JAI CHOB SI
+  name: The Stipud Honkathack in Thailand Dan of Smile ครั้งที่ 8
   location: คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์​มหาวิทยาลัย
   date: "2024-07-13"
   endDate: "2024-07-14"
