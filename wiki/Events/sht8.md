@@ -11,14 +11,10 @@ event:
     - Creatorsgarten
     - StupidHackTH
     - Engineering Student Committee (ESC)
-  # eventpopId: 37219
+  eventpopId: 37219
 ---
 
 {% render 'EventBox', name: ref %}
-
-:::lead
-Tickets will be announced soon!
-:::
 
 # Stupid Hackathon คืออะไร?😃
 
