@@ -1,5 +1,5 @@
 ---
-image: https://github.com/StupidHackTH/8/assets/28398789/8d9cbb0c-9333-46b8-8aa7-1fe23845d40d
+image: https://github.com/StupidHackTH/StupidHackTH.github.io/assets/28398789/cd958ec1-02a4-4c21-bde4-89f5912e0bb2
 event:
   name: The Stipud Honkathack in Thailand Dan of Smile ครั้งที่ 8
   location: คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์​มหาวิทยาลัย
