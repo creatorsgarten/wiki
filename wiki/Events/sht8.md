@@ -1,7 +1,7 @@
 ---
 image: https://github.com/betich/betich/assets/28398789/40a205cb-a1ec-46e1-99ae-8facc319db56
 event:
-  name: The โง่ Hackathon ครั้งที่ 8 แห่งประเทศ Thailand
+  name: The Stipud Honkathack in Thailand Dan of Smile ครั้งที่ 8
   location: คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์​มหาวิทยาลัย
   date: "2024-07-13"
   endDate: "2024-07-14"
