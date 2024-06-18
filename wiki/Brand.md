@@ -30,3 +30,6 @@ Check out the [[Ring]] page.
 
 ## Digital Presence
 Please visit [[DigitalPresence]] page
+
+## Misc.
+We use [Basier Circle](https://www.atipofoundry.com/fonts/basier) and [Sarabun](https://fonts.google.com/specimen/Sarabun) font on our website. In addition, we bought a license for [Graphik Thai Loop](https://commercialtype.com/catalog/graphik_thai/graphik_thai_loop/regular) for graphic asset usages. Please contact Pub for more information.
