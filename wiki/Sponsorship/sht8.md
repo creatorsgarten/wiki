@@ -12,7 +12,7 @@ Whether a developer, a designer, or an aspiring hacker from whatever-background 
 
 The Stupid Hackathon is a global phenomenon, [held in cities all around the world](https://gist.github.com/cheeaun/c3fe6cbb11aef1e146a3474dccf63b87). From its origins in New York to vibrant events in San Francisco, Rhode Island, Canada, the Netherlands, Germany, Austria, Sweden, Norway, Hawaii, the UK, Shanghai, Singapore, and now, right here in Thailand! Staying true to the spirit of these global gatherings, our event is completely *non-commercial* and free for everyone to attend.
 
-### **What makes The Stupid Hackathon in Thailand special?**
+### What makes The Stupid Hackathon in Thailand special?
 
 **🎉 A Celebration of Absurdity:** Encouraging participants to think outside the box and embrace the bizarre.
 
@@ -55,7 +55,9 @@ There are no evaluation criteria, the only evaluation criterion: the stupider th
 ## 💸 Sponsorship package
 
 :::info[For Sponsorships]
-Please contact us at [our Facebook page](https://grtn.org/fb)
+Please contact us at [our Facebook page](https://grtn.org/fb),
+
+For Individual Sponsors, check out and donate here! [grtn.org/e/sht8/sponsor_form](https://grtn.org/e/sht8/sponsor_form)
 :::
 
 Your sponsorship will bring a lot of merit and joy to our event! We'll make sure everyone knows you made the Stupid Hackathon possible by showcasing your support in several fun and creative ways.
@@ -73,7 +75,13 @@ Your sponsorship will bring a lot of merit and joy to our event! We'll make sure
 - Mentioning your name on our “thank you post” on our social media
 - Including your logo on our website hall of sponsorship
 - Your logo will be shown on a board and poster at the event
-- Airtime for you to promote yourself or your company at the event
+- A shoutout of your brand at the event by our Emcees
+
+### Individual Sponsorship
+
+:::info[For Individual Sponsorships]
+check out and donate here! [grtn.org/e/sht8/sponsor_form](https://grtn.org/e/sht8/sponsor_form)
+:::
 
 ### ‼Note‼
 
