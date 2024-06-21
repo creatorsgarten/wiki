@@ -79,7 +79,7 @@ Your sponsorship will bring a lot of merit and joy to our event! We'll make sure
 
 ### 🙇 Individual Sponsorship
 
-- A text of your name and the link of your choice will be displayed our main website.
+- A text of your name will be displayed our main website.
 - Our deepest thanks to you for making this event happen!
 
 :::info[For Individual Sponsorships]
