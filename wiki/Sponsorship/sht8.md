@@ -77,7 +77,10 @@ Your sponsorship will bring a lot of merit and joy to our event! We'll make sure
 - Your logo will be shown on a board and poster at the event
 - A shoutout of your brand at the event by our Emcees
 
-### Individual Sponsorship
+### 🙇 Individual Sponsorship
+
+- A text of your name and the link of your choice will be displayed our main website.
+- Our deepest thanks to you for making this event happen!
 
 :::info[For Individual Sponsorships]
 check out and donate here! [grtn.org/e/sht8/sponsor_form](https://grtn.org/e/sht8/sponsor_form)
