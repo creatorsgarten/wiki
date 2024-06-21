@@ -74,7 +74,7 @@ grtnRedirects:
   wind: https://codeinthewind-editor-shell.pages.dev/
   wind-feedback: https://docs.google.com/forms/d/e/1FAIpQLScr__I1tcTk4OB2Bmxjw3QGyYxXtXRjjdVpAcFCWZ095ZE8qg/viewform?usp=sf_link
   jsbkk-sponsor-form: https://forms.office.com/r/95dY8akfZ3
-  jsbkk-sponsor-deck: https://drive.google.com/file/d/1LdDnCSW3_d08H12VAdgfQIsge0Q9YgXL/view?usp=drive_link
+  jsbkk-sponsor-deck: https://docs.google.com/presentation/d/1Y5oRjt0N93Yyx8Elbjh2PjuZZK1lTUHFtTBoIm1L-Dw/edit?usp=sharing
   jsbkk-cfs: https://sessionize.com/javascript-bangkok-2024/
   jsbkk-onboarding: https://outline.creatorsgarten.org/s/1624e26a-c230-4f5b-9fb0-e9214e5384ae
 ---
