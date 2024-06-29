@@ -4,11 +4,11 @@ grtn: c
 
 # Code Mania 1011
 
-Hi, Code Mania attendees! [JavaScript Bangkok 2.0.0](https://javascriptbangkok.com/) is coming soon. Follow our page on Facebook to get updates:
+สวัสดีผู้เข้าร่วมงาน Code Mania! [JavaScript Bangkok 2.0.0](https://javascriptbangkok.com/) กำลังจะมาในเร็วๆ นี้ ติดตามเพจของเราบน Facebook เพื่อรับข่าวสาร:
 
-- [JavaScript Bangkok](https://www.facebook.com/javascriptbangkok)
-- [BKK.js](https://www.facebook.com/bkkjs.community)
-- [Creatorsgarten](https://www.facebook.com/creatorsgarten)
+- [เพจ JavaScript Bangkok](https://www.facebook.com/javascriptbangkok)
+- [เพจ BKK.js](https://www.facebook.com/bkkjs.community)
+- [เพจ Creatorsgarten](https://www.facebook.com/creatorsgarten)
 
 ---
 
