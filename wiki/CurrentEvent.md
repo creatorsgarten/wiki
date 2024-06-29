@@ -10,6 +10,8 @@ grtn: c
 - [เพจ BKK.js](https://www.facebook.com/bkkjs.community)
 - [เพจ Creatorsgarten](https://www.facebook.com/creatorsgarten)
 
+ติดตามงาน Tech อื่นๆ ในไทยได้ทาง [Thai Tech Calendar](https://th.techcal.dev/)
+
 ---
 
 :::details[Archive: BKK.js #19]
