@@ -12,7 +12,7 @@ Hi, Code Mania attendees! [JavaScript Bangkok 2.0.0](https://javascriptbangkok.c
 
 ---
 
-:::details[BKK.js #19]
+:::details[Archive: BKK.js #19]
 
 # BKK.js #19
 
@@ -28,7 +28,7 @@ Slides:
 
 :::
 
-:::details[Hacktoberfest Thailand 2023]
+:::details[Archive: Hacktoberfest Thailand 2023]
 
 # Hacktoberfest Thailand 2023
 
