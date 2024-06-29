@@ -2,6 +2,18 @@
 grtn: c
 ---
 
+# Code Mania 1011
+
+Hi, Code Mania attendees! [JavaScript Bangkok 2.0.0](https://javascriptbangkok.com/) is coming soon. Follow our page on Facebook to get updates:
+
+- [JavaScript Bangkok](https://www.facebook.com/javascriptbangkok)
+- [BKK.js](https://www.facebook.com/bkkjs.community)
+- [Creatorsgarten](https://www.facebook.com/creatorsgarten)
+
+---
+
+:::details[BKK.js #19]
+
 # BKK.js #19
 
 Slides:
@@ -14,7 +26,7 @@ Slides:
 
 - [All about testing from 0 to 7 (คิดก่อนทำ หรือ ทำแล้วค่อยคิด .. ที่จะ Test)](https://speakerdeck.com/up1/javascript-testing-every-day)
 
----
+:::
 
 :::details[Hacktoberfest Thailand 2023]
 
