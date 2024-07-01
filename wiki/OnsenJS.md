@@ -64,7 +64,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 {% assign events = page.meetups | sort: 'date' | reverse %}
 |  Date | Name | Place |
 | ----- | ---- | ----- |{% for event in events %}
-| {{ event.date }} | [{{ event.name }}]({{ event.url }}) | {{ event.place }} |{% endfor %}
+| {{ event.date }} | {% if event.url %}[{{ event.name }}]({{ event.url }}){% else %}{{ event.name }}{% endif %} | {{ event.place }} |{% endfor %}
 
 # Places
 
