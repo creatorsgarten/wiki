@@ -66,7 +66,16 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 ## PAÑPURI Onsen & Spa
 
-- [Buy a voucher on GoWabi](https://www.gowabi.com/th/provider/panpuri-wellness) (first-time GoWabi user can use code `thai-5702366` for 100 THB discount)
+- **If you plan to buy food at Panpuri?**
+
+   - [Get an Onsen day pass with 100 THB food credit for 750 THB directly at Panpuri shop.](https://panpuri.com/spa-onsen/exclusive-package/exclusive-wellness-package-at-gaysorn/)
+
+- **Otherwise,**
+
+   - [Buy a voucher on GoWabi](https://www.gowabi.com/th/provider/panpuri-wellness) (first-time GoWabi user can use code `thai-5702366` for 100 THB discount)
+   - If you plan to arrive between 10:00 and 14:00, buy an off-peak ticket for 650 THB.
+   - Otherwise, a flash sale may be available for 669 THB or 690 THB.
+   - Otherwise, a regular entry pass costs 750 THB.
 
 PAÑPURI Onsen & Spa is at Gaysorn Tower, 12F. The closest BTS station is BTS Chid Lom.
 
