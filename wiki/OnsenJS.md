@@ -1,4 +1,5 @@
 ---
+title: Onsen.js
 meetups:
 - date: '2019-01-04'
   name: 'Onsen.js'
