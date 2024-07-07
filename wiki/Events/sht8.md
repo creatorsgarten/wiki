@@ -5,7 +5,7 @@ event:
   location: คณะวิศวกรรมศาสตร์ จุฬาลงกรณ์​มหาวิทยาลัย
   date: "2024-07-13"
   endDate: "2024-07-14"
-  site: https://www.eventpop.me/s/sht8
+  site: https://stupid.hackathon.in.th/8/
   unlisted: false
   hosts:
     - Creatorsgarten
