@@ -25,6 +25,8 @@ quickLinks:
 {%- for link in page.quickLinks -%}<span>[<a href="{{link.url}}">{{link.label}}</a>]</span>{%- endfor -%}
 </div>
 
+# In this wiki
+
 - **What is Creatorsgarten?** See our [homepage](/), [[SelfIntroduction|self-introduction page]], and our [[DemocratizeCreationForAll|manifesto]].
 - **Who’s involved?** Check out the [[people]] directory.
 - **What events are we running?** Check out our [events](/events) page.
@@ -32,7 +34,7 @@ quickLinks:
 - **Finding our logo?** Check out the [[brand assets]] page.
 - **Finding recordings of past events?** Check out our [YouTube Channel](https://www.youtube.com/@creatorsgarten) {% render 'Grtn', path: 'yt' %}.
 
-# For event organizers
+## For event organizers
 
 - **Finding information about a specific event?** Look at the [[Events#full-event-list|full event list]], which also provides more links to pages such as [[organizer notes]] and [[feedback]].
 - **Looking for specifications on creating event artwork?** The [[event images]] page details what kind of images should be created. There are also plenty of examples in there in case you need some inspiration.
