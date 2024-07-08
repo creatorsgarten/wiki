@@ -1,3 +1,5 @@
+{% render 'EventBox', name: ref %}
+
 **What do you like about this event? What did you enjoy the most?**
 
 - Fun, rest from coding
