@@ -4,8 +4,7 @@ event:
   name: 'Code in the Wind #2'
   location: Agoda, 8th Fl.
   date: "2024-05-18"
-  site: https://www.eventpop.me/e/26957
-  # site:
+  site: https://showdown.space/events/code-in-the-wind-2/
   eventpopId: 26957
   unlisted: false # Remove this line when event is ready
   hosts:
@@ -28,6 +27,10 @@ We’re inviting web developers and frontend enthusiasts to join us for **Code i
 - **Code in the Wind:** ร่วมสนุกกับกิจกรรมทดสอบความเร็วและทักษะด้าน frontend โดยผู้ร่วมสนุกจะได้รับภาพตัวอย่างเป็นดีไซน์ และมีเวลา 10 นาทีในการเขียนโค้ดเพื่อขึ้นหน้าเว็บตามแบบด้วย HTML และ Tailwind CSS
 
   Test your frontend skills as you’ll be given a reference web design image and 10 minutes to implement it in code using HTML and Tailwind CSS.
+
+  :::info[All challenges are published]
+  อัพโหลดโจทย์และเฉลยขึ้นเว็บไซต์แล้ว สามารถไปดูได้ที่เว็บไซต์ของงาน <https://showdown.space/events/code-in-the-wind-2/>
+  :::
 
 - **Mingle with fellow developers:** พบปะ พูดคุย แลกเปลี่ยนประสบการณ์และความรู้ กับนักพัฒนาท่านอื่นๆ ภายในงาน
 
