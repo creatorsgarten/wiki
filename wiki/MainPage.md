@@ -30,6 +30,7 @@ quickLinks:
 - **What events are we running?** Check out our [events](/events) page.
 - **Would you like to follow us?** Check out our [[DigitalPresence|social media]].
 - **Finding our logo?** Check out the [[brand assets]] page.
+- **Finding recordings of past events?** Check out our [YouTube Channel](https://www.youtube.com/@creatorsgarten) {% render 'Grtn', path: 'yt' %}.
 
 # For event organizers
 
