@@ -32,10 +32,7 @@ quickLinks:
 
 # For event organizers
 
-- [[Events#full-event-list|Full event list]]
-- [[Organizer notes]]
-- [[Inventory]]
-- [[Venues]]
+- **Finding information about a specific event?** Look at the [[Events#full-event-list|full event list]], which also provides more links to pages such as [[organizer notes]] and [[feedback]].
 
 :::warning[UNDER CONSTRUCTION]
 Our wiki is under construction, please feel free to contribute!
