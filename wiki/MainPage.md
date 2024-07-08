@@ -25,6 +25,19 @@ quickLinks:
 {%- for link in page.quickLinks -%}<span>[<a href="{{link.url}}">{{link.label}}</a>]</span>{%- endfor -%}
 </div>
 
+# For visitors
+
+- [[SelfIntroduction|What is Creatorsgarten? (Self introduction)]]
+- [[People|List of people in Creatorsgarten]]
+- [Take a look at our events](/events)
+
+# For event organizers
+
+- [[Events#full-event-list|Full event list]]
+- [[Organizer notes]]
+- [[Inventory]]
+- [[Venues]]
+
 :::warning[UNDER CONSTRUCTION]
 Our wiki is under construction, please feel free to contribute!
 :::
