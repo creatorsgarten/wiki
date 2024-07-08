@@ -1,4 +1,6 @@
-In most Creatorsgarten events, we use a form for collecting feedback after the event finished.
+:::lead
+In most Creatorsgarten [events](/events), we use a form for collecting feedback after the event finished.
+:::
 
 # Form Questions
 
