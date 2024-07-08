@@ -1,3 +1,3 @@
 :::lead
-Organizing events is no easy task. **Shared resources** help us run events more efficiently and smoothly.
+Organizing events is no easy task. By **sharing resources**, events can be run more efficiently and smoothly.
 :::
