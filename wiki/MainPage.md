@@ -27,6 +27,7 @@ quickLinks:
 
 - **What is Creatorsgarten?** See our [homepage](/), [[SelfIntroduction|self-introduction page]], and our [[DemocratizeCreationForAll|manifesto]].
 - **What events are we running?** Check out our [events](/events) page.
+- **Finding our logo?** Check out the [[brand assets]] page.
 
 # For event organizers
 
