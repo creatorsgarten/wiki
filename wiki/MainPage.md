@@ -35,6 +35,8 @@ quickLinks:
 # For event organizers
 
 - **Finding information about a specific event?** Look at the [[Events#full-event-list|full event list]], which also provides more links to pages such as [[organizer notes]] and [[feedback]].
+- **Looking for specifications on creating event artwork?** The [[event images]] details what kind of images should be created. There are also plenty of examples in there in case you need some inspiration.
+- **Finding knowledge about live-streaming?** Our [[videos]] page documents our livestreaming setup, tips and tricks, as well as know-hows.
 - **Want to integrate with our member system?** Some events have custom software systems (such as project directory, voting, etc) that integrates with our member system to enhance the experience. Creatorsgarten’s website implements the OpenID Connect standard and can provide basic info about the attendee as well as event ticket information. To learn more, check out [[Authgarten]] page.
 
 :::warning[UNDER CONSTRUCTION]
