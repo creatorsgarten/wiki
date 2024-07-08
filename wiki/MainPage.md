@@ -18,7 +18,7 @@ quickLinks:
 <!-- wysiwyg-ignore-start -->
 
 :::lead
-**[Creatorsgarten](https://creatorsgarten.org/)** is a collective of antidisciplinary creators. We bring people together to work on new ideas, trying new things and collaborate across disciplines.
+**[Creatorsgarten](https://creatorsgarten.org/)** is a collective of antidisciplinary creators. We bring people together to work on new ideas, trying new things and collaborate across disciplines. The wiki is our [[public by default|public]] knowledge base.
 :::
 
 <div style="margin:1em 0; display: flex; flex-wrap: wrap; gap: 1rem; justify-content: center; color: #0008">
