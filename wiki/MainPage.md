@@ -25,10 +25,8 @@ quickLinks:
 {%- for link in page.quickLinks -%}<span>[<a href="{{link.url}}">{{link.label}}</a>]</span>{%- endfor -%}
 </div>
 
-# For visitors
-
-- [[SelfIntroduction|What is Creatorsgarten? (Self introduction)]]
-- [Our events](/events)
+- **What is Creatorsgarten?** See our [homepage](/), [[SelfIntroduction|self-introduction page]], and our [[DemocratizeCreationForAll|manifesto]].
+- **What events are we running?** Check out our [events](/events) page.
 
 # For event organizers
 
