@@ -28,8 +28,7 @@ quickLinks:
 # For visitors
 
 - [[SelfIntroduction|What is Creatorsgarten? (Self introduction)]]
-- [[People|List of people in Creatorsgarten]]
-- [Take a look at our events](/events)
+- [Our events](/events)
 
 # For event organizers
 
