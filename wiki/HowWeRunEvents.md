@@ -2,7 +2,7 @@
 If you wonder **how we run events**, here's a quick rundown:
 :::
 
-:::note
+:::info
 This page describes normal events that requires _some_ preparation, such as a meetup or a hackathon. We also have [[informal gatherings]] where the contents on this page do not apply.
 :::
 
