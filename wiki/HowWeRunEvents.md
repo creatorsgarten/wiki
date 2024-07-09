@@ -2,6 +2,10 @@
 If you wonder **how we run events**, here's a quick rundown:
 :::
 
+:::note
+This page describes normal events that requires _some_ preparation, such as a meetup or a hackathon. We also have [[informal gatherings]] where the contents on this page do not apply.
+:::
+
 1. **It starts with the person who wants to run an event.** (This person usually [[DoOcracy|becomes the event host]].) This can happen in a few ways:
 
    - An existing organizer has an idea for a new event, and decides to run it.
