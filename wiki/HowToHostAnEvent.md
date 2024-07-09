@@ -1,3 +1,7 @@
+:::note
+This page is to be merged with [[How we run events]]. Check it out for the most recent version.
+:::
+
 :::warning
 this page is a draft, information may not be accurate or complete.
 :::
