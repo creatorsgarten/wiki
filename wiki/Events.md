@@ -2,7 +2,7 @@
 This page links to resources about our [events](/events).
 :::
 
-- This page is mainly for organizers and people who are looking for in-depth information about our events. If you’re a visitor just checking out our events, see the [main events page](/events).
+- This page is mainly for organizers and people who are looking for in-depth information about our events. If you’re a visitor just checking out our events, see our [Main events page](/events).
 
 - **There are 2 main types of events.** Normal events and informal gatherings. For more information, see [Types of events](#types-of-events).
 
