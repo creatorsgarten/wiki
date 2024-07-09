@@ -1,4 +1,6 @@
-An **informal gathering** (or **lightweight meetups**) is an [[Events|event]] with very little preparation.
+:::lead
+An **informal gathering** (or a **lightweight meetup**) is an [[Events|event]] that requires very little preparation.
+:::
 
 - [Bingsu.js](https://bingsu.js.org/)
 - [[Emkay]]
