@@ -10,15 +10,19 @@ If you wonder **how we run events**, here's a quick rundown:
 
 2. **Assembling a team.** The host creates a group chat for the event, and invite people who are interested in helping out. This is usually done in Facebook Messenger.
 
-   - Sometimes, the host also posts the event concept on social media to see if there are more people who are interested in helping organize the event. When running an event, some parts of the process may not be fun for you but are fun for others. For example, some people enjoy designing posters, some enjoy writing, etc. Having more people can help distribute the workload and make the event more fun for everyone involved.
+   - When running an event, some parts of the process may not be fun for you but are fun for others. For example, some people enjoy designing posters, some enjoy writing, etc. Having more people can help distribute the workload and make the event more fun for everyone involved.
+
+   - Sometimes, the host also posts the event concept on social media to see if there are more people who are interested in helping organize the event. This may be easier when the event already has a set date.
+
+   - With many people in the group chat who each are occupied with things in life, it may be hard to get consensus on everything. Embrace [[lazy consensus]] and [[do-ocracy]].
 
 3. **Prepare the event.** The team discusses and prepares the event. This includes:
 
-   - Finding a date and venue.
+   - Finding a date and venue. Discuss with others to increase the likelihood that the chosen date and venue are suitable for both the team and the attendees.
 
-   - Finding sponsors.
+   - Finding sponsors. Some events use a cashless model, i.e. sponsors don’t contribute cash, but contribute in-kind, such as providing a venue, food, or drinks. Some events accept monetary sponsorship, but the organizing team needs someone to handle the money.
 
-   - Creating the event page on the wiki [[Events#creating-a-new-event|(instructions)]] and set up an event on Eventpop.
+   - Creating the event page on the wiki [[Events#creating-a-new-event|(instructions)]] and setting up and publishing an event on Eventpop. For tips on making the most of the ticketing system and reducing no-show rate, see our [[ticketing tips]] page.
 
    - Promoting the event, such as posting to [[digital presence|social media]] and [Thai Tech Calendar](https://th.techcal.dev/).
 
