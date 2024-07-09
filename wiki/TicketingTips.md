@@ -24,6 +24,10 @@ The drop-off rate for free tech events is usually between 30% to 50%. This page 
 
 - **Provide a way to contact the organizers when they can’t attend:** A few days before the event, you can let attendees know that if they can’t attend, they should let you know so you can give their ticket to someone else.
 
+  :::tip[Including a message in the ticket reminder]
+  In Eventpop, you can go to **Marketing Tools** &rarr; **Communication** and set up **Tickets Email Message**. This message will be included in the reminder email that ticket holders will receive one day before the event.
+  :::
+
 - **Direct invites:** Reserve some tickets for people you or other organizers would like to see at the event. There may be some people who would be a great addition to the event, but wasn’t able to get a ticket in time. This is a good way to make sure that they get to attend.
 
 [ep-access]: https://creators.eventpop.me/en/articles/3205720-%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%AA%E0%B8%A3-%E0%B8%B2%E0%B8%87%E0%B9%81%E0%B8%A5%E0%B8%B0%E0%B9%83%E0%B8%8A-%E0%B8%87%E0%B8%B2%E0%B8%99-access-code
