@@ -1,26 +1,26 @@
-# Main events page
-
 :::lead
-[&rarr; Click here to go to the main events page](/events/)
+This page links to resources about our [events](/events).
 :::
+
+- This page is mainly for organizers and people who are looking for in-depth information about our events. If you’re a visitor just checking out our events, see the [main events page](/events).
+
+- **There are 2 main types of events.** Normal events and informal gatherings. For more information, see [Types of events](#types-of-events).
+
+- **Curious how we run events?** Check out [[How we run events]].
+
+- **Creating a new event page?** Jump to [Creating a new event](#creating-a-new-event).
+
+- **Have an idea for new events?** Feel free to suggest them at {% render 'Grtn', path: 'ideas' %}, but please note that the idea board is mostly inactive.
 
 # Types of events
 
-- **Normal events** — Listed [below](#full-event-list) and in [Events](/events) page.
+- **Normal events** — Listed [below](#full-event-list) and in the main [events](/events) page.
 
-- **[[Informal gatherings]]**
+- **Informal gatherings** — Events that requires very little preparation. They are documented separately in the [[informal gatherings]] page.
 
 # Full event list
 
 {% render 'EventTable' %}
-
-# Hosting an event
-
-See: [[HowToHostAnEvent]]
-
-# Suggesting an event
-
-Ideas for new events can be suggested at {% render 'Grtn', path: 'ideas' %}.
 
 # Creating a new event
 
