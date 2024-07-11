@@ -1,8 +1,8 @@
 # Social media
 
-- [Creatorsgarten Facebook Page](https://www.facebook.com/creatorsgarten) {% render 'Grtn', path: 'fb' %}
-- [Creatorsgarten Instagram Profile](https://www.instagram.com/creatorsgarten/) {% render 'Grtn', path: 'ig' %}
-- [Creatorsgarten YouTube Channel](https://www.youtube.com/@creatorsgarten) {% render 'Grtn', path: 'yt' %}
+- **Facebook:** {% render 'Facebook', user: 'creatorsgarten', name: 'Creatorsgarten' %} {% render 'Grtn', path: 'fb' %}
+- **Instagram:** {% render 'Instagram', user: 'creatorsgarten' %} {% render 'Grtn', path: 'ig' %}
+- **YouTube:** {% render 'YouTube', user: 'creatorsgarten' %} {% render 'Grtn', path: 'yt' %}
 
 # On GitHub
 
