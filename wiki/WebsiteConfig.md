@@ -12,11 +12,17 @@ websiteConfig:
         schedule: Late Q2 - Early Q3
         url: /wiki/StupidHackTH
       - name: BKK.JS
-        schedule: Every quater
+        schedule: Every quarter
         url: https://bkk.js.org/
       - name: Bingsu.js
         schedule: Post meetups
         url: https://bingsu.js.org/
+      - name: Onsen.js
+        schedule: Work remotely from onsen
+        url: /wiki/OnsenJS
+      - name: Emkay
+        schedule: Lightweight meetup @ MK Restaurant
+        url: /wiki/Emkay
   guilds:
     featured:
       - id: StupidHackTH
