@@ -9,7 +9,7 @@ image: https://th.techcal.dev/icons/icon-192x192.png
 - **To view upcoming (and past) events,** check out the website at [th.techcal.dev](https://th.techcal.dev/).
 - **To subscribe to the calendar in your calendar app,** see [Subscribing to the calendar](#subscribing-to-the-calendar).
 - **To submit an event**, see [Submitting an event](#submitting-an-event).
-- **We have a page on Facebook.** It automatically posts new events. To get updates via Facebook, follow the [Thai Tech Calendar](https://www.facebook.com/th.techcal.dev) page.
+- **We have a page on Facebook.** It automatically posts new events. To get updates via Facebook, follow the {% render 'Facebook', user: 'th.techcal.dev', name: 'Thai Tech Calendar' %} page.
 - **Incorrect or out-of-date information?** Please let us know via [Facebook Messenger](https://m.me/th.techcal.dev).
 
 # Subscribing to the calendar
