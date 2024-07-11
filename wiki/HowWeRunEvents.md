@@ -26,7 +26,7 @@ This page describes [[Events#types-of-events|normal events]] that requires _some
 
    - Finding sponsors. Some events use a cashless model, i.e. sponsors don’t contribute cash, but contribute in-kind, such as providing a venue, food, or drinks. Some events accept monetary sponsorship, but the organizing team needs someone to handle the money.
 
-   - Creating the event page on the wiki [[Events#creating-a-new-event|(instructions)]] and setting up and publishing an event on Eventpop. For tips on making the most of the ticketing system and reducing no-show rate, see our [[ticketing tips]] page.
+   - Creating the event page on the wiki [[Events#creating-a-new-event|(instructions)]] and setting up and publishing an event on Eventpop. For tips on making the most of the ticketing system and reducing no-show rate, see our [[ticketing tips]] page. This also involves preparing image assets for the event, which is detailed in the [[event images]] page.
 
    - Promoting the event, such as posting to [[digital presence|social media]] and [Thai Tech Calendar](https://th.techcal.dev/).
 
