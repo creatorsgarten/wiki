@@ -1,3 +1,7 @@
+---
+image: https://th.techcal.dev/icons/icon-192x192.png
+---
+
 :::lead
 **Thai Tech Calendar**, available at **[th.techcal.dev](https://th.techcal.dev/)** is a community-driven website that aggregates tech events in Thailand.
 :::
