@@ -64,7 +64,9 @@ Furthermore, taking bath makes you feel more fresh and energized. And it promote
 
 Unfortunately, most offices don’t have Onsen baths. It is a problem that hinders and hampers productivity in workplaces around the world. **Onsen.js** is a lightweight [[informal gatherings|informal gathering]] for people who would like to visit an onsen, socialize, and work remotely.
 
-- **So far, there has been {{ page.meetups | size }} events.** For the list, see [Event list](#event-list).
+- **So far, there have been {{ page.meetups | size }} events.** For the list, see [Event list](#event-list).
+
+- **Want to be a part of the next OnsenJS?** See [How to organize](#how-to-organize).
 
 # Event list
 
