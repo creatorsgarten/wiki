@@ -192,6 +192,16 @@ Renders a link to a Facebook profile with an icon.
 
 {% render 'Facebook', user: 'creatorsgarten' %}
 
+Page name can be specified:
+
+{% raw %}
+```
+{% render 'Facebook', user: 'creatorsgarten', name: 'Creatorsgarten' %}
+```
+{% endraw %}
+
+{% render 'Facebook', user: 'creatorsgarten', name: 'Creatorsgarten' %}
+
 ## GitHub
 
 Renders a link to a GitHub user or GitHub repo with an icon.
