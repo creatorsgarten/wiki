@@ -41,8 +41,13 @@ meetups:
   place: PAÑPURI Onsen & Spa
   url: https://www.facebook.com/photo?fbid=2402955769891825&set=a.359894480864641
 
-- date: 'Scheduled'
+- date: '2024-07-11'
   name: 'Onsen.js #9'
+  place: PAÑPURI Onsen & Spa
+  url: https://web.facebook.com/photo?fbid=10221749709206146&set=a.1302432655084
+
+# - date: 'Scheduled'
+#   name: ''
 ---
 
 :::lead
