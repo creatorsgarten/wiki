@@ -36,18 +36,17 @@
 
 :::Message{from=Claude}
 
-- 7 people mentioned enjoying the music, particularly the live music in the evening and while working
-- 6 people liked the hacking/programming activities, including the freedom to create and work on projects
-- 5 people enjoyed the pitching or presentation activities
-- 4 people mentioned liking the initial activities, such as ice-breaking and the start of the Stupid Hackathon
-- 3 people appreciated the relaxed and creative atmosphere
-- 2 people enjoyed playing games, specifically mentioning Tetris and party games
-- 2 people liked the food, with one specifically mentioning pizza for dinner (though noting there wasn't enough)
-- 1 person mentioned liking the giveaways
-- 1 person appreciated the opportunity to meet and talk with other developers
-- 1 person enjoyed the snacks on the table
-- 1 person liked "everything"
-  :::
+- 7 people enjoyed the **live music** activities, mentioning it was relaxing and fun in the evening
+- 6 people liked the **hacking/programming** activities, appreciating the freedom and creativity
+- 5 people enjoyed the **pitching** sessions
+- 4 people mentioned liking the **ice-breaking** and introduction activities at the start
+- 3 people appreciated the **food and snacks** provided
+- 2 people enjoyed the **prize giveaways**
+- 1 person liked playing **Tetr.io** at night (though they missed it, they heard it was fun)
+- 1 person enjoyed the **party games** played together
+- 1 person liked the **relaxed atmosphere**
+
+:::
 
 **Day 2 - ชอบกิจกรรมอะไรมากที่สุดฮะะะะ**
 
@@ -85,15 +84,12 @@
 
 :::Message{from=Claude}
 
-- 11 people said they enjoyed the pitching or presentation time, with some mentioning it was entertaining and fun.
-- 10 people mentioned liking the prize giveaway or lucky draw, with some praising the creativity of the random selection system.
-- 3 people said they liked everything about the day, expressing that it was very fun.
-- 2 people specifically mentioned enjoying the food or snacks provided.
-- 1 person appreciated the music corner and the "work avoidance" area.
-- 1 person liked the nighttime activities.
-- 1 person enjoyed the hacking time.
-- 1 person mentioned liking the staff, particularly mentioning "P'Aom" as being nice.
-- 1 person said they only came for the pitch.
+- 11 people enjoyed the **project presentations/pitching** sessions the most
+- 10 people liked the **prize giveaways and lucky draws**, mentioning it was exciting and well-organized
+- 3 people enjoyed the **overall atmosphere** of the day, saying it was fun and relaxing
+- 2 people appreciated the **food and snacks** provided
+- 1 person enjoyed the **music** activities
+- 1 person liked the **hacking** session
 
 :::
 
@@ -122,20 +118,21 @@
 - บางช่วงไม่ลื่นไหล
 - จำไม่ได้ฮ๊าฟฟฟฟรู่
 - ไม่มีเลยย
-- \- (x10)
+- "-" (x10)
 
 :::Message{from=Claude}
 
-- Several people (at least 10) indicated that they had no complaints about the event.
-- 7 people mentioned issues with food, including insufficient dinner on the second day, not enough food in general, and limited options for those who don't eat spicy food.
-- 5 people commented on the lack of sleeping arrangements or shower facilities, with some noting that the air conditioning was too cold.
-- 4 people expressed concerns about time management, including the event running late on the last day and insufficient time for project presentations.
-- 3 people mentioned issues with social interactions, including lack of ice-breaking activities, difficulty in team formation, and staff not interacting with participants as much as in previous years.
-- 2 people preferred the voting system from the previous year, citing it as more informative and easier to gauge audience reactions.
-- 2 people felt that some aspects of the event were not as engaging as the previous year, such as fewer activities during the first day and less smooth flow in some parts.
-- 1 person mentioned concerns about off-record information potentially being leaked.
-- 1 person suggested having a dedicated time for participants to pitch ideas to each other.
-- 1 person felt that there was an excessive use of the color yellow in the event.
+- 10 people said there was **nothing** they disliked about the event
+- 4 people mentioned **insufficient food**, especially dinner on the first day
+- 3 people disliked that there was **no sleeping area** provided
+- 2 people felt the **air conditioning was too cold**
+- 2 people mentioned issues with **time management**, particularly the event running late on the last day
+- 1 person felt there were **too few ice-breaking activities**, making it difficult for some to find teams
+- 1 person preferred the **voting system from the previous year**
+- 1 person felt the **staff were less accessible** compared to the previous year
+- 1 person disliked their own **shyness** in approaching others
+- 1 person mentioned there were **too few prizes**
+- 1 person felt that there was an **excessive use of the color yellow** in the event.
 
 :::
 
@@ -167,20 +164,15 @@
 
 :::Message{from=Claude}
 
-- 18 people said "Wow, excellent" or similar positive comments without providing specific feedback.
-- 3 people suggested improvements to the prize distribution system, recommending individual random draws instead of team-based distribution to ensure fairness.
-- 2 people requested more activities for attendees to participate in together, noting that there were many "dead air" moments.
-- 2 people mentioned issues with food and prizes, stating there wasn't enough for everyone and distribution wasn't equitable.
-- 1 person suggested having an official "nonsense corner" with clearly labeled areas for music and board games.
-- 1 person recommended having a medical station or first aid area for minor health issues.
-- 1 person requested a multi-category ranking system for voting, similar to the previous year.
-- 1 person asked for a detailed agenda of activities, especially for late-night events.
-- 1 person suggested providing air conditioning remote controls.
-- 1 person mentioned that the prize distribution took too long.
-- 1 person requested snacks to be available throughout the event.
-- 1 person suggested adjusting the event duration.
-- 1 person expressed a desire for everyone to receive a prize.
-- 1 person commented that many things had changed compared to previous years but overall it was still enjoyable.
+- 18 people said **"Wow, excellent"** or variations of it, indicating they were satisfied with the event
+- 3 people suggested **improvements to the prize distribution** system, preferring individual random selection
+- 2 people requested **more food and snacks** throughout the event
+- 2 people suggested **better time management**, especially for prize-giving and presentations
+- 1 person suggested having an **official medical team** for emergencies
+- 1 person recommended **organizing specific areas** for music, board games, etc., with clear signage
+- 1 person requested **more inter-team activities**
+- 1 person suggested **providing air conditioning remotes** for temperature control
+- 1 person wanted to see a **detailed agenda** of activities like in previous years
 
 :::
 
@@ -212,16 +204,14 @@
 
 :::Message{from=Claude}
 
-- 4 people mentioned issues with temperature, saying it was too cold or chilly.
-- 3 people commented on food, suggesting there should be more food or better distribution.
-- 3 people mentioned issues with prizes or rewards, requesting better management of prize distribution or expressing disappointment about not winning.
-- 2 people suggested better preparation for food and prizes to ensure sufficiency.
-- 2 people gave positive feedback, praising the event and expressing anticipation for next year.
-- 1 person mentioned a lack of power outlets, particularly at the back tables during the Dev session.
-- 1 person suggested announcing that participants should bring pillows and blankets.
-- 1 person recommended having food breaks between presentations.
-- 1 person suggested making the event more comfortable for sleeping.
-- 1 person appreciated the staff's efforts and hoped the event would continue annually.
+- 4 people suggested **better food preparation and distribution** to ensure sufficiency
+- 3 people mentioned the **air conditioning being too cold**
+- 2 people recommended **better time management**, especially for prize distribution
+- 2 people suggested **preparing more prizes** to accommodate all participants
+- 1 person suggested **announcing that participants should bring pillows and blankets**
+- 1 person recommended having a **food break between presentations**
+- 1 person expressed appreciation for the **staff's efforts** and hoped the event would continue annually
+- 1 person mentioned a **lack of power outlets** in some areas
 
 :::
 
@@ -261,17 +251,14 @@
 
 :::Message{from=Claude}
 
-- 6 people expressed gratitude for organizing a great event and encouraged organizers to hold similar events in the future.
-- 3 people specifically mentioned enjoying the event staff, with one person praising their friendliness and another expressing affection for a particular staff member.
-- 2 people requested better prizes for future events, with one mentioning that prizes ran out before they could get one.
-- 2 people made playful or affectionate comments, using phrases like "love you" or "meow."
-- 1 person mentioned that the event exceeded their expectations, praising the activities and staff.
-- 1 person expressed interest in getting to know the staff better.
-- 1 person mentioned being a staff member in previous events.
-- 1 person asked about when they could contribute to hacking.
-- 1 person made a specific reference to "AA batteries" being very good.
-- 1 person mentioned meeting "shit8" and thanked "P'Thai" for bringing them to the event.
-- 1 person made a comment about "Leomotors" being silly or funny.
+- 7 people expressed **gratitude and appreciation** for organizing the event
+- 4 people showed **enthusiasm for future events**, hoping to participate again
+- 3 people expressed **affection or admiration** for specific staff members
+- 2 people mentioned **wanting more prizes** or regretting not winning any
+- 1 person asked about **contributing to the hack**
+- 1 person expressed interest in **getting to know the staff better**
+- 1 person mentioned being a **staff member in previous events**
+- 1 person praised the **AA batteries** as being very good
 
 :::
 

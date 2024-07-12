@@ -17,14 +17,13 @@
 
 :::Message{from=Claude}
 
-- 5 people mentioned enjoying the challenging and creative questions/problems
-- 3 people appreciated the fun and entertaining atmosphere of the event
-- 2 people liked the coding aspect and the environment
-- 2 people specifically enjoyed watching others code
-- 1 person praised the commentator's energy
-- 1 person appreciated the fair prize system
-- 1 person enjoyed the CSS mistakes, finding them fun and not negative
-- 1 person liked the interaction among participants during coding
+- 5 people mentioned enjoying the **challenging and creative questions**, with comments about the problems being entertaining, fun, and hard but enjoyable.
+- 3 people appreciated the **event atmosphere**, mentioning the fun environment and good overall experience.
+- 2 people specifically enjoyed the **coding aspect** of the event.
+- 2 people praised the **commentator's energy** and the entertainment value of watching others code.
+- 1 person liked the **fair prize system** and found it fun to witness.
+- 1 person enjoyed the **CSS mistakes**, finding them fun and not negative.
+- 1 person appreciated the **interaction** among participants during coding.
 
 :::
 
@@ -45,14 +44,13 @@
 
 :::Message{from=Claude}
 
-- 3 people mentioned issues with seating arrangements and visibility of screens
-- 2 people had concerns about the voting system and its objectivity
-- 1 person suggested adding a toggle option for text/word wrap in the Text Editor
-- 1 person mentioned issues with internet blocking
-- 1 person felt the "barcode" question might have been problematic
-- 1 person noted that the countdown clock was a bit small
-- 1 person mentioned that the live stream had only one camera angle
-- 1 person suggested adding result pictures to the voting page
+- 3 people mentioned issues with **seating and visibility** of screens, suggesting better arrangement of participants and screens.
+- 2 people had concerns about the **voting system**, mentioning it felt more like a popularity vote and suggesting clearer labeling of previews.
+- 1 person suggested adding a **text wrap toggle option** in the Text Editor for long lines of code.
+- 1 person mentioned issues with **internet blocking**.
+- 1 person felt the **"barcode" question** might have been problematic, explaining that it didn't allow for subjective voting as intended.
+- 1 person noted that the **countdown clock was too small**.
+- 1 person mentioned the **livestream only had one camera angle**.
 
 :::
 
@@ -77,16 +75,15 @@
 
 :::Message{from=Claude}
 
-- 3 people suggested improvements to the voting system (e.g., voting before judging, clearer labeling)
-- 2 people requested more food options
-- 2 people suggested improvements to the countdown clock
-- 1 person suggested creating user profiles to store submissions
-- 1 person recommended having different people track objectives to reduce mistakes
-- 1 person suggested not revealing contestants until after voting
-- 1 person proposed having at least two rounds per set of contestants
-- 1 person recommended better preparation of the scoresheet
-- 1 person suggested coding in MUI as a potential challenge
-- 1 person requested multiple camera angles for the live stream
+- 3 people suggested **improvements to the voting system**, including voting before judges' grading, clearer labeling of previews, and not revealing contestants until after voting.
+- 2 people requested **more food options**, specifically mentioning rice.
+- 2 people suggested **improvements to the countdown clock**, such as having multiple angles or the ability to resize for fewer contestants.
+- 1 person suggested **creating user profiles** to store submissions, similar to LeetCode or HackerRank.
+- 1 person recommended having **different people track objectives** to reduce checking mistakes.
+- 1 person suggested having **at least 2 rounds per set of contestants** before the final.
+- 1 person advised **better preparation of the scoresheet** to reduce manual work during the event.
+- 1 person requested **multiple camera angles for the livestream**.
+- 1 person suggested **designing questions with room for subjective scoring**.
 
 :::
 
@@ -107,12 +104,11 @@
 
 :::Message{from=Claude}
 
-- 3 people expressed gratitude and enjoyment of the event
-- 2 people hoped for future iterations of the event
-- 1 person mentioned liking the GitHub references
-- 1 person suggested alternating between online and offline events
-- 1 person expressed a desire to get to know more people at future events
-- 1 person mentioned that the event wasn't as "party-ish" as expected
-- 1 person stated it was the best tech geek event they had attended
+- 3 people expressed **gratitude and enjoyment** of the event, with one calling it the best tech geek event they've attended.
+- 2 people **requested to keep organizing this event** in the future.
+- 1 person mentioned they **liked the GitHub references**.
+- 1 person suggested **alternating between online and offline events**.
+- 1 person expressed a desire to **get to know more people** at the next event.
+- 1 person noted that the event wasn't as "party-ish" as expected based on prior information.
 
 :::
