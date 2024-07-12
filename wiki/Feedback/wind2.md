@@ -15,6 +15,19 @@
 - I like all the challenges. It's super creative! Especially the ඞ.
 - The question is challenging and creative. Hard to know what will be expected. The prize system is fair and very fun to witness, (and also a lot)!
 
+:::Message{from=Claude}
+
+- 5 people mentioned enjoying the challenging and creative questions/problems
+- 3 people appreciated the fun and entertaining atmosphere of the event
+- 2 people liked the coding aspect and the environment
+- 2 people specifically enjoyed watching others code
+- 1 person praised the commentator's energy
+- 1 person appreciated the fair prize system
+- 1 person enjoyed the CSS mistakes, finding them fun and not negative
+- 1 person liked the interaction among participants during coding
+
+:::
+
 **What are some things we can improve? What did you enjoy the least?**
 
 - จัดสัดส่วนคนแข่งกับคน attend ให้แยกจากกันกว่านี้นิดนึง, จอ mobile แอบบังโปรเจกต์เตอร์เมื่อมองจากโต๊ะแข่ง
@@ -29,6 +42,19 @@
 - ไลฟ์มีแค่มุมกล้องมุมเดียว
 - Can you add result picture in the voting page?
 - Voting system felt more like a popular vote than visual scoring, somehow
+
+:::Message{from=Claude}
+
+- 3 people mentioned issues with seating arrangements and visibility of screens
+- 2 people had concerns about the voting system and its objectivity
+- 1 person suggested adding a toggle option for text/word wrap in the Text Editor
+- 1 person mentioned issues with internet blocking
+- 1 person felt the "barcode" question might have been problematic
+- 1 person noted that the countdown clock was a bit small
+- 1 person mentioned that the live stream had only one camera angle
+- 1 person suggested adding result pictures to the voting page
+
+:::
 
 **Is there anything we can try out next time? Any suggestions?**
 
@@ -49,6 +75,21 @@
 - Have at least 2 rounds per set of contestants to ensure variety of skills measurement before going to the final
 - Prepare the scoresheet better. Too much manual work live, I guess.
 
+:::Message{from=Claude}
+
+- 3 people suggested improvements to the voting system (e.g., voting before judging, clearer labeling)
+- 2 people requested more food options
+- 2 people suggested improvements to the countdown clock
+- 1 person suggested creating user profiles to store submissions
+- 1 person recommended having different people track objectives to reduce mistakes
+- 1 person suggested not revealing contestants until after voting
+- 1 person proposed having at least two rounds per set of contestants
+- 1 person recommended better preparation of the scoresheet
+- 1 person suggested coding in MUI as a potential challenge
+- 1 person requested multiple camera angles for the live stream
+
+:::
+
 **Please rate your experience in this event (on a scale from 1 to 10)**
 
 ::RatingTally{tally="7=1,8=3,9=4,10=4"}
@@ -63,3 +104,15 @@
 - ขอบคุณสำหรับกิจกรรมสนุกๆ ฮะ
 - Please keep organizing this event!!
 - Still, very fun! Would join again. Maybe alternate between online and offline. I'll try to get to know more people next time :D
+
+:::Message{from=Claude}
+
+- 3 people expressed gratitude and enjoyment of the event
+- 2 people hoped for future iterations of the event
+- 1 person mentioned liking the GitHub references
+- 1 person suggested alternating between online and offline events
+- 1 person expressed a desire to get to know more people at future events
+- 1 person mentioned that the event wasn't as "party-ish" as expected
+- 1 person stated it was the best tech geek event they had attended
+
+:::
