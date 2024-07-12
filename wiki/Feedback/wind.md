@@ -22,6 +22,19 @@
 - I really like the chill atmosphere set by the MCs. With Lodi music playing, and with soothing commentary, it results in a chill vibe that I really dig.
 - this activity gathers many people together. challenge is very interesting. Prize is awesome!
 
+:::Message{from=Claude}
+
+- 5 people enjoyed the **challenge** aspect, mentioning it was competitive, not too easy or hard, and allowed new faces to shine
+- 4 people appreciated the **real-time viewing** of contestants' progress and smooth commentary
+- 3 people liked the **atmosphere**, describing it as chill, relaxing, and friendly
+- 2 people enjoyed the **community** aspect and energy of participants
+- 2 people mentioned liking that it was a **Tailwind CSS** contest
+- 1 person appreciated that **observers could play** by the same rules as contestants
+- 1 person enjoyed the automated system and carefully developed setup
+- 1 person liked that it was good for learning
+
+:::
+
 **What are somethings we can improve? What did you enjoy the least?**
 
 - Time management
@@ -40,6 +53,20 @@
 - Being an elimination contest makes some of the contestants have to wait for a long time, or doesn't have the reason to stay in the event until the finals.
 - I feel like there is less involvement for eliminated contestants that still wanna play.
 
+:::Message{from=Claude}
+
+- 3 people mentioned issues with **time management**, suggesting more time for challenges and a visible countdown
+- 2 people noted concerns about **challenge difficulty balance** between rounds
+- 2 people suggested improvements for **contestant involvement**, especially for eliminated participants
+- 1 person mentioned improving the **voting system** instructions
+- 1 person suggested preparing irrelevant text for CSS challenges
+- 1 person recommended clarifying **tiebreaker rules**
+- 1 person suggested improving the **internal flow** for transferring contestants between channels
+- 1 person mentioned that the 19:00 start time on a workday was inconvenient
+- 1 person suggested adding more thrilling narration and jingles to improve entertainment value
+
+:::
+
 **Is there anything we can try out next time? Any suggestions?**
 
 - Algorithm
@@ -56,6 +83,20 @@
 - I would like some other times to stay online with more sophisticated system while it's already good this time.
 - Put timer in the code editor
 - I'd be interested in anything related to any frontend competition after this event (Something like CSS Battles). Maybe do something with animation next (Framer Motion or Anime.js).
+
+:::Message{from=Claude}
+
+- 3 people suggested **offline events** or a bigger competition
+- 2 people requested more **frontend-related contests**, such as modern frameworks or animation challenges
+- 2 people suggested ways to **increase participation** for eliminated contestants
+- 1 person suggested adding an **algorithm** challenge
+- 1 person requested **solutions or breakdowns** of each challenge
+- 1 person suggested adding a "stop" button to exchange remaining time for points
+- 1 person recommended continuing online events for accessibility
+- 1 person suggested quick data transformation pipeline challenges
+- 1 person requested adding a timer in the code editor
+
+:::
 
 **Please rate your experience in this event**
 
@@ -82,3 +123,16 @@
 - จริงๆอยากให้จัดออนไลน์เรื่อยๆ แหะๆ
 - Hi, I'm betich krub.
 - Would like to join as contestant! :D
+
+:::Message{from=Claude}
+
+- 6 people expressed **gratitude** for the event and organizers
+- 3 people mentioned they had **fun** or enjoyed the event
+- 2 people expressed interest in **future events** or joining as contestants
+- 2 people appreciated the **online format**
+- 1 person mentioned needing more practice
+- 1 person appreciated the anonymity of contestants
+- 1 person jokingly requested more prizes
+- 1 person introduced themselves as "betich"
+
+:::
