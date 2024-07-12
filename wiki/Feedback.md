@@ -1,5 +1,5 @@
 :::lead
-In most Creatorsgarten [events](/events), we use a form for collecting feedback after the event finished.
+In most Creatorsgarten [events](/events), we collecting feedback from attendees after the event finished and [[public by default|publish]] them here.
 :::
 
 - **Questions:** Most feedback forms have 5 questions, but there may be more or less, depending on event. See [Form questions](#form-questions) for the typical questions.
