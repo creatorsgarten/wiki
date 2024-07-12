@@ -2,6 +2,11 @@
 In most Creatorsgarten [events](/events), we use a form for collecting feedback after the event finished.
 :::
 
+- **Questions:** Most feedback forms have 5 questions, but there may be more or less, depending on event. See [Form questions](#form-questions) for the typical questions.
+- **Tool:** We use Google Forms for collecting feedback. See [Google Forms template](#google-forms-template) for the template.
+- **Public feedback:** Once the feedback is collected, we create a page for each event with the feedback. See [Feedback pages](#feedback-pages) for the list of feedback pages.
+- **AI-generated summaries:** AI-generated summaries can be created to to make the result more digestible ([[Feedback/sht7|example]]). See [AI-generated summaries](#ai-generated-summaries) instructions for the prompt used.
+
 # Form questions
 
 1. What do you like about this event? What did you enjoy the most?
