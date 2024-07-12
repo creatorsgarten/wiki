@@ -28,13 +28,13 @@ It is encouraged to recruit many people to join the team. This is so that people
 
 To recruit more people,
 
-- The host can post the event concept on social media to see if there are more people who are interested in helping organize the event. (This may be easier when the event already has a set date.)
-- Organizers can also encourage each other to invite their friends to join the team.
+- **Recruitment post.** The host can post the event concept on social media to see if there are more people who are interested in helping organize the event. (This may be easier when the event already has a set date.)
+- **Direct invitation.** Organizers can also encourage each other to invite their friends to join the team.
 
 As our events are run by volunteers and everyone has their own priorities, these principles can be helpful:
 
-- [[Do-o-cracy]]: If you want to see something happen, you are encouraged to do it yourself.
-- [[Lazy consensus]]: If you don’t object to something, it’s assumed that you agree with it.
+- **[[Do-o-cracy]]:** If you want to see something happen, you are encouraged to do it yourself.
+- **[[Lazy consensus]]:** If you don’t object to something, it’s assumed that you agree with it.
 
 # Preparation
 
