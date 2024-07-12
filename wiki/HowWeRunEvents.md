@@ -28,13 +28,22 @@ It is encouraged to recruit many people to join the team. This is so that people
 
 To recruit more people,
 
-- **Recruitment post.** The host can post the event concept on social media to see if there are more people who are interested in helping organize the event. (This may be easier when the event already has a set date.)
+- **Recruitment post.** The host can post the event concept on social media to see if there are more people who are interested in helping organize the event. For examples, see [Examples of recruitment posts](#examples-of-recruitment-posts) (This may be easier when the event already has a set date.)
 - **Direct invitation.** Organizers can also encourage each other to invite their friends to join the team.
 
 As our events are run by volunteers and everyone has their own priorities, these principles can be helpful:
 
 - **[[Do-o-cracy]]:** If you want to see something happen, you are encouraged to do it yourself.
 - **[[Lazy consensus]]:** If you don’t object to something, it’s assumed that you agree with it.
+
+## Examples of recruitment posts
+
+These examples are from both Creatorsgarten events and other events.
+
+- [React Bangkok 1.0.0](https://www.facebook.com/buffalo660/posts/pfbid0LTceKLxG2R17zGVuuZWnXz7uHtymdAy2yEgRRmE5awEj2Mr9AA9i2xYqZJu3nv4cl)
+- [Creative Coding Meetup #1](https://www.facebook.com/dtinth/posts/pfbid02P9MsmrdyRumCFC3uzLKzfFJ7YBe7eCbsSs5pqjMEbLRY5M2SpbJo9Lkuxffc9PHGl)
+- [Functional Programming Meetup](https://www.facebook.com/phoomparin.mano/posts/pfbid021KiUKXSU8Q9m87sMHZ2QoBDx3vEjuJYpDcmw6GSyjoSopL3aV5HaQymDuGU7Wxg5l)
+- [React Meetup 06/23](https://www.facebook.com/devMasterSomeday/posts/pfbid02S1MLwXu9xtoqbD8wvkEsFJS6SPmRPbMf9K1tbmg6bwmvzYAMxoqBUTk6i3yEyCygl)
 
 # Preparation
 
