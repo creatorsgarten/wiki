@@ -34,13 +34,20 @@
 - ช่วง Hack
 - อิสระในการ program, หลักๆ เลยคือได้พบปะชาว programmer ที่นิสัยคล้ายๆ กันคุยเรื่อง program เทคโนโลยีด้วยกันรู้เรื่อง หลักๆ คือได้พบปะคน แล้วก็ปล่อยผี ทำอะไรไร้สาระด้วยกัน
 
-:::Message{from=ChatGPT}
--   The most commonly mentioned favorite activities on Day 1 were live music during work, pitching, and the freedom to explore creative ideas.
--   Some specific comments highlighted enjoying playing music instead of working, the competitive nature of grabbing food, and the excitement during the introduction, start, and presentation of the stupid hackathon.
--   Participants also enjoyed playing Tetr.io at night, the icebreaking activities, and the overall experience of the hackathon, including interacting with diverse developers, witnessing unique projects, and engaging in party games.
--   There were a few comments mentioning emergency situations preventing participation, appreciation for the pizza provided as dinner but expressing hunger due to limited availability, and enjoyment of the late-night activities such as Tetris and the H ecosystem.
--   Additional comments expressed a relaxed atmosphere, enjoying live music, and finding it challenging to understand everything that was happening. Some participants mentioned the enjoyment of programming freely, meeting like-minded programmers, and engaging in conversations about technology while also embracing the opportunity to do something meaningless together.
-:::
+:::Message{from=Claude}
+
+- 7 people mentioned enjoying the music, particularly the live music in the evening and while working
+- 6 people liked the hacking/programming activities, including the freedom to create and work on projects
+- 5 people enjoyed the pitching or presentation activities
+- 4 people mentioned liking the initial activities, such as ice-breaking and the start of the Stupid Hackathon
+- 3 people appreciated the relaxed and creative atmosphere
+- 2 people enjoyed playing games, specifically mentioning Tetris and party games
+- 2 people liked the food, with one specifically mentioning pizza for dinner (though noting there wasn't enough)
+- 1 person mentioned liking the giveaways
+- 1 person appreciated the opportunity to meet and talk with other developers
+- 1 person enjoyed the snacks on the table
+- 1 person liked "everything"
+  :::
 
 **Day 2 - ชอบกิจกรรมอะไรมากที่สุดฮะะะะ**
 
@@ -76,13 +83,18 @@
 - การนำเสนอ
 - ตอนhack
 
-:::Message{from=ChatGPT}
--   The most commonly mentioned favorite activity on Day 2 was pitching, including the enjoyment of presenting projects and the excitement of pitching time.
--   Participants expressed appreciation for the random prize giveaways and the fun of spinning the wheel for prizes.
--   Other highlights included the distribution of prizes, the relaxed atmosphere, and the enjoyment of music during work.
--   Some participants specifically mentioned the enjoyment of the random team assignment for pitching and the creative system of having desserts on the table for the selection process.
--   Additional comments expressed enjoyment of the late-night activities, such as the pitching and prize announcement, and the overall satisfaction with the day, finding it fun and entertaining.
--   There were a few miscellaneous comments and expressions of confusion regarding certain aspects of the activities on Day 2.
+:::Message{from=Claude}
+
+- 11 people said they enjoyed the pitching or presentation time, with some mentioning it was entertaining and fun.
+- 10 people mentioned liking the prize giveaway or lucky draw, with some praising the creativity of the random selection system.
+- 3 people said they liked everything about the day, expressing that it was very fun.
+- 2 people specifically mentioned enjoying the food or snacks provided.
+- 1 person appreciated the music corner and the "work avoidance" area.
+- 1 person liked the nighttime activities.
+- 1 person enjoyed the hacking time.
+- 1 person mentioned liking the staff, particularly mentioning "P'Aom" as being nice.
+- 1 person said they only came for the pitch.
+
 :::
 
 **มีสิ่งที่คุณไม่ชอบในงานไหม**
@@ -112,12 +124,19 @@
 - ไม่มีเลยย
 - \- (x10)
 
-:::Message{from=ChatGPT}
--   The most commonly mentioned dislike was insufficient or limited food, particularly the shortage of dinner and prizes.
--   Some participants expressed dissatisfaction with the event running over time on the last day and feeling cold due to excessive air conditioning.
--   The lack of beds and the absence of a shower facility were mentioned as minor concerns.
--   There were mixed opinions regarding the icebreaking activities on the first day, with some feeling that they were insufficient, leading to difficulties in team formation and a sense of exclusion.
--   Other miscellaneous comments included not liking one's own hesitation to approach others, the absence of idea-selling sessions, the challenge of voting due to fatigue, uncertainty about being late or missing out on snacks, and feeling that the first day was somewhat dull compared to previous years.
+:::Message{from=Claude}
+
+- Several people (at least 10) indicated that they had no complaints about the event.
+- 7 people mentioned issues with food, including insufficient dinner on the second day, not enough food in general, and limited options for those who don't eat spicy food.
+- 5 people commented on the lack of sleeping arrangements or shower facilities, with some noting that the air conditioning was too cold.
+- 4 people expressed concerns about time management, including the event running late on the last day and insufficient time for project presentations.
+- 3 people mentioned issues with social interactions, including lack of ice-breaking activities, difficulty in team formation, and staff not interacting with participants as much as in previous years.
+- 2 people preferred the voting system from the previous year, citing it as more informative and easier to gauge audience reactions.
+- 2 people felt that some aspects of the event were not as engaging as the previous year, such as fewer activities during the first day and less smooth flow in some parts.
+- 1 person mentioned concerns about off-record information potentially being leaked.
+- 1 person suggested having a dedicated time for participants to pitch ideas to each other.
+- 1 person felt that there was an excessive use of the color yellow in the event.
+
 :::
 
 **มีอะไรอยากให้เราแก้ไขเพื่อทำให้งานดีขึ้นไหม (ไม่มีใส่ 'ว้าว ดีเยี่ยม')**
@@ -146,12 +165,23 @@
 - ว้าว ดีเยี่ยม (สุด ๆ)
 - ว้าว ดีเยี่ยม (x12)
 
-:::Message{from=ChatGPT}
--   Some participants suggested having a dedicated medical team or providing a designated area for medical assistance, as well as a more clearly defined and official setup for recreational corners, such as music and board game corners.
--   There was a desire for more team-building activities and a multi-category voting system similar to the previous year's ranking system.
--   Participants expressed interest in having a detailed agenda for other activities, particularly during specific time slots, and the desire for transparency in the prize distribution process.
--   Feedback included concerns about insufficient food, limited prizes, and uneven distribution of prizes, especially for teams that did not receive awards during pitching.
--   Miscellaneous comments expressed the need for air conditioning adjustments, increased food availability, the inclusion of additional activities to combat boredom, and a desire for random individual prize selection.
+:::Message{from=Claude}
+
+- 18 people said "Wow, excellent" or similar positive comments without providing specific feedback.
+- 3 people suggested improvements to the prize distribution system, recommending individual random draws instead of team-based distribution to ensure fairness.
+- 2 people requested more activities for attendees to participate in together, noting that there were many "dead air" moments.
+- 2 people mentioned issues with food and prizes, stating there wasn't enough for everyone and distribution wasn't equitable.
+- 1 person suggested having an official "nonsense corner" with clearly labeled areas for music and board games.
+- 1 person recommended having a medical station or first aid area for minor health issues.
+- 1 person requested a multi-category ranking system for voting, similar to the previous year.
+- 1 person asked for a detailed agenda of activities, especially for late-night events.
+- 1 person suggested providing air conditioning remote controls.
+- 1 person mentioned that the prize distribution took too long.
+- 1 person requested snacks to be available throughout the event.
+- 1 person suggested adjusting the event duration.
+- 1 person expressed a desire for everyone to receive a prize.
+- 1 person commented that many things had changed compared to previous years but overall it was still enjoyable.
+
 :::
 
 **ให้คะแนนงานนี้หน่อย เต็ม 10 ให้เราเท่าไหร่**
@@ -180,12 +210,19 @@
 - ประทับใจและรับรู้ถึงความตั้งใจจัดงานครับ สตาฟทุกคนจัดได้ดีมาก ๆ เลย พัฒนายิ่ง ๆ ขึ้นไปครับ ขอให้มีต่อไปทู้กปีคร้าบผม
 - แอร์หนาวไปปปปปป
 
-:::Message{from=ChatGPT}
--   Suggestions included adjusting the air conditioning temperature to be less cold and ensuring sufficient power outlets for the developer tables.
--   Participants recommended providing adequate food and prizes for everyone and ensuring equal distribution of meals.
--   Some comments mentioned the desire for a more comfortable evening session and the need for better time management during the prize distribution process.
--   Recommendations included announcing the availability of pillows and blankets for participants to bring, increasing the quantity of food provided, and incorporating breaks for meals between presentations.
--   Overall positive feedback was given, acknowledging the well-organized event and expressing anticipation for future editions.
+:::Message{from=Claude}
+
+- 4 people mentioned issues with temperature, saying it was too cold or chilly.
+- 3 people commented on food, suggesting there should be more food or better distribution.
+- 3 people mentioned issues with prizes or rewards, requesting better management of prize distribution or expressing disappointment about not winning.
+- 2 people suggested better preparation for food and prizes to ensure sufficiency.
+- 2 people gave positive feedback, praising the event and expressing anticipation for next year.
+- 1 person mentioned a lack of power outlets, particularly at the back tables during the Dev session.
+- 1 person suggested announcing that participants should bring pillows and blankets.
+- 1 person recommended having food breaks between presentations.
+- 1 person suggested making the event more comfortable for sleeping.
+- 1 person appreciated the staff's efforts and hoped the event would continue annually.
+
 :::
 
 **รู้จัก The โง่ จากช่องทางไหน**
@@ -222,12 +259,20 @@
 - อยากได้ของรางวัล แต่มันหมดดดด ชื่ออยู่ท้ายๆ ไปไม่ถึง เห้อ
 - เมี้ยวววว
 
-:::Message{from=ChatGPT}
--   Participants expressed interest in joining the event again next year if given the opportunity.
--   Some comments included gratitude for organizing such great activities and sharing wacky thoughts.
--   There were requests to bring back the event with even more exciting prizes.
--   Appreciation was expressed for the well-organized event, enjoyable activities, and the lovable staff.
--   Miscellaneous comments included mentions of Leomotors, requests for more information on contributing hacks, and expressions of love and support for the staff.
+:::Message{from=Claude}
+
+- 6 people expressed gratitude for organizing a great event and encouraged organizers to hold similar events in the future.
+- 3 people specifically mentioned enjoying the event staff, with one person praising their friendliness and another expressing affection for a particular staff member.
+- 2 people requested better prizes for future events, with one mentioning that prizes ran out before they could get one.
+- 2 people made playful or affectionate comments, using phrases like "love you" or "meow."
+- 1 person mentioned that the event exceeded their expectations, praising the activities and staff.
+- 1 person expressed interest in getting to know the staff better.
+- 1 person mentioned being a staff member in previous events.
+- 1 person asked about when they could contribute to hacking.
+- 1 person made a specific reference to "AA batteries" being very good.
+- 1 person mentioned meeting "shit8" and thanked "P'Thai" for bringing them to the event.
+- 1 person made a comment about "Leomotors" being silly or funny.
+
 :::
 
 **Ideas for next year**
