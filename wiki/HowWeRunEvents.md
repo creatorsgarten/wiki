@@ -66,9 +66,9 @@ Before an event can exist, someone has to be inspired to [[do-ocracy|run it]]. T
 
 # Team assembly
 
-**To assemble a team,** the host creates a group chat for the event, and invite people who are interested in helping out. This is usually done in Facebook Messenger.
+To assemble a team, the host creates a group chat for the event, and invite people who are interested in helping out. This is usually done in Facebook Messenger.
 
-**It is encouraged to recruit many people to join the team.** This is so that people who are really interested in running this event has a chance to contribute. At the same time, recognize that not everyone will be able to contribute equally or provide commitment.
+It is encouraged to recruit many people to join the team. This is so that people who are really interested in running this event has a chance to contribute. At the same time, recognize that not everyone will be able to contribute equally or provide commitment.
 
 To recruit more people,
 
@@ -82,7 +82,7 @@ As our events are run by volunteers and everyone has their own priorities, these
 
 # Preparation
 
-**To prepare the event,** the team discusses and prepares the event. This includes:
+To prepare the event, the team discusses and prepares the event. This includes:
 
 - **Finding a date and venue.** Discuss with others to increase the likelihood that the chosen date and venue are suitable for both the team and the attendees.
 - **Finding sponsors.** Some events use a cashless model, i.e. sponsors don’t contribute cash, but contribute in-kind, such as providing a venue, food, or drinks. Some events accept monetary sponsorship, but the organizing team needs someone to handle the money.
@@ -91,5 +91,33 @@ As our events are run by volunteers and everyone has their own priorities, these
   - To prepare image assets for the event, the details are in the [[event images]] page.
 - **Promoting the event.** This includes posting to [[digital presence|social media]] and [[Thai Tech Calendar]].
 - **Finding on-site volunteers.** Usually we announce in a central group chat.
+
+# Running the event
+
+The team runs the event. How events are run can vary, but here are some common tips:
+
+- Registration staff uses the [Eventpop Check-in][evp-checkin] app to check in attendees.
+- To post links and other stuff, you can edit the [[CurrentEvent]] page attendees’ resources. We have a short link to this page, {% render 'Grtn', path: 'c' %}.
+
+# Networking
+
+After the event, networking is encouraged. This is where many of us get inspired to run more events, and the cycle continues.
+
+- We have [Bingsu.js](https://bingsu.js.org/) for this purpose, where we eat and talk with a few people who came to the event, regardless of whether they are an organizer or an attendee.
+- We sometimes invite more people to our Messenger group chat so they can stay in touch with us when we run more events.
+
+# Documentation
+
+We document the event in the wiki. This makes it easier for future organizers to learn from past events.
+
+This may include:
+
+- Updating the [[organizer notes]] with the full timeline.
+- After receiving feedback from attendees, publish them on the event’s [[feedback]] page.
+- If there are [[videos]], we upload them to our YouTube channel. Then link to them on the event’s page.
+- If people create content about the event (e.g. blog posts, videos, photos, review and write-ups on social media), we link to them in our [[coverage]] pages.
+- Update venue pages with the information that may be useful for future events. See [[Cleverse]] and [[KPlusBuilding]] for examples.
+
+[evp-checkin]: https://creators.eventpop.me/en/articles/3067981-%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B8%99-eventpop-check-in-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%8A-%E0%B8%81%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%82-%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%99
 
 :::
