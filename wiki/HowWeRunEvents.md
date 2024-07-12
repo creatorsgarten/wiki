@@ -47,3 +47,49 @@ This page describes [[Events#types-of-events|normal events]] that requires _some
    - If there are [[videos]], we upload them to our YouTube channel.
 
    - If people write blog posts about the event, we link to them in our [[coverage]] pages.
+
+:::details[Draft]
+
+1. [**Inception**](#inception): Someone is inspired to run an event and becomes the event host.
+2. [**Team assembly**](#team-assembly): The host assembles a team to help run the event.
+3. [**Preparation**](#preparation): The team prepares the event.
+4. [**Running the event**](#running-the-event): The team runs the event.
+5. [**Networking**](#networking): Organizers and attendees mingle after the event. It is a breeding ground for new event ideas.
+6. [**Documentation**](#documentation): The event is documented in the wiki for future organizers to learn from.
+
+# Inception
+
+Before an event can exist, someone has to be inspired to [[do-ocracy|run it]]. This can happen in a few ways:
+
+- An existing organizer has an idea for a new event, and decides to run it.
+- During [networking](#networking), someone comes up with an idea for an event and are encouraged by people around them to run it.
+
+# Team assembly
+
+**To assemble a team,** the host creates a group chat for the event, and invite people who are interested in helping out. This is usually done in Facebook Messenger.
+
+**It is encouraged to recruit many people to join the team.** This is so that people who are really interested in running this event has a chance to contribute. At the same time, recognize that not everyone will be able to contribute equally or provide commitment.
+
+To recruit more people,
+
+- The host can post the event concept on social media to see if there are more people who are interested in helping organize the event. (This may be easier when the event already has a set date.)
+- Organizers can also encourage each other to invite their friends to join the team.
+
+As our events are run by volunteers and everyone has their own priorities, these principles can be helpful:
+
+- [[Do-o-cracy]]: If you want to see something happen, you are encouraged to do it yourself.
+- [[Lazy consensus]]: If you don’t object to something, it’s assumed that you agree with it.
+
+# Preparation
+
+**To prepare the event,** the team discusses and prepares the event. This includes:
+
+- **Finding a date and venue.** Discuss with others to increase the likelihood that the chosen date and venue are suitable for both the team and the attendees.
+- **Finding sponsors.** Some events use a cashless model, i.e. sponsors don’t contribute cash, but contribute in-kind, such as providing a venue, food, or drinks. Some events accept monetary sponsorship, but the organizing team needs someone to handle the money.
+- **Publishing the event.** This includes creating the event page on the wiki, updating [[Thai Tech Calendar]] with new event information, and setting up and publishing an event on Eventpop.
+  - For tips on making the most of the ticketing system and reducing no-show rate, see our [[ticketing tips]] page.
+  - To prepare image assets for the event, the details are in the [[event images]] page.
+- **Promoting the event.** This includes posting to [[digital presence|social media]] and [[Thai Tech Calendar]].
+- **Finding on-site volunteers.** Usually we announce in a central group chat.
+
+:::
