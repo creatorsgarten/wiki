@@ -52,14 +52,14 @@ To prepare the event, the team discusses and prepares the event. This includes:
 
 The team runs the event. How events are run can vary, but here are some common tips:
 
-- Registration staff uses the [Eventpop Check-in][evp-checkin] app to check in attendees.
-- To post links and other stuff, you can edit the [[CurrentEvent]] page attendees’ resources. We have a short link to this page, {% render 'Grtn', path: 'c' %}.
+- **Registration:** Check-in staff uses the [Eventpop Check-in][evp-checkin] app to check in attendees.
+- **Attendees’ resources page:** To post links and other stuff, you can edit the [[CurrentEvent]] page attendees’ resources. We have a short link to this page, {% render 'Grtn', path: 'c' %}.
 
 # Networking
 
 After the event, networking is encouraged. This is where many of us get inspired to run more events, and the cycle continues.
 
-- We have [Bingsu.js](https://bingsu.js.org/) for this purpose, where we eat and talk with a few people who came to the event, regardless of whether they are an organizer or an attendee.
+- **Post-event after-party.** We have [Bingsu.js](https://bingsu.js.org/) for this purpose, where we eat and talk with a few people who came to the event, regardless of whether they are an organizer or an attendee.
 - We sometimes invite more people to our Messenger group chat so they can stay in touch with us when we run more events.
 
 # Documentation
@@ -68,10 +68,10 @@ We document the event in the wiki. This makes it easier for future organizers to
 
 This may include:
 
-- Updating the [[organizer notes]] with the full timeline.
-- After receiving feedback from attendees, publish them on the event’s [[feedback]] page.
-- If there are [[videos]], we upload them to our YouTube channel. Then link to them on the event’s page.
-- If people create content about the event (e.g. blog posts, videos, photos, review and write-ups on social media), we link to them in our [[coverage]] pages.
-- Update venue pages with the information that may be useful for future events. See [[Cleverse]] and [[KPlusBuilding]] for examples.
+- **Organizers’ notes:** Updating the [[organizer notes]] with the full timeline.
+- **Feedback:** After receiving feedback from attendees, publish them on the event’s [[feedback]] page.
+- **Videos:** If there are [[videos]], we upload them to our YouTube channel. Then link to them on the event’s page.
+- **Coverage:** If people create content about the event (e.g. blog posts, videos, photos, review and write-ups on social media), we link to them in our [[coverage]] pages.
+- **Venue:** Update venue pages with the information that may be useful for future events. See [[Cleverse]] and [[KPlusBuilding]] for examples.
 
 [evp-checkin]: https://creators.eventpop.me/en/articles/3067981-%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%83%E0%B8%8A-%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%81%E0%B8%AD%E0%B8%9B%E0%B8%9E%E0%B8%A5%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%8A%E0%B8%B1%E0%B8%99-eventpop-check-in-%E0%B8%AA%E0%B8%B3%E0%B8%AB%E0%B8%A3%E0%B8%B1%E0%B8%9A%E0%B9%80%E0%B8%8A-%E0%B8%81%E0%B8%AD%E0%B8%B4%E0%B8%99%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%A3%E0%B9%80%E0%B8%82-%E0%B8%B2%E0%B8%87%E0%B8%B2%E0%B8%99
