@@ -1,5 +1,3 @@
----
-
 image:
 person:
   name: Leo
