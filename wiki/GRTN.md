@@ -78,6 +78,7 @@ grtnRedirects:
   jsbkk-sponsor-deck: https://docs.google.com/presentation/d/1Y5oRjt0N93Yyx8Elbjh2PjuZZK1lTUHFtTBoIm1L-Dw/edit?usp=sharing
   jsbkk-cfs: https://sessionize.com/javascript-bangkok-2024/
   jsbkk-onboarding: https://outline.creatorsgarten.org/s/1624e26a-c230-4f5b-9fb0-e9214e5384ae
+  singles: https://creatorsgarten.org/wiki/Singles
 ---
 
 
