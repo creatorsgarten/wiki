@@ -36,6 +36,8 @@ As our events are run by volunteers and everyone has their own priorities, these
 - **[[Do-o-cracy]]:** If you want to see something happen, you are encouraged to do it yourself.
 - **[[Lazy consensus]]:** If you don’t object to something, it’s assumed that you agree with it.
 
+The principles above mostly apply to most small-scale events. Sometimes, though, we may run bigger events that require more staff and commitment (e.g. our flagship [Stupid Hackathon](https://stupid.hackathon.in.th/) and camps). In these cases, we tend to use the **MC/OD system.** For more information, see [[Managing events with MC/OD]].
+
 ## Examples of recruitment posts
 
 These examples are from both Creatorsgarten events and other events.
