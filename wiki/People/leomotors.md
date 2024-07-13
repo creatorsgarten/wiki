@@ -1,17 +1,18 @@
-image:
+---
+image: 
 person:
-  name: Leo
-  intro:
-  nickname: Leomotors
-  nicknameTh:
-  github: https://github.com/leomotors
-  instagram:
-  x:
-  facebook:
-  linkedin:
-  youtube:
-  site:
-
+  name: Leomotors
+  intro: software engineer
+  nickname: Leo
+  nicknameTh: ลีโอ
+  github: leomotors
+  instagram: leomotors
+  x: leomotors
+  facebook: leomotors
+  linkedin: leomotors
+  site: https://leomotors.me
 ---
 
-# Leomotors
+:::lead
+**Leomotors** is a ___
+:::
