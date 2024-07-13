@@ -2,5 +2,6 @@
 
 - [[People/chunrapeepat]]
 - [[People/rayriffy]]
-- [[People/poom]]
 - [[People/dtinth]]
+- [[People/leomotors]]
+- [[People/poom]]
