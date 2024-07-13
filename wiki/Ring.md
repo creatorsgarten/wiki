@@ -24,7 +24,7 @@ This webring is open to people who participated in our [events](https://creators
 - [Manassarn Manoonchai](https://narze.live)
 - [Phumrapee Limpianchop](https://rayriffy.com)
 - [Monthira Chayabanjonglerd](https://www.mikkipastel.com/)
-- [Nutthapat Pongtanyavichai](https://leomotors.net)
+- [Nutthapat Pongtanyavichai](https://leomotors.me)
 - [Kitpipat Jaritwong](https://gusbell.tech)
 - [Phurit Dechaboonsiripanit](https://phurit.de)
 - [Tinnaphat Somsang](https://www.tinarskii.com/)
