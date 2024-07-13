@@ -1,5 +1,5 @@
 ---
-image: 
+image: https://leomotors.me
 person:
   name: Leomotors
   intro: software engineer
