@@ -31,6 +31,8 @@ In many Creatorsgarten [events](/events), we collecting feedback from attendees 
 
 With the help of large language models,, we can generate summaries for the feedback. The following prompt is used with [Claude 3.5 Sonnet](https://www.anthropic.com/news/claude-3-5-sonnet) to generate summaries for the feedback provided in the event feedback form:
 
+{% raw %}
+
 ```
 You will be summarizing event feedback provided as an unordered list. Your task is to analyze the feedback, group similar comments, and create a summary in bullet point format.
 
@@ -63,3 +65,5 @@ For each question, present your summary in the following format:
 
 Remember to focus on capturing the essence of the feedback and presenting it in a clear, concise manner. Your summary should give a quick overview of the most common and important feedback received about the event.
 ```
+
+{% endraw %}
