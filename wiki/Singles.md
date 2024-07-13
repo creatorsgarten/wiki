@@ -3,3 +3,4 @@
 - [[People/chunrapeepat]]
 - [[People/rayriffy]]
 - [[People/poom]]
+- [[People/dtinth]]
