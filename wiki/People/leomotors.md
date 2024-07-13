@@ -1,5 +1,5 @@
 ---
-image: https://leomotors.me/leo_read_kob_book.avif
+image: https://leomotors.me/leo_read_kob_book.webp
 person:
   name: Leomotors
   intro: Software Engineer
