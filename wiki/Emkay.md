@@ -19,6 +19,11 @@ meetups:
   name: 'Emkay.rs: Rust กับ WebAssembly เอาไปทำอะไรได้'
   place: 'MK Siam Square One'
   url: https://www.facebook.com/events/371474812018279
+
+- date: '2024-07-14'
+  name: 'Emkay.js at The Stipud Honkathack in Thailand Dan of Smile ครั้งที่ 8'
+  place: 'MK Chamchuri Square'
+  url: https://www.facebook.com/dtinth/posts/pfbid02MtRLG2xdPrPjcfmG1GdA3ZgczuVFeoVDfar9MpWsyAVBBsao1TCjYpH7Y7BFT9HLl
 ---
 
 {% assign events = page.meetups | sort: 'date' | reverse %}
