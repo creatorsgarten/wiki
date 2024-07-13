@@ -1,18 +1,18 @@
 ---
-image: https://leomotors.me
+image: https://leomotors.me/leo_read_kob_book.avif
 person:
   name: Leomotors
-  intro: software engineer
+  intro: Software Engineer
   nickname: Leo
   nicknameTh: ลีโอ
   github: leomotors
-  instagram: leomotors
-  x: leomotors
-  facebook: leomotors
-  linkedin: leomotors
+#  instagram: leomotors
+  x: LeomotorsTH
+#  facebook: leomotors
+  linkedin: leo-nutthapat
   site: https://leomotors.me
 ---
 
 :::lead
-**Leomotors** is a ___
+**Leomotors** is a Computer Engineering Student at Chulalongkorn University (Class of 2026)
 :::
