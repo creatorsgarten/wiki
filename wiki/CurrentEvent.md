@@ -2,6 +2,16 @@
 grtn: c
 ---
 
+# The Stipud Honkathack in Thailand ครั้งที่ 8
+
+- **Feedback form** <https://airtable.com/appDtTDYGTYD64HKW/shrEQPM9lzBleXxRG>
+
+- **Register for ซีคิวเค.เจเอส** <https://forms.gle/X7RjFTibwr5tYxNr7>
+
+---
+
+:::details[Code Mania 1011]
+
 # Code Mania 1011
 
 สวัสดีผู้เข้าร่วมงาน Code Mania! [JavaScript Bangkok 2.0.0](https://javascriptbangkok.com/) กำลังจะมาในเร็วๆ นี้ ติดตามเพจของเราบน Facebook เพื่อรับข่าวสาร:
@@ -12,7 +22,7 @@ grtn: c
 
 ติดตามงาน Tech อื่นๆ ในไทยได้ทาง [Thai Tech Calendar](https://th.techcal.dev/)
 
----
+:::
 
 :::details[Archive: BKK.js #19]
 
