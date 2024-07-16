@@ -1,5 +1,5 @@
 ---
-image: https://user-images.githubusercontent.com/193136/236173173-755b513b-6398-46a7-9fcb-ced21153c094.png
+image: https://github.com/user-attachments/assets/fffd6c1c-5940-436b-9e91-de9ccb399d6e
 event:
   name: เศรษฐกิจเอไอกับโลกไร้งาน
   location: TK Park
