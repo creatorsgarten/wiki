@@ -1,11 +1,10 @@
 ---
-image: https://user-images.githubusercontent.com/193136/236173173-755b513b-6398-46a7-9fcb-ced21153c094.png
+image: https://github.com/user-attachments/assets/5e11c404-eaef-4947-9057-71fb16497a9b
 event:
   name: Invest or Gamble? การเงินนอกห้องเรียน
   location: TK Park
   date: "2024-08-03"
   eventpopId: 37318
-  unlisted: true
   hosts:
     - Creatorsgarten
 ---
