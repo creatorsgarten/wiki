@@ -53,7 +53,7 @@ To prepare the event, the team discusses and prepares the event. This includes:
 
 - **Finding a date and venue.** Discuss with others to increase the likelihood that the chosen date and venue are suitable for both the team and the attendees.
 - **Finding sponsors.** Some events use a cashless model, i.e. sponsors don’t contribute cash, but contribute in-kind, such as providing a venue, food, or drinks. Some events accept monetary sponsorship, but the organizing team needs someone to handle the money.
-- **Publishing the event.** This includes creating the event page on the wiki, updating [[Thai Tech Calendar]] with new event information, and setting up and publishing an event on Eventpop.
+- **Publishing the event.** This includes [[Events#creating-a-new-event|creating the event page]] on the wiki, updating [[Thai Tech Calendar]] with new event information, and setting up and publishing an event on Eventpop.
   - For tips on making the most of the ticketing system and reducing no-show rate, see our [[ticketing tips]] page.
   - To prepare image assets for the event, the details are in the [[event images]] page.
 - **Promoting the event.** This includes posting to [[digital presence|social media]] and [[Thai Tech Calendar]].
