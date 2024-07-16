@@ -5,7 +5,6 @@ event:
   location: TK Park
   date: "2024-08-04"
   eventpopId: 38275
-  unlisted: true
   hosts:
     - Creatorsgarten
 ---
