@@ -19,7 +19,7 @@
 - IG
 - เพื่อบอกฮะ
 - เพื่อน ลีโอเครื่องยนต์
-- ส่องวงแหวนเว็บ ไปเจอเว็บ creatorsgarten แล้วเจอว่าจะจัดงานเลยเข้าร่วม
+- ส่อง[วงแหวนเว็บ](https://webring.wonderful.software/) ไปเจอเว็บ creatorsgarten แล้วเจอว่าจะจัดงานเลยเข้าร่วม
 - ขึ้น feed มาพอดีครับ
 - เพื่อนมาชวน
 - ได้ยินชื่อเสียงและโดนเพื่อนชวน
@@ -48,7 +48,7 @@
 - 1 person mentioned **P'Thai**
 - 1 person said they **learned about it from a foreign blog** and then from ToBEIT66 event
 - 1 person mentioned **seeing someone wearing a Stupid Hack 7 shirt** at YWC19 camp
-- 1 person said they **found it while browsing the web**
+- 1 person said they **found it while browsing the webring**
 
 :::
 
