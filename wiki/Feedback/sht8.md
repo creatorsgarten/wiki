@@ -2,11 +2,9 @@
 
 **รู้จักงานจากช่องทางไหนบ้าง ?**
 
-```
-{"Facebook : creatorsgarten"=>18,
- "Instagram : @creatorsgarten"=>8,
- "ผ่านเพื่อน"=>15}
-```
+- 18 people answered **"Facebook : creatorsgarten"**
+- 15 people answered **"ผ่านเพื่อน"**
+- 8 people answered **"Instagram : @creatorsgarten"**
 
 **(เพิ่มเติม) รู้จักงานนี้ได้ยังไง ?**
 
