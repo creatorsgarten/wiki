@@ -4,7 +4,7 @@ The **public by default** principle prefers making information available to ever
 
 The benefits is that people, whether an organizer or curious visitors, can [[reachability|reach]] or discover the information they need without having to ask for it.
 
-At Creatorsgarten, [most of our code is public on GitHub](https://github.com/creatorsgarten), and we put information on our [public wiki](/wiki/) as much as possible. For some events, [the income and expense are tracked in a public document](#financial-transparency). We also publish [[feedback]] we receive from event participants on the wiki.
+At Creatorsgarten, we encourage [[learn in public|learning in public]]. [Most of our code is public on GitHub](https://github.com/creatorsgarten), and we put information on our [public wiki](/wiki/) as much as possible. For some events, [the income and expense are tracked in a public document](#financial-transparency). We also publish [[feedback]] we receive from event participants on the wiki.
 
 For further reading about the **public by default** principle, see:
 
