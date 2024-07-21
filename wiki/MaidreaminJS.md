@@ -1,3 +1,7 @@
+---
+title: Maidreamin.js
+---
+
 :::lead
 **"Hi hi, Master and Princess."** - Welcome to Dreamland ✨
 Take a break, meet up, and discuss with great people who share the same passion and believe in the magical.
