@@ -3,6 +3,11 @@ discussionTemplate:
   title: Grist access request
   body: |
     @dtinth I’d like to request access to Grist for my event <event-name>.
+
+    <!--
+    Please make sure your GitHub account is linked to your Creatorsgarten account!
+    To check, go to <https://creatorsgarten.org/dashboard>.
+    -->
 ---
 :::lead
 **Grist** is a modern, flexible spreadsheet-database hybrid platform. For more information, check out the [Grist website](https://www.getgrist.com/).
