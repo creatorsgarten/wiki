@@ -12,4 +12,4 @@ At Creatorsgarten, we have a self-hosted instance of Grist running at [grist.cre
 
 # Requesting access to Grist
 
-**Please note that when you first sign in to Grist, you will not have any access.** You have to get invited into a workspace to be able to use Grist. If you want to create a workspace, please {% render 'HelpTicketLink', title: 'request access to Grist', template: page.discussionTemplate %}
+**Please note that when you first sign in to Grist, you will not have any access.** You have to get invited into a workspace to be able to use Grist. If you want to create a workspace, please {% render 'HelpTicketLink', text: 'request access to Grist', template: page.discussionTemplate %}.
