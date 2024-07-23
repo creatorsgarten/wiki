@@ -26,3 +26,7 @@ We use the open-source [Outline](https://www.getoutline.com/) application to sto
 | 2024-03-03 | 4th sync meeting |
 | 2024-03-17 | 5th sync meeting |
 | 2024-03-31 | 6th sync meeting, we agreed to commit to a date and venue |
+| 2024-05-16 | [CFP opened in sessionize](https://sessionize.com/javascript-bangkok-2024) |
+| 2024-06-17 | [Call for sponsor posted on Facebook](https://www.facebook.com/javascriptbangkok/posts/pfbid02pnPAtzui984vsqHWsVukq3GbmevfHF67uJ94QVavJztG8LvospPzqu3i9imQ73bpl) |
+| 2024-07-20 | [CFP promoted on Facebook](https://www.facebook.com/javascriptbangkok/posts/pfbid031ZiiqUXDz5Q1AXQi8eeukBxe9e2mhJSivdeZMVacnzUCWwj9zDwqoCCUwpi9D872l) |
+| 2024-07-23 | [Event published on Facebook](https://www.facebook.com/events/457981557153103/) |
