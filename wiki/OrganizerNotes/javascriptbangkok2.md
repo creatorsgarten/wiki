@@ -15,6 +15,8 @@ We use the open-source [Outline](https://www.getoutline.com/) application to sto
 
 3. After joining, you won't initially have access to the collection containing our meeting notes. Please notify us in the Messenger group, and we'll add you to the collection.
 
+4. Once you’re in, you should see **JavaScript Bangkok 2.0.0** in the sidebar. Find the **🏡 Onboarding** document and continue from there.
+
 # Activity log
 
 | Date | Activity |
