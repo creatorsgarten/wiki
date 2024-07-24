@@ -4,6 +4,7 @@
 {% liquid
 assign n = name | default: 'sht1' | split: '/' | last
 assign prefixes = 'Coverage,FAQ,Feedback,OrganizerNotes,Sponsorship' | split: ','
+assign base = 'Events/' | append: n | get_page
 -%}
 **{% render 'Event', name: name %}**
 {%- liquid
@@ -13,6 +14,9 @@ for prefix in prefixes
     echo ' &middot; [' | append: prefix | append: '](/wiki/' | append: p.ref | append: ')'
   endif
 endfor
+if base.data.event.videos
+  echo ' &middot; [Videos](/videos/' | append: n | append: ')'
+endif
 %}
 
 </div>
