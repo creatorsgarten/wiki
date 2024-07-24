@@ -10,7 +10,6 @@ event:
   hosts:
     - Creatorsgarten
     - showdown.space
-  videos: true
 ---
 
 :::lead
