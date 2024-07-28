@@ -79,6 +79,7 @@ grtnRedirects:
   jsbkk-cfs: https://sessionize.com/javascript-bangkok-2024/
   jsbkk-onboarding: https://outline.creatorsgarten.org/s/1624e26a-c230-4f5b-9fb0-e9214e5384ae
   singles: https://creatorsgarten.org/wiki/Singles
+  sg-story: https://www.tldraw.com/r/-qW_91PuxbFMaDoWUqjUJ?v=0,0,1203,910&p=wS6uHF657Yy8Ia8hZh74D
 ---
 
 
