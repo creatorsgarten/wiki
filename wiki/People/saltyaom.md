@@ -1,3 +1,4 @@
+---
 image: # IMG_0752 - Salty Aom.heic
 person:
   name: Kongkeit Khunpanitchot
