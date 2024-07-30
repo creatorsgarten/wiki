@@ -9,9 +9,6 @@ person:
   instagram: k_night.witglasses
   x: kwitglasses
   facebook: KnightTintapura
-  linkedin:
-  youtube:
-  site:
 ---
 
 🤓Greatly interested in weird topics. \
