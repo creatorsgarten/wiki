@@ -8,8 +8,7 @@ person:
   github: Kwitglasses
   instagram: knight.witglasses
   x: kwitglasses
-  facebook: Paserdsan Tintapura
-  linkedin: paserdsan-tintapura
+  facebook: KnightTintapura
 ---
 
 Hello There! I like movies, shooting film and other typical cliché art students or เทสดีย์ people stuffs🤓😔
