@@ -7,7 +7,7 @@ person:
   nicknameTh: Fay
   github: FayPichaya
   instagram: Fay_Pich
-  facebook: Fay Pichaya
+  facebook: fay.pichaya.3
   linkedin: pichaya-seripattanapol
 ---
 
