@@ -22,9 +22,7 @@ When you log in to the website, our website stores the following data about you:
 
 # Querying data
 
-:::info
-This section is for core maintainers.
-:::
+_This section is for core maintainers._
 
 Only core maintainers have full access to the database. Data can be queried multiple ways:
 
