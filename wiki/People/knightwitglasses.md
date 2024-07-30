@@ -1,5 +1,5 @@
 ---
-# image: 9C3EBFB8-6C5C-465B-8FDF-3314C2523071 - 35 ประเสริฐสรรพ์ ตินตะบุระ.jpeg
+image: https://im.dt.in.th/ipfs/bafybeihqg7qmnawcf2wsfplnenpppvbtsjg2wdyrvfvyl72hnl5l7d3geq/knightwitglasses.webp
 person:
   name: Paserdsan Tintapura
   intro: 🤓🎥📸
