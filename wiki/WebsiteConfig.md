@@ -47,7 +47,7 @@ websiteConfig:
         url: https://grist.creatorsgarten.org
       - name: Sign
         description: Cryptographically sign a message
-        url: /sign
+        url: /dashboard/sign
   announcements:
     elm:
       enabled: true
