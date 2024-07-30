@@ -1,5 +1,5 @@
 :::lead
-Our website data is stored on MongoDB. Only core maintainers have full access to this data.
+Some of our website data is stored on MongoDB (most of the rest is [[public by default|public]] and stored in {% render 'GitHub', repo: 'creatorsgarten/wiki' %}) repo. Only core maintainers have full access to this data.
 :::
 
 # Stored data
