@@ -43,11 +43,11 @@ websiteConfig:
         description: Public knowledge base
         url: /wiki
       - name: Grist
-        description: Modern relational spreadsheet, another open source Airtable alternative (testing)
+        description: Spreadsheet + database hybrid
         url: https://grist.creatorsgarten.org
-      - name: NocoDB
-        description: Open source Airtable alternative (testing)
-        url: https://db.creatorsgarten.org/sso
+      - name: Sign
+        description: Cryptographically sign a message
+        url: /sign
   announcements:
     elm:
       enabled: true
