@@ -8,6 +8,6 @@
 # Icon
 
 | Solid |
-|:---:|:---:|
+|:---:|
 | ![](https://creatorsgarten.org/images/icons/solid.svg) |
 | [solid.svg](https://creatorsgarten.org/images/icons/solid.svg) |
