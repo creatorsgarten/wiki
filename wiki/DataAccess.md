@@ -22,6 +22,10 @@ When you log in to the website, our website stores the following data about you:
 
 # Querying data
 
+:::info
+This section is for core maintainers.
+:::
+
 Only core maintainers have full access to the database. Data can be queried multiple ways:
 
 - **Directly from the database:** Use a MongoDB client to query the database directly, such as MongoDB Compass, VS Code, or DataGrip.
