@@ -9,6 +9,8 @@ orchestrator: "[[TechClubCircle]]"
 The Stupid Hackathon in Thailand (past: The Stupid Hackathon Thailand) is a Creatorsgarten [[Series|series]] which has been hosted annually since 2017.
 :::
 
+- **For statistics about past events,** check out [[Data/StupidHackTH]].
+
 <!--
 # Upcoming
 -->
