@@ -4,8 +4,8 @@ This page keeps track of interesting metrics from each [[StupidHackTH|Stupid Hac
 | ---- | ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
 | Number of teams | 6 | 30 | 23 | 20 | 22 | 15 | 33 | 25 |
 | Number of tickets |   | 97 | 105 | 80 | 139 | 105 | 174 | 150 |
-| Number of presenters |   | 71 | 74 | 57 | 76 | 71 | 122 | TBD |
-| Event rating |   | [8.57](/wiki/Feedback/sht2) | [8.50](/wiki/Feedback/sht3) | [9.44](/wiki/Feedback/sht4) | [8.00](/wiki/Feedback/sht5) | [9.00](/wiki/Feedback/sht6) | [8.85](/wiki/Feedback/sht7) | [8.6](/wiki/Feedback/sht8) |
+| Number of presenters |   | 71 | 74 | 57 | 76 | 71 | 122 | 72 |
+| Event rating |   | [8.57](/wiki/Feedback/sht2) | [8.50](/wiki/Feedback/sht3) | [9.44](/wiki/Feedback/sht4) | [8.00](/wiki/Feedback/sht5) | [9.00](/wiki/Feedback/sht6) | [8.85](/wiki/Feedback/sht7) | [8.60](/wiki/Feedback/sht8) |
 
 # Metrics
 
