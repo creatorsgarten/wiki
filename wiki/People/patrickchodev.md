@@ -10,7 +10,7 @@ person:
   x: patrickchodev
   facebook: devpatrickcho
   linkedin: devpatrickcho
-  site: patrickchodev.com
+  site: https://patrickchodev.com
 ---
 
 sometimes dev, sometimes sleep
