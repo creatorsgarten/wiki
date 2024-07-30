@@ -1,5 +1,5 @@
 ---
-image: # IMG_0752 - Salty Aom.heic
+# image: IMG_0752 - Salty Aom.heic
 person:
   name: Kongkeit Khunpanitchot
   intro: a mimir
