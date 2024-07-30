@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeignmftvii26xkfvojrhbgm2thw2qm35lmz2ii75cv3thkgxcjgxaq/faypichaya-grtn.webp
+image: https://im.dt.in.th/ipfs/bafybeidwia6glqsh7xt7yxncwixxzxrhucjcxcbglyowirn5yb5dtn3csm/faypichaya-grtn.webp
 person:
   name: Pichaya Seripattanapol
   intro: Won't stop working, but mentally unstable
