@@ -10,8 +10,6 @@ person:
   x: kwitglasses
   facebook: Paserdsan Tintapura
   linkedin: paserdsan-tintapura
-  youtube:
-  site:
 ---
 
 Hello There! I like movies, shooting film and other typical cliché art students or เทสดีย์ people stuffs🤓😔
