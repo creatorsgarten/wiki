@@ -26,7 +26,7 @@ Only core maintainers have full access to the database. Data can be queried mult
 
 - **Directly from the database:** Use a MongoDB client to query the database directly, such as MongoDB Compass, VS Code, or DataGrip.
 
-- **Via Metabase:** We have a Metabase instance set up to query the database. Find the URL in Deploys.app console.
+- **Via Metabase:** We have a Metabase instance set up to query the database more easily. Find the URL in Deploys.app console.
 
 ## Common tasks
 
