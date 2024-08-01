@@ -6,7 +6,9 @@
 
 # Events
 
-- {% render 'Event', event: 'creativecodingmeetup' %}
+- {% render 'Event', name: 'creativecodingmeetup' %}
+- {% render 'Event', name: 'creativecodingmeetup2' %}
+- {% render 'Event', name: 'algorave' %}
 
 # Tools
 
