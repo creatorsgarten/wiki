@@ -6,7 +6,7 @@
 
 # Events
 
-- [[Creative coding meetup #1]]
+- {% render 'Event', event: 'creativecodingmeetup' %}
 
 # Tools
 
