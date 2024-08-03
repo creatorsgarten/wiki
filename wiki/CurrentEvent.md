@@ -19,7 +19,7 @@ grtn: c
   - [QuantCorner (Community Quant Analyst ในประเทศไทย)](https://www.facebook.com/quantcornerthailand/) 
   - [QuantCU (ชมรม Quant ในจุฬาฯ)](https://quant-cu.github.io/)
 
-- [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSe44oI_z3fBXaJDTQ55d6k1hmToOGbetwywqDYErtbyrFEktQ/viewform?usp=sf_link)
+- [✨✨ Feedback form ✨✨](https://docs.google.com/forms/d/e/1FAIpQLSe44oI_z3fBXaJDTQ55d6k1hmToOGbetwywqDYErtbyrFEktQ/viewform?usp=sf_link)
 
 - [Join group ตี้ทานข้าวเย็น](https://m.me/j/AbYH9YOGPKImFSAH/) (tentative: มานีมีหม้อ The Market)
 
