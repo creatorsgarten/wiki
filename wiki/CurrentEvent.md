@@ -4,7 +4,7 @@ grtn: c
 
 # Invest or Gamble?
 
-- Speaker: [พีรวิชญ์ เตโช (พีพี), พิชญา เสรีพัฒนะพล (เฟย์)]
+- Speaker: [พีรวิชญ์ เตโช (พีพี)](https://www.facebook.com/prim.pimlada), [พิชญา เสรีพัฒนะพล (เฟย์)](https://www.facebook.com/fay.pichaya.3)
   - [Edward O. Thorp](https://en.wikipedia.org/wiki/Edward_O._Thorp) 
   - [Sam Bankman-Fried](https://en.wikipedia.org/wiki/Sam_Bankman-Fried) 
   - [Ponzi Scheme](https://www.investopedia.com/terms/p/ponzischeme.asp#:~:text=A%20Ponzi%20scheme%20is%20an,returns%20earned%20by%20early%20investors.) 
