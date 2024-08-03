@@ -11,6 +11,8 @@ grtn: c
   - [เรื่องเงินที่รู้ไว้แล้วน่าจะดีกับชีวิต (มั้ง) - 9arm](https://www.youtube.com/watch?v=B-_Or8UPS88)
   - [รวมหนังสือการลงทุนโดย JRT Investment - Facebook](https://www.facebook.com/share/p/AKqvXfLT4a1RyT6F/?mibextid=oFDknk)
   - [Frequently Asked Questions in Quantitative Finance - Paul Wilmott](https://www.amazon.com/Frequently-Asked-Questions-Quantitative-Finance/dp/0470748753)
+  - [QuantCorner - Community Quant Analyst ในประเทศไทย](https://www.facebook.com/quantcornerthailand/) 
+  - [QuantCU - ชมรม Quant ในจุฬาฯ](https://quant-cu.github.io/)
 
 - [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSe44oI_z3fBXaJDTQ55d6k1hmToOGbetwywqDYErtbyrFEktQ/viewform?usp=sf_link)
 
