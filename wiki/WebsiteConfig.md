@@ -51,10 +51,10 @@ websiteConfig:
   announcements:
     c:
       enabled: true
-      message: "Current event: “Invest or Gamble?”"
+      message: "Current event: “เศรษฐกิจเอไอกับโลกไร้งาน”"
       link: https://creatorsgarten.org/wiki/CurrentEvent
-      start: 2024-08-03T12:30:00+07:00
-      end: 2024-08-03T22:00:00+07:00
+      start: 2024-08-04T16:30:00+07:00
+      end: 2024-08-04T22:00:00+07:00
     example:
       enabled: false
       message: "This is an example announcement."
