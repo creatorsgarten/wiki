@@ -4,6 +4,11 @@ grtn: c
 
 # Invest or Gamble?
 
+- Speaker: [พีรวิชญ์ เตโช (พีพี), พิชญา เสรีพัฒนะพล (เฟย์)]
+  - [Edward O. Thorp](https://en.wikipedia.org/wiki/Edward_O._Thorp) 
+  - [Sam Bankman-Fried](https://en.wikipedia.org/wiki/Sam_Bankman-Fried) 
+  - [Ponzi Scheme](https://www.investopedia.com/terms/p/ponzischeme.asp#:~:text=A%20Ponzi%20scheme%20is%20an,returns%20earned%20by%20early%20investors.) 
+
 - Speaker: [ธรรศวริทธิ์ เครือคล้าย  (นท)](https://www.facebook.com/touchvaritnote)
   - [หนังสือคนไทยฉลาดการเงิน (ที่นททำ checklist เช็คสุขภาพการเงินว่าตนเองห่วย)](https://www.naiin.com/product/detail/545699)
   - [Beat the Dealer - Edward O. Thorp](https://www.amazon.com/Beat-Dealer-Winning-Strategy-Twenty-One/dp/0394703103)
