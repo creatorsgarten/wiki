@@ -2,6 +2,14 @@
 grtn: c
 ---
 
+# เศรษฐกิจเอไอกับโลกไร้งาน
+
+TBA
+
+---
+
+:::details[Archive: Invest or Gamble?]
+
 # Invest or Gamble?
 
 - Speaker: [พิชญา เสรีพัฒนะพล (เฟย์)](https://www.facebook.com/fay.pichaya.3), [พีรวิชญ์ เตโช (พีพี)](https://www.facebook.com/prim.pimlada)
@@ -23,7 +31,7 @@ grtn: c
 
 - [Join group ตี้ทานข้าวเย็น](https://m.me/j/AbYH9YOGPKImFSAH/) (tentative: มานีมีหม้อ The Market @ 18:00)
 
----
+:::
 
 :::details[Archive: The Stipud Honkathack in Thailand ครั้งที่ 8]
 
