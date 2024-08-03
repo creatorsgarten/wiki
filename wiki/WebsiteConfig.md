@@ -49,30 +49,12 @@ websiteConfig:
         description: Cryptographically sign a message
         url: /dashboard/sign
   announcements:
-    elm:
+    c:
       enabled: true
-      message: "Current event: “Functional programming meetup #2: Elm for frontend developers.” Watch the livestream on Facebook"
+      message: "Current event: “Invest or Gamble?”"
       link: https://creatorsgarten.org/wiki/CurrentEvent
-      start: 2023-07-07T18:30:00+07:00
-      end: 2023-07-07T22:00:00+07:00
-    SHiT7:
-      enabled: true
-      message: "Current Event: The 7th Stupid Hackathon in Thailand — Live now on Facebook."
-      link: https://www.facebook.com/creatorsgarten/videos/119705651158274
-      start: 2023-06-24T19:00:00+07:00
-      end: 2023-06-25T22:00:00+07:00
-    creativeCodingMeetup:
-      enabled: true
-      message: "Current event: Creative coding meetup — Watch live on Facebook."
-      link: https://creatorsgarten.org/wiki/CurrentEvent
-      start: 2023-05-03T19:00:00+07:00
-      end: 2023-05-03T22:00:00+07:00
-    creativeCodingMeetupSoon:
-      enabled: true
-      message: "Upcoming event: Creative coding meetup on May 3rd @ 18:00. Live streaming is available."
-      link: https://creatorsgarten.org/event/creativecodingmeetup
-      start:
-      end: 2023-05-03T22:00:00+07:00
+      start: 2024-08-03T12:30:00+07:00
+      end: 2024-08-03T22:00:00+07:00
     example:
       enabled: false
       message: "This is an example announcement."
