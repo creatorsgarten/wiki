@@ -5,6 +5,7 @@ grtn: c
 # Invest or Gamble?
 
 - Speaker: [ธรรศวริทธิ์ เครือคล้าย  (นท)](https://www.facebook.com/touchvaritnote)
+  - [หนังสือคนไทยฉลาดการเงิน - ที่นททำ checklist เช็คสุขภาพการเงินว่าตนเองห่วย](https://www.naiin.com/product/detail/545699)
   - [Beat the Dealer - Edward O. Thorp](https://www.amazon.com/Beat-Dealer-Winning-Strategy-Twenty-One/dp/0394703103)
   - [The Trillion Dollar Equation - Veritasium](https://www.youtube.com/watch?v=A5w-dEgIU1M)
   - [เรื่องเงินที่รู้ไว้แล้วน่าจะดีกับชีวิต (มั้ง) - 9arm](https://www.youtube.com/watch?v=B-_Or8UPS88)
