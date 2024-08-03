@@ -10,6 +10,8 @@ grtn: c
 - [JRT Investment - Facebook](https://www.facebook.com/jrt.investment/)
 - [Frequently Asked Questions in Quantitative Finance - Paul Wilmott](https://www.amazon.com/Frequently-Asked-Questions-Quantitative-Finance/dp/0470748753)
 
+- [Feedback form](https://docs.google.com/forms/d/e/1FAIpQLSe44oI_z3fBXaJDTQ55d6k1hmToOGbetwywqDYErtbyrFEktQ/viewform?usp=sf_link)
+
 ---
 
 :::details[Archive: The Stipud Honkathack in Thailand ครั้งที่ 8]
