@@ -2,13 +2,22 @@
 grtn: c
 ---
 
+# Invest or Gamble?
+
+- [Beat the Dealer - Edward O. Thorp](https://www.amazon.com/Beat-Dealer-Winning-Strategy-Twenty-One/dp/0394703103)
+- [The Trillion Dollar Equation - Veritasium](https://www.youtube.com/watch?v=A5w-dEgIU1M)
+
+---
+
+:::details[The Stipud Honkathack in Thailand ครั้งที่ 8]
+
 # The Stipud Honkathack in Thailand ครั้งที่ 8
 
 - **Feedback form** <https://airtable.com/appDtTDYGTYD64HKW/shrEQPM9lzBleXxRG>
 
 - **Register for ซีคิวเค.เจเอส** <https://forms.gle/X7RjFTibwr5tYxNr7>
 
----
+:::
 
 :::details[Code Mania 1011]
 
