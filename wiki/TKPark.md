@@ -12,6 +12,7 @@
 - Wi-fi:
    - Result from Fast.com: 510 Mbps downlink, 320 Mbps uplink
    - Result from networkQuality:
+
      ```
      Uplink capacity: 157.653 Mbps
      Downlink capacity: 452.570 Mbps
