@@ -9,7 +9,7 @@ grtn: c
 
 ---
 
-:::details[The Stipud Honkathack in Thailand ครั้งที่ 8]
+:::details[Archive: The Stipud Honkathack in Thailand ครั้งที่ 8]
 
 # The Stipud Honkathack in Thailand ครั้งที่ 8
 
@@ -19,7 +19,7 @@ grtn: c
 
 :::
 
-:::details[Code Mania 1011]
+:::details[Archive: Code Mania 1011]
 
 # Code Mania 1011
 
