@@ -4,7 +4,7 @@ grtn: c
 
 # เศรษฐกิจเอไอกับโลกไร้งาน
 
-TBA
+## [✨✨ Feedback form ✨✨](https://docs.google.com/forms/d/e/1FAIpQLSdtKH68a3rW5fUlQlb-gQoGqR4hstNCtEd4u-wa_J9k5ArS0A/viewform?usp=sf_link)
 
 ---
 
