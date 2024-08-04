@@ -65,3 +65,28 @@ Country of residence:
   "Laos": 1
 }
 ```
+
+Preferred categories of session:
+
+```
+{
+  "Experience Sharing": 501,
+  "Techniques and Practices": 606,
+  "Libraries, Tools, and Frameworks": 485,
+  "Testing": 372
+}
+```
+
+Main proficiency in software development
+
+```
+{
+  "Front-end": 271,
+  "Full-stack": 185,
+  "Back-end": 172,
+  "Data": 27,
+  "Mobile": 27,
+  "QA": 10,
+  "Security": 8
+}
+```
