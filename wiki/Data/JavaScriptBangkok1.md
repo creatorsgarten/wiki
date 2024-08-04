@@ -33,3 +33,35 @@ Experience in software development in years.
 25 | #
 26 | #
 ```
+
+Gender:
+
+```
+{
+  "Male": 620,
+  "Female": 110,
+  "LGBTQ / Other": 11,
+  "Rather not say": 8
+}
+```
+
+Country of residence:
+
+```
+{
+  "Thailand": 566,
+  "Singapore": 7,
+  "India": 3,
+  "Morocco": 2,
+  "Spain": 2,
+  "Philippines": 2,
+  "United Kingdom": 2,
+  "Nigeria": 1,
+  "Australia": 1,
+  "France": 1,
+  "Austria": 1,
+  "Myanmar": 1,
+  "Brazil": 1,
+  "Laos": 1
+}
+```
