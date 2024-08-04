@@ -27,7 +27,10 @@ grtnRedirects:
   press: https://www.notion.so/creatorsgarten/Press-68ac77c48d5849a29f32fae307fad0f1
   staff/notion: https://creatorsgarten.notion.site/Planner-fe442faccfa8414389c67872819ada77
   e: https://creatorsgarten.org/events
+  v: https://creatorsgarten.org/videos
   e/:event: https://creatorsgarten.org/event/:event
+  e/:event/v: https://creatorsgarten.org/videos/:event
+  e/:event/v/:slug: https://creatorsgarten.org/videos/:event/:slug
   e/:event/v/:slug/edit: https://github.com/creatorsgarten/videos/blob/main/data/videos/:event/:slug.md?plain=1
   e/htbf2023/board: https://www.tldraw.com/r/jE1a3Ur-04v0hhc0fd2L4?viewport=0%2C0%2C1300%2C910&page=page%3Apage
   e/creativecodingmeetup/yt: https://www.youtube.com/playlist?list=PLTuz2sLvbRpy66hP5Cxm9XxSGQBoTULay
