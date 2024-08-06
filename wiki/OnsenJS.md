@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeigzcc365a7vzlexatpljeef4chq2qrefnvyk46ghy5sppmdpxmdh4/image.webp
+image: https://usercontent.creatorsgarten.org/c/v1722960432/644c35a6802c02345887f156/onsenjs_aykwb1.webp # A group of smiling young people, dressed in similar gray outfits, posing together in what appears to be a lobby or common area of a building.
 title: Onsen.js
 meetups:
 - date: '2019-01-04'
