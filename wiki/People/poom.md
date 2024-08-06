@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeihuebpts3zquwvnwt347ej5jdd2kxvilgedagfqzvu36pt44dcsae/poom.jpg
+image: https://usercontent.creatorsgarten.org/c/v1722959695/644c35a6802c02345887f156/poom_ocouww.webp # A smiling young man wearing a yellow t-shirt with the word "Pizza" printed on it, sitting at a table in what appears to be an office or workspace environment.
 person:
   name: Phoomparin Mano
   intro: software engineer
