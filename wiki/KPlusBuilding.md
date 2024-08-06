@@ -30,4 +30,4 @@ Notes for organizers running an event at the 3rd floor of [**K+ Building**](http
 
 Blue: provided by venue; Red: we bring the equipments
 
-![](https://im.dt.in.th/ipfs/bafybeietbjzq6vpi5afodueguathffoluevp4fuprebqk3nqpph5ima344/430023113_743245174586658_6376409057611435900_n.jpg)
+![The image appears to be a hand-drawn diagram or schematic, depicting various interconnected components and devices, with labels and annotations in both red and blue ink.](https://usercontent.creatorsgarten.org/c/v1722960512/644c35a6802c02345887f156/kplus_setup_vig6xb.webp)
