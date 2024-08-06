@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeid7vrzqtkfud2ocels5v4itvmqk2ybcz4ot4emcedmcsexmrlmd7u/saltyaom.webp
+image: https://usercontent.creatorsgarten.org/c/v1722960015/644c35a6802c02345887f156/saltyaom_ydndst.webp
 person:
   name: Kongkeit Khunpanitchot
   intro: a mimir
