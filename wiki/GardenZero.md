@@ -26,7 +26,7 @@ Garden Zero ก่อตั้งโดย 3 พันธมิตร Cleverse &
 3. กดที่ Access Card เพื่อสร้าง QR code (มีอายุ 3 นาที)
 4. เอา QR code ไปสแกนเพื่อปลดล็อกประตู
 
-![](https://im.dt.in.th/ipfs/bafybeif3iujnebilwwnfzhwkgg5qj7nsajpjw73bpw4h7shzdtzvamqrby/image.webp)
+![The image shows a mobile app interface with various screens, including a profile picture, QR code, and instructions.](https://usercontent.creatorsgarten.org/c/v1722960687/644c35a6802c02345887f156/gardenzero_access_yp14ic.webp)
 
 # ระเบียบการใช้งาน
 
