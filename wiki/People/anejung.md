@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeigtr26t3upvve6hmjw2owx3tpyek3gyd5tp6linw37dxifchn6oji/anejung_.jpeg
+image: https://usercontent.creatorsgarten.org/c/v1722959750/644c35a6802c02345887f156/anejung_l48ixq.webp # A person is lying on a bed, reading a book with illustrations and text on the cover, while wrapped in a white blanket.
 person:
   name: Phaphadha Photralux
   intro: yo!
