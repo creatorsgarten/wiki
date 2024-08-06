@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeigqqlifbuh4a7gougtyhj6fnlqku6zr46uco7wi4hrqt577shfvem/boomchanotai.jpg
+image: https://usercontent.creatorsgarten.org/c/v1722960286/644c35a6802c02345887f156/boomchanotai_lpdole.webp # A young man stands in the foreground, wearing a green jacket and white shirt, with a roller coaster structure visible in the background.
 person:
   name: Chanotai Krajeam
   intro: Meow 😼😼!
