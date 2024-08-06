@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeibzuwuuc5v44fqkqytu2kvq2pmwnr4hwzyshm2r2s5czgwuioymtq/rayriffy.jpeg
+image: https://usercontent.creatorsgarten.org/c/v1722959582/644c35a6802c02345887f156/rayriffy_j0nog9.webp # A young man with glasses and a warm smile, set against a vibrant peach-colored background.
 person:
   name: Phumrapee Limpianchop
   intro: Build stuff since 2017
