@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeihdb2d7ohjmacn5gbvzi3ttktdses64u6h45ujf2o2sxy5fqms2le/memee.jpeg
+image: https://usercontent.creatorsgarten.org/c/v1722959951/644c35a6802c02345887f156/khxmjarx_i6wors.webp # A young woman with long, dark hair holds a laptop computer while standing in a park setting with trees and a body of water in the background.
 person:
   name: Khemjira Khodchadee
   intro: 🍣🍜🍝🍠🧋
