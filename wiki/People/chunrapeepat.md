@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeibdovteemsdre3xnrtfpor35w3222fjc5t4wcii4hyh7vcf7rcbri/chun.jpg
+image: https://usercontent.creatorsgarten.org/c/v1722960338/644c35a6802c02345887f156/chunrapeepat_zjq1vr.webp # A person wearing sunglasses and a black shirt is sitting at a wooden table, working on a laptop computer in what appears to be a cozy indoor setting.
 person:
   name: Rapeepat Kaewprasit
   intro: Indie hacker
