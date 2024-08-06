@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeicmovdwkfne7pmgwvcslc4jvcwgpvop3xbzcvtxbifrm6c6z744xa/ChayapatrArchiwaranguprok.webp
+image: https://usercontent.creatorsgarten.org/c/v1722959819/644c35a6802c02345887f156/chayapatr_yble51.webp # A person with short dark hair and glasses is standing in a dimly lit room, their expression serious and focused.
 person:
   name: Chayapatr Archiwaranguprok
   intro: I (write codes)'
