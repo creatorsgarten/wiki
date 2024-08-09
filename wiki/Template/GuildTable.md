@@ -16,6 +16,7 @@
 | [[HomeschoolNetworkWG\|Homeschool Network WG]] | Supporting the network of homeschooling families who are interested in incorporating technology and computer science education into their curriculum
 | [[ClusterWikiWG\|Cluster.wiki WG]] | Developing Contentsgarten-engine, Cluster.wiki, and Super.Cluster.wiki as an open-source information sharing platform across organizations
 | [[OkNizeWG\|Oknize WG]] | Developing Oknize, an event organizing toolset for organizers
+| [[BookClubStudyGroup|Book Club & Study Group]] | Let's read books together |
 | [[Metagarten\|Metagarten]] | Meta-guild for organizing Creatorsgarten guilds and systems
 | [[DXBlockWG\|DX Block WG]] | Rethinking Data Science Learning Approach
 
