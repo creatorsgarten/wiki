@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeia7huap4v4gv7mygljduvzoq6ydfxyj2evanzsyv3wodyaaag3oqm/patrickchodev.webp
+image: https://usercontent.creatorsgarten.org/c/v1723377787/644c35a6802c02345887f156/patrickchodev_iuxlmv.webp # A young man wearing a navy blue shirt stands in a parking lot, with a sunset-lit landscape visible in the background.
 person:
   name: Thanapat Chotipun
   intro: yay -Syu
