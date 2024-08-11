@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeiaperv5vnd4xao5p3kstqvluvrytdzgy7b6i45kfld6oc5hc2dteu/Chanatpakorn.jpeg
+image: https://usercontent.creatorsgarten.org/c/v1723377566/644c35a6802c02345887f156/chanatpakorn_r3qe9e.webp # A young man wearing sunglasses stands in front of a grand, historic-looking building with a lush, grassy area in the foreground.
 person:
   name: Chanatpakorn Sirintronsopon
   intro: Crunchy.
