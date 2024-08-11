@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeicku73rzxibb6ykmwbkhcjrsa5zleat36bv65jxdpqtriqbtaxaui/image.webp
+image: https://usercontent.creatorsgarten.org/c/v1723397269/644c35a6802c02345887f156/hacktoberfest2023_tq8epf.webp
 event:
   name: Hacktoberfest Thailand 2023
   location: Wisesight

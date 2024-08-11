@@ -8,7 +8,7 @@ event:
   name: Bangkok Open Source Hackathon
   eventpopId: 13899
 imageAssets:
-  banner: https://im.dt.in.th/ipfs/bafybeia4mh6uuruxnoxscu6a2kzyj4mtzomej2uffpeemovmjwohgqntmm/image.webp
+  banner: https://usercontent.creatorsgarten.org/c/v1723397202/644c35a6802c02345887f156/bangkok-open-source-banner_ozx43w.webp
   poster: https://p-u.popcdn.net/event_details/posters/000/013/899/large/adeaf5c2b87558df381cd16e6564460ff8951304.png?1676531249
   cover: https://p-u.popcdn.net/event_details/covers/000/013/899/og_cover/7f7817bd94004cca354ee30e0948e5c315af304e.png?1675776056
 ---

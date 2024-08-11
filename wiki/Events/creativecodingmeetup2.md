@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeicvjlegk6pqzomtr2xtma5yiupe2ctwcej3uogozyjc7uvfw2fbay/Main_1200x1200.jpg
+image: https://usercontent.creatorsgarten.org/c/v1723397232/644c35a6802c02345887f156/chromatone-coding-colorful-sounds_qmho3b.webp # A black amplifier with colorful geometric shapes and the text "Chromatone Coding colorful sounds" against a vibrant yellow and orange background.
 event:
   name: Coding colorful sounds
   location: Cleverse

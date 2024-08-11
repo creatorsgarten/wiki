@@ -1,4 +1,4 @@
-<div class="not-prose" style="aspect-ratio: 1920 / 658; background: url(https://im.dt.in.th/ipfs/bafybeickl4hs7iix4ntr7gbtlp3t2bvl4bk4muoqz6wm6cvqbhbc3buape/image.webp); position: relative; background-size: cover;">
+<div class="not-prose" style="aspect-ratio: 1920 / 658; background: url(https://usercontent.creatorsgarten.org/c/v1723397365/644c35a6802c02345887f156/event-image-size-specifications_uxolfx.webp); position: relative; background-size: cover;">
 <div style="position: absolute; top: 0%; left: 0%; width: 19.21%; height: 79.33%; background: #f004">
 <img src="{{ poster }}" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%; display: block;">
 </div>

@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeiai3a6gzse4oujte5mn3p4ylasowi63rvhy3nyycriyqt2dwz3g5q/image.webp
+image: https://usercontent.creatorsgarten.org/c/v1723397012/644c35a6802c02345887f156/1200x1200_imervb.webp
 ---
 
 :::lead
@@ -24,9 +24,9 @@ When running a Creatorsgarten event, some image assets have to be prepared.
 
 # Eventpop
 
-![](https://im.dt.in.th/ipfs/bafybeicgnmtgdzmg2cg5uhka6xq54yoq7wnufpm3bjjidgivnc3bgu7tri/image.webp)
+![The image displays various templates for different types of social media content, including a poster, cover image, background image, and square image. Each template has a placeholder for the actual content, with labels indicating the purpose and dimensions of each type of content.](https://usercontent.creatorsgarten.org/c/v1723397056/644c35a6802c02345887f156/eventpop-image-specifications_pxqcpk.webp)
 
-![](https://im.dt.in.th/ipfs/bafybeihqutqf6iu4tghmrztb2uwvasntatd6cerj6ddb343uoo2lhjmfdu/image.webp)
+![The image shows a web page with text indicating that poster image and background images can be changed, and the background color in the section can be chosen while text on that section can be either black or white.](https://usercontent.creatorsgarten.org/c/v1723397100/644c35a6802c02345887f156/eventpop-customization-capabilities_cxcoop.webp)
 
 # Examples
 
