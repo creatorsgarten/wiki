@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeihqg7qmnawcf2wsfplnenpppvbtsjg2wdyrvfvyl72hnl5l7d3geq/knightwitglasses.webp
+image: https://usercontent.creatorsgarten.org/c/v1723377657/644c35a6802c02345887f156/knightwitglasses_jnwnrb.webp # A person wearing glasses and a black shirt is taking a selfie with a smartphone in what appears to be an elevator.
 person:
   name: Paserdsan Tintapura
   intro: 🤓🎥📸
