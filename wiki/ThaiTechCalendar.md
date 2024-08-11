@@ -32,7 +32,7 @@ You can submit an event to Thai Tech Calendar by following these steps:
 
 2. **Send an invite** to `tech.cal.th@gmail.com`
 
-   ![](https://im.dt.in.th/ipfs/bafybeichkb56baw5tvuu2dazsxq32u5i47bu56wsrjt7jz44mco5upmopa/image.webp)
+   ![The image shows a smartphone screen displaying an event with instructions on inviting an email.](https://usercontent.creatorsgarten.org/c/v1723396883/644c35a6802c02345887f156/techcal-instructions_sn2dlx.webp)
 
 3. **That’s it!** Your event will appear on the calendar soon.
 
