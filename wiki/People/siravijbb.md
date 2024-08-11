@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeid4t2xyxxfrinawi6x2m7rn4t3xifjyx56p27srlh6rga6emia72e/bb.jpg
+image: https://usercontent.creatorsgarten.org/c/v1723377844/644c35a6802c02345887f156/siravijbb_sgfwoh.webp # A smiling person holding up a smartphone displaying an animated character on a screen in what appears to be a store or shop setting.
 person:
   name: Siravij Praevisavakij
   intro: The Siravijbb Dev, Everything with Svelte
