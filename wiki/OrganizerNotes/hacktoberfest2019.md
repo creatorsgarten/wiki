@@ -2,7 +2,7 @@
 
 The following notes are extracted from our Invision Freehand whiteboard. At that time, our board looked like this:
 
-![](https://im.dt.in.th/ipfs/bafybeiepb4sx4xjxzsdkva6tjllok2mtvxhztzwqjtvq5t42dcbtovtxee/image.webp)
+![The image appears to be a screenshot or collage of various elements related to an organized group on Facebook, including a community list, calendar, resources, open issues, and an agenda.](https://usercontent.creatorsgarten.org/c/v1723397548/644c35a6802c02345887f156/hacktoberfest2019-planning-board_armuxl.webp)
 
 We used Facebook Group, Facebook Messenger, and Freehand.
 Most of the contents are out-of-date, as we communicate in other channels but didn't update the board.
@@ -10,7 +10,7 @@ However, it has been archived here for posterity.
 
 # Proposal
 
-![](https://im.dt.in.th/ipfs/bafybeiayvx3rujrgbb3g2gdqxjrbfk5betyhqjtiauagisszejvpoo6ygq/image.webp)
+![The image is part of an organizing board for a "Hacktoberfest Party 2019 Bangkok" event, providing details about the event's purpose, target audience, and when it will take place.](https://usercontent.creatorsgarten.org/c/v1723397601/644c35a6802c02345887f156/hacktoberfest2019-board-1_e2vv0c.webp)
 
 We have multiple developers community group, mostly disjoint, for example:
 
@@ -32,31 +32,31 @@ We are simply putting them in the same room so that we can do more together. Mor
 
 # Co-organizing communities list
 
-![](https://im.dt.in.th/ipfs/bafybeigg6vmzjy35mar5eals57uupnxyj463popngttdph7a2iqjboqsqy/image.webp)
+![The image appears to be a table or chart with various columns and rows, providing information or data related to different topics or categories.](https://usercontent.creatorsgarten.org/c/v1723397706/644c35a6802c02345887f156/hacktoberfest2019-board-2_fy25j7.webp)
 
 # Notes from NoobProgrammer Thailand Community Meeting
 
-![](https://im.dt.in.th/ipfs/bafybeicluo6zx2zyl7xxefxs63qvgvworqinoydwhm5f6az35n7fqv4vli/image.webp)
+![The image appears to be a document outlining the objectives, target group, and activity ideas for an event from NoobProgrammer Thailand Community Meeting event.](https://usercontent.creatorsgarten.org/c/v1723397740/644c35a6802c02345887f156/hacktoberfest2019-board-3_nbbvnt.webp)
 
 # Task board (outdated)
 
-![](https://im.dt.in.th/ipfs/bafybeigitfx2edinjynlq7o27ua7b54grnwy5gqyser3ddlebiyu4cpkdm/image.webp)
+![The image appears to be a to-do list or task management diagram, with various tasks and steps laid out in a linear format. The tasks range from creating an event on Facebook to deciding on a date and time, and gathering interested co-organizers.](https://usercontent.creatorsgarten.org/c/v1723397791/644c35a6802c02345887f156/hacktoberfest2019-board-4_pfc2co.webp)
 
 # Calendar
 
-![](https://im.dt.in.th/ipfs/bafybeidmx4ndqjnoqa7wtr6oqjiz6hpqhgajxqm3seygkb52dtxitm2mc4/image.webp)
+![The calendar for October 2019 displays various events.](https://usercontent.creatorsgarten.org/c/v1723397821/644c35a6802c02345887f156/hacktoberfest2019-board-5_svyq68.webp)
 
 # Open issues (outdated)
 
-![](https://im.dt.in.th/ipfs/bafybeica65euaxxdzihhn45iblacs3xvxlqta2vmwoiqwhm7x6ncgoxqku/image.webp)
+![The image outlines various open issues to be discussed regarding the organization of an event, including the choice between a single venue or multiple venues, weekday or weekend scheduling, and the specific date.](https://usercontent.creatorsgarten.org/c/v1723397852/644c35a6802c02345887f156/hacktoberfest2019-board-6_xpmkve.webp)
 
 # Event list
 
-![](https://im.dt.in.th/ipfs/bafybeifqcay4j3na6mnfvidv2fq3xi3vbjfyab3jnihryoc6xuryw66h3q/image.webp)
+![The image appears to be a table displaying information about various events, including their dates, titles, venues, and the number of people expected to attend.](https://usercontent.creatorsgarten.org/c/v1723397904/644c35a6802c02345887f156/hacktoberfest2019-board-7_tdp7pc.webp)
 
 # Agenda planning
 
-![](https://im.dt.in.th/ipfs/bafybeifsq4dbnuvrp2ssplobth6lomvtpamleq4pyutwhtnqtnpbptjl6q/image.webp)
+![The image displays an agenda for a Hacktoberfast Open Hack Day event, with sections for registration, opening sessions, lunch, a "Hack" section, and closing.](https://usercontent.creatorsgarten.org/c/v1723397948/644c35a6802c02345887f156/hacktoberfest2019-board-8_s9kpc9.webp)
 
 # Venue information
 
@@ -65,7 +65,7 @@ We are simply putting them in the same room so that we can do more together. Mor
 - **25 monitors**
   - I might want to scatter some monitors around the work/event space. The goal is to make it easy for other people to see what you’re working on.
 
-![](https://im.dt.in.th/ipfs/bafybeifv6co2rgccpwcfg4lbuvt2yeb43pgdgcmztbn45kxjaangkl4b2a/image.webp)
+![The image depicts a venue diagram.](https://usercontent.creatorsgarten.org/c/v1723397990/644c35a6802c02345887f156/hacktoberfest2019-board-9_wmra0n.webp)
 
 # Ways you can help
 
