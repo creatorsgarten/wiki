@@ -54,6 +54,19 @@ We are simply putting them in the same room so that we can do more together. Mor
 
 ![The image appears to be a table displaying information about various events, including their dates, titles, venues, and the number of people expected to attend.](https://usercontent.creatorsgarten.org/c/v1723397904/644c35a6802c02345887f156/hacktoberfest2019-board-7_tdp7pc.webp)
 
+:::Message{from=Gemini}
+
+| WeLearn | ThoughtWorks | Agoda |
+|---|---|---|
+| - Location: **Chid Lom BTS** <br/> - Can fit 70-100 people <br/> - Has a big working area <br/> - Has an area for doing workshops <br/> <br/> Parking availability? <br/> <span style="color:crimson;">Availability on weekdays/weekends?</span> <br/> <span style="color:crimson;">Opening hours (open-close)?</span> <br/> <span style="color:crimson;">Associated costs</span> <br/> <span style="color:crimson;">(e.g. air conditioning, housekeeping)?</span> |  - Location: **Rama 9 MRT** <br/> - Can host 100 people and has event space <br/> - Has 25 monitors for Pair programming <br/> - Has 4 Meeting room <br/> - Has video conference <br/> - Have a TVs and Projector & Speaker <br/> - 2 movable TVs <br/> - Event space has speakers and projectors, <br/> so can run a workshop. <br/> - Has parking (not free) <br/>  <br/> <span style="color:crimson;">Availability on weekdays/weekends?</span> <br/> <span style="color:crimson;">Opening hours (open-close)?</span> <br/> <span style="color:crimson;">Associated costs</span> | - Location: The offices at **centralWorld (Chid Lom BTS)** <br/> - Can fit 140 people for seminar <br/> or 70 people for group workshop <br/> - Can use mall's parking (not free) <br/> <br/>  <span style="color:crimson;">Availability on weekdays/weekends?</span> <br/> <span style="color:crimson;">Opening hours (open-close)?</span> <br/> <span style="color:crimson;">Associated costs</span> <br/> <span style="color:crimson;">(e.g. air conditioning, housekeeping)?</span> |
+
+| Date | Title | Venue, How many people | Details (Objective, activities, target) |
+|---|---|---|---|
+| Saturday, 19th | Hacktoberfest Open Hack Day | TBD, around 100 people. | - Want to unite multiple communities in the same event.<br>- Hackfest + Sessions and workshop contributed by communities. |
+| TBA (~EoM) | Bangkok.rb meetup | Nimble, 10-20 people | - Networking<br>- Session about contributing to OSS |
+
+:::
+
 # Agenda planning
 
 ![The image displays an agenda for a Hacktoberfast Open Hack Day event, with sections for registration, opening sessions, lunch, a "Hack" section, and closing.](https://usercontent.creatorsgarten.org/c/v1723397948/644c35a6802c02345887f156/hacktoberfest2019-board-8_s9kpc9.webp)
