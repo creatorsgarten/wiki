@@ -28,13 +28,13 @@ You can subscribe to the Thai Tech Calendar in your calendar app.
 
 You can submit an event to Thai Tech Calendar by following these steps:
 
-1. Create an event in a calendar software, such as Google Calendar.
+1. **Create your event in a calendar software,** such as [Google Calendar](https://calendar.google.com).
 
-2. Send an invite to `tech.cal.th@gmail.com`
+2. **Send an invite** to `tech.cal.th@gmail.com`
 
    ![](https://im.dt.in.th/ipfs/bafybeichkb56baw5tvuu2dazsxq32u5i47bu56wsrjt7jz44mco5upmopa/image.webp)
 
-3. Your event will appear on the calendar.
+3. **That’s it!** Your event will appear on the calendar soon.
 
 # Tips for maintainers
 
