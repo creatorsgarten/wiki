@@ -1,5 +1,5 @@
 ---
-image: https://im.dt.in.th/ipfs/bafybeigoiobqorrhbxzwh57pgvl42ce3d2dorkt6jvnzs36wwpxbnjuzsm/nacnano.webp
+image: https://usercontent.creatorsgarten.org/c/v1723377703/644c35a6802c02345887f156/nacnano_ngf44j.webp # A white, plush stuffed animal with a smiling face and a hooded blanket covering its body, sitting on a soft, textured surface.
 person:
   name: Chotpisit Adunsehawat
   intro: Pew pew pew!
