@@ -50,6 +50,29 @@ We are simply putting them in the same room so that we can do more together. Mor
 
 ![The image outlines various open issues to be discussed regarding the organization of an event, including the choice between a single venue or multiple venues, weekday or weekend scheduling, and the specific date.](https://usercontent.creatorsgarten.org/c/v1723397852/644c35a6802c02345887f156/hacktoberfest2019-board-6_xpmkve.webp)
 
+:::Message{from=Gemini}
+
+*   Single venue or multiple venue?
+*   Weekday or weekend?
+*   What date?
+*   **When should we have the event?**
+
+Situation
+
+*   We have 16 communities interested in helping make this event.  I can't believe my eyes! So amazed. Really awesome.
+*   We have 2 potential venue sponsors. WeWork can hold 70–100 people, while ThoughtWorks can hold 100 people.
+*   In 2017, 100+ people said "Interested" to "CodeClub: Hacktoberfest" event.
+*   I originally intended to hold a single event with all participating communities mingle. However I worry that too few people per community will be able to join.
+
+| Choice | Single event | Multiple events **Same day** | Multiple events **Multiple day** |
+| --- | --- | --- | --- |
+|  | (+) Everyone mingles | (-) Have to figure out how to separate the event | (-) Have to figure out how to separate the event |
+|  | (+) Single date to decide | (+) Single date to decide | (-) Have to figure out multiple dates<br>(+) But once event is split, each event can decide on its own. |
+|  | (-) Only < 100 people can join<br>(+) Don't have to choose<br>(-) Less choice | (+) More people can join<br>(-) People can go to only 1 event<br>(+) More venue choice | (+) More people can join<br>(+) People can join multiple events |
+|  | Potential way to distribute members:<br>- 3 tickets per community = 48 tickets to distribute to community members<br>- 22 general tickets for anyone to join<br>- 20–30 tickets for organizing team, resulting in 90–100 people total. |  |  |
+
+:::
+
 # Event list
 
 ![The image appears to be a table displaying information about various events, including their dates, titles, venues, and the number of people expected to attend.](https://usercontent.creatorsgarten.org/c/v1723397904/644c35a6802c02345887f156/hacktoberfest2019-board-7_tdp7pc.webp)
