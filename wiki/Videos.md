@@ -23,6 +23,8 @@ If you’ve given talks in our events, you can find your talk videos published o
   - Include **links** to relevant resources.
   - **Localize** the title and description to [internationalize your video.](https://notes.dt.in.th/LocalTalkInternationalization)
 
+  AI tools can be used to assist in this process and make it less time consuming. For details, see [[AI video tools]].
+
   To make changes, [send us a pull request!](https://github.com/creatorsgarten/videos/blob/main/CONTRIBUTING.md) Once your PR is merged, the video metadata will be automatically updated.
 
 # Livestream archives
