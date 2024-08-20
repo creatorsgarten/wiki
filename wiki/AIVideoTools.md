@@ -8,10 +8,12 @@ This page documents how AI tools can be used to assist in creating subtitles, ch
 
 The process is as follows:
 
-- **Create a transcript and subtitles for the video.**
-- **Create chapters from the transcript.**
-- **Create description from the transcript.**
-- **Create title from video metadata.**
+1. Create a transcript and subtitles for the video.
+2. Create chapters from the transcript.
+3. Create description from the transcript.
+4. Create title from video metadata.
+
+Human is involved in the loop throughout the process to ensure high quality output.
 
 # Creating a transcript and subtitles
 
