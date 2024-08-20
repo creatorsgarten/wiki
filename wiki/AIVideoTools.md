@@ -136,3 +136,8 @@ The name of the speaker will be added afterwards, so do not include them in your
 
 Provide your proposed YouTube video titles within 5 <title> tags. Do not include any explanation or justification for your title choice.
 ```
+
+# Dev logs
+
+- [2024-07-25, for event “BKK.js #20”](https://www.facebook.com/dtinth/posts/pfbid0fmwRZbTt9yFxxC5UjrcYU4s45d8gBbL7LkCUqXsvXEQkf4m55JvG7qVt8mFEymQnl)
+- [2024-08-20, for event “เศรษฐกิจเอไอกับโลกไร้งาน”](https://www.facebook.com/dtinth/posts/pfbid0SNUKwZsDFffwPYs5wNYivjYxT2nmQQAR2URntML84hQFsAF49cx2fkn1TfKQqPsSl)
