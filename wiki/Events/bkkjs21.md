@@ -2,7 +2,7 @@
 event:
   name: "BKK.JS #21"
   location: Cleverse
-  date: "2024-08-31"
+  date: "2024-09-14"
   site: https://www.eventpop.me/e/48968
   unlisted: true
   hosts:
