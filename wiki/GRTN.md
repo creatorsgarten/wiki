@@ -84,6 +84,7 @@ grtnRedirects:
   singles: https://creatorsgarten.org/wiki/Singles
   sg-story: https://www.tldraw.com/r/-qW_91PuxbFMaDoWUqjUJ?v=0,0,1203,910&p=wS6uHF657Yy8Ia8hZh74D
   now: https://creatorsgarten.org/wiki/CurrentEvent
+  i/:serial: https://inventory.creatorsgarten.org/tags/:serial
 ---
 
 
