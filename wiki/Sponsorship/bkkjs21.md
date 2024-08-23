@@ -6,4 +6,4 @@ As always, we're running meetup event as a free event. But we are also seeking s
 
 We're looking for a support for food, and drinks for an event for attendees to enjoy. We able to accept sponsorship in both terms of actual food, or as a money for us to order by ourselves.
 
-If you would like to sponsor us, please feel free to contact [Riffy](https://www.facebook.com/rayriffy), an organizer, for this event.
+If you would like to sponsor us, please feel free to contact [Riffy](https://www.facebook.com/rayriffy), an organizer for this event.
