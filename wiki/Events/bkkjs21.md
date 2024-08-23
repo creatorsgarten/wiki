@@ -29,11 +29,11 @@ Welcome to the third JavaScript meetup of 2024 by Creatorsgarten... BKK.JS #21!!
 
 เรากำลังเปิดรับ Speaker มาพูดในงาน BKK.JS #21 อยู่โดยเนื้อหาที่นำเสนอควรมีความเกี่ยวข้องกับ JavaScript ในด้านใดก็ได้ เช่น frontend, backend, automation หรือ IoT และแต่ละคนจะมีเวลานำเสนอ 30 นาที
 
-เราจะปิดรับในวันที่ 16 สิงหาคม 23:59 โดยสามารถ[ส่งมาได้ทาง Eventpop](https://www.eventpop.me/events/48968/application_forms/3230/applicants/new)
+เราจะปิดรับในวันที่ 1 กันยายน 23:59 โดยสามารถ[ส่งมาได้ทาง Eventpop](https://www.eventpop.me/events/48968/application_forms/3230/applicants/new)
 
 We're looking for speakers to give a talk/session at BKK.JS #21. The content of session should be related to JavaScript in any fields (i.e. frontend, backend, automation, and IoT). Session will be 30 minutes long.
 
-We'll accepting applicants [via Eventpop](https://www.eventpop.me/events/48968/application_forms/3230/applicants/new) until 30th April 23:59 (ICT)
+We'll accepting applicants [via Eventpop](https://www.eventpop.me/events/48968/application_forms/3230/applicants/new) until 1st September 23:59 (ICT)
 
 ## ⚡ Lighting Talk
 
