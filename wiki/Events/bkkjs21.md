@@ -4,7 +4,6 @@ event:
   location: Cleverse
   date: "2024-09-14"
   site: https://www.eventpop.me/e/48968
-  unlisted: true
   hosts:
     - Creatorsgarten
   eventpopId: 48968
