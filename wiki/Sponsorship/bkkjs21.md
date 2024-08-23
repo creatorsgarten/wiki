@@ -2,8 +2,9 @@
 
 # 💸 Call for Sponsors - BKK.JS #21
 
-As always, we're running meetup event as a free event. But we are also seeking support from people around us as well.
+We're excited to announce that our upcoming meetup event will be free to attend, as always. However, we're reaching out to our community for support to enhance the experience for all participants.
 
-We're looking for a support for food, and drinks for an event for attendees to enjoy. We able to accept sponsorship in both terms of actual food, or as a money for us to order by ourselves.
+We're specifically seeking sponsorship for **food and drinks** to keep our attendees energized and engaged throughout the event. We welcome contributions in the form of catered food and beverages or monetary donations that will allow us to arrange refreshments ourselves.
 
-If you would like to sponsor us, please feel free to contact [Riffy](https://www.facebook.com/rayriffy), an organizer for this event.
+Your sponsorship would greatly contribute to the success of our event and be much appreciated by all attendees. If you're interested in supporting us, please don't hesitate to contact [Riffy](https://www.facebook.com/rayriffy), our event organizer, for more details on how you can help.
+This opportunity offers a great way to showcase your generosity and connect with our vibrant community. We look forward to your support in making this meetup truly memorable!
