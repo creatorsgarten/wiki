@@ -4,9 +4,11 @@ It is in our DNA to [[SelfIntroduction|create]] build things. A Garten Hack Day 
 
 # Upcoming
 
-## Projects
+# 2024-08-31
 
 - **Inventory tracking** ({% render 'Person', name: 'dtinth' %}, {% render 'Person', name: 'rayriffy' %}): Building the tool and produce labels so we can identify which equipments belong to Creatorsgarten and which are not.
+
+    - {% render 'Person', name: 'rayriffy' %} updated {% render 'GitHub', repo: 'creatorsgarten/inventory' %} to use Biome, implemented the UI for adding items. {% render 'Person', name: 'dtinth' %} migrated the DB migration system from Supabase to use Drizzle Kit (the app still runs on Supabase). We printed more stickers and flags to attach to our [equipments](https://inventory.creatorsgarten.org).
 
 - **Event photos**: {% render 'Person', name: 'faypichaya' %} raised an issue about event photos management “รูปอีเว้นในงานนี่ทีมเรามีวิธีเก้บอะไรมั้ย หรือโยนเข้าไดฟ์ปกติเลย”. Maybe we should consolidate the public event photos so people can find the photos of past events.
 
