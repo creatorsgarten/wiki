@@ -6,7 +6,7 @@ It is in our DNA to [[SelfIntroduction|create]] build things. A Garten Hack Day 
 
 # 2024-08-31
 
-## Completed projects
+## What we did
 
 - **Inventory tracking** ({% render 'Person', name: 'dtinth' %}, {% render 'Person', name: 'rayriffy' %}): Building the tool and produce labels so we can identify which equipments belong to Creatorsgarten and which are not.
 
