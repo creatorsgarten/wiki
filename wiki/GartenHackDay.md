@@ -4,6 +4,8 @@ It is in our DNA to [[SelfIntroduction|create]] build things. A Garten Hack Day 
 
 # Upcoming
 
+No upcoming hack day planned yet.
+
 # 2024-08-31
 
 ## What we did
