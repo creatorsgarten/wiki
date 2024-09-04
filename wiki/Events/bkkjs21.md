@@ -62,10 +62,10 @@ Within 1 month, all sessions will be uploaded to [Creatorsgarten YouTube channel
 | - | - |
 | 13:00 - 13:45 | ลงทะเบียน / Registration |
 | 13:45 - 14:00 | เปิดงาน / Opening |
-| 14:00 - 14:30 | **Session 1:** TBA |
-| 14:30 - 15:00 | **Session 2:** TBA |
+| 14:00 - 14:30 | **Session 1:** JavaScripts for Open-Source AI Developers in Nowadays |
+| 14:30 - 15:00 | **Session 2:** The Future of Test Driven Development: How Modern Tools Are Changing the Game |
 | 15:00 - 15:15 | พักครึ่งเวลา / Break time |
-| 15:15 - 15:45 | **Session 3:** TBA |
+| 15:15 - 15:45 | **Session 3:** ฟีเจอร์ใหม่ใน Material UI v6 ที่ต้องรู้ |
 | 15:45 - 16:15 | **Session 4:** TBA |
 | 16:15 - 16:30 | **Lighting Talk #1** |
 | 16:30 - 16:45 | **Lighting Talk #2** |
