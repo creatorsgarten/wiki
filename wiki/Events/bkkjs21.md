@@ -66,7 +66,7 @@ Within 1 month, all sessions will be uploaded to [Creatorsgarten YouTube channel
 | 14:30 - 15:00 | **Session 2:** The Future of Test Driven Development: How Modern Tools Are Changing the Game |
 | 15:00 - 15:15 | พักครึ่งเวลา / Break time |
 | 15:15 - 15:45 | **Session 3:** ฟีเจอร์ใหม่ใน Material UI v6 ที่ต้องรู้ |
-| 15:45 - 16:15 | **Session 4:** TBA |
+| 15:45 - 16:15 | **Session 4:** How to really start - open-source in a nutshell |
 | 16:15 - 16:30 | **Lighting Talk #1** |
 | 16:30 - 16:45 | **Lighting Talk #2** |
 | 16:45 - 17:00 | ปิดงาน และร่วมถ่ายรูป / Closing & Photos |
