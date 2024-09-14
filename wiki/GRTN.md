@@ -88,6 +88,7 @@ grtnRedirects:
   bkkjs21-cfs: https://www.eventpop.me/events/48968/application_forms/3230/applicants/new
   jsbkk/:code: https://www.eventpop.me/e/38704/javascript-bangkok-2-0-0?utf8=%E2%9C%93&discount_code=:code
   jsbkk-scholar: https://www.eventpop.me/events/38704-javascript-bangkok-2-0-0/application_forms/3527/applicants/new
+  jsbkk-bkkjs21: https://www.eventpop.me/e/38704/javascript-bangkok-2-0-0?discount_code=OXZWUP7LDTSK
 ---
 
 
