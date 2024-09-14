@@ -2,11 +2,19 @@
 grtn: c
 ---
 
+# BKK.js #21
+
+## [✨✨ Feedback form ✨✨<br>CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSf8VRIkMkJQr2SOG2IPab8U7ldCuSTZV_4Kz9bQM6C6Lna2NQ/viewform?usp=sf_link)
+
+---
+
+:::details[Archive: เศรษฐกิจเอไอกับโลกไร้งาน]
+
 # เศรษฐกิจเอไอกับโลกไร้งาน
 
 ## [✨✨ Feedback form ✨✨<br>CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSdtKH68a3rW5fUlQlb-gQoGqR4hstNCtEd4u-wa_J9k5ArS0A/viewform?usp=sf_link)
 
----
+:::
 
 :::details[Archive: Invest or Gamble?]
 
