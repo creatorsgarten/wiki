@@ -127,6 +127,12 @@ Please feel free to invite your friends, but please bear in mind that the work a
 
 [Read Poom’s review here.](https://www.facebook.com/phoomparin.mano/posts/pfbid0XhPQzV2QVRUtv5JLyRpDLqVdwPo8CpdcQSg6wUHXJKcnE8hGvCeeuoGs67SWYpnzl)
 
+Let’s Relax Onsen and Spa is Thonglor is on the 5th floor of Grande Centre Point Sukhumvit 55 hotel, which is located in front of Soi Thong Lo 10.
+
+There are a few seating areas: There are counter height tables next to the window and the wall with many stools. The side next to the wall has 2 power outlets. There are also coffee tables along with chairs (with back), but the height of the table may not be suitable for working.
+
+There are two free-flow drinks: Pandan water and infused water. There are also assorted thong muan rolls, with 2 flavors available at a time. Inside the onsen, there is also mugicha tea. These are free for onsen customers. There is also a snack bar where you can purchase other food and beverages.
+
 # How to organize
 
 1. Find a friend who would like to go to an Onsen. Pick a date and place that’s convenient for both of you.
