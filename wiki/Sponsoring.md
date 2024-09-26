@@ -2,4 +2,4 @@ As Creatorsgarten is just a collective of people driven by curiousity and the lo
 
 - **Support individual events.** Call for sponsors are posted on our [Facebook page](https://grtn.org/fb).
 - **GitHub Sponsors.** If the stuff that we build and publish has benefitted you, feel free to [sponsor us on GitHub](https://github.com/sponsors/creatorsgarten).
-- **YouTube.** You can click the Thanks button on any of our YouTube video (and leave a comment with a prominent Super Thanks badge), we receive 70%. This helps support our [[videos]] initiative.
+- **YouTube.** You can click the Thanks button on any of our [YouTube videos](https://www.youtube.com/@creatorsgarten/videos) (and leave a comment with a prominent Super Thanks badge), we receive 70%. This helps support our [[videos]] initiative.
