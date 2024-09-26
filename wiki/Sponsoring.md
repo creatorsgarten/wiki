@@ -1,0 +1,5 @@
+As Creatorsgarten is just a collective of people driven by curiousity and the love for creating, we do not have any business model. However, running events and maintaining infrastructures cost time and money. Also, from time to time people ask us how they can donate or otherwise contribute financially to our group. The answer is… it depends. So, this page aims to document ways you can support us financially.
+
+- **Support individual events.** Call for sponsors are posted on our [Facebook page](https://grtn.org/fb).
+- **GitHub Sponsors.** If the stuff that we build and publish has benefitted you, feel free to [sponsor us on GitHub](https://github.com/sponsors/creatorsgarten).
+- **YouTube.** You can click the Thanks button on any of our YouTube video (and leave a comment with a prominent Super Thanks badge), we receive 70%. This helps support our [[videos]] initiative.
