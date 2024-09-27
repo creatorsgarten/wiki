@@ -10,7 +10,7 @@ image: https://usercontent.creatorsgarten.org/c/v1727462748/644c35a6802c02345887
 
 It aims to bring together automated testers, RPA specialists, QA engineers, students and developers interested in automation.
 
-For more information, check out the [[Events/bac|event description page]].
+For more information about the format and rules, check out the [[Events/bac|event description page]].
 
 # What are the goals?
 
