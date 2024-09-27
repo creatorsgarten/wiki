@@ -36,11 +36,13 @@ This is video of a demo challenge being automated. It is a web form with 3 steps
 
 1. Type the text into an input field.
 2. Check a checkbox.
-3. Click a button 15 times.
+3. Click a button 14 times.
 
 However, all of that must be done within **5 seconds.** Therefore, automation is needed. See video below:
 
 <p><video src="https://im.dt.in.th/ipfs/bafybeia27vsduhu7eu62zt74iepy5pjt7j4oigrkyruop25lsnspf3gjom/challenge-demo.mp4" controls></video></p>
+
+The actual challenge in the event will be much more challenging, stay tuned!
 
 :::
 
