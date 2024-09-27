@@ -28,7 +28,7 @@ Teams of participants will race to complete a variety of browser automation chal
 
 # How it works
 
-Challenges will be released one-by-one. They are simple web-based challenge that is impossible to complete manually by a human, so teams are expected to automate the browser to solve that challenge.
+In the event, challenges will be released one-by-one. They are simple web-based challenge that is impossible to complete manually by a human, so teams are expected to automate the browser to solve that challenge.
 
 :::details[See challenge example]
 
@@ -45,6 +45,10 @@ However, all of that must be done within **5 seconds.** Therefore, automation is
 The actual challenge in the event will be much more challenging, stay tuned!
 
 :::
+
+In each challenge, the teams that completed it faster will be awarded more points.
+
+After a while (i.e. after we have the first finishers), we will reveal the solution to the challenge (the timing will depend on how quickly teams can solve the challenge), and release the next challenge. The challenge remains available to be solved until the end of the event.
 
 # Tools and languages
 
