@@ -1,3 +1,7 @@
+---
+image: https://usercontent.creatorsgarten.org/c/v1727462748/644c35a6802c02345887f156/image_mc13sx.webp
+---
+
 {% render 'EventBox', name: ref %}
 
 # What is browser automation challenge?
