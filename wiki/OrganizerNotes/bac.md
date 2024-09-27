@@ -32,6 +32,14 @@ The tentative date is **Wednesday, November 20, 2024**, in the evening.
 
 Contact person is Thai ({% render 'Person', name: 'dtinth' %}), reachable via Facebook messenger: {% render 'Messenger', user: 'dtinth' %}
 
+# Who is organizing this event?
+
+This event is part of [[ShowdownSpace|showdown.space]] initiative which aims to give stage for people to demonstrate their expertise through recreational tech contests. We have run these events in the past:
+
+- {% render 'Event', name: 'wind2' %}
+- {% render 'Event', name: 'golf1' %}
+- {% render 'Event', name: 'wind' %}
+
 # Activity log
 
 | Date | Activity |
