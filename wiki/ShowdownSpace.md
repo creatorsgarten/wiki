@@ -13,6 +13,7 @@ guild:
 
 | Event | Description |
 | --- | --- |
+| [**Code in the Wind #2**](https://showdown.space/events/code-in-the-wind-2/) | A game show where contestants implement a web page according to the reference screenshot and a set of objectives using Tailwind CSS. |
 | [**Code Golf Party #1**](https://showdown.space/events/code-golf-party-1/) | A programming contest where participants try to solve problems with the smallest amount of code possible. |
 | [**Code in the Wind #1**](https://showdown.space/events/code-in-the-wind-1/) | A game show where contestants implement a web page according to the reference screenshot and a set of objectives using Tailwind CSS. |
 
