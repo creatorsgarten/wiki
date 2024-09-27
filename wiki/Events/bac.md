@@ -22,11 +22,23 @@ This event is being prepared. Interested in behind-the-scenes details? [[Organiz
 
 {% render 'EventBox', name: ref %}
 
-# What to Expect
+# What to expect?
 
 Teams of participants will race to complete a variety of browser automation challenges using their preferred tools and programming languages. While the event is structured as a contest, our primary focus is on **learning, sharing experiences, and exchanging techniques** with fellow automation enthusiasts.
 
-# Tools and Languages
+# How it works
+
+Challenges will be released one-by-one. They are simple web-based challenge that is impossible to complete manually by a human, so teams are expected to automate the browser to solve that challenge.
+
+:::details[See challenge example]
+
+This is video of a demo challenge being automated.
+
+<p><video src="https://im.dt.in.th/ipfs/bafybeia27vsduhu7eu62zt74iepy5pjt7j4oigrkyruop25lsnspf3gjom/challenge-demo.mp4" controls></video></p>
+
+:::
+
+# Tools and languages
 
 Any programming language or automation tool is welcome, including but not limited to:
 
@@ -42,9 +54,9 @@ Any programming language or automation tool is welcome, including but not limite
 - UiPath
 - Watir
 
-During the event, feel free to consult documentation, online resources, or even AI assistants like ChatGPT or Google Gemini to help you tackle the challenges.
+Feel free to consult documentation, online resources, or even use AI assistants like ChatGPT, Google Gemini, or Claude to help you tackle the challenges. However, we ask that you do not communicate outside your teams about the problem until the organizers reveal the solution to that problem.
 
-# Who Should Attend
+# Who should attend?
 
 This event is ideal for:
 
