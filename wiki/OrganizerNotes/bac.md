@@ -25,4 +25,4 @@ The tentative date is Wednesday, November 20, 2024, in the evening.
 - **Co-organizers:** We welcome additional organizers to help plan and execute the event.
 - **Event Staff:** We need volunteers to assist with event logistics on the day.
 
-Contact person is Thai {% render 'Person', name: 'dtinth' %}
+Contact person is Thai ({% render 'Person', name: 'dtinth' %}), reachable via Facebook messenger: {% render 'Messenger', user: 'dtinth' %}
