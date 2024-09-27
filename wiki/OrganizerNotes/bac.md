@@ -1,3 +1,5 @@
+{% render 'EventBox', name: ref %}
+
 # What is browser automation challenge?
 
 - **An evening of browser automation challenges** bringing together automated testers, RPA specialists, QA engineers, and developers interested in automation.
