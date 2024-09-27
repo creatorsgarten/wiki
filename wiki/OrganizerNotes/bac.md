@@ -8,15 +8,15 @@ It aims to bring together automated testers, RPA specialists, QA engineers, stud
 
 # What are the goals?
 
-While the event iss structured as a contest, our goals are to:
+While the event is structured as a contest, our goals for this event is for people to:
 
-- Meet up with automation enthusiasts
-- Exchange techniques
+- Meet up with other automation enthusiasts
+- Exchange techniques that different people use
 - Observe the masters of their crafts at work
 
 # When is the event?
 
-The tentative date is Wednesday, November 20, 2024, in the evening.
+The tentative date is **Wednesday, November 20, 2024**, in the evening.
 
 # What do we need help with?
 
