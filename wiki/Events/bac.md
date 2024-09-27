@@ -50,6 +50,8 @@ In each challenge, the teams that completed it faster will be awarded more point
 
 After a while (i.e. after we have the first finishers), we will reveal the solution to the challenge (the timing will depend on how quickly teams can solve the challenge), and release the next challenge. The challenge remains available to be solved until the end of the event.
 
+At the event of the event, the points from all rounds are summed up to determine the final ranking, and awards and prizes are given accordingly.
+
 # Tools and languages
 
 Any programming language or automation tool is welcome, including but not limited to:
