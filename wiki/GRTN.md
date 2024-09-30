@@ -92,6 +92,7 @@ grtnRedirects:
   bkkjs21: https://vdo.ninja/?room=bkkjs21&hash=43b9&q&do
   bkkjs21-feedback: https://docs.google.com/forms/d/e/1FAIpQLSf8VRIkMkJQr2SOG2IPab8U7ldCuSTZV_4Kz9bQM6C6Lna2NQ/viewform
   jsbkk-volunteer: https://www.eventpop.me/events/38704-javascript-bangkok-2-0-0/application_forms/3956/applicants/new?token=NC23UVDXDZENXUGQ
+  jsbkk-workshop: https://www.eventpop.me/events/38704-javascript-bangkok-2-0-0/add_on_tickets
 ---
 
 
