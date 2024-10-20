@@ -4,5 +4,4 @@
 
 # Blogs
 
-- [สรุป Session: Why use JavaScript when CSS is possible?
-](https://blog.ninprd.com/blog/summary-session-why-use-javascript-when-css-is-possible/)
+- [สรุป Session: Why use JavaScript when CSS is possible?](https://blog.ninprd.com/blog/summary-session-why-use-javascript-when-css-is-possible/)
