@@ -5,7 +5,6 @@ event:
   location: True Digital Park West
   date: "2024-10-19"
   eventpopId: 38704
-  unlisted: true
   hosts:
     - Software Developer Community
     - Creatorsgarten
