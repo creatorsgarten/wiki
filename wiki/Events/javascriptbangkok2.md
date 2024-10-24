@@ -1,5 +1,5 @@
 ---
-image: https://user-images.githubusercontent.com/193136/236173173-755b513b-6398-46a7-9fcb-ced21153c094.png
+image: https://github.com/user-attachments/assets/4cb9e69e-8150-4214-b3c3-019c89d7d903
 event:
   name: JavaScript Bangkok 2.0.0
   location: True Digital Park West (Tentative)
