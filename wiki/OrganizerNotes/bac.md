@@ -28,9 +28,12 @@ The tentative date is **Wednesday, November 20, 2024**, in the evening.
 
 | Items | Status |
 | ---- | ---- |
-| Venue | Call for sponsor launched |
+| Venue | Call for sponsor announced |
 | Beverages | Discussing with potential sponsor |
 | Prize pool | Discussing with potential sponsors |
+| Event staff | Call for staff announced |
+| Challenges | 4 challenges have been created so far with varying difficulties |
+| Live leaderboard | Still unimplemented |
 
 # What do we need help with?
 
