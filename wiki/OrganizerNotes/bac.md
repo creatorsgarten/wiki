@@ -24,6 +24,14 @@ While the event is structured as a contest, our goals for this event is for peop
 
 The tentative date is **Wednesday, November 20, 2024**, in the evening.
 
+# Status
+
+| Items | Status |
+| ---- | ---- |
+| Venue | Call for sponsor launched |
+| Beverages | Discussing with potential sponsor |
+| Prize pool | Discussing with potential sponsors |
+
 # What do we need help with?
 
 - **Venue:** We need a suitable location to host the event.
