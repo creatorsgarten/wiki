@@ -76,6 +76,16 @@ Additional notes:
     The maximum audio level that does not result in a feedback loop is too quiet (people at the back cannot hear).
     To fix this, some frequencies have to be filtered out using an equalizer and a limiter.
 
+## A/V setup
+
+Latest documented setup at [Technologista](https://www.eventpop.me/e/56359/technologista-2024), diagrammed by [@fonylew](https://github.com/fonylew):
+
+![The image depicts a diagram illustrating the connections and components of a multimedia setup, including a laptop, LG TV, microphone mixer, USB extender, and various input/output ports.](https://usercontent.creatorsgarten.org/c/v1729964728/644c35a6802c02345887f156/image_amqan8.webp)
+
+Past setups:
+
+- [2023-05-03 Creative coding meetup](https://creatorsgarten.org/wiki/OrganizerNotes/creativecodingmeetup#av-setup)
+
 # Logo
 
 This is the Cleverse logo for as of 2023-07-04, for use in [images](/wiki/EventImages):
