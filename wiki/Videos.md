@@ -55,6 +55,12 @@ Livestream archives can be found on the [:Icon{icon=cib:facebook} Creatorsgarten
 
 - Missing presentation slides. They can be added in post.
 
+# A/V setup
+
+Check out our documented A/V setups for past events at these venues:
+
+- [[Cleverse#av-setup|Cleverse]]
+
 # Streaming
 
 To keep convention of streaming for many events to be streamlined (for the sake of editing as well). We would like to encourage to do following steps.
