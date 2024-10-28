@@ -19,6 +19,7 @@
 | [[KPlusBuilding]] |  | K+ Building, Soi Chula 20 | 200 |
 | [[KKUSciencePark]] |  | KKU Science Park, Khon Kaen | 230 |
 | [[LSEG]] |  | 31st Fl., U Chu Liang Building | 100 |
+| [[LMWNTownHall]] |  | One Bangkok | 100 - 150 |
 | [[MFEC]] |  | 11th Fl., SJ Infinite One Business Complex | 60 |
 | [[MicrosoftThailand]] |  | 38th Fl., CRC Tower Building, All Seasons Place | 150 |
 | [[MuseFoundation]] |  |  |  |
