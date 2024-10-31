@@ -28,19 +28,18 @@ The tentative date is **Wednesday, November 20, 2024**, in the evening.
 
 | Items | Status |
 | ---- | ---- |
-| Venue | Call for sponsor announced |
-| Beverages | Discussing with potential sponsor |
-| Prize pool | Discussing with potential sponsors |
-| Event staff | Call for staff announced |
-| Challenges | 4 challenges have been created so far with varying difficulties |
-| Live leaderboard | Still unimplemented |
+| Food | 📢 Open for sponsors |
+| Prize pool | 💬 Discussing with potential sponsors |
+| Venue | 💬 Discussing with potential venue sponsor |
+| Event staff | 💬 Preparing |
+| Challenges | 💬 4 challenges have been created so far with varying difficulties |
+| Live leaderboard | ❌ Still unimplemented |
+| Beverages | ✅ Sponsored by We Love Bug |
 
 # What do we need help with?
 
-- **Venue:** We need a suitable location to host the event.
-- **Design:** Need help with the look and feel for the event’s graphics, such as cover posters and other PR materials.
 - **Prize sponsorship:** We're using a [[prize pool system]] where winners choose prizes in order of their ranking. Any number of prizes are welcome.
-- **Food and beverages:** We plan for this event to have a party vibe with refreshments and snacks.
+- **Food sponsorship:** We are looking for food sponsors for 80 people.
 - **Co-organizers:** We welcome additional organizers to help plan and execute the event, to make the event the best it can be.
 - **Event staff:** We need volunteers to assist with event logistics on the day.
 - **Have something else to contribute?** We welcome contributions to help us enhance the event experience. Let’s talk!
