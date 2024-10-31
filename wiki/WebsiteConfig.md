@@ -9,10 +9,10 @@ websiteConfig:
         schedule: October
         url: /wiki/HacktoberfestThailand
       - name: Stupid Hackathon in Thailand
-        schedule: Late Q2 - Early Q3
+        schedule: Midyear
         url: /wiki/StupidHackTH
       - name: BKK.JS
-        schedule: Every quarter
+        schedule: Quarterly
         url: https://bkk.js.org/
       - name: Bingsu.js
         schedule: Post meetups
@@ -21,7 +21,7 @@ websiteConfig:
         schedule: Work remotely from onsen
         url: /wiki/OnsenJS
       - name: Emkay
-        schedule: Lightweight meetup @ MK Restaurant
+        schedule: Lightweight meetups at MK Restaurant
         url: /wiki/Emkay
   guilds:
     featured:
