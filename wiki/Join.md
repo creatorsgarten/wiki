@@ -1,45 +1,12 @@
-:::warning[UNDER CONSTRUCTION]
-Our wiki is under construction, please feel free to contribute!
-:::
+Creatorsgarten is a loosely connected community of creators. We don't have a formal membership process nor an active online community — we connect through shared interests and, of course, events! Here's how to get involved:
 
-# What is Creatorsgarten?
+# Join our events and connect
 
-- [[SelfIntroduction|What is Creatorsgarten?]]
+- Our [Facebook Page](https://www.facebook.com/creatorsgarten) is the main channel where we announce upcoming events.
+- Check out the [Thai Tech Calendar](https://th.techcal.dev/), a community-driven website listing tech events in Thailand.
 
-# How to work with us
+# Connect with us
 
-# How can you contribute?
-
-- Managing Creatorsgarten
-- Leading or contributing to the working groups
-- Creating or contributing to the projects
-
-# How can you join us?
-
-- Discord
-- GitHub
-
-# Structure
-
-## Guilds
-
-## Projects
-
-## Events
-what is events?
-- Normal
-- Wayfinder: first time, exploring new ideas
-- Series: well-established series of events
-- Recurring: continuously occurring events
-
-# Culture
-
-## Club
-
-## Lore
-
-- TODO: what are Creatorsgarten's key culture?
-  - Wiki
-  - Learning
-  - Creating
-  - Management (e.g. [[DRI]]/O, [[DoOcracy|Do-o-cracy]])
+- **During the event:** Chat with organizers and attendees, sharing your interests and asking questions.
+- **After the event:** Join a [Bingsu.js](https://bingsu.js.org/), a casual after-party where we continue discussions over food and drinks. They're a great way to connect with fellow creators in a relaxed setting.
+- **Express your interest:** Let organizers know if you're interested in helping out with future events. We often invite active community members to our Messenger group, where we coordinate event organization.
