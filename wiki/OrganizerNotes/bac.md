@@ -62,3 +62,5 @@ This event is part of [[ShowdownSpace|showdown.space]] initiative which aims to 
 | 2024-09-15 | Discussed with {% render 'Person', name: 'rayriffy' %} and {% render 'Person', name: 'betich' %} about potential event dates, taking into consideration travel plans and other events around that time. Plan for 2024-11-20. |
 | 2024-09-29 | Announced the intent to organize the event publicly at Vue Thai Conf 2024, kickstarting the organizing process. |
 | 2024-10-23 | [Announced the intent to organize on Facebook, recruiting team, call for sponsors, etc.](https://www.facebook.com/dtinth/posts/pfbid0kE9VdYcDiC1Bpu9rJvS4t44JB6waGtFPuWfCNZcsHzqXRyPDEFwsG21YjRuJnEpMl) |
+| 2024-10-31 | Confirmed beverage sponsorship from We Love Bug |
+| 2024-11-04 | Confirmed venue sponsorship from Cleverse |
