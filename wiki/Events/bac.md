@@ -2,7 +2,7 @@
 image: https://usercontent.creatorsgarten.org/c/v1727462748/644c35a6802c02345887f156/image_mc13sx.webp
 event:
   name: Browser automation challenges
-  location: TBA
+  location: Cleverse
   date: "2024-11-20"
   unlisted: true # Remove this line when event is ready
   hosts:
