@@ -30,11 +30,11 @@ The tentative date is **Wednesday, November 20, 2024**, in the evening.
 | ---- | ---- |
 | Food | 📢 Open for sponsors |
 | Prize pool | 💬 Discussing with potential sponsors |
-| Venue | 💬 Discussing with potential venue sponsor |
 | Event staff | 💬 Preparing |
 | Challenges | 💬 4 challenges have been created so far with varying difficulties |
 | Live leaderboard | ❌ Still unimplemented |
 | Beverages | ✅ Sponsored by We Love Bug |
+| Venue | ✅ Sponsored by Cleverse |
 
 # What do we need help with?
 
