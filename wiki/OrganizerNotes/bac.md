@@ -68,3 +68,4 @@ This event is part of [[ShowdownSpace|showdown.space]] initiative which aims to 
 | 2024-10-23 | [Announced the intent to organize on Facebook, recruiting team, call for sponsors, etc.](https://www.facebook.com/dtinth/posts/pfbid0kE9VdYcDiC1Bpu9rJvS4t44JB6waGtFPuWfCNZcsHzqXRyPDEFwsG21YjRuJnEpMl) |
 | 2024-10-31 | Confirmed beverage sponsorship from We Love Bug |
 | 2024-11-04 | Confirmed venue sponsorship from Cleverse |
+| 2024-11-07 | Kick-off meeting planned, created [FigJam board](https://www.figma.com/board/ZhFD5mzEiStZSn9E9IeCMs/showdown.space-FigJam?node-id=201-2&node-type=section&t=ZQeXk7Em5cYV9Ys6-0) |
