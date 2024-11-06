@@ -4,6 +4,10 @@ image: https://usercontent.creatorsgarten.org/c/v1727462748/644c35a6802c02345887
 
 {% render 'EventBox', name: ref %}
 
+# Important links for organizer team
+
+- [FigJam (public)](https://www.figma.com/board/ZhFD5mzEiStZSn9E9IeCMs/showdown.space-FigJam?node-id=201-2&node-type=section&t=ZQeXk7Em5cYV9Ys6-0)
+
 # What is browser automation challenge?
 
 **Browser automation challenge** is a recreational contest where teams race to complete various browser automation challenges using their preferred tools and programming languages.
