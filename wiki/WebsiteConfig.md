@@ -48,8 +48,8 @@ websiteConfig:
       - name: Sign
         description: Cryptographically sign a message
         url: /dashboard/sign
-      - name: Scheduling
-        description: 'Find a time for meeting or running an event, powered by Rallly. Note: Click the “Sign in with Creatorsgarten” button!'
+      - name: Rallly
+        description: 'Scheduling poll to find a time for meeting or running an event.'
         url: 'https://scheduling.creatorsgarten.org/'
   announcements:
     c:
