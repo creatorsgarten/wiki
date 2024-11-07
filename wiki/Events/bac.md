@@ -28,29 +28,17 @@ Teams of participants will race to complete a variety of browser automation chal
 
 # How it works
 
-In the event, challenges will be released one-by-one. They are simple web-based challenge that is impossible to complete manually by a human, so teams are expected to automate the browser to solve that challenge.
-
-:::details[See challenge example]
-
-This is video of a demo challenge being automated. It is a web form with 3 steps:
-
-1. Type the text into an input field.
-2. Check a checkbox.
-3. Click a button 14 times.
-
-However, all of that must be done within **5 seconds.** Therefore, automation is needed. See video below:
-
-<p><video src="https://im.dt.in.th/ipfs/bafybeia27vsduhu7eu62zt74iepy5pjt7j4oigrkyruop25lsnspf3gjom/challenge-demo.mp4" controls></video></p>
-
-The actual challenge in the event will be much more challenging, stay tuned!
-
-:::
+In the event, challenges will be released one-by-one. They are simple web-based challenge that is impossible to complete manually by a human, so teams are expected to automate the browser to solve that challenge. (See below for example challenge.)
 
 In each challenge, the teams that completed it faster will be awarded more points.
 
 After a while (i.e. after we have the first finishers), we will reveal the solution to the challenge (the timing will depend on how quickly teams can solve the challenge), and release the next challenge. The challenge remains available to be solved until the end of the event.
 
 At the event of the event, the points from all rounds are summed up to determine the final ranking, and awards and prizes are given accordingly.
+
+## Example challenge
+
+`youtube:jrgjfOehdOY`
 
 # Tools and languages
 
