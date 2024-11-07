@@ -38,6 +38,8 @@ At the event of the event, the points from all rounds are summed up to determine
 
 ## Example challenge
 
+You can find an example challenge at <https://browser-automation-challenges-demo.netlify.app/>. This challenge may be uninteresting but shows the core mechanics of the event. The challenges at the event will be more challenging, so look forward to it! This video shows one possible solution with Automa:
+
 `youtube:jrgjfOehdOY`
 
 # Tools and languages
