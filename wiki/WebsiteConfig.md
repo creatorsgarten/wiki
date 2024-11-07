@@ -39,18 +39,23 @@ websiteConfig:
       - name: Outline
         description: Internal knowledge base
         url: https://outline.creatorsgarten.org
+        image: https://assets.creatorsgarten.org/icons/Vendor_Outline.svg
       - name: Wiki
         description: Public knowledge base
         url: /wiki
+        image: https://assets.creatorsgarten.org/icons/Contentsgarten.svg
       - name: Grist
         description: Spreadsheet + database hybrid
         url: https://grist.creatorsgarten.org
+        image: https://assets.creatorsgarten.org/icons/Vendor_Grist.svg
       - name: Sign
         description: Cryptographically sign a message
         url: /dashboard/sign
+        image: https://assets.creatorsgarten.org/icons/Sign.svg
       - name: Rallly
         description: 'Scheduling poll to find a time for meeting or running an event.'
         url: 'https://scheduling.creatorsgarten.org/'
+        image: https://assets.creatorsgarten.org/icons/Vendor_Rallly.svg
   announcements:
     c:
       enabled: true
