@@ -7,6 +7,8 @@ image: https://usercontent.creatorsgarten.org/c/v1727462748/644c35a6802c02345887
 # Important links for organizer team
 
 - [FigJam (public)](https://www.figma.com/board/ZhFD5mzEiStZSn9E9IeCMs/showdown.space-FigJam?node-id=201-2&node-type=section&t=ZQeXk7Em5cYV9Ys6-0)
+- [Project management sheet](https://docs.google.com/spreadsheets/d/15xdvCy9fjRQZ9pm4l-9rxYrhLC7ZzLDDvXCQGei2F8Q/edit?pli=1&gid=1211995474#gid=1211995474)
+- [Information for sponsors](https://outline.creatorsgarten.org/doc/information-for-sponsors-5AlZazaogy)
 
 # What is browser automation challenge?
 
