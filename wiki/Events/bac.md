@@ -4,7 +4,8 @@ event:
   name: Browser automation challenges
   location: Cleverse
   date: "2024-11-20"
-  unlisted: true # Remove this line when event is ready
+  unlisted: false
+  eventpopId: 62035
   hosts:
     - Creatorsgarten
     - showdown.space
