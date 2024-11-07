@@ -62,11 +62,12 @@ This event is part of [[ShowdownSpace|showdown.space]] initiative which aims to 
 
 | Date | Activity |
 | ---- | -------- |
-| 2024-09-07 | Discussed potential date ranges for the event. Consideration is to not collide with students’ final exams and new year seasons. Tentative range is in November. |
-| 2024-09-15 | Discussed with {% render 'Person', name: 'rayriffy' %} and {% render 'Person', name: 'betich' %} about potential event dates, taking into consideration travel plans and other events around that time. Plan for 2024-11-20. |
-| 2024-09-29 | Announced the intent to organize the event publicly at Vue Thai Conf 2024, kickstarting the organizing process. |
-| 2024-10-23 | [Announced the intent to organize on Facebook, recruiting team, call for sponsors, etc.](https://www.facebook.com/dtinth/posts/pfbid0kE9VdYcDiC1Bpu9rJvS4t44JB6waGtFPuWfCNZcsHzqXRyPDEFwsG21YjRuJnEpMl) |
-| 2024-10-31 | Confirmed beverage sponsorship from We Love Bug |
-| 2024-11-04 | Confirmed venue sponsorship from Cleverse |
-| 2024-11-06 | Kick-off meeting planned, created [FigJam board](https://www.figma.com/board/ZhFD5mzEiStZSn9E9IeCMs/showdown.space-FigJam?node-id=201-2&node-type=section&t=ZQeXk7Em5cYV9Ys6-0) |
-| 2024-11-07 | [Kick-off meeting](https://outline.creatorsgarten.org/s/7486b99e-041f-46f6-a94c-c701b17a0948), Panthipa offered to help with internal coordination and [managing the event project](https://docs.google.com/spreadsheets/d/15xdvCy9fjRQZ9pm4l-9rxYrhLC7ZzLDDvXCQGei2F8Q/edit?pli=1&gid=1211995474#gid=1211995474) |
+| <nobr>2024-09-07</nobr> | Discussed potential date ranges for the event. Consideration is to not collide with students’ final exams and new year seasons. Tentative range is in November. |
+| <nobr>2024-09-15</nobr> | Discussed with {% render 'Person', name: 'rayriffy' %} and {% render 'Person', name: 'betich' %} about potential event dates, taking into consideration travel plans and other events around that time. Plan for 2024-11-20. |
+| <nobr>2024-09-29</nobr> | Announced the intent to organize the event publicly at Vue Thai Conf 2024, kickstarting the organizing process. |
+| <nobr>2024-10-23</nobr> | [Announced the intent to organize on Facebook, recruiting team, call for sponsors, etc.](https://www.facebook.com/dtinth/posts/pfbid0kE9VdYcDiC1Bpu9rJvS4t44JB6waGtFPuWfCNZcsHzqXRyPDEFwsG21YjRuJnEpMl) |
+| <nobr>2024-10-31</nobr> | Confirmed beverage sponsorship from We Love Bug |
+| <nobr>2024-11-04</nobr> | Confirmed venue sponsorship from Cleverse |
+| <nobr>2024-11-06</nobr> | Kick-off meeting planned, created [FigJam board](https://www.figma.com/board/ZhFD5mzEiStZSn9E9IeCMs/showdown.space-FigJam?node-id=201-2&node-type=section&t=ZQeXk7Em5cYV9Ys6-0) |
+| <nobr>2024-11-07</nobr> | [Kick-off meeting](https://outline.creatorsgarten.org/s/7486b99e-041f-46f6-a94c-c701b17a0948), Panthipa offered to help with internal coordination and [managing the event project](https://docs.google.com/spreadsheets/d/15xdvCy9fjRQZ9pm4l-9rxYrhLC7ZzLDDvXCQGei2F8Q/edit?pli=1&gid=1211995474#gid=1211995474) |
+| <nobr>2024-11-08</nobr> | Soft launched. |
