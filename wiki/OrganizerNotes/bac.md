@@ -69,4 +69,4 @@ This event is part of [[ShowdownSpace|showdown.space]] initiative which aims to 
 | 2024-10-31 | Confirmed beverage sponsorship from We Love Bug |
 | 2024-11-04 | Confirmed venue sponsorship from Cleverse |
 | 2024-11-06 | Kick-off meeting planned, created [FigJam board](https://www.figma.com/board/ZhFD5mzEiStZSn9E9IeCMs/showdown.space-FigJam?node-id=201-2&node-type=section&t=ZQeXk7Em5cYV9Ys6-0) |
-| 2024-11-07 | [Kick-off meeting](https://outline.creatorsgarten.org/s/7486b99e-041f-46f6-a94c-c701b17a0948) |
+| 2024-11-07 | [Kick-off meeting](https://outline.creatorsgarten.org/s/7486b99e-041f-46f6-a94c-c701b17a0948), Panthipa offered to help with internal coordination and [managing the event project](https://docs.google.com/spreadsheets/d/15xdvCy9fjRQZ9pm4l-9rxYrhLC7ZzLDDvXCQGei2F8Q/edit?pli=1&gid=1211995474#gid=1211995474) |
