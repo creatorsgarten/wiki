@@ -94,6 +94,7 @@ grtnRedirects:
   jsbkk-volunteer: https://www.eventpop.me/events/38704-javascript-bangkok-2-0-0/application_forms/3956/applicants/new?token=NC23UVDXDZENXUGQ
   jsbkk-workshop: https://www.eventpop.me/events/38704-javascript-bangkok-2-0-0/add_on_tickets
   jsbkk-tickets: https://www.eventpop.me/e/38704/javascript-bangkok-2-0-0
+  bac-earlybird-gcal: 'https://calendar.google.com/calendar/r/eventedit?action=TEMPLATE&dates=20241109T150000Z%2F20241109T150001Z&stz=Asia/Bangkok&etz=Asia/Bangkok&details=https://www.eventpop.me/s/browser-automation-challenges&location=&text=%E0%B8%81%E0%B8%94%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%A3%20Browser%20automation%20challenges%20-%20Observers%20(early%20bird)'
 ---
 
 
