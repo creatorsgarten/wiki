@@ -72,4 +72,5 @@ This event is part of [[ShowdownSpace|showdown.space]] initiative which aims to 
 | <nobr>2024-11-04</nobr> | Confirmed venue sponsorship from Cleverse |
 | <nobr>2024-11-06</nobr> | Kick-off meeting planned, created [FigJam board](https://www.figma.com/board/ZhFD5mzEiStZSn9E9IeCMs/showdown.space-FigJam?node-id=201-2&node-type=section&t=ZQeXk7Em5cYV9Ys6-0) |
 | <nobr>2024-11-07</nobr> | [Kick-off meeting](https://outline.creatorsgarten.org/s/7486b99e-041f-46f6-a94c-c701b17a0948), Panthipa offered to help with internal coordination and [managing the event project](https://docs.google.com/spreadsheets/d/15xdvCy9fjRQZ9pm4l-9rxYrhLC7ZzLDDvXCQGei2F8Q/edit?pli=1&gid=1211995474#gid=1211995474) |
-| <nobr>2024-11-08</nobr> | Soft launched. |
+| <nobr>2024-11-08</nobr> | Soft launched. Early bird challenger tickets released. |
+| <nobr>2024-11-09</nobr> | Early bird observer tickets released. |
