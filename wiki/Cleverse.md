@@ -24,15 +24,43 @@ Cleverse has provided a lot of support to Creatorsgarten [hosting some of our ev
 3. Walk to Rungrojthanakul (Unicity) Building. The office zone is the part of that building with Cafe Amazon.
 4. Go to 13th floor.
 
+### Video directions
+
+`youtube:k3RGO5jFAyw`
+
+:::details[Information in the video]
+
+```
+00:00 | Walk to the MRT.
+00:07 | Descend to the MRT line platform area.
+00:14 | Purchase ticket to Rama 9 from the vending machine.
+00:23 | Enter through the gate.
+00:29 | Proceed to the train.
+00:47 | Embark on a train traveling to Phra Ram 9.
+00:50 | Arrive at Phra Ram 9 station.
+00:56 | Exit the MRT station via Exit 2.
+01:10 | Walk towards Central Rama 9.
+01:22 | Take Exit 2 to street level.
+01:32 | Walk towards the Unicity office building.
+01:48 | Arrive at the Unicity office building.
+02:03 | Enter the building through the Café Amazon.
+02:12 | Walk towards the elevators.
+02:17 | Take an elevator to 13th floor.
+02:24 | Arrive at Cleverse office on the 13th floor.
+```
+
+:::
+
 ## By car
 
 Cars can be parked at the 2nd–3rd floor at a rate of THB 20 per hour. Can stamp the parking paper for a THB 15 discount.
 
 :::Draft
-- หากนำรถยนต์ส่วนตัวมา สามารถจอดได้ที่ชั้น 2 และ 3 ของอาคาร 44/1 รุ่งโรจน์ธนกุล
-(มีป้าย UNICITY) ชม. ละ 20 บาท นำสลิปกระดาษสีขาวขึ้นมา Stamp ที่ Cleverse จะลดค่าจอดให้ 15.- 
 
- ขึ้นลิฟต์มา Cleverse ชั้น 13
+- หากนำรถยนต์ส่วนตัวมา สามารถจอดได้ที่ชั้น 2 และ 3 ของอาคาร 44/1 รุ่งโรจน์ธนกุล
+  (มีป้าย UNICITY) ชม. ละ 20 บาท นำสลิปกระดาษสีขาวขึ้นมา Stamp ที่ Cleverse จะลดค่าจอดให้ 15.-
+
+ขึ้นลิฟต์มา Cleverse ชั้น 13
 ไม่ต้องแลกบัตร
 
 - มอเตอร์ไซค์ จอดได้ที่ชั้น 1 ข้างป้อม รปภ. ชม. ละ 5.- (Stamp ไม่ได้)
@@ -46,6 +74,16 @@ MRT
 ## Map
 
 ![Map](https://user-images.githubusercontent.com/193136/233851115-80cd8034-4d18-477b-a3b1-c12108fc96d8.jpg)
+
+## Wheelchair Accessibility
+
+- **Recommended transport:** Taxi or personal car. Directly accessing the building from the MRT station is NOT recommended due to multiple flights of stairs at the entrance without a ramp.
+
+- **For taxi/car:** Park on 2A floor and take the elevator. There is a small lip (approximately 6-7 cm) between the elevator lobby and the parking area. Assistance may be required to navigate this difference in height.
+
+- **Elevator access:** Take the elevator to the 13th floor.
+
+- **Office entrance and event space:** The office entrance on the 13th floor, which leads to the event space, has double doors and wide passageways suitable for wheelchair users.
 
 # Hosted events
 
@@ -62,6 +100,7 @@ MRT
 
 # A/V equipments
 
+<!-- prettier-ignore -->
 | Equipment | Description | Links | Notes |
 | --------- | ----------- | ----- | ----- |
 | LG TV SSCR2 86-inch television | Video output | | Default picture mode is APS (Auto Power Save)<br>For best latency and frame rate:<br>- On a Mac, click ‘Show all resolutions’ and set ‘Refresh rate’ to ‘60 Hertz’<br>- On the TV, set ‘Picture Mode’ to ‘Game’.<br>There is an audio delay of about 60 ms. |
