@@ -75,13 +75,15 @@ This event is part of [[ShowdownSpace|showdown.space]] initiative which aims to 
 | <nobr>2024-09-15</nobr> | Discussed with {% render 'Person', name: 'rayriffy' %} and {% render 'Person', name: 'betich' %} about potential event dates, taking into consideration travel plans and other events around that time. Plan for 2024-11-20. |
 | <nobr>2024-09-29</nobr> | Announced the intent to organize the event publicly at Vue Thai Conf 2024, kickstarting the organizing process. |
 | <nobr>2024-10-23</nobr> | [Announced the intent to organize on Facebook, recruiting team, call for sponsors, etc.](https://www.facebook.com/dtinth/posts/pfbid0kE9VdYcDiC1Bpu9rJvS4t44JB6waGtFPuWfCNZcsHzqXRyPDEFwsG21YjRuJnEpMl) |
-| <nobr>2024-10-31</nobr> | Confirmed beverage sponsorship from We Love Bug |
+| <nobr>2024-10-31</nobr> | Confirmed beverage sponsorship from We Love Bug Biz |
 | <nobr>2024-11-04</nobr> | Confirmed venue sponsorship from Cleverse |
 | <nobr>2024-11-06</nobr> | Kick-off meeting planned, created [FigJam board](https://www.figma.com/board/ZhFD5mzEiStZSn9E9IeCMs/showdown.space-FigJam?node-id=201-2&node-type=section&t=ZQeXk7Em5cYV9Ys6-0) |
 | <nobr>2024-11-07</nobr> | [Kick-off meeting](https://outline.creatorsgarten.org/s/7486b99e-041f-46f6-a94c-c701b17a0948), Panthipa offered to help with internal coordination and [managing the event project](https://docs.google.com/spreadsheets/d/15xdvCy9fjRQZ9pm4l-9rxYrhLC7ZzLDDvXCQGei2F8Q/edit?pli=1&gid=1211995474#gid=1211995474) |
 | <nobr>2024-11-08</nobr> | Soft launched. [Early bird challenger tickets released.](https://www.facebook.com/showdown.space/posts/pfbid0orikDE3XWSF4GDD6H6Y7AnhfVMtZj4Kgov3AYTxo5bDAmCU7G2Nik7Wus1edWZeel) |
+| <nobr>2024-11-08</nobr> | [7th challenge implemented](https://github.com/dtinth/bacblog) after getting inspired from discussing with We Love Bug Biz about the challenges they face at work. |
 | <nobr>2024-11-09</nobr> | Early bird observer tickets released. |
 | <nobr>2024-11-11</nobr> | [General ticket release announced.](https://www.facebook.com/showdown.space/posts/pfbid02krXfAkLqKx4WaUbYh93LuRjRBNXAScZ1vxP2BY2mCRPS5nMyV6LEnwVxZGpdthSZl) |
 | <nobr>2024-11-12</nobr> | General ticket released with a challenge. |
 | <nobr>2024-11-18</nobr> | [General ticket challenge re-released as a practice challenge.](https://www.facebook.com/showdown.space/posts/pfbid02AgNBGKuMRF6bZt1wxnG4soNEGzajkCkqP4JG9QuXb2yQ6dGUQ6zSQb5uuMFeVZLyl) |
+| <nobr>2024-11-19</nobr> | {% render 'Person', name: 'narze' %} [contributed the 8th challenge](https://github.com/dtinth/bacbox/pull/1), eventually becoming the ‘seven’ challenge. |
 | <nobr>2024-11-20</nobr> | Event date. [Livestream available on Facebook.](https://www.facebook.com/creatorsgarten/videos/489126094176693) |
