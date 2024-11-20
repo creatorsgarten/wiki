@@ -83,7 +83,7 @@ This event is part of [[ShowdownSpace|showdown.space]] initiative which aims to 
 | <nobr>2024-11-08</nobr> | [7th challenge implemented](https://github.com/dtinth/bacblog) after getting inspired from discussing with We Love Bug Biz about the challenges they face at work. |
 | <nobr>2024-11-09</nobr> | Early bird observer tickets released. |
 | <nobr>2024-11-11</nobr> | [General ticket release announced.](https://www.facebook.com/showdown.space/posts/pfbid02krXfAkLqKx4WaUbYh93LuRjRBNXAScZ1vxP2BY2mCRPS5nMyV6LEnwVxZGpdthSZl) |
-| <nobr>2024-11-12</nobr> | General ticket released with a challenge. |
+| <nobr>2024-11-12</nobr> | General ticket released with [a challenge](https://github.com/dtinth/bacbox) contributed by {% render 'GitHub', user: 'narze' %}. |
 | <nobr>2024-11-16</nobr> | Development began on [challenge portal](https://github.com/showdownspace/challenge-portal), an [ElysiaJS](https://elysiajs.com/) server-rendered web app using [[Grist]] as a backend. |
 | <nobr>2024-11-18</nobr> | [General ticket challenge re-released as a practice challenge.](https://www.facebook.com/showdown.space/posts/pfbid02AgNBGKuMRF6bZt1wxnG4soNEGzajkCkqP4JG9QuXb2yQ6dGUQ6zSQb5uuMFeVZLyl) |
 | <nobr>2024-11-19</nobr> | {% render 'GitHub', user: 'narze' %} [contributed the 8th challenge](https://github.com/dtinth/bacbox/pull/1), eventually becoming the ‘seven’ challenge. |
