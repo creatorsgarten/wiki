@@ -68,6 +68,9 @@ This event is part of [[ShowdownSpace|showdown.space]] initiative which aims to 
 
 | Date | Activity |
 | ---- | -------- |
+| <nobr>2024-07-02</nobr> | {% render 'Person', name: 'dtinth' %} [implemented a first challenge](https://github.com/dtinth/bac/commit/98e65f709a308faff7d35deb3705f12bb2b652dd) in private to test the idea, eventually becoming the demo challenge. |
+| <nobr>2024-07-03</nobr> | [2nd and 3rd challenges implemented](https://github.com/dtinth/bac/commit/de917dfdd6bf8bd795e491a349b5cd6dc59761ae), which eventually became the ‘buttons’ and ‘robot’ challenges. |
+| <nobr>2024-08-27</nobr> | [4th and 5th challenges implemented](https://github.com/dtinth/bac/commit/de917dfdd6bf8bd795e491a349b5cd6dc59761ae), which eventually became the ‘calendar’ challenge and ‘towers’ challenges. The inspiration for the ‘calendar’ challenge came from [seeing how Huly tests their time widgets](https://www.youtube.com/watch?v=IFGdYW3n1e8&t=478s&ab_channel=dtinth) |
 | <nobr>2024-09-07</nobr> | Discussed potential date ranges for the event. Consideration is to not collide with students’ final exams and new year seasons. Tentative range is in November. |
 | <nobr>2024-09-15</nobr> | Discussed with {% render 'Person', name: 'rayriffy' %} and {% render 'Person', name: 'betich' %} about potential event dates, taking into consideration travel plans and other events around that time. Plan for 2024-11-20. |
 | <nobr>2024-09-29</nobr> | Announced the intent to organize the event publicly at Vue Thai Conf 2024, kickstarting the organizing process. |
