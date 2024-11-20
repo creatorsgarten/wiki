@@ -28,21 +28,23 @@ While the event is structured as a contest, our goals for this event is for peop
 
 # When is the event?
 
-The tentative date is **Wednesday, November 20, 2024**, in the evening.
+The date is **Wednesday, November 20, 2024**, in the evening.
 
 # Status
 
 | Items | Status |
 | ---- | ---- |
-| Food | 📢 Open for sponsors |
-| Prize pool | 💬 Discussing with potential sponsors |
-| Event staff | 💬 Preparing |
-| Challenges | 💬 4 challenges have been created so far with varying difficulties |
-| Live leaderboard | ❌ Still unimplemented |
+| Food | ✅ Self-managed with sponsored funds |
+| Prize pool | ✅ 26 prizes in total |
+| Event staff | ✅ Assembled a team of 14 |
+| Challenges | ✅ 8 challenges |
+| Live leaderboard | ✅ Still unimplemented |
 | Beverages | ✅ Sponsored by We Love Bug |
 | Venue | ✅ Sponsored by Cleverse |
 
 # What do we need help with?
+
+:::details[This section is outdated, but kept here for future reference]
 
 - **Prize sponsorship:** We're using a [[prize pool system]] where winners choose prizes in order of their ranking. Any number of prizes are welcome.
 - **Food sponsorship:** We are looking for food sponsors for 80 people.
@@ -51,6 +53,8 @@ The tentative date is **Wednesday, November 20, 2024**, in the evening.
 - **Have something else to contribute?** We welcome contributions to help us enhance the event experience. Let’s talk!
 
 Contact person is Thai ({% render 'Person', name: 'dtinth' %}), reachable via Facebook messenger: {% render 'Messenger', user: 'dtinth' %}
+
+:::
 
 # Who is organizing this event?
 
