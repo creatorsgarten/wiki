@@ -85,5 +85,5 @@ This event is part of [[ShowdownSpace|showdown.space]] initiative which aims to 
 | <nobr>2024-11-11</nobr> | [General ticket release announced.](https://www.facebook.com/showdown.space/posts/pfbid02krXfAkLqKx4WaUbYh93LuRjRBNXAScZ1vxP2BY2mCRPS5nMyV6LEnwVxZGpdthSZl) |
 | <nobr>2024-11-12</nobr> | General ticket released with a challenge. |
 | <nobr>2024-11-18</nobr> | [General ticket challenge re-released as a practice challenge.](https://www.facebook.com/showdown.space/posts/pfbid02AgNBGKuMRF6bZt1wxnG4soNEGzajkCkqP4JG9QuXb2yQ6dGUQ6zSQb5uuMFeVZLyl) |
-| <nobr>2024-11-19</nobr> | {% render 'GitHub', name: 'narze' %} [contributed the 8th challenge](https://github.com/dtinth/bacbox/pull/1), eventually becoming the ‘seven’ challenge. |
+| <nobr>2024-11-19</nobr> | {% render 'GitHub', user: 'narze' %} [contributed the 8th challenge](https://github.com/dtinth/bacbox/pull/1), eventually becoming the ‘seven’ challenge. |
 | <nobr>2024-11-20</nobr> | Event date. [Livestream available on Facebook.](https://www.facebook.com/creatorsgarten/videos/489126094176693) |
