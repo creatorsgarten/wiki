@@ -1,5 +1,5 @@
 ---
-image: https://usercontent.creatorsgarten.org/c/v1727462748/644c35a6802c02345887f156/image_mc13sx.webp
+image: https://usercontent.creatorsgarten.org/c/v1732134814/644c35a6802c02345887f156/image_j0xk7s.webp
 event:
   name: Browser automation challenges
   location: Cleverse
