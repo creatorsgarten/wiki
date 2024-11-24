@@ -20,7 +20,7 @@ The Stupid Hackathon in Thailand (past: The Stupid Hackathon Thailand) is a Crea
 - [[Events/sht2|The Stupid Hackathon Thailand #2]]
 - [[Events/sht3|The 3rd Stupid Hackathon Thailand]]
 - [[Events/sht4|stupid hackathon thailand the fourth (virtual)]]
-- [[Events/sht5|The 5th StuP1d H@CK THaIL@Nd (Online)]
+- [[Events/sht5|The 5th StuP1d HaCK THaILaNd (Online)]
 - [[Events/sht6|The ៦th Stupid Hackathon in Thailand]]
 - [[Events/sht7|The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand]]
 - [[Events/sht8|THE STIPUD HONKATHACK IN THAILAND DAN OF SMILE FARANG TOOK JAI CHOB SI]]
