@@ -23,6 +23,18 @@
 - โจทย์สนุกดีครับ แต่ละข้อมีที่มาจากโจทย์ในชีวิตจริง แต่เอามา gamify ให้ดูสนุก แถมยังมีเฉลยให้เสร็จสรรพ
 - ชอบโจทย์ท้าทาย + มีรางวัลให้, ประทับใจที่มีข้าวเย็นให้ทานมากที่สุด ❤️
 
+:::Message{from=Claude}
+
+- 7 people praised the **challenging and fun problems/questions**, mentioning they were well-designed and gamified from real-life scenarios
+- 3 people appreciated learning **new techniques** and knowledge
+- 2 people mentioned good **event atmosphere** that was casual and welcoming
+- 2 people liked the **prizes/rewards** system, including that all teams got prizes
+- 1 person praised the **MC's entertaining style**
+- 1 person specifically appreciated the **evening meal** provided
+- 1 person liked that the competition wasn't too intense, making it comfortable for beginners
+
+:::
+
 **What are some things we can improve? What did you enjoy the least?**
 
 - ไม่มี
@@ -36,6 +48,19 @@
 - การมีพิธีกรพูดตลอด รู้สึกว่าเสียสมาธินิดนึงครับ แต่ก็เพื่อความสนุกของคนดู ก็เข้าใจได้ครับ
 - อยากให้มีโจทย์ข้อง่ายๆมากกว่านี้ 😂
 
+:::Message{from=Claude}
+
+- 2 people mentioned issues with **beverages** - lack of carbonated drinks and water came late
+- 2 people felt the **prize-giving session** was too long
+- 1 person said the event **started late**
+- 1 person wanted **more tickets** available
+- 1 person found the **prize distribution** confusing
+- 1 person noted there were some **dead air** moments
+- 1 person felt the **MC talking constantly** was slightly distracting
+- 1 person wanted **easier problems**
+
+:::
+
 **Is there anything we can try out next time? Any suggestions?**
 
 - จัดอีก
@@ -46,6 +71,18 @@
 - ถ้าหักเวลาในการแจกของรางวัลมาเป็นให้ที่หนึ่งของแต่ละโจทย์มาอธิบายวิธีคิดกับวิธีแก้น่าจะเป็นอะไรที่ดีมาก ๆ ที่จะได้เห็นวิธีการคิดของแต่ละคนด้วย
 - ลองเลี้ยงพิซซ่าดูมั้ยครับ
 - อยากให้ลองใช้คอมได้มากกว่า 1 เครื่องต่อทีม / ใช้ได้ตามจำนวนคน แต่คะแนนที่ได้ต่อข้อจะต้องลบด้วยจำนวนคนในทีม
+
+:::Message{from=Claude}
+
+- 2 people suggested having **more challenging problems**
+- 1 person requested to have **beer** at the event
+- 1 person suggested allowing **multiple computers per team** with adjusted scoring
+- 1 person wanted to hear more **solution explanations** from winning teams
+- 1 person suggested serving **pizza**
+- 1 person wanted better opportunity to **hear techniques from other teams** during submissions
+- 1 person simply requested to **organize again**
+
+:::
 
 **Please rate your experience in this event (on a scale from 1 to 10)**
 
@@ -62,3 +99,13 @@
 - ขอบคุณทีมงานทุกคนที่ทำให้เกิดงานสนุกๆนี้!!
 - ขอบคุณที่จัด event นี้นะครับ สนุกกว่าที่คิดเยอะเลย ถ้าโอกาสก็อยากมาอีกครับ
 - ให้ 9 คะแนนหักเรื่องโจทย์ยาก 😂
+
+:::Message{from=Claude}
+
+- 4 people expressed **gratitude** and mentioned they had **fun**, hoping for future events
+- 2 people specifically mentioned they would **try to complete all problems** or join again
+- 1 person gave a **9/10 rating** (minus 1 for difficult problems)
+- 1 person appreciated getting to learn **Playwright** through the event
+- 1 person mentioned meeting former **YCC camp** staff members
+
+:::
