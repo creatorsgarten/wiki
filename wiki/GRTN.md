@@ -98,6 +98,7 @@ grtnRedirects:
   bac-general-gcal: 'https://calendar.google.com/calendar/r/eventedit?action=TEMPLATE&dates=20241112T130000Z%2F20241112T130001Z&stz=Asia/Bangkok&etz=Asia/Bangkok&details=https://www.eventpop.me/s/browser-automation-challenges&location=&text=%E0%B8%81%E0%B8%94%E0%B8%9A%E0%B8%B1%E0%B8%95%E0%B8%A3%20Browser%20automation%20challenges%20-%20General%20batch'
   bac-sponsor: https://outline.creatorsgarten.org/s/03adda11-7d03-414c-8eb4-6b6bcb3f2c20
   bac-sponsors: https://showdown.space/events/browser-automation-challenges/#sponsor-details
+  bac-recruitment: 'https://docs.google.com/document/d/17bURlW7iciQc_c51-nwEQxtSeQqMQt8GGvAy7R0VEQ0/edit?usp=sharing'
 ---
 
 
