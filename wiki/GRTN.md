@@ -4,6 +4,7 @@ grtnRedirects:
   edit: https://creatorsgarten.org/wiki/GRTN/editor
   stats: https://analytics.amplitude.com/share/0739bde215694b80a3685704b0b2e834
   ls: https://grtn.org/routes.json
+  workshop-ai: https://www.tldraw.com/r/43wCs3D2rrE7QmTnlsd9c?d=v2717.-309.8855.5376.page
   links: https://grtn.org/routes.json
   dash: https://creatorsgarten.org/dashboard
   gh: https://github.com/creatorsgarten
