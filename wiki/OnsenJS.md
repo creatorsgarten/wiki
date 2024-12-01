@@ -142,7 +142,7 @@ There are two free-flow drinks: Pandan water and infused water. There are also a
 
 | Item | Price |
 | ---- | -----:|
-| **Main dishes** | |
+| **— Main dishes —** | |
 | Grilled Tofu Salad | 150 |
 | Grilled Chicken Salad | 150 |
 | Tuna Salad | 150 |
@@ -153,7 +153,7 @@ There are two free-flow drinks: Pandan water and infused water. There are also a
 | Chashu Quinoa Rice Bowl | 200 |
 | Tonkotsu Ramen | 200 |
 | Chicken Teriyaki Quinoa Rice Bowl | 200 |
-| **Beverages** (non-alcoholic) | |
+| **— Beverages —** (non-alcoholic) | |
 | Coke / Coke Zero / Sprite / Ginger Ale / Lemon Soda | 60 |
 | Cold Chocolate Milk | 80 |
 | Hot Coffee | 90 |
@@ -171,7 +171,7 @@ There are two free-flow drinks: Pandan water and infused water. There are also a
 | Carrot Juice | 140 |
 | Pineapple Juice | 140 |
 | Mango Smoothies | 140 |
-| **Dessert** | |
+| **— Dessert —** | |
 | Shinkansen (chocolate & raspberry cake) | 220 |
 | Fujisan (tofu pudding) | 180 |
 | Yami (chocolate brownie) | 180 |
