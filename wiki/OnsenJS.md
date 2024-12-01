@@ -134,6 +134,10 @@ Let’s Relax Onsen and Spa is Thonglor is on the 5th floor of Grande Centre Poi
 
 There are a few seating areas: There are counter height tables next to the window and the wall with many stools. The side next to the wall has 2 power outlets. There are also coffee tables along with chairs (with back), but the height of the table may not be suitable for working.
 
+:::details[See seating area image]
+![A modern and minimalist cafe interior with wooden floors, a row of stools along a counter, and large windows with blinds providing natural lighting.](https://usercontent.creatorsgarten.org/c/v1733064122/644c35a6802c02345887f156/image_oijcep.webp)
+:::
+
 There are two free-flow drinks: Pandan water and infused water. There are also assorted thong muan rolls, with 2 flavors available at a time. Inside the onsen, there is also mugicha tea. These are free for onsen customers. There is also a snack bar where you can purchase other food and beverages.
 
 :::details[Food, drinks, and desserts menu, as of 2024-09-23]
@@ -178,6 +182,10 @@ There are two free-flow drinks: Pandan water and infused water. There are also a
 | Take Me To Kyoto (matcha cake) | 180 |
 | Jambolan Cheesecake | 180 | 
 
+:::
+
+:::details[See complimentary snacks]
+![A wooden shelf displays various items, including containers for pandan water and infused water, coconut rolls, and paper cups, set against a gray concrete wall background.](https://usercontent.creatorsgarten.org/c/v1733064181/644c35a6802c02345887f156/image_xyjpzb.webp)
 :::
 
 # How to organize
