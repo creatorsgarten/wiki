@@ -194,7 +194,20 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
   :::
 
-- **Massage:** There is a massage service available at the premises. For the menu, [check out the branch’s website](https://letsrelaxspa.com/th/branch/thonglo/).
+- **Massage:** There is a massage service available at the premises. For the menu, [check out the branch’s website](https://letsrelaxspa.com/th/branch/thonglo/). Thai has a WellnessMe member with 10% discount, so if he joins the event, you can ask him to use his membership to get a discount. Services over 800 THB comes with complimentary [mango and sticky rice](https://letsrelaxspa.com/experience/#:~:text=of%20our%20guests.-,Refreshing%20Flavors,-The%20final%20experience).
+
+  :::details[Thai’s favorite treatments]
+
+  **Disclaimer:** This information may be inaccurate or out-of-date.
+
+  | Treatment                            |     Price | Price<br>(with 10% discount) |
+  | ------------------------------------ | --------: | ---------------------------: |
+  | 120-minutes Thai massage             | 1,200 THB |                    1,080 THB |
+  | 90-minutes dream package             | 1,100 THB |                      990 THB |
+  | 60-minutes back and shoulder massage |   750 THB |                      675 THB |
+  | 30-minutes back and shoulder massage |   375 THB |                      338 THB |
+
+  :::
 
 - [Read Poom’s review here.](https://www.facebook.com/phoomparin.mano/posts/pfbid0XhPQzV2QVRUtv5JLyRpDLqVdwPo8CpdcQSg6wUHXJKcnE8hGvCeeuoGs67SWYpnzl)
 
