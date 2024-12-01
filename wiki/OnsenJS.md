@@ -194,7 +194,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
   :::
 
-- **Massage:** There is a massage service available at the premises. For the menu, [check out the branch’s website](https://letsrelaxspa.com/th/branch/thonglo/). Thai has a WellnessMe member with 10% discount, so if he joins the event, you can ask him to use his membership to get a discount. Services over 800 THB comes with complimentary [mango and sticky rice](https://letsrelaxspa.com/experience/#:~:text=of%20our%20guests.-,Refreshing%20Flavors,-The%20final%20experience).
+- **Massage:** There is a massage service available at the premises. For the menu, [check out the branch’s website](https://letsrelaxspa.com/th/branch/thonglo/). Thai has a WellnessMe member with 10% discount, so if he joins the event, you can ask him to use his membership to get a discount. Services over 800 THB comes with complimentary [mango and sticky rice](https://letsrelaxspa.com/experience/#:~:text=of%20our%20guests.-,Refreshing%20Flavors,-The%20final%20experience). Availability is limited, so advance booking is recommended. [Online bookings](https://booking.letsrelaxspa.com/book) must be made 24 hours in advance. You can [call the spa](<https://letsrelaxspa.com/th/branch/thonglo/#:~:text=%E0%B8%9E%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%99%E0%B9%8C-,%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD,-%3A%20%20%2B66%20(0>) or ask the on-site staff to check if booking in shorter time-frame is possible.
 
   :::details[Thai’s favorite treatments]
 
