@@ -52,6 +52,9 @@ meetups:
   place: Let's Relax Onsen
   url: https://www.facebook.com/photo.php?fbid=10222317121111089&set=a.1302432655084
 
+- date: 'Scheduled'
+  name: 'Onsen.js #11'
+
 # - date: 'Scheduled'
 #   name: ''
 ---
