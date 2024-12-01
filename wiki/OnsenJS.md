@@ -136,6 +136,50 @@ There are a few seating areas: There are counter height tables next to the windo
 
 There are two free-flow drinks: Pandan water and infused water. There are also assorted thong muan rolls, with 2 flavors available at a time. Inside the onsen, there is also mugicha tea. These are free for onsen customers. There is also a snack bar where you can purchase other food and beverages.
 
+:::details[Food, drinks, and desserts menu, as of 2024-09-23]
+
+**Disclaimer:** This information may be inaccurate or out-of-date.
+
+| Item | Price |
+| ---- | -----:|
+| **Main dishes** | |
+| Grilled Tofu Salad | 150 |
+| Grilled Chicken Salad | 150 |
+| Tuna Salad | 150 |
+| Caesar Salad with Chicken and Bacon | 150 |
+| Tuna Sandwich | 150 |
+| Ham&Cheese Sandwich | 150 |
+| Chicken Sandwich | 150 |
+| Chashu Quinoa Rice Bowl | 200 |
+| Tonkotsu Ramen | 200 |
+| Chicken Teriyaki Quinoa Rice Bowl | 200 |
+| **Beverages** (non-alcoholic) | |
+| Coke / Coke Zero / Sprite / Ginger Ale / Lemon Soda | 60 |
+| Cold Chocolate Milk | 80 |
+| Hot Coffee | 90 |
+| Iced Coffee | 90 |
+| Hot Coffee Rose | 110 |
+| Hot Tea (pot) | 100 |
+| Strawberry Fizzy (soda) | 100 |
+| Lychee Refresh (soda) | 100 |
+| Sparkling Plum (soda) | 100 |
+| Recharge (cold-pressed: carrot / apple / ginger) | 140 |
+| Radiant (cold-pressed: tomato / carrot / radish / apple) | 140 |
+| Upbeat (cold-pressed: orange / carrot / pineapple) | 140 |
+| Revitalize (cold-pressed: kale / cucumber / apple) | 140 |
+| Watermelon Juice | 140 |
+| Carrot Juice | 140 |
+| Pineapple Juice | 140 |
+| Mango Smoothies | 140 |
+| **Dessert** | |
+| Shinkansen (chocolate & raspberry cake) | 220 |
+| Fujisan (tofu pudding) | 180 |
+| Yami (chocolate brownie) | 180 |
+| Take Me To Kyoto (matcha cake) | 180 |
+| Jambolan Cheesecake | 180 | 
+
+:::
+
 # How to organize
 
 1. Find a friend who would like to go to an Onsen. Pick a date and place that’s convenient for both of you.
