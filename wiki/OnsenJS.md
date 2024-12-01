@@ -2,59 +2,58 @@
 image: https://usercontent.creatorsgarten.org/c/v1722960432/644c35a6802c02345887f156/onsenjs_aykwb1.webp # A group of smiling young people, dressed in similar gray outfits, posing together in what appears to be a lobby or common area of a building.
 title: Onsen.js
 meetups:
-- date: '2019-01-04'
-  name: 'Onsen.js'
-  place: Yunomori Onsen
-  url: https://www.facebook.com/phoomparin.mano/posts/pfbid02kK6QK8rF8sRpDjR6gMq1e9QxVMh9NdjtdkvcztL3Eb8i88r8PpgW3PKnwQ38aauLl
+  - date: "2019-01-04"
+    name: "Onsen.js"
+    place: Yunomori Onsen
+    url: https://www.facebook.com/phoomparin.mano/posts/pfbid02kK6QK8rF8sRpDjR6gMq1e9QxVMh9NdjtdkvcztL3Eb8i88r8PpgW3PKnwQ38aauLl
 
-- date: '2019-01-11'
-  name: 'Onsen.js #3'
-  place: Let's Relax Onsen
-  url: https://www.facebook.com/phoomparin.mano/posts/pfbid0XhPQzV2QVRUtv5JLyRpDLqVdwPo8CpdcQSg6wUHXJKcnE8hGvCeeuoGs67SWYpnzl
+  - date: "2019-01-11"
+    name: "Onsen.js #3"
+    place: Let's Relax Onsen
+    url: https://www.facebook.com/phoomparin.mano/posts/pfbid0XhPQzV2QVRUtv5JLyRpDLqVdwPo8CpdcQSg6wUHXJKcnE8hGvCeeuoGs67SWYpnzl
 
-- date: '2019-01-28'
-  name: 'Onsen.js #4'
-  place: Let's Relax Onsen
-  url: https://www.facebook.com/dtinth/posts/pfbid02JTrhAurAUbTnx7bQpfVtcxf9VKQeMCX4UNPU7xJWSyh3a9hKC9jpGngxA4ya593ml
+  - date: "2019-01-28"
+    name: "Onsen.js #4"
+    place: Let's Relax Onsen
+    url: https://www.facebook.com/dtinth/posts/pfbid02JTrhAurAUbTnx7bQpfVtcxf9VKQeMCX4UNPU7xJWSyh3a9hKC9jpGngxA4ya593ml
 
-- date: '2019-07-12'
-  name: 'Onsen.js #6'
-  place: PAÑPURI Onsen & Spa
-  url: https://www.facebook.com/dtinth/posts/pfbid0JDYx4MEkT9itqqFfSpF1z85gxUzBcFBiCPKrjj33V3JexTTBCq2H5HkcjqF71puWl
+  - date: "2019-07-12"
+    name: "Onsen.js #6"
+    place: PAÑPURI Onsen & Spa
+    url: https://www.facebook.com/dtinth/posts/pfbid0JDYx4MEkT9itqqFfSpF1z85gxUzBcFBiCPKrjj33V3JexTTBCq2H5HkcjqF71puWl
 
-- date: '2019-08-09'
-  name: 'Onsen.js #7'
-  place: PAÑPURI Onsen & Spa
-  url: https://www.facebook.com/events/458938814945356/
+  - date: "2019-08-09"
+    name: "Onsen.js #7"
+    place: PAÑPURI Onsen & Spa
+    url: https://www.facebook.com/events/458938814945356/
 
-- date: '2019-11-28'
-  name: Pre-JSConf Japan Onsen.js
-  place: Ooedo Onsen Monogatari, Odaiba, Tokyo, Japan
-  url: https://www.facebook.com/photo/?fbid=10213345614029019&set=a.2784047494529
+  - date: "2019-11-28"
+    name: Pre-JSConf Japan Onsen.js
+    place: Ooedo Onsen Monogatari, Odaiba, Tokyo, Japan
+    url: https://www.facebook.com/photo/?fbid=10213345614029019&set=a.2784047494529
 
-- date: '2024-03-11'
-  name: Post-WordCamp Asia HotSpring.js
-  place: Beitou Public Hotspring, Taipei, Taiwan
-  url: https://web.facebook.com/dtinth/posts/pfbid0y2Kt7At3KGpsMbwH6ckepvbfgz9SDB7bjiEmB5kKz8YJjuLYpEZzwtTfBtTq6xMHl
+  - date: "2024-03-11"
+    name: Post-WordCamp Asia HotSpring.js
+    place: Beitou Public Hotspring, Taipei, Taiwan
+    url: https://web.facebook.com/dtinth/posts/pfbid0y2Kt7At3KGpsMbwH6ckepvbfgz9SDB7bjiEmB5kKz8YJjuLYpEZzwtTfBtTq6xMHl
 
-- date: '2024-03-22'
-  name: 'Onsen.js #8'
-  place: PAÑPURI Onsen & Spa
-  url: https://www.facebook.com/photo?fbid=2402955769891825&set=a.359894480864641
+  - date: "2024-03-22"
+    name: "Onsen.js #8"
+    place: PAÑPURI Onsen & Spa
+    url: https://www.facebook.com/photo?fbid=2402955769891825&set=a.359894480864641
 
-- date: '2024-07-11'
-  name: 'Onsen.js #9'
-  place: PAÑPURI Onsen & Spa
-  url: https://web.facebook.com/photo?fbid=10221749709206146&set=a.1302432655084
+  - date: "2024-07-11"
+    name: "Onsen.js #9"
+    place: PAÑPURI Onsen & Spa
+    url: https://web.facebook.com/photo?fbid=10221749709206146&set=a.1302432655084
 
-- date: '2024-09-24'
-  name: 'Onsen.js #10'
-  place: Let's Relax Onsen
-  url: https://www.facebook.com/photo.php?fbid=10222317121111089&set=a.1302432655084
+  - date: "2024-09-24"
+    name: "Onsen.js #10"
+    place: Let's Relax Onsen
+    url: https://www.facebook.com/photo.php?fbid=10222317121111089&set=a.1302432655084
 
-- date: 'Scheduled'
-  name: 'Onsen.js #11'
-
+  - date: "Scheduled"
+    name: "Onsen.js #11"
 # - date: 'Scheduled'
 #   name: ''
 ---
@@ -77,6 +76,8 @@ Unfortunately, most offices don’t have Onsen baths. It is a problem that hinde
 
 - **Want to be a part of the next OnsenJS?** See [How to organize](#how-to-organize).
 
+- **For first timers:** I know it can feel quite daunting to take a communal bath with people you’ve just met! Once you enter the premises, please feel free to proceed to the Onsen pools right away; no need to wait for anyone. We can get to know each other afterwards in the common area! Feel free to join and leave at any time. For example, I might stay until the place closes… or not, depending on situation.
+
 # Event list
 
 :::info[How to join the next event?]
@@ -84,7 +85,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 :::
 
 {% assign events = page.meetups | sort: 'date' | reverse %}
-|  Date | Name | Place |
+| Date | Name | Place |
 | ----- | ---- | ----- |{% for event in events %}
 | {{ event.date }} | {% if event.url %}[{{ event.name }}]({{ event.url }}){% else %}{{ event.name }}{% endif %} | {{ event.place }} |{% endfor %}
 
@@ -92,101 +93,110 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 ## PAÑPURI Onsen & Spa
 
-- **If you plan to buy food at Panpuri,**
+- **Location:** PAÑPURI Onsen & Spa is at Gaysorn Tower, 12F. The closest BTS station is BTS Chid Lom.
 
-   - [Get an Onsen day pass with 100 THB food credit for 750 THB directly at Panpuri shop.](https://panpuri.com/spa-onsen/exclusive-package/exclusive-wellness-package-at-gaysorn/)
+- **Price and promotions:** A day pass costs 750 THB and gives you access to the onsen from 10 AM to 10:45 PM, after which the staffs will chase you out. [There are occasional promotions on GoWabi where prices drop down to 690 THB (or 650 THB if you enter before 2 PM).](https://www.gowabi.com/th/provider/panpuri-wellness) Refer your friend and both you and your friend gets a 100 THB discount. If it’s your first time and you got no one to refer you, my referal code is `thai-5702366`.
 
-- **Otherwise,**
+  :::details[Purchase guide (last updated 2024-07-11)]
 
-   - [Buy a voucher on GoWabi](https://www.gowabi.com/th/provider/panpuri-wellness)
+  **Disclaimer:** This information may be inaccurate or out-of-date.
 
-   - **If you are a first-time GoWabi user,**
+  - **If you plan to buy food at Panpuri,**
+
+    - [Get an Onsen day pass with 100 THB food credit for 750 THB directly at Panpuri shop.](https://panpuri.com/spa-onsen/exclusive-package/exclusive-wellness-package-at-gaysorn/)
+
+  - **Otherwise,**
+
+    - [Buy a voucher on GoWabi](https://www.gowabi.com/th/provider/panpuri-wellness)
+
+    - **If you are a first-time GoWabi user,**
+
       - You can use the referral code `thai-5702366` for 100 THB discount on top.
 
-   - **To choose a package,**
+    - **To choose a package,**
       - If you plan to arrive between 10:00 and 14:00, buy an off-peak ticket for 650 THB.
       - Otherwise, a flash sale may be available for 669 THB or 690 THB.
       - Otherwise, a regular entry pass costs 750 THB.
 
-PAÑPURI Onsen & Spa is at Gaysorn Tower, 12F. The closest BTS station is BTS Chid Lom.
+  :::
 
-The work area has a USB plug on each seat, and a power outlet is available every 4 seats. Deodorants, face sprays, body lotions and mouthwash are available for use at the premises. There is also a relaxation area where you can take a nap. In the nap room, each chair has its own plug, but that room may not be suitable for work.
+- **Lobby and work area:** The work area has a USB plug on each seat, and a power outlet is available every 4 seats. There are other seats but they are not ideal for working (you are more likely to get back pain, leaving you worse off).
 
-A day pass costs 750 THB and gives you access to the onsen from 10 AM to 10:45 PM, after which the staffs will chase you out.
+- **Amenities:** Deodorants, face sprays, body lotions and mouthwash are available for use at the premises. There is also a relaxation area where you can take a nap. In the nap room, each chair has its own plug, but that room may not be suitable for work. Free Yoga class available at 6:30 PM sometimes, I guess…?
 
-[There are occasional promotions on GoWabi where prices drop down to 690 THB (or 650 THB if you enter before 2 PM).](https://www.gowabi.com/th/provider/panpuri-wellness) Refer your friend and both you and your friend gets a 100 THB discount. If it’s your first time and you got no one to refer you, my referal code is `thai-5702366`.
+- **Policies:** Clothing and photo-recording devices are forbidden in the onsen area and grooming/changing area. Only small towel is allowed. You will take out all your clothes during onsen. Please also note that people with full-body tattoos are not allowed into the onsen (by the premises’ policy).
 
-Free Yoga class available at 6:30 PM, I guess…?
+- **No re-entry:** If I understand correctly, the day pass only allows a single entrance. That means you may stay in the premises (including the cafe and nap area) for as long as you want until the place closes. But if you exit the premises you can’t come back in.
 
-Clothing and photo-recording devices are forbidden in the onsen area and grooming/changing area. Only small towel is allowed. You will take out all your clothes during onsen. Please also note that people with full-body tattoos are not allowed into the onsen (by the premises’ policy).
-
-If I understand correctly, the day pass only allows a single entrance. That means you may stay in the premises (including the cafe and nap area) for as long as you want until the place closes. But if you exit the premises you can’t come back in.
-
-For first timers, I know it can feel quite daunting to take a communal bath with people you’ve just met! Once you enter the premises, please feel free to proceed to the Onsen pools right away; no need to wait. We can get to know each other afterwards!
-
-Please feel free to invite your friends, but please bear in mind that the work area has only 10 seats. There are other seats but they are not ideal for working (you are more likely to get back pain, leaving you worse off). Feel free to join and leave at any time. For example, I might stay until the place closes… or not, depending on situation.
+- **Limited work area seats:** Please feel free to invite your friends, but please bear in mind that the work area has only 10 seats.
 
 ## Let’s Relax Onsen
 
-[Read Poom’s review here.](https://www.facebook.com/phoomparin.mano/posts/pfbid0XhPQzV2QVRUtv5JLyRpDLqVdwPo8CpdcQSg6wUHXJKcnE8hGvCeeuoGs67SWYpnzl)
+- **Location:** Let’s Relax Onsen and Spa is Thonglor is on the 5th floor of Grande Centre Point Sukhumvit 55 hotel, which is located in front of Soi Thong Lo 10.
 
-Let’s Relax Onsen and Spa is Thonglor is on the 5th floor of Grande Centre Point Sukhumvit 55 hotel, which is located in front of Soi Thong Lo 10.
+- **Price and promotions:** A walk-in day pass costs 750 THB. There are also packages which include an onsen day pass + spa treatments. You can [buy a pass from Thaihand](https://thaihandmassage.com/en/shop/lets-relax-spa-thonglor) at a discounted price of 650 THB.
 
-There are a few seating areas: There are counter height tables next to the window and the wall with many stools. The side next to the wall has 2 power outlets. There are also coffee tables along with chairs (with back), but the height of the table may not be suitable for working.
+- **Lobby and work area:** There are a few seating areas: There are counter height tables next to the window and the wall with many stools. The side next to the wall has 2 power outlets. There are also coffee tables along with chairs (with back), but the height of the table may not be suitable for working.
 
-:::details[See seating area image]
-![A modern and minimalist cafe interior with wooden floors, a row of stools along a counter, and large windows with blinds providing natural lighting.](https://usercontent.creatorsgarten.org/c/v1733064122/644c35a6802c02345887f156/image_oijcep.webp)
-:::
+  :::details[See seating area image]
+  ![A modern and minimalist cafe interior with wooden floors, a row of stools along a counter, and large windows with blinds providing natural lighting.](https://usercontent.creatorsgarten.org/c/v1733064122/644c35a6802c02345887f156/image_oijcep.webp)
+  :::
 
-There are two free-flow drinks: Pandan water and infused water. There are also assorted thong muan rolls, with 2 flavors available at a time. Inside the onsen, there is also mugicha tea. These are free for onsen customers. There is also a snack bar where you can purchase other food and beverages.
+- **Complimentary drinks and snacks:** There are two complimentary free-flow drinks in the lobby: Pandan water and infused water. There are also assorted thong muan rolls, with 2 flavors available at a time. Inside the onsen, there is also mugicha tea. These are free for onsen customers.
 
-:::details[Food, drinks, and desserts menu, as of 2024-09-23]
+  :::details[See complimentary snacks]
+  ![A wooden shelf displays various items, including containers for pandan water and infused water, coconut rolls, and paper cups, set against a gray concrete wall background.](https://usercontent.creatorsgarten.org/c/v1733064181/644c35a6802c02345887f156/image_xyjpzb.webp)
+  :::
 
-**Disclaimer:** This information may be inaccurate or out-of-date.
+- **Snack bar:** There is also a snack bar where you can purchase other food, beverages, and desserts.
 
-| Item | Price |
-| ---- | -----:|
-| **— Main dishes —** | |
-| Grilled Tofu Salad | 150 |
-| Grilled Chicken Salad | 150 |
-| Tuna Salad | 150 |
-| Caesar Salad with Chicken and Bacon | 150 |
-| Tuna Sandwich | 150 |
-| Ham&Cheese Sandwich | 150 |
-| Chicken Sandwich | 150 |
-| Chashu Quinoa Rice Bowl | 200 |
-| Tonkotsu Ramen | 200 |
-| Chicken Teriyaki Quinoa Rice Bowl | 200 |
-| **— Beverages —** (non-alcoholic) | |
-| Coke / Coke Zero / Sprite / Ginger Ale / Lemon Soda | 60 |
-| Cold Chocolate Milk | 80 |
-| Hot Coffee | 90 |
-| Iced Coffee | 90 |
-| Hot Coffee Rose | 110 |
-| Hot Tea (pot) | 100 |
-| Strawberry Fizzy (soda) | 100 |
-| Lychee Refresh (soda) | 100 |
-| Sparkling Plum (soda) | 100 |
-| Recharge (cold-pressed: carrot / apple / ginger) | 140 |
-| Radiant (cold-pressed: tomato / carrot / radish / apple) | 140 |
-| Upbeat (cold-pressed: orange / carrot / pineapple) | 140 |
-| Revitalize (cold-pressed: kale / cucumber / apple) | 140 |
-| Watermelon Juice | 140 |
-| Carrot Juice | 140 |
-| Pineapple Juice | 140 |
-| Mango Smoothies | 140 |
-| **— Dessert —** | |
-| Shinkansen (chocolate & raspberry cake) | 220 |
-| Fujisan (tofu pudding) | 180 |
-| Yami (chocolate brownie) | 180 |
-| Take Me To Kyoto (matcha cake) | 180 |
-| Jambolan Cheesecake | 180 | 
+  :::details[Food, drinks, and desserts menu, as of 2024-09-23]
 
-:::
+  **Disclaimer:** This information may be inaccurate or out-of-date.
 
-:::details[See complimentary snacks]
-![A wooden shelf displays various items, including containers for pandan water and infused water, coconut rolls, and paper cups, set against a gray concrete wall background.](https://usercontent.creatorsgarten.org/c/v1733064181/644c35a6802c02345887f156/image_xyjpzb.webp)
-:::
+  | Item                                                     | Price |
+  | -------------------------------------------------------- | ----: |
+  | **— Main dishes —**                                      |       |
+  | Grilled Tofu Salad                                       |   150 |
+  | Grilled Chicken Salad                                    |   150 |
+  | Tuna Salad                                               |   150 |
+  | Caesar Salad with Chicken and Bacon                      |   150 |
+  | Tuna Sandwich                                            |   150 |
+  | Ham&Cheese Sandwich                                      |   150 |
+  | Chicken Sandwich                                         |   150 |
+  | Chashu Quinoa Rice Bowl                                  |   200 |
+  | Tonkotsu Ramen                                           |   200 |
+  | Chicken Teriyaki Quinoa Rice Bowl                        |   200 |
+  | **— Beverages —** (non-alcoholic)                        |       |
+  | Coke / Coke Zero / Sprite / Ginger Ale / Lemon Soda      |    60 |
+  | Cold Chocolate Milk                                      |    80 |
+  | Hot Coffee                                               |    90 |
+  | Iced Coffee                                              |    90 |
+  | Hot Coffee Rose                                          |   110 |
+  | Hot Tea (pot)                                            |   100 |
+  | Strawberry Fizzy (soda)                                  |   100 |
+  | Lychee Refresh (soda)                                    |   100 |
+  | Sparkling Plum (soda)                                    |   100 |
+  | Recharge (cold-pressed: carrot / apple / ginger)         |   140 |
+  | Radiant (cold-pressed: tomato / carrot / radish / apple) |   140 |
+  | Upbeat (cold-pressed: orange / carrot / pineapple)       |   140 |
+  | Revitalize (cold-pressed: kale / cucumber / apple)       |   140 |
+  | Watermelon Juice                                         |   140 |
+  | Carrot Juice                                             |   140 |
+  | Pineapple Juice                                          |   140 |
+  | Mango Smoothies                                          |   140 |
+  | **— Dessert —**                                          |       |
+  | Shinkansen (chocolate & raspberry cake)                  |   220 |
+  | Fujisan (tofu pudding)                                   |   180 |
+  | Yami (chocolate brownie)                                 |   180 |
+  | Take Me To Kyoto (matcha cake)                           |   180 |
+  | Jambolan Cheesecake                                      |   180 |
+
+  :::
+
+- **Massage:** There is a massage service available at the premises. For the menu, [check out the branch’s website](https://letsrelaxspa.com/th/branch/thonglo/).
+
+- [Read Poom’s review here.](https://www.facebook.com/phoomparin.mano/posts/pfbid0XhPQzV2QVRUtv5JLyRpDLqVdwPo8CpdcQSg6wUHXJKcnE8hGvCeeuoGs67SWYpnzl)
 
 # How to organize
 
