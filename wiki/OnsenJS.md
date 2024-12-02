@@ -136,6 +136,24 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 - **Price and promotions:** A walk-in day pass costs 750 THB. There are also packages which include an onsen day pass + spa treatments. Thai has a WellnessMe member with 10% discount, so if he joins the event you can ask him to use his membership for a discount on the day pass, treatments, or packages. Alternatively, You can [buy a day pass from Thaihand](https://thaihandmassage.com/en/shop/lets-relax-spa-thonglor) for a discounted price of 650 THB, but note that passes that are bought from third parties are usable on the next day (may not be usable on the same day). Also, Thai has bought a pack of vouchers at a discount (600 THB) and has 5 remaining vouchers that expire on 2025-05-31.
 
+  :::details[Price list, as of 2024-12-02]
+
+  **Disclaimer:** This information may be inaccurate or out-of-date.
+
+  | Item           | Price |
+  | -------------- | ----: |
+  | Onsen day pass | 750 |
+  | Onsen + 60-min foot massage | 1400 |
+  | Onsen + 60-min Thai massage | 1350 |
+  | Onsen + 120-min Thai massage | 1800 |
+  | Onsen + 60-min aroma oil massage (※) | 1900 |
+  | Onsen + 60-min aroma oil massage + 60-min body scrub (※) | 3100 |
+  | Onsen + 60-min Dr.Spiller facial massage | 2200 |
+
+  ※ For oil massage, must use Onsen before spa treatment (cannot re-enter Onsen after spa).
+
+  :::
+
 - **Lobby and work area:** There are a few seating areas: There are counter height tables next to the window and the wall with many stools. The side next to the wall has 2 power outlets. There are also coffee tables along with chairs (with back), but the height of the table may not be suitable for working.
 
   :::details[See seating area image]
