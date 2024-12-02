@@ -166,7 +166,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
   ![A wooden shelf displays various items, including containers for pandan water and infused water, coconut rolls, and paper cups, set against a gray concrete wall background.](https://usercontent.creatorsgarten.org/c/v1733064181/644c35a6802c02345887f156/image_xyjpzb.webp)
   :::
 
-- **Snack bar:** There is also a snack bar where you can purchase other food, beverages, and desserts.
+- **Snack bar:** There is also a snack bar where you can purchase other food, beverages, and desserts. It open until about 11 PM. Note that WellnessMe discounts cannot be used for food.
 
   :::details[Food, drinks, and desserts menu, as of 2024-09-23]
 
