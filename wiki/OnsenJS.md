@@ -98,7 +98,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 - **Location:** PAÑPURI Onsen & Spa is at Gaysorn Tower, 12F. The closest BTS station is BTS Chid Lom.
 
-- **Price and promotions:** A day pass costs 750 THB and gives you access to the onsen from 10 AM to 10:45 PM, after which the staffs will chase you out. [There are occasional promotions on GoWabi where prices drop down to 690 THB (or 650 THB if you enter before 2 PM).](https://www.gowabi.com/th/provider/panpuri-wellness) Refer your friend and both you and your friend gets a 100 THB discount. If it’s your first time and you got no one to refer you, my referal code is `thai-5702366`.
+- **Price and promotions:** A day pass costs 750 THB and gives you access to the onsen from 10 AM to 10:45 PM. [There are occasional promotions on GoWabi where prices drop down to 690 THB (or 650 THB if you enter before 2 PM).](https://www.gowabi.com/th/provider/panpuri-wellness) Refer your friend and both you and your friend gets a 100 THB discount. If it’s your first time and you got no one to refer you, my referal code is `thai-5702366`.
 
   :::details[Purchase guide (last updated 2024-07-11)]
 
@@ -125,7 +125,13 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 - **Lobby and work area:** The work area has a USB plug on each seat, and a power outlet is available every 4 seats. There are other seats but they are not ideal for working (you are more likely to get back pain, leaving you worse off).
 
-- **Amenities:** Deodorants, face sprays, body lotions and mouthwash are available for use at the premises. There is also a relaxation area where you can take a nap. In the nap room, each chair has its own plug, but that room may not be suitable for work. Free Yoga class available at 6:30 PM sometimes, I guess…?
+- **Wellness bar:** There is a [wellness bar](https://www.facebook.com/GaysornVillage/posts/10157258037773489/) which sells food, drinks and desserts. Thai’s favorite menu here is chicken quinoa salad.
+
+- **Pools:** There are 5 pools. From hottest to coldest: Seasonal Onsen, Kusatsu Onsen, Soda Bath, Vitality Pool, Cold Plunge Pool. There is also a Himalayan salt sauna room and a steam room. In addition, there is a small foot bath area.
+
+- **Amenities:** Deodorants, face sprays, body lotions and mouthwash are available for use at the premises.
+
+- **Wellness facilities:** There is a relaxation area where you can take a nap. In the nap room, each chair has its own plug, but that room may not be suitable for work. Free Yoga class available at 6:30 PM sometimes, I guess…?
 
 - **Policies:** Clothing and photo-recording devices are forbidden in the onsen area and grooming/changing area. Only small towel is allowed. You will take out all your clothes during onsen. Please also note that people with full-body tattoos are not allowed into the onsen (by the premises’ policy).
 
@@ -229,6 +235,10 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
   | 30-minutes back and shoulder massage |   375 THB |                      338 THB |
 
   :::
+
+- **Pools and rooms:** There are 5 pools. From hottest to coldest: Gero Hot Springs Bath (~42°C), Silk Bath (~40°C), Whirlpool Bath, Soda Bath (~36°C), and Cold Bath (16~18°C). There is also a sauna and a steam room.
+
+- **Wellness facilities:** In the common area, there are relaxing rooms (for sleeping), hot stonebed bath (for lying down on hot stonebed), and cool down room (set to 17~18°C).
 
 - [Read Poom’s review here.](https://www.facebook.com/phoomparin.mano/posts/pfbid0XhPQzV2QVRUtv5JLyRpDLqVdwPo8CpdcQSg6wUHXJKcnE8hGvCeeuoGs67SWYpnzl)
 
