@@ -139,6 +139,15 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 - **Limited work area seats:** Please feel free to invite your friends, but please bear in mind that the work area has only 10 seats.
 
+<!--
+  - [Check out Panpuri shop promotions.](https://panpuri.com/spa-onsen/exclusive-package/exclusive-wellness-package-at-gaysorn/)
+    - Buy an off-peak ticket for 100 THB off, but you must enter between 10:00 and 14:00.
+    - Buy an onsen+dine package for 100 THB off, if you plan to eat at the onsen.
+    - Buy a bundle of e-vouchers for up to 173 THB off per voucher.
+  - [Check out the promotions at GoWabi.](https://www.gowabi.com/th/provider/panpuri-wellness)
+    - You can use the referral code `thai-5702366` for 100 THB discount on top.
+-->
+
 ## Let’s Relax Onsen
 
 - **Location:** Let’s Relax Onsen and Spa is Thonglor is on the 5th floor of Grande Centre Point Sukhumvit 55 hotel, which is located in front of Soi Thong Lo 10.
