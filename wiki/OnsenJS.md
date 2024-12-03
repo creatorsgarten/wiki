@@ -125,6 +125,8 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 - **Lobby and work area:** The work area has a USB plug on each seat, and a power outlet is available every 4 seats. There are other seats but they are not ideal for working (you are more likely to get back pain, leaving you worse off).
 
+- **Limited work area seats:** Please feel free to invite your friends, but please bear in mind that the work area has only 10 seats.
+
 - **Wellness bar:** There is a [wellness bar](https://www.facebook.com/GaysornVillage/posts/10157258037773489/) which sells food, drinks and desserts. Thai’s favorite menu here is chicken quinoa salad.
 
 - **Pools:** There are 5 pools. From hottest to coldest: Seasonal Onsen, Kusatsu Onsen, Soda Bath, Vitality Pool, Cold Plunge Pool. There is also a Himalayan salt sauna room and a steam room. In addition, there is a small foot bath area.
@@ -136,8 +138,6 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 - **Policies:** Clothing and photo-recording devices are forbidden in the onsen area and grooming/changing area. Only small towel is allowed. You will take out all your clothes during onsen. Please also note that people with full-body tattoos are not allowed into the onsen (by the premises’ policy).
 
 - **No re-entry:** If I understand correctly, the day pass only allows a single entrance. That means you may stay in the premises (including the cafe and nap area) for as long as you want until the place closes. But if you exit the premises you can’t come back in.
-
-- **Limited work area seats:** Please feel free to invite your friends, but please bear in mind that the work area has only 10 seats.
 
 <!--
   - [Check out Panpuri shop promotions.](https://panpuri.com/spa-onsen/exclusive-package/exclusive-wellness-package-at-gaysorn/)
