@@ -92,6 +92,12 @@ MRT
 - {% render 'Event', name: 'bangkok' %}
 - {% render 'Event', name: 'creativecodingmeetup' %}
 - {% render 'Event', name: 'functional' %}
+- {% render 'Event', name: 'bkkjs18' %}
+- {% render 'Event', name: 'sideproject' %}
+- {% render 'Event', name: 'github1' %}
+- {% render 'Event', name: 'creativecodingmeetup2' %}
+- {% render 'Event', name: 'bkkjs21' %}
+- {% render 'Event', name: 'bac' %}
 
 # Sponsored
 
