@@ -1,5 +1,6 @@
 | Name | Type | Location | Capacity |
 | ----- | ----- | ----- | ----- |
+| [[9ExpertTraining]] |  | 2nd Fl., Evergreen Place Building | 80 |
 | [[Agoda]] |  | 44th Fl., centralwOrld | 100 |
 | [[AriseByINFINITAS]] |  | 5th Fl., The PARQ (West Wing) | 50 |
 | [[AreaX]] |  | 4th Fl., Siam Paragon | 30 |
