@@ -103,6 +103,7 @@ grtnRedirects:
   bac-recruitment: 'https://docs.google.com/document/d/17bURlW7iciQc_c51-nwEQxtSeQqMQt8GGvAy7R0VEQ0/edit?usp=sharing'
   onsen: 'https://creatorsgarten.org/wiki/OnsenJS'
   twhh-caption: 'https://live-speech.vercel.app/view?backend=https://live-speech.lab.spacet.me&room=0193aa9b-6028-71d9-9b92-bf37d9ed63c5'
+  fossasia: 'https://eventyay.com/e/4c0e0c27?code=Creatorsgarten_members'
 ---
 
 
