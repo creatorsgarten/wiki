@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"globby": "^13.1.4",
+		"globby": "^14.0.0",
 		"gray-matter": "^4.0.3",
 		"js-yaml": "^4.1.0",
 		"prettier": "^2.8.8"
