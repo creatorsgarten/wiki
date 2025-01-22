@@ -4,7 +4,7 @@
 
 ## 📚 Library (14.00-18.30)
 
-### PV's Workshop  (14.00-16.00)
+### 14.00-16.00 | PV's Workshop
 - P5.js w/ Several Demos
 - Call for Participants
 	- 20++ participants
@@ -13,7 +13,8 @@
 		- age: 25-35 (students & working professionals)
 - Detail: 27-28 Jan
 
-### Talks  (16.30-18.30)
+### 16.30-18.30 | Talk Session
+- ~3-4 Speakers
 - Call for Speakers
 
 ## 🌲 Garden / Marketplace (16.00 onwards)
