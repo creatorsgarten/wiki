@@ -13,8 +13,6 @@ event:
   eventpopId: 70879
 ---
 
-
-
 :::lead
 Decoding the past and designing the future of Thai arts and culture: From classical dance to music, how can technology and AI evolve our culture?
 :::
