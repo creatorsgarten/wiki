@@ -70,5 +70,3 @@ Intermission | 2:50 - 3:00
 4.00 - **Reception**
 
 **Event website**: [https://www.media.mit.edu/events/ai-x-culture-symposium/](https://www.media.mit.edu/events/ai-x-culture-symposium/)
-
-Event website: [https://www.media.mit.edu/events/ai-x-culture-symposium/](https://www.media.mit.edu/events/ai-x-culture-symposium/)
