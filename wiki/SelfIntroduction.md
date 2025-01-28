@@ -13,7 +13,7 @@ endfor
 %}
 # Summary
 
-<div style="padding: 1rem; background-color: #F5F5F5;">
+<div style="padding: 1rem; background-color: #F5F5F5; border: 1px solid black;">
 
 **Creatorsgarten** is a collective of [[people]], both professionals and students, who are united by our love for creating things. Since 2017, we have run over [{{eventCount}} community events](/events), which include meetups, hackathons, camps, and contests. Over 1,200 people attended our events, and over 3,000 people are following our events on [Facebook](https://grtn.org/fb). All of our events are free, thanks to the support of our sponsors and partners.
 
