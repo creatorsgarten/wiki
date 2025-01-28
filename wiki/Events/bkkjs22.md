@@ -3,11 +3,13 @@ event:
   name: "BKK.JS #22"
   location: Agoda
   date: "2025-02-19"
+  unlisted: true
   site: https://www.eventpop.me/e/74938
   hosts:
     - Creatorsgarten
     - Agoda Tech
   eventpopId: 74938
+  
 image: https://assets.creatorsgarten.org/events/bkkjs22.png
 ---
 
