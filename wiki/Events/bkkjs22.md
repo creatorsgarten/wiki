@@ -17,6 +17,8 @@ image: https://assets.creatorsgarten.org/events/bkkjs22.png
 
 {% render 'EventBox', name: ref %}
 
+6:30PM - **Registration**
+
 6:45PM - **Opening Talk** – *TBA*
 
 7:00PM - **Session 1: TBA** – *TBA*
