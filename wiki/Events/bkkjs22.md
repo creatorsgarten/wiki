@@ -9,11 +9,10 @@ event:
     - Creatorsgarten
     - Agoda Tech
   eventpopId: 74938
-  
 image: https://assets.creatorsgarten.org/events/bkkjs22.png
 ---
 
-เรากลับมาแล้วหลักจากการพักผ่อนช่วงปลายปี ยินดีต้อนรับทุกคนครับกับงาน BKK.JS แรกของปี 2025
+เรากลับมาแล้วหลังจากการพักผ่อนช่วงปลายปี ยินดีต้อนรับทุกคนครับกับงาน BKK.JS แรกของปี 2025
 
 We're back from a short winter break! Welcome to the first BKK.JS of 2025!!
 
