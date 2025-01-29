@@ -1,5 +1,5 @@
 :::lead
-Meta Events is an event [[Series|series]] hosted by [[Metagarten]] for meta-contributions to the collective
+Meta-events are internal events related to meta-contributions to the collective.
 :::
 
 # Event[2]
