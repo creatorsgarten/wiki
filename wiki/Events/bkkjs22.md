@@ -12,7 +12,9 @@ event:
 image: https://assets.creatorsgarten.org/events/bkkjs22.png
 ---
 
+:::lead
 เรากลับมาแล้วหลังจากการพักผ่อนช่วงปลายปี ยินดีต้อนรับทุกคนครับกับงาน BKK.JS แรกของปี 2025
+:::
 
 We're back from a short winter break! Welcome to the first BKK.JS of 2025!!
 
