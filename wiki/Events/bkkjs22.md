@@ -3,7 +3,7 @@ event:
   name: "BKK.JS #22"
   location: Agoda
   date: "2025-02-19"
-  unlisted: true
+  unlisted: false
   site: https://www.eventpop.me/e/74938
   hosts:
     - Creatorsgarten
