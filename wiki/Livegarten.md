@@ -49,3 +49,9 @@ We are happy to partner with other communities who want to livestream and archiv
 - [Technologista](https://www.facebook.com/creatorsgarten/videos/569058498930101/)
 
 :::
+
+## Image Assets
+
+Please prepare these image assets for us to use in livestreams:
+
+- **Banner image** (1920x120), displayed at the bottom of the livestream. For examples from other events, see [[EventImages]].
