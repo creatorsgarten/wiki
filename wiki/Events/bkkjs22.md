@@ -26,7 +26,7 @@ We're back from a short winter break! Welcome to the first BKK.JS of 2025!!
 
 เนื่องจากพื้นที่ที่จัดงานนั้นจะต้องผ่านประตูรักษาความปลอดภัยของ CentralwOrld เราจะขอสงวนสิทธิ์อนุญาติให้ผู้ที่มีตั๋วในวันงานเท่านั้นที่จะสามารถเข้ามาภายในงานได้ ดังนั้นกรุณาเตรียมตั๋วของท่านในวันงานด้วย
 
-Due to our venue requires attendee to pass through CentralwOrld security. We will only allow attendee with a valid ticket to enter premises. Please be sure to have a ticket when entering the area.
+Due to our venue requiring attendees to pass through CentralwOrld security. We can only allow attendees with a valid ticket to enter the premises. Please be sure to have a ticket when entering the area.
 
 ## 🚶🏻‍♂️ วิธีการเดินทางเข้างาน / Guide to enter an event
 
