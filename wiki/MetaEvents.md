@@ -3,7 +3,6 @@ Meta-events are internal events related to meta-contributions to the collective.
 :::
 
 - **Event[𝑛]** — Creatorsgarten’s annual [[InformalGatherings|casual]] meetup + hangout — discussing what we are gonna do this year.
-
 - **[[GartenHackDay]]** — An [[InformalGatherings|informal gathering]] where we build public tools for the benefits of Creatorsgarten and the community.
 
 # Event[2]
