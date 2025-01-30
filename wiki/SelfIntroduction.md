@@ -14,7 +14,7 @@ endfor
 
 ## 🐈 Creatorsgarten is a collective of creative technologists committed to sparking new ideas and conversations.
 
-<div style="color: white; font-weight: medium; border-radius: 4px; background-color: black;">
+<div style="color: white; font-weight: 500; border-radius: 4px; background-color: black; padding: 2px;">
 **Creatorsgarten** is a collective of [[people]], both professionals and students, who share a passion for discovering and creating new things. Since 2017, we have collaborated with a diverse group of fascinating people, including open-source communities, developers, educators, artists, and more, to explore new possibilities and co-create exciting projects together.
 </div>
 
