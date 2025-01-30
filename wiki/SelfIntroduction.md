@@ -20,4 +20,4 @@ We have crafted [open-source](https://github.com/creatorsgarten) projects, advoc
 
 For more details about us and what we do, check out our website at [creatorsgarten.org](https://creatorsgarten.org/). Also check out our Facebook Page at [grtn.org/fb](https://grtn.org/fb).
 
-<img src="https://assets.creatorsgarten.org/cover-2.png" style="width: 100%; border: 2px solid black;" />
+<img src="https://assets.creatorsgarten.org/cover-2.png" style="width: 100%; border: 1px solid black;" />
