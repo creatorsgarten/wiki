@@ -19,3 +19,5 @@ endfor
 We have crafted [open-source](https://github.com/creatorsgarten) projects, advocated for innovative ideas within communities, and hosted over [{{eventCount}} community events](/events), which include meetups, hackathons, camps, and contests. More than 1,200 people have attended our events, and over 6,000 people follow us on [Facebook](https://grtn.org/fb). All of our events are free, thanks to the generous support of our sponsors and partners.
 
 For more details about us and what we do, check out our website at [creatorsgarten.org](https://creatorsgarten.org/). Also check out our Facebook Page at [grtn.org/fb](https://grtn.org/fb).
+
+![cover](https://assets.creatorsgarten.org/cover-2.png)
