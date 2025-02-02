@@ -41,7 +41,7 @@ quickLinks:
 - **Finding information about a specific event?** Look at the [[Events#full-event-list|full event list]], which also provides more links to pages such as [[organizer notes]] and [[feedback]].
 - **Want to make the best use of our wiki?** When knowledge is [[public by default]], people can easily [[reachability|reach]] the information they need. The [[how to use wiki|how to use this wiki]] page has some more tips. Also check out the [[syntax]] page and the [[template]] list. 
 - **Looking for specifications on creating event artwork?** The [[event images]] page details what kind of images should be created. There are also plenty of examples in there in case you need some inspiration.
-- **Finding knowledge about live-streaming?** Our [[videos]] page documents our livestreaming setup, tips and tricks, as well as know-hows.
+- **Finding knowledge about live-streaming?** [[Livegarten]] is a guild inside Creatorsgarten that livestreams and archives our events. Our livestreaming setup, tips and tricks, as well as know-hows are documented in our [[videos]] page.
 - **Curious how we manage our YouTube channel?** Also check out our [[videos]] page. Spoiler: We manage our YouTube channel on GitHub. This means you can contribute to our channel too!
 - **Want to integrate with our member system?** Check out [[Authgarten]]. Organizers can build custom software systems that integrates with our website’s member system to enhance the event experience. This can be useful in hackathons or competitions (e.g. project directory and voting systems).
 
