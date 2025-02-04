@@ -7,8 +7,21 @@ event:
   unlisted: false
   hosts:
     - Creatorsgarten
+  eventpopId: 76456
 ---
 
-## Dataset Marketplace!
+## Creative Coding + ตลาดนัดดาต้า
 
-{% render 'EventBox', name: 'market' %}
+พบกันอีกครั้งกับ Creative Coding Meetup ในธีมพิเศษ “ตลาดนัดดาต้า” งานที่รวมคนรักการเขียนโค้ดเชิงสร้างสรรค์มาแลกเปลี่ยนความรู้และประสบการณ์ ครั้งนี้ประกอบไปด้วย 3 กิจกรรมสุดพิเศษ
+
+- **Interactive Audio Visualization Workshop** โดย Patt Vira และ Yaboi Hanoi
+- **Talk Session** ชวนคนที่ชอบเรื่อง creative coding ได้มาเจอกัน เปิดเวทีให้โชว์ของ แลกเปลี่ยนความรู้ 
+- **ตลาดนัดดาต้า** โดย Cache Collective เปิดพื้นที่แลกเปลี่ยนซื้อขายข้อมูลที่สะสมเอง บันทึกเอง หรือ ดูดจากเว็บไซต์เองกับมือ
+
+รายละเอียดเพิ่มเติมสำหรับกิจกรรมที่ด้านล่าง
+
+![](https://usercontent.creatorsgarten.org/c/v1738657951/644c35a6802c02345887f156/data_market_banner_a7wgue.webp)
+
+{% render 'EventpopButton', id: page.event.eventpopId %}
+
+{% render 'EventBox', name: ref %}
