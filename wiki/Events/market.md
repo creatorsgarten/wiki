@@ -28,13 +28,13 @@ event:
 
 ## 📆 Schedule
 
-### โซนห้องสมุด
+### <u>โซนห้องสมุด</u>
 
 14.00-16.00 | Workshop by [Patt Vira][patt] and [Yaboi Hanoi][hanoi] **[\[📌 Register แยกต่างหาก\]][workshop]**
 
 16.30-18.30 | Creative Coding Meetup #3 (Talk Session)
 
-### โซนสวน
+### <u>โซนสวน</u>
 
 16.00-18.30 | ตลาดนัดดาต้า by Cache Collective
 
