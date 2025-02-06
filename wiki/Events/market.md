@@ -20,7 +20,7 @@ event:
 - **Talk Session** ชวนคนที่ชอบเรื่อง creative coding ได้มาเจอกัน เปิดเวทีให้โชว์ของ แลกเปลี่ยนความรู้
 - **ตลาดนัดดาต้า** โดย Cache Collective เปิดพื้นที่แลกเปลี่ยนซื้อขายข้อมูลที่สะสมเอง บันทึกเอง หรือ ดูดจากเว็บไซต์เองกับมือ
 
-รายละเอียดเพิ่มเติมสำหรับกิจกรรมที่ด้านล่าง
+แต่ละเซสชั่นมีวิธีการลงทะเบียนเข้าร่วมแตกต่างกัน รายละเอียดเพิ่มเติมสำหรับกิจกรรมที่ด้านล่าง
 
 ![](https://usercontent.creatorsgarten.org/c/v1738657951/644c35a6802c02345887f156/data_market_banner_a7wgue.webp)
 
@@ -32,13 +32,13 @@ event:
 
 ### <u>โซนห้องสมุด</u>
 
-14.00-16.00 | Workshop by [Patt Vira](https://www.youtube.com/@pattvira) and [yaboihanoi](https://yaboihanoi.com/) [**[📌 Register แยกต่างหาก]**](https://www.eventpop.me/events/76456-data/application_forms/6002/applicants/new)
+14.00-16.00 | Workshop by [Patt Vira](https://www.youtube.com/@pattvira) and [yaboihanoi](https://yaboihanoi.com/) [**[ลงทะเบียนผ่าน 🎨 Workshop Application Form]**](https://www.eventpop.me/events/76456-data/application_forms/6002/applicants/new)
 
-16.30-18.30 | Creative Coding Meetup #3 (Talk Session)
+16.30-18.30 | Creative Coding Meetup #3 (Talk Session) [**🎟️ จองตั๋ว Talk Session Ticket เพื่อเข้าร่วม**]
 
 ### <u>โซนสวน</u>
 
-16.00-18.30 | ตลาดนัดดาต้า by [Cache Collective](https://thisiscache.com/info)
+16.00-18.30 | ตลาดนัดดาต้า by [Cache Collective](https://thisiscache.com/info) [**มาได้เลยไม่ต้องจองตั๋ว**]
 
 ## 🎵 Interactive Audio Visualization Workshop by [Patt Vira](https://www.youtube.com/@pattvira) and [yaboihanoi](https://yaboihanoi.com/)
 
