@@ -22,7 +22,7 @@
 | [[LSEG]] |  | 31st Fl., U Chu Liang Building | 100 |
 | [[LMWNTownHall]] |  | One Bangkok | 100 - 150 |
 | [[MFEC]] |  | 11th Fl., SJ Infinite One Business Complex | 60 |
-| [[MicrosoftThailand]] |  | 38th Fl., CRC Tower Building, All Seasons Place | 150 |
+| [[MicrosoftThailand]] |  | 35th Fl., One Bangkok Tower 4 | 80 |
 | [[MuseFoundation]] |  |  |  |
 | [[QSNCC]] |  |  |  |
 | [[RISE]] |  |  |  |
