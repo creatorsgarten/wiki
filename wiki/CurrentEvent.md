@@ -2,11 +2,19 @@
 grtn: c
 ---
 
+# BKK.js #22
+
+## ✨✨ Feedback form ✨✨<br>CLICK HERE
+
+---
+
+:::details[Archive: BKK.js #21]
+
 # BKK.js #21
 
 ## [✨✨ Feedback form ✨✨<br>CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSf8VRIkMkJQr2SOG2IPab8U7ldCuSTZV_4Kz9bQM6C6Lna2NQ/viewform?usp=sf_link)
 
----
+:::
 
 :::details[Archive: เศรษฐกิจเอไอกับโลกไร้งาน]
 
