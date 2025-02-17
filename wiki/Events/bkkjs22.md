@@ -52,13 +52,13 @@ Within one month after the event, all sessions will be uploaded and available fo
 
 6:45PM - **Opening Talk** – *TBA*
 
-7:00PM - **Session 1: TBA** – *TBA*
+7:00PM - **Session 1: Write Less, Achieve More: How to build a living document with Cucumber JS and PACT** – *Supat Lertsirigorn*
 
-7:30PM - **Session 2: TBA** – *TBA*
+7:30PM - **Session 2: Make Pull Requests Great Again with Background Jobs using Trigger.dev NodeJS SDK** – *Tobias Meixner*
 
 8:00PM - **Intermission**
 
-8:15PM - **Session 3: TBA** – *TBA*
+8:15PM - **Session 3: My RAG AI Isn’t That Hard to Build!** – *Jirachai Chansivanon*
 
 8:45PM - **Closing Talk & Giveaways** – *TBA*
 
