@@ -155,7 +155,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 - **Location:** Let’s Relax Onsen and Spa is Thonglor is on the 5th floor of Grande Centre Point Sukhumvit 55 hotel, which is located in front of Soi Thong Lo 10.
 
-- **Price and promotions:** A walk-in day pass costs 750 THB. There are also packages which include an onsen day pass + spa treatments. Thai has a WellnessMe member with 10% discount, so if he joins the event you can ask him to use his membership for a discount on the day pass, treatments, or packages. Alternatively, You can [buy a day pass from Thaihand](https://thaihandmassage.com/en/shop/lets-relax-spa-thonglor) for a discounted price of 650 THB, but note that passes that are bought from third parties are usable on the next day (may not be usable on the same day). Also, Thai has bought a pack of vouchers at a discount (600 THB) and has 5 remaining vouchers that expire on 2025-05-31.
+- **Price and promotions:** A walk-in day pass costs 750 THB. There are also packages which include an onsen day pass + spa treatments. Thai has a WellnessMe member with 10% discount, so if he joins the event you can ask him to use his membership for a discount on the day pass, treatments, or packages. Alternatively, You can [buy a day pass from Thaihand](https://thaihandmassage.com/en/shop/lets-relax-spa-thonglor) for a discounted price of 650 THB, but note that passes that are bought from third parties are usable on the next day (may not be usable on the same day). Also, Thai has bought a pack of vouchers at a discount (600 THB) and has 3 remaining vouchers that expire on 2025-05-31.
 
   :::details[Price list, as of 2024-12-02]
 
