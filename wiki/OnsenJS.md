@@ -57,6 +57,9 @@ meetups:
     place: Let's Relax Onsen
     url: https://www.facebook.com/dtinth/posts/pfbid02nN83hpEbUWxZWjeK39sVVQrm4ykdMX23sFXd2gDgtQoRyWZ7uqqtLF961S5TUQG5l
 
+  - date: 'Scheduled'
+    name: 'Onsen.js #12'
+
 # - date: 'Scheduled'
 #   name: ''
 ---
