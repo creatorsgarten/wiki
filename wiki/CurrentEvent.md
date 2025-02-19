@@ -4,9 +4,7 @@ grtn: c
 
 # BKK.js #22
 
-## [Live transcript](https://live-speech.vercel.app/view?backend=https://live-speech.cloud.spacet.me&room=01951e14-bbf3-7954-bd2a-5d1017b51c29)
-
-## [✨✨ Feedback form ✨✨<br>CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSeKGyR9lzmotrSKX1JT_OhCZh_yasim8Zy2SUrQw0PsfbedeA/viewform?usp=dialog)
+## [✨✨ Feedback form ✨✨<br>👉👉 CLICK HERE 👈👈](https://docs.google.com/forms/d/e/1FAIpQLSeKGyR9lzmotrSKX1JT_OhCZh_yasim8Zy2SUrQw0PsfbedeA/viewform?usp=dialog)
 
 ---
 
