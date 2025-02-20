@@ -17,12 +17,12 @@
 | [[FarmKits]] |  |  |  |
 | [[HarbourSpace]] |  |  |  |
 | [[HuaweiOffice]] |  | 39th Fl., G Tower | 50 |
-| [[KPlusBuilding]] |  | K+ Building, Soi Chula 20 | 200 |
+| [[KPlusBuilding]] |  | K+ Building, Soi Chula 20 | 150 |
 | [[KKUSciencePark]] |  | KKU Science Park, Khon Kaen | 230 |
 | [[LSEG]] |  | 31st Fl., U Chu Liang Building | 100 |
 | [[LMWNTownHall]] |  | One Bangkok | 100 - 150 |
 | [[MFEC]] |  | 11th Fl., SJ Infinite One Business Complex | 60 |
-| [[MicrosoftThailand]] |  | 35th Fl., One Bangkok Tower 4 | 80 |
+| [[MicrosoftThailand]] |  | 35th Fl., One Bangkok Tower 4 | 70 |
 | [[MuseFoundation]] |  |  |  |
 | [[QSNCC]] |  |  |  |
 | [[RISE]] |  |  |  |
