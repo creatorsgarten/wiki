@@ -10,6 +10,8 @@ We have 2 modes of layout:
 
 2. **Frame:** The presenter screen and camera feed is placed on the canvas, then an image is overlaid on top to produce the final picture.
 
+![](https://usercontent.creatorsgarten.org/c/v1740669110/644c35a6802c02345887f156/image_cuuquw.webp)
+
 # Banner layout
 
 TBA
