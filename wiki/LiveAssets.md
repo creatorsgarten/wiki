@@ -1,6 +1,11 @@
 :::lead
-[[Livegarten]] livestreams an event, we request the organizers to prepare some image assets for us.
+When [[Livegarten]] livestreams or records an event, we request the organizers to prepare some image assets for us.
 :::
+
+There are
+
+- **Layout images** for placing with the screen and camera feed.
+- **Intermission images** for displayed before stream starts and during intermissions.
 
 # Layout
 
@@ -36,3 +41,13 @@ We request 2 frame images:
     - 16:10 (optional)
 
 ![](https://usercontent.creatorsgarten.org/c/v1740669597/644c35a6802c02345887f156/image_ymkdsq.webp)
+
+# Intermission images
+
+Intermissions are shown when we are not showing either the camera or the screen. There are 2 ways:
+
+- **You can provide us images beforehand.** We will show them at an appropriate time. You can also provide us a transparent PNG, which we can overlay on top of camera feed (see examples below).
+
+- **You can provide live HDMI video feed to show.** If you have a spare laptop, you can use it to show intermission images, and we will mirror it to livestream.
+
+![](https://usercontent.creatorsgarten.org/c/v1740671137/644c35a6802c02345887f156/image_c0zrx5.webp)
