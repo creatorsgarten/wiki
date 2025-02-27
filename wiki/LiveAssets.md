@@ -18,4 +18,4 @@ TBA
 
 # Frame layout
 
-![](https://usercontent.creatorsgarten.org/c/v1740668370/644c35a6802c02345887f156/image_somnjc.webp)
+![](https://usercontent.creatorsgarten.org/c/v1740669299/644c35a6802c02345887f156/image_te2rmi.webp)
