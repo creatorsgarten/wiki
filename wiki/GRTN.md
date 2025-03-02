@@ -33,6 +33,7 @@ grtnRedirects:
   e/:event/v: https://creatorsgarten.org/videos/:event
   e/:event/v/:slug: https://creatorsgarten.org/videos/:event/:slug
   e/:event/v/:slug/edit: https://github.com/creatorsgarten/videos/blob/main/data/videos/:event/:slug.md?plain=1
+  v/:event/:slug: https://creatorsgarten.org/videos/:event/:slug
   e/htbf2023/board: https://www.tldraw.com/r/jE1a3Ur-04v0hhc0fd2L4?viewport=0%2C0%2C1300%2C910&page=page%3Apage
   e/creativecodingmeetup/yt: https://www.youtube.com/playlist?list=PLTuz2sLvbRpy66hP5Cxm9XxSGQBoTULay
   e/reactmeetup0922/yt: https://www.youtube.com/playlist?list=PLTuz2sLvbRpznpYfNIUbUpRyZB9R8198o
