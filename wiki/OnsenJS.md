@@ -151,7 +151,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
     - You can use the referral code `thai-5702366` for 100 THB discount on top.
 -->
 
-## Let’s Relax Onsen
+## Let’s Relax Onsen (Thonglor)
 
 - **Location:** Let’s Relax Onsen and Spa is Thonglor is on the 5th floor of Grande Centre Point Sukhumvit 55 hotel, which is located in front of Soi Thong Lo 10.
 
@@ -253,6 +253,10 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 - **Wellness facilities:** In the common area, there are relaxing rooms (for sleeping), hot stonebed bath (for lying down on hot stonebed), and cool down room (set to 17~18°C).
 
 - [Read Poom’s review here.](https://www.facebook.com/phoomparin.mano/posts/pfbid0XhPQzV2QVRUtv5JLyRpDLqVdwPo8CpdcQSg6wUHXJKcnE8hGvCeeuoGs67SWYpnzl)
+
+## Let’s Relax Onsen (Lumphini)
+
+We haven’t been there yet, but [official photos](https://www.facebook.com/letsrelaxonsen/posts/pfbid022eDJCtAmpnChUGVzcrB76e28vuGKSq6QNbrWgsuZLu2CnM3DftYMmQN5gzcPSoddl) suggests that the place is bigger and has more facilities.
 
 # How to organize
 
