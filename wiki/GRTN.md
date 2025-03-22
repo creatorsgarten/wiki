@@ -87,7 +87,7 @@ grtnRedirects:
   singles: https://creatorsgarten.org/wiki/Singles
   sg-story: https://www.tldraw.com/r/-qW_91PuxbFMaDoWUqjUJ?v=0,0,1203,910&p=wS6uHF657Yy8Ia8hZh74D
   now: https://creatorsgarten.org/wiki/CurrentEvent
-  i/:serial: https://inventory.creatorsgarten.org/tags/:serial
+  i/:serial: https://creatorsgarten.org/inventory/:serial
   bkkjs21-cfs: https://www.eventpop.me/events/48968/application_forms/3230/applicants/new
   jsbkk/:code: https://www.eventpop.me/e/38704/javascript-bangkok-2-0-0?utf8=%E2%9C%93&discount_code=:code
   jsbkk-scholar: https://www.eventpop.me/events/38704-javascript-bangkok-2-0-0/application_forms/3527/applicants/new
@@ -106,8 +106,6 @@ grtnRedirects:
   twhh-caption: 'https://live-speech.vercel.app/view?backend=https://live-speech.lab.spacet.me&room=0193aa9b-6028-71d9-9b92-bf37d9ed63c5'
   fossasia: 'https://eventyay.com/e/4c0e0c27?code=Creatorsgarten_members'
 ---
-
-
 
 :::lead
 **grtn.org** is a URL short link website for [Creatorsgarten](https://creatorsgarten.org)'s assets.
