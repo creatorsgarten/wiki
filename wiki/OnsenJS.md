@@ -9,12 +9,12 @@ meetups:
 
   - date: "2019-01-11"
     name: "Onsen.js #3"
-    place: Let's Relax Onsen
+    place: Let's Relax Onsen (Thonglor)
     url: https://www.facebook.com/phoomparin.mano/posts/pfbid0XhPQzV2QVRUtv5JLyRpDLqVdwPo8CpdcQSg6wUHXJKcnE8hGvCeeuoGs67SWYpnzl
 
   - date: "2019-01-28"
     name: "Onsen.js #4"
-    place: Let's Relax Onsen
+    place: Let's Relax Onsen (Thonglor)
     url: https://www.facebook.com/dtinth/posts/pfbid02JTrhAurAUbTnx7bQpfVtcxf9VKQeMCX4UNPU7xJWSyh3a9hKC9jpGngxA4ya593ml
 
   - date: "2019-07-12"
@@ -49,16 +49,18 @@ meetups:
 
   - date: "2024-09-24"
     name: "Onsen.js #10"
-    place: Let's Relax Onsen
+    place: Let's Relax Onsen (Thonglor)
     url: https://www.facebook.com/photo.php?fbid=10222317121111089&set=a.1302432655084
 
   - date: "2024-12-02"
     name: "Onsen.js #11"
-    place: Let's Relax Onsen
+    place: Let's Relax Onsen (Thonglor)
     url: https://www.facebook.com/dtinth/posts/pfbid02nN83hpEbUWxZWjeK39sVVQrm4ykdMX23sFXd2gDgtQoRyWZ7uqqtLF961S5TUQG5l
 
-  - date: 'Scheduled'
+  - date: '2025-03-07'
     name: 'Onsen.js #12'
+    place: Let's Relax Onsen (Thonglor)
+    url: https://web.facebook.com/dtinth/posts/pfbid09BcZtXQzosb1znDZbPFMWtryj5FbcqiFw2EaAMy13Vm2QhxguR7hZeML5abCGWNwl
 
 # - date: 'Scheduled'
 #   name: ''
