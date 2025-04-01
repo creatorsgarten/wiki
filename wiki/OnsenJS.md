@@ -2,58 +2,58 @@
 image: https://usercontent.creatorsgarten.org/c/v1722960432/644c35a6802c02345887f156/onsenjs_aykwb1.webp # A group of smiling young people, dressed in similar gray outfits, posing together in what appears to be a lobby or common area of a building.
 title: Onsen.js
 meetups:
-  - date: "2019-01-04"
-    name: "Onsen.js"
+  - date: '2019-01-04'
+    name: 'Onsen.js'
     place: Yunomori Onsen
     url: https://www.facebook.com/phoomparin.mano/posts/pfbid02kK6QK8rF8sRpDjR6gMq1e9QxVMh9NdjtdkvcztL3Eb8i88r8PpgW3PKnwQ38aauLl
 
-  - date: "2019-01-11"
-    name: "Onsen.js #3"
+  - date: '2019-01-11'
+    name: 'Onsen.js #3'
     place: Let's Relax Onsen (Thonglor)
     url: https://www.facebook.com/phoomparin.mano/posts/pfbid0XhPQzV2QVRUtv5JLyRpDLqVdwPo8CpdcQSg6wUHXJKcnE8hGvCeeuoGs67SWYpnzl
 
-  - date: "2019-01-28"
-    name: "Onsen.js #4"
+  - date: '2019-01-28'
+    name: 'Onsen.js #4'
     place: Let's Relax Onsen (Thonglor)
     url: https://www.facebook.com/dtinth/posts/pfbid02JTrhAurAUbTnx7bQpfVtcxf9VKQeMCX4UNPU7xJWSyh3a9hKC9jpGngxA4ya593ml
 
-  - date: "2019-07-12"
-    name: "Onsen.js #6"
+  - date: '2019-07-12'
+    name: 'Onsen.js #6'
     place: PAÑPURI Onsen & Spa
     url: https://www.facebook.com/dtinth/posts/pfbid0JDYx4MEkT9itqqFfSpF1z85gxUzBcFBiCPKrjj33V3JexTTBCq2H5HkcjqF71puWl
 
-  - date: "2019-08-09"
-    name: "Onsen.js #7"
+  - date: '2019-08-09'
+    name: 'Onsen.js #7'
     place: PAÑPURI Onsen & Spa
     url: https://www.facebook.com/events/458938814945356/
 
-  - date: "2019-11-28"
+  - date: '2019-11-28'
     name: Pre-JSConf Japan Onsen.js
     place: Ooedo Onsen Monogatari, Odaiba, Tokyo, Japan
     url: https://www.facebook.com/photo/?fbid=10213345614029019&set=a.2784047494529
 
-  - date: "2024-03-11"
+  - date: '2024-03-11'
     name: Post-WordCamp Asia HotSpring.js
     place: Beitou Public Hotspring, Taipei, Taiwan
     url: https://web.facebook.com/dtinth/posts/pfbid0y2Kt7At3KGpsMbwH6ckepvbfgz9SDB7bjiEmB5kKz8YJjuLYpEZzwtTfBtTq6xMHl
 
-  - date: "2024-03-22"
-    name: "Onsen.js #8"
+  - date: '2024-03-22'
+    name: 'Onsen.js #8'
     place: PAÑPURI Onsen & Spa
     url: https://www.facebook.com/photo?fbid=2402955769891825&set=a.359894480864641
 
-  - date: "2024-07-11"
-    name: "Onsen.js #9"
+  - date: '2024-07-11'
+    name: 'Onsen.js #9'
     place: PAÑPURI Onsen & Spa
     url: https://web.facebook.com/photo?fbid=10221749709206146&set=a.1302432655084
 
-  - date: "2024-09-24"
-    name: "Onsen.js #10"
+  - date: '2024-09-24'
+    name: 'Onsen.js #10'
     place: Let's Relax Onsen (Thonglor)
     url: https://www.facebook.com/photo.php?fbid=10222317121111089&set=a.1302432655084
 
-  - date: "2024-12-02"
-    name: "Onsen.js #11"
+  - date: '2024-12-02'
+    name: 'Onsen.js #11'
     place: Let's Relax Onsen (Thonglor)
     url: https://www.facebook.com/dtinth/posts/pfbid02nN83hpEbUWxZWjeK39sVVQrm4ykdMX23sFXd2gDgtQoRyWZ7uqqtLF961S5TUQG5l
 
@@ -61,7 +61,6 @@ meetups:
     name: 'Onsen.js #12'
     place: Let's Relax Onsen (Thonglor)
     url: https://web.facebook.com/dtinth/posts/pfbid09BcZtXQzosb1znDZbPFMWtryj5FbcqiFw2EaAMy13Vm2QhxguR7hZeML5abCGWNwl
-
 # - date: 'Scheduled'
 #   name: ''
 ---
@@ -163,15 +162,15 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
   **Disclaimer:** This information may be inaccurate or out-of-date.
 
-  | Item           | Price |
-  | -------------- | ----: |
-  | Onsen day pass | 750 |
-  | Onsen + 60-min foot massage | 1400 |
-  | Onsen + 60-min Thai massage | 1350 |
-  | Onsen + 120-min Thai massage | 1800 |
-  | Onsen + 60-min aroma oil massage (※) | 1900 |
-  | Onsen + 60-min aroma oil massage + 60-min body scrub (※) | 3100 |
-  | Onsen + 60-min Dr.Spiller facial massage | 2200 |
+  | Item                                                     | Price |
+  | -------------------------------------------------------- | ----: |
+  | Onsen day pass                                           |   750 |
+  | Onsen + 60-min foot massage                              |  1400 |
+  | Onsen + 60-min Thai massage                              |  1350 |
+  | Onsen + 120-min Thai massage                             |  1800 |
+  | Onsen + 60-min aroma oil massage (※)                     |  1900 |
+  | Onsen + 60-min aroma oil massage + 60-min body scrub (※) |  3100 |
+  | Onsen + 60-min Dr.Spiller facial massage                 |  2200 |
 
   ※ For oil massage, must use Onsen before spa treatment (cannot re-enter Onsen after spa).
 
@@ -235,7 +234,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
   :::
 
-- **Massage:** There is a massage service available at the premises. For the menu, [check out the branch’s website](https://letsrelaxspa.com/th/branch/thonglo/). Thai has a WellnessMe member with 10% discount, so if he joins the event, you can ask him to use his membership to get a discount. Services over 800 THB comes with complimentary [mango and sticky rice](https://letsrelaxspa.com/experience/#:~:text=of%20our%20guests.-,Refreshing%20Flavors,-The%20final%20experience). Availability is limited, so advance booking is recommended. [Online bookings](https://booking.letsrelaxspa.com/book) must be made 24 hours in advance. You can [call the spa](<https://letsrelaxspa.com/th/branch/thonglo/#:~:text=%E0%B8%9E%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%99%E0%B9%8C-,%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD,-%3A%20%20%2B66%20(0>) or ask the on-site staff to check if booking in shorter time-frame is possible.
+- **Massage:** There is a massage service available at the premises. For the menu, [check out the branch’s website](https://letsrelaxspa.com/th/branch/thonglo/). Thai has a WellnessMe member with 10% discount, so if he joins the event, you can ask him to use his membership to get a discount. Services over 800 THB comes with complimentary [mango and sticky rice](https://letsrelaxspa.com/experience/#:~:text=of%20our%20guests.-,Refreshing%20Flavors,-The%20final%20experience). Availability is limited, so advance booking is recommended. [Online bookings](https://booking.letsrelaxspa.com/book) must be made 24 hours in advance. You can [call the spa](https://letsrelaxspa.com/th/branch/thonglo/#:~:text=%E0%B8%9E%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%99%E0%B9%8C-,%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD,-%3A%20%20%2B66%20(0) or ask the on-site staff to check if booking in shorter time-frame is possible.
 
   :::details[Thai’s favorite treatments]
 
@@ -258,7 +257,17 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 ## Let’s Relax Onsen (Lumphini)
 
-We haven’t been there yet, but [official photos](https://www.facebook.com/letsrelaxonsen/posts/pfbid022eDJCtAmpnChUGVzcrB76e28vuGKSq6QNbrWgsuZLu2CnM3DftYMmQN5gzcPSoddl) suggests that the place is bigger and has more facilities.
+- **Location:** Let's Relax Onsen Lumphini is located at the Grande Centre Point Sukhumvit 55 hotel. It is walkable from MRT Lumphini and is within a walking distance from One Bangkok and Goethe-Institut.
+
+- **Price and promotions:** Similar to Thonglor branch, a walk-in day pass costs 750 THB.
+
+- **Lobby and work area:** The lobby area is much more spacious than Thonglor branch. The work area includes eight chairs at the counter and ten chairs at the big table. The counter is equipped with AC outlets and USB-A outlets.
+
+- **Food menu:** The food menu is the same as the Thonglor branch.
+
+- **Pools and rooms:** The available pools and facilities are the same as the Thonglor branch: Gero Hot Spring bath, soda bath, whirlpool bath, cold bath, silk bath, sauna room, Kakeyu, and steam room. However, this branch is larger. For example, the whirlpool bath here has four seats and three standing slots compared to Thonglor's three seats and two standing slots.
+
+- **Unique features:** The Lumphini branch has larger pool sizes, more natural light in the onsen area (though the lobby area has no windows), and a much bigger relaxation area. Upon entrance, there is a slipper exchange room before the lobby with size M, L, and XL slippers available.
 
 # How to organize
 
