@@ -5,13 +5,16 @@ event:
   location: TBA
   date: "2025-07-26"
   endDate: "2025-07-27"
-  # Date is tentative, see [[OrganizerNotes/sht9|organizer notes]]
   # site:
   # eventpopId:
   unlisted: true # Remove this line when event is ready
   hosts:
     - Creatorsgarten
 ---
+
+:::warning
+Date is only a very rough tentative date and **is subject to change.**
+:::
 
 :::lead
 To be announced
