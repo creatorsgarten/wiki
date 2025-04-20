@@ -2,6 +2,7 @@
 
 # Brainstorming
 
+- Theme
 - Tentative dates
   - July 26-27
     - Concerns about long weekend (family/hometown commitments)
