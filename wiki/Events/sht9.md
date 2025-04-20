@@ -1,7 +1,7 @@
 ---
 image: https://user-images.githubusercontent.com/193136/236173173-755b513b-6398-46a7-9fcb-ced21153c094.png
 event:
-  name:
+  name: 'sht9'
   location: TBA
   date: "2025-07-26"
   endDate: "2025-07-27"
