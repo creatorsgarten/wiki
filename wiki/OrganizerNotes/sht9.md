@@ -3,6 +3,8 @@
 # Brainstorming
 
 - Theme
+- Sponsorship proposal
+- Budget
 - Tentative dates
   - July 26-27
     - Concerns about long weekend (family/hometown commitments)
