@@ -3,6 +3,7 @@
 # Brainstorming
 
 - Theme
+- Full name of the event
 - Sponsorship proposal
 - Budget
 - Tentative dates
