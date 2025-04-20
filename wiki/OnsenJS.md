@@ -1,6 +1,10 @@
 ---
 image: https://usercontent.creatorsgarten.org/c/v1722960432/644c35a6802c02345887f156/onsenjs_aykwb1.webp # A group of smiling young people, dressed in similar gray outfits, posing together in what appears to be a lobby or common area of a building.
 title: Onsen.js
+# Note to AI secretary:
+#   How this list works: When we schedule a new event, we add a new item at the end of the list.
+#   Due to our event format, we don't show the date and place of the next event. Date is simply "Scheduled". Name should be Onsen #N, where N is the next number in the sequence (unless otherwise specified).
+#   After the event, we update the date and place to the actual date, place, and a URL to the event.
 meetups:
   - date: '2019-01-04'
     name: 'Onsen.js'
@@ -61,8 +65,8 @@ meetups:
     name: 'Onsen.js #12'
     place: Let's Relax Onsen (Thonglor)
     url: https://web.facebook.com/dtinth/posts/pfbid09BcZtXQzosb1znDZbPFMWtryj5FbcqiFw2EaAMy13Vm2QhxguR7hZeML5abCGWNwl
-# - date: 'Scheduled'
-#   name: ''
+#   - date: 'Scheduled'
+#     name: ''
 ---
 
 :::lead
