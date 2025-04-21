@@ -273,6 +273,8 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 - **Unique features:** The Lumphini branch has larger pool sizes, more natural light in the onsen area (though the lobby area has no windows), and a much bigger relaxation area. Upon entrance, there is a slipper exchange room before the lobby with size M, L, and XL slippers available.
 
+- **Other amenities:** Although not related to the onsen, there is a restaurant on the rooftop of the hotel called [Level 50 by SEE FAH](https://grandecentrepointlumphini.com/th/dining/level-50-rooftop).
+
 # How to organize
 
 1. Find a friend who would like to go to an Onsen. Pick a date and place that’s convenient for both of you.
