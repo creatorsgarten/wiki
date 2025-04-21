@@ -104,7 +104,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 ## PAÑPURI Onsen & Spa
 
-- **Location:** PAÑPURI Onsen & Spa is at Gaysorn Tower, 12F. The closest BTS station is BTS Chid Lom.
+- **Location:** [PAÑPURI Onsen & Spa](https://panpuri.com/spa-onsen/wellness-destinations/wellness-gaysorn/) is at Gaysorn Tower, 12F. The closest BTS station is BTS Chid Lom.
 
 - **Price and promotions:** A day pass costs 750 THB and gives you access to the onsen from 10 AM to 10:45 PM. [There are occasional promotions on GoWabi where prices drop down to 690 THB (or 650 THB if you enter before 2 PM).](https://www.gowabi.com/th/provider/panpuri-wellness) Refer your friend and both you and your friend gets a 100 THB discount. If it’s your first time and you got no one to refer you, my referal code is `thai-5702366`.
 
