@@ -263,7 +263,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 - **Location:** [Let's Relax Onsen (Lumphini)](https://letsrelaxspa.com/branch/bangkok-onsenandspa-lumphini/) is located at the Grande Centre Point Sukhumvit 55 hotel. It is walkable from MRT Lumphini and is within a walking distance from One Bangkok and Goethe-Institut.
 
-- **Price and promotions:** Similar to Thonglor branch, a walk-in day pass costs 750 THB.
+- **Price and promotions:** Similar to [Thonglor branch](#lets-relax-onsen-thonglor), a walk-in day pass costs 750 THB.
 
 - **Lobby and work area:** The lobby area is much more spacious than Thonglor branch. The work area includes eight chairs at the counter and ten chairs at the big table. The counter is equipped with AC outlets and USB-A outlets.
 
