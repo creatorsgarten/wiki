@@ -1,5 +1,9 @@
 {% render 'EventBox', name: ref %}
 
+# Important links
+
+- [Outline collection](https://outline.creatorsgarten.org/collection/sht9-JNY5F7iz2h/recent)
+
 # Brainstorming
 
 - Theme
