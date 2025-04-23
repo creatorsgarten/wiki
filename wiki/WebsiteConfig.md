@@ -41,21 +41,25 @@ websiteConfig:
         url: /wiki
         icon: 'heroicons:book-open'
       - name: Outline
-        description: Internal knowledge base (similar to Notion)
+        description: Internal knowledge base
         url: https://outline.creatorsgarten.org
         image: https://assets.creatorsgarten.org/icons/Vendor_Outline.svg
       - name: Grist
-        description: Data base (similar to Airtable)
+        description: Database
         url: https://grist.creatorsgarten.org
         image: https://assets.creatorsgarten.org/icons/Vendor_Grist.svg
-      - name: Sign
-        description: Cryptographically sign a message
-        url: /dashboard/sign
-        icon: 'heroicons:document-check'
       - name: Rallly
         description: 'Scheduling poll to find a time for meeting or running an event.'
         url: 'https://scheduling.creatorsgarten.org/'
         image: https://assets.creatorsgarten.org/icons/Vendor_Rallly.svg
+      - name: Sign
+        description: Cryptographically sign a message
+        url: /dashboard/sign
+        icon: 'heroicons:document-check'
+      - name: Upload
+        description: Upload an image
+        url: /dashboard/upload
+        icon: 'heroicons:document-check'
   announcements:
     c:
       enabled: true
