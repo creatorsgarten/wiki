@@ -59,7 +59,7 @@ websiteConfig:
       - name: Upload
         description: Upload an image
         url: /dashboard/upload
-        icon: 'heroicons:document-check'
+        icon: 'heroicons:cloud-arrow-up'
   announcements:
     c:
       enabled: true
