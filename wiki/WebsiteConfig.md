@@ -43,7 +43,7 @@ websiteConfig:
       - name: Wiki
         description: Public knowledge base
         url: /wiki
-        image: https://assets.creatorsgarten.org/icons/Contentsgarten.svg
+        icon: 'heroicons:book-open'
       - name: Grist
         description: Spreadsheet + database hybrid
         url: https://grist.creatorsgarten.org
