@@ -65,8 +65,10 @@ meetups:
     name: 'Onsen.js #12'
     place: Let's Relax Onsen (Thonglor)
     url: https://web.facebook.com/dtinth/posts/pfbid09BcZtXQzosb1znDZbPFMWtryj5FbcqiFw2EaAMy13Vm2QhxguR7hZeML5abCGWNwl
-#   - date: 'Scheduled'
-#     name: ''
+  - date: 'Scheduled'
+    name: 'Onsen.js #13'
+    place: 
+    url: 
 ---
 
 :::lead
