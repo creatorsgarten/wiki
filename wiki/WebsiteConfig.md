@@ -36,16 +36,16 @@ websiteConfig:
         name: Creative Coding
   integrations:
     services:
-      - name: Outline
-        description: Internal knowledge base
-        url: https://outline.creatorsgarten.org
-        image: https://assets.creatorsgarten.org/icons/Vendor_Outline.svg
       - name: Wiki
         description: Public knowledge base
         url: /wiki
         icon: 'heroicons:book-open'
+      - name: Outline
+        description: Internal knowledge base (similar to Notion)
+        url: https://outline.creatorsgarten.org
+        image: https://assets.creatorsgarten.org/icons/Vendor_Outline.svg
       - name: Grist
-        description: Spreadsheet + database hybrid
+        description: Data base (similar to Airtable)
         url: https://grist.creatorsgarten.org
         image: https://assets.creatorsgarten.org/icons/Vendor_Grist.svg
       - name: Sign
