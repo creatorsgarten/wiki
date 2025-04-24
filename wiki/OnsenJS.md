@@ -269,6 +269,11 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 - **Lobby and work area:** The lobby area is much more spacious than Thonglor branch. The work area includes eight chairs at the counter and ten chairs at the big table. The counter is equipped with AC outlets and USB-A outlets.
 
+  | Area      | Chairs | AC Outlets | USB-A Outlets |
+  |-----------|--------|------------|---------------|
+  | Counter   | 8      | 4          | 4             |
+  | Big Table | 10     | 3          | 2             |
+
 - **Food menu:** The food menu is the same as the Thonglor branch.
 
 - **Pools and rooms:** The available pools and facilities are the same as the Thonglor branch: Gero Hot Spring bath, soda bath, whirlpool bath, cold bath, silk bath, sauna room, Kakeyu, and steam room. However, this branch is larger. For example, the whirlpool bath here has four seats and three standing slots compared to Thonglor's three seats and two standing slots.
