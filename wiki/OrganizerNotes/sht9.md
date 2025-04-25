@@ -3,6 +3,7 @@
 # Important links
 
 - [Outline collection](https://outline.creatorsgarten.org/collection/sht9-JNY5F7iz2h/recent)
+- [Figma team project](https://www.figma.com/files/team/1496602448127359795/project/372452724/Team-project?fuid=716269479577409038)
 
 # Brainstorming
 
