@@ -1,1 +1,1 @@
-This working group works on [[Events/sht9]]
+This working group works on {% render 'Event', name: 'sht9' %}
