@@ -1,5 +1,5 @@
 ---
-image: https://leomotors.me/leo_read_kob_book.webp
+image: https://usercontent.creatorsgarten.org/c/v1745582095/644c35a6802c02345887f156/leo_read_kob_book_frbsey.webp
 person:
   name: Leomotors
   intro: Software Engineer
