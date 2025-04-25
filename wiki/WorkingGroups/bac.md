@@ -1,0 +1,1 @@
+Working group for {% render 'Event', name: 'bac' %}.
