@@ -65,10 +65,10 @@ meetups:
     name: 'Onsen.js #12'
     place: Let's Relax Onsen (Thonglor)
     url: https://web.facebook.com/dtinth/posts/pfbid09BcZtXQzosb1znDZbPFMWtryj5FbcqiFw2EaAMy13Vm2QhxguR7hZeML5abCGWNwl
-  - date: 'Scheduled'
+  - date: '2025-04-24'
     name: 'Onsen.js #13'
-    place: 
-    url: 
+    place: Let's Relax Onsen (Lumphini)
+    url: https://www.facebook.com/dtinth/posts/pfbid0ogS3cGhEnfLXshX3r6tWCe2wkSyBBAUtwN5LrMS5SbezSfDxg6dF3QdyMB2tyAAml
 ---
 
 :::lead
