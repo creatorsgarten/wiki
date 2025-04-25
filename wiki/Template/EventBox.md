@@ -10,8 +10,15 @@ assign eventsWithVideos = 'wind2,bkkjs20,algorave,bkkjs19,github1,cssmeetup0823,
 {%- liquid
 for prefix in prefixes
   assign p = prefix | append: '/' | append: n | get_page
+  assign linkText = prefix
+  if prefix == 'OrganizerNotes'
+    assign linkText = 'Organizer Notes'
+  endif
+  if prefix == 'WorkingGroups'
+    assign linkText = 'Working Group'
+  endif
   if p.exists
-    echo ' &middot; [' | append: prefix | append: '](/wiki/' | append: p.ref | append: ')'
+    echo ' &middot; [' | append:linkText | append: '](/wiki/' | append: p.ref | append: ')'
   endif
 endfor
 if eventsWithVideos contains n
