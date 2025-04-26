@@ -22,11 +22,19 @@ When running a Creatorsgarten event, some image assets have to be prepared.
 
 - For Creatorsgarten’s logo and icon, see our [[brand assets]].
 
-# Eventpop
+# Examples
 
-![The image displays various templates for different types of social media content, including a poster, cover image, background image, and square image. Each template has a placeholder for the actual content, with labels indicating the purpose and dimensions of each type of content.](https://usercontent.creatorsgarten.org/c/v1745656883/644c35a6802c02345887f156/image_h4aqbi.webp)
+## Eventpop
 
 ![The image shows a web page with text indicating that poster image and background images can be changed, and the background color in the section can be chosen while text on that section can be either black or white.](https://usercontent.creatorsgarten.org/c/v1745656935/644c35a6802c02345887f156/image_fr8vqv.webp)
+
+# Uploading images
+
+## Eventpop
+
+In Eventpop, go to **Page Editor** and **Images**
+
+![The image displays various templates for different types of social media content, including a poster, cover image, background image, and square image. Each template has a placeholder for the actual content, with labels indicating the purpose and dimensions of each type of content.](https://usercontent.creatorsgarten.org/c/v1745656883/644c35a6802c02345887f156/image_h4aqbi.webp)
 
 # Examples
 
