@@ -1,5 +1,6 @@
 ---
-image: https://usercontent.creatorsgarten.org/c/v1722958462/644c35a6802c02345887f156/yufuin_uf0i9x.webp # A young man wearing a mask is holding a large, fluffy owl in a natural outdoor setting with lush greenery in the background.
+image: >-
+  https://usercontent.creatorsgarten.org/c/v1722958462/644c35a6802c02345887f156/yufuin_uf0i9x.webp
 person:
   name: Thai Pangsakulyanont
   intro: JavaScript musician
@@ -10,8 +11,10 @@ person:
   instagram: dtinth
   x: dtinth
   linkedin: dtinth
-  youtube: ['dtinth', 'flicknote']
-  site: https://dt.in.th/
+  youtube:
+    - dtinth
+    - flicknote
+  site: 'https://dt.in.th/'
 ---
 
 :::lead
