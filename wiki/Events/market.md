@@ -12,6 +12,9 @@ event:
     - chayapatr
   staff:
     - dtinth
+    - poom
+  speakers:
+    - boatchrnthn
 ---
 
 
