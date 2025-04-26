@@ -1,9 +1,8 @@
 ---
-image: >-
-  https://usercontent.creatorsgarten.org/c/v1722958462/644c35a6802c02345887f156/yufuin_uf0i9x.webp
+image: https://usercontent.creatorsgarten.org/c/v1722958462/644c35a6802c02345887f156/yufuin_uf0i9x.webp
 person:
   name: Thai Pangsakulyanont
-  intro: JavaScript musician
+  intro: JavaScript musician?????
   nickname: Thai
   nicknameTh: ไท
   github: dtinth
@@ -14,7 +13,7 @@ person:
   youtube:
     - dtinth
     - flicknote
-  site: 'https://dt.in.th/'
+  site: https://dt.in.th/
 ---
 
 :::lead
