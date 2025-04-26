@@ -1,5 +1,5 @@
 ---
-image: https://usercontent.creatorsgarten.org/c/v1723397012/644c35a6802c02345887f156/1200x1200_imervb.webp
+image: https://usercontent.creatorsgarten.org/c/v1745656961/644c35a6802c02345887f156/image_iqd4le.webp
 ---
 
 :::lead
