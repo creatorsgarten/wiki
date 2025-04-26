@@ -1,6 +1,6 @@
 {% liquid
 unless people
-assign people = '{"match":{"person"}}' | query_pages | sort: 'ref'
+  assign people = '{"match":{"person"}}' | query_pages | sort: 'ref'
 endunless
 %}
 <div class="people-grid">
