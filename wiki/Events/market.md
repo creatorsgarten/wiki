@@ -8,6 +8,10 @@ event:
   hosts:
     - Creatorsgarten
   eventpopId: 76456
+  leads:
+    - chayapatr
+  staff:
+    - dtinth
 ---
 
 
