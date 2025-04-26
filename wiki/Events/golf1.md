@@ -14,6 +14,7 @@ event:
     - poom
     - rayriffy
     - siravijbb
+    - chayapatr
 ---
 
 :::lead

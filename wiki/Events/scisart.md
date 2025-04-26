@@ -11,6 +11,8 @@ event:
     - poom
     - rayriffy
     - faypichaya
+  leads:
+    - chayapatr
 ---
 
 # 🔭 มองไสยศาสตร์มุมใหม่

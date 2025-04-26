@@ -11,6 +11,9 @@ event:
     - faypichaya
   speakers:
     - dtinth
+    - chayapatr
+  staff:
+    - chayapatr
 ---
 
 :::lead

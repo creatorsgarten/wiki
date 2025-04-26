@@ -11,6 +11,7 @@ event:
     - poom
   staff:
     - dtinth
+    - chayapatr
   speakers:
     - saltyaom
 ---

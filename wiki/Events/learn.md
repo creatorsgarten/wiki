@@ -8,8 +8,11 @@ event:
     - Creatorsgarten
   leads:
     - poom
+    - chayapatr
   staff:
     - faypichaya
+  speakers:
+    - chayapatr
 ---
 
 # About

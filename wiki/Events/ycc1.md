@@ -11,6 +11,7 @@ event:
     - dtinth
     - rayriffy
     - saltyaom
+    - chayapatr
   leads:
     - poom
     - chunrapeepat

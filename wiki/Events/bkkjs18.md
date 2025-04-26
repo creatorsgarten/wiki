@@ -12,6 +12,7 @@ event:
     - dtinth
     - poom
     - rayriffy
+    - chayapatr
   speakers:
     - rayriffy
 ---

@@ -12,6 +12,9 @@ event:
     - poom
     - rayriffy
     - saltyaom
+    - chayapatr
+  speakers:
+    - chayapatr
 ---
 
 # 👾 Hacktoberfest Thailand is Back!

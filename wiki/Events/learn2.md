@@ -20,6 +20,9 @@ event:
     - chanatpakorn
     - siravijbb
     - faypichaya
+    - chayapatr
+  speakers:
+    - chayapatr
   leads:
     - khxmjarx
 ---

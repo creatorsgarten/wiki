@@ -13,6 +13,9 @@ event:
     - poom
     - rayriffy
     - betich
+    - chayapatr
+  speakers:
+    - chayapatr
 ---
 
 :::lead

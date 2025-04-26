@@ -13,6 +13,7 @@ event:
   staff:
     - rayriffy
     - siravijbb
+    - chayapatr
 ---
 
 If you are using React, Vue, Svelte or other frontend frameworks, you might wonder how you can incorporate functional programming patterns and practices in your work.

@@ -11,6 +11,7 @@ event:
     - dtinth
     - chunrapeepat
     - saltyaom
+    - chayapatr
   leads:
     - poom
   speakers:

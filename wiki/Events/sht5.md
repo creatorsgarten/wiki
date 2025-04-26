@@ -16,6 +16,7 @@ event:
     - faypichaya
   leads:
     - chunrapeepat
+    - chayapatr
 ---
 
 # About

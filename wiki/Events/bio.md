@@ -9,8 +9,11 @@ event:
   eventpopId: 12712
   leads:
     - poom
+    - chayapatr
   staff:
     - faypichaya
+  speakers:
+    - chayapatr
 ---
 
 # About

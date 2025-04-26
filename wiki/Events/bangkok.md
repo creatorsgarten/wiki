@@ -19,6 +19,7 @@ event:
   leads:
     - poom
     - siravijbb
+    - chayapatr
 imageAssets:
   banner: https://usercontent.creatorsgarten.org/c/v1723397202/644c35a6802c02345887f156/bangkok-open-source-banner_ozx43w.webp
   poster: https://p-u.popcdn.net/event_details/posters/000/013/899/large/adeaf5c2b87558df381cd16e6564460ff8951304.png?1676531249

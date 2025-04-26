@@ -13,6 +13,7 @@ event:
     - dtinth
     - poom
     - betich
+    - chayapatr
 ---
 
 :::lead

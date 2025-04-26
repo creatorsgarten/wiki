@@ -20,6 +20,7 @@ event:
     - khxmjarx
     - siravijbb
     - saltyaom
+    - chayapatr
   leads:
     - betich
 imageAssets:

@@ -12,6 +12,8 @@ event:
     - poom
     - siravijbb
     - faypichaya
+  leads:
+    - chayapatr
 ---
 
 # About

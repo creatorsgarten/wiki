@@ -14,6 +14,7 @@ event:
   staff:
     - rayriffy
     - siravijbb
+    - chayapatr
 imageAssets:
   banner: https://im.dt.in.th/ipfs/bafybeide5mh67vvtz6ssbrqc3emfjgk3sostwgionpur2huqqteg4zminu/image.webp
   poster: https://p-u.popcdn.net/event_details/posters/000/014/949/large/a29bbc1687b1d4bd2111b3427d0a9344de7dc866.png?1681331255

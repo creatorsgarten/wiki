@@ -11,6 +11,8 @@ event:
     - dtinth
     - poom
     - rayriffy
+  leads:
+    - chayapatr
 ---
 
 # 👾 งาน Svelte Meetup ครั้งแรกในไทย!

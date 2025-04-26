@@ -17,6 +17,7 @@ event:
     - nacnano
     - patrickchodev
     - dtinth
+    - chayapatr
   speakers:
     - knightwitglasses
     - patrickchodev

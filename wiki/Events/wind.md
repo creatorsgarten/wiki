@@ -11,6 +11,7 @@ event:
   staff:
     - poom
     - siravijbb
+    - chayapatr
 ---
 
 # About

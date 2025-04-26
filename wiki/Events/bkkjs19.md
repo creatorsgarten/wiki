@@ -10,6 +10,7 @@ event:
   staff:
     - poom
     - boomchanotai
+    - chayapatr
   leads:
     - rayriffy
   speakers:

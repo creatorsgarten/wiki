@@ -14,6 +14,7 @@ event:
     - rayriffy
     - siravijbb
     - saltyaom
+    - chayapatr
 ---
 
 # About

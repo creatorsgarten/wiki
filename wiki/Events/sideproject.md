@@ -16,6 +16,7 @@ event:
     - chunrapeepat
     - rayriffy
     - khxmjarx
+    - chayapatr
 ---
 
 :::lead

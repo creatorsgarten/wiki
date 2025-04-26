@@ -11,6 +11,7 @@ event:
   staff:
     - dtinth
     - boatchrnthn
+    - chayapatr
   leads:
     - rayriffy
   speakers:

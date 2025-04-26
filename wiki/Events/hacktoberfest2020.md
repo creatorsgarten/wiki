@@ -11,7 +11,10 @@ event:
     - dtinth
     - rayriffy
     - boomchanotai
+    - chayapatr
     - saltyaom
+  speakers:
+    - chayapatr
   leads:
     - poom
 ---

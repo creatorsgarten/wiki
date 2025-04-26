@@ -9,6 +9,7 @@ event:
     - Creatorsgarten
   staff:
     - knightwitglasses
+    - chayapatr
   leads:
     - faypichaya
 ---

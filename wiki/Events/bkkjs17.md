@@ -16,6 +16,7 @@ event:
     - dtinth
   staff:
     - rayriffy
+    - chayapatr
 imageAssets:
   banner: https://im.dt.in.th/ipfs/bafybeidhp2xcezn2krnn5nrlrmavt63fy3a5k444w37gek5wf2y3myof5a/image.webp
   poster: https://p-u.popcdn.net/event_details/posters/000/013/900/large/f5892a5bff143ed3f3eb02005b2115eba0ec5460.png?1667028889

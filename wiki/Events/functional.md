@@ -9,6 +9,9 @@ event:
   eventpopId: 15089
   leads:
     - poom
+    - chayapatr
+  speakers:
+    - chayapatr
   staff:
     - rayriffy
     - siravijbb

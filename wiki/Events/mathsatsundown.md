@@ -15,6 +15,9 @@ event:
     - nak
     - boomchanotai
     - khxmjarx
+    - chayapatr
+  speakers:
+    - chayapatr
   leads:
     - anejung
     - chanatpakorn
