@@ -15,7 +15,8 @@ To add yourself to this list:
 
 1. Log in and go to your **Dashboard**.
 2. Open the **Profile & Connections** section.
-3. Fill in your public profile information and then **Save Profile**.
+3. Make sure you have connected your GitHub account and joined the creators team. The section will show you the requirements.
+4. Fill in your public profile information and then **Save Profile**.
 
 Currently, the Profile & Connections page only supports editing some properties (e.g. name, intro, nickname). To add more properties, please edit the wiki page directly.
 
