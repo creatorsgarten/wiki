@@ -3,11 +3,16 @@ image: https://usercontent.creatorsgarten.org/c/v1723397269/644c35a6802c02345887
 event:
   name: Hacktoberfest Thailand 2023
   location: Wisesight
-  date: "2023-10-21"
+  date: '2023-10-21'
   site: https://www.eventpop.me/e/16277/hacktoberfest-2023
   eventpopId: 16277
   hosts:
     - Creatorsgarten
+  staff:
+    - dtinth
+    - poom
+    - rayriffy
+    - betich
 ---
 
 :::lead

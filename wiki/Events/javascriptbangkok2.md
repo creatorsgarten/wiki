@@ -3,11 +3,20 @@ image: https://github.com/user-attachments/assets/4cb9e69e-8150-4214-b3c3-019c89
 event:
   name: JavaScript Bangkok 2.0.0
   location: True Digital Park West
-  date: "2024-10-19"
+  date: '2024-10-19'
   eventpopId: 38704
   hosts:
     - Software Developer Community
     - Creatorsgarten
+  staff:
+    - dtinth
+    - boatchrnthn
+  leads:
+    - rayriffy
+  speakers:
+    - boatchrnthn
+    - dtinth
+    - poom
 ---
 
 {% render 'EventBox', name: ref %}

@@ -2,10 +2,14 @@
 event:
   name: How to Learn (Almost) Anything
   location: The University of the Thai Chamber of Commerce
-  date: "2022-03-20"
+  date: '2022-03-20'
   site: https://www.facebook.com/events/932707297400495/
   hosts:
     - Creatorsgarten
+  leads:
+    - poom
+  staff:
+    - faypichaya
 ---
 
 # About

@@ -2,11 +2,20 @@
 event:
   name: Side Project Showdown
   location: Cleverse
-  date: "2023-07-21"
+  date: '2023-07-21'
   site: https://www.eventpop.me/e/15643
   eventpopId: 15643
   hosts:
     - Creatorsgarten
+  speakers:
+    - dtinth
+    - rayriffy
+  leads:
+    - poom
+  staff:
+    - chunrapeepat
+    - rayriffy
+    - khxmjarx
 ---
 
 :::lead

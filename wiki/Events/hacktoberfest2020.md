@@ -2,11 +2,18 @@
 event:
   name: Hacktoberfest Thailand 2020
   location: Seven Peaks
-  date: "2020-10-17"
+  date: '2020-10-17'
   site: https://www.eventpop.me/e/9912/hacktoberfest-bkk-2020
   hosts:
     - Creatorsgarten
   eventpopId: 9912
+  staff:
+    - dtinth
+    - rayriffy
+    - boomchanotai
+    - saltyaom
+  leads:
+    - poom
 ---
 
 # About

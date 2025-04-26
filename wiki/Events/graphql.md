@@ -2,10 +2,14 @@
 event:
   name: GraphQL Meetup 10.0
   location: Online
-  date: "2021-08-20"
+  date: '2021-08-20'
   site: https://www.facebook.com/events/568445057514250/568445060847583/
   hosts:
     - Creatorsgarten
+  leads:
+    - poom
+  speakers:
+    - saltyaom
 ---
 
 {% render 'EventBox', name: ref %}

@@ -2,13 +2,16 @@
 event:
   name: TypeScript Community Meetup
   location: Online
-  date: "2023-07-22"
+  date: '2023-07-22'
   site: https://www.eventpop.me/e/15673
   hosts:
     - Spark Tech Thailand
     - Creatorsgarten
     - TypeScript Thailand
   eventpopId: 15673
+  staff:
+    - rayriffy
+    - siravijbb
 ---
 
 {% render 'EventpopButton', id: page.event.eventpopId %}
@@ -21,12 +24,12 @@ TypeScript Community Meetup ประจำเดือนกรกฎาคม 
 
 ## Agenda
 
-| Time | Session |
-| - | - |
-| 13:30 | Welcome to TypeScript Community Meetup |
-| 13:45 | Advanced Generic |
+| Time  | Session                                                  |
+| ----- | -------------------------------------------------------- |
+| 13:30 | Welcome to TypeScript Community Meetup                   |
+| 13:45 | Advanced Generic                                         |
 | 14:30 | Easily publishing fully-typed dependency with confidence |
-| 15:15 | To be a dinosaur with Typescript on Deno |
-| 16:00 | TypeScript for DevOps |
-| 16:45 | แนะนำ TypeScript Thailand |
-| 17:00 | ปิด Live |
+| 15:15 | To be a dinosaur with Typescript on Deno                 |
+| 16:00 | TypeScript for DevOps                                    |
+| 16:45 | แนะนำ TypeScript Thailand                                |
+| 17:00 | ปิด Live                                                 |

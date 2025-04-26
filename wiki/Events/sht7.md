@@ -2,14 +2,26 @@
 event:
   name: The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand
   location: KX
-  date: "2023-06-24"
-  endDate: "2023-06-25"
+  date: '2023-06-24'
+  endDate: '2023-06-25'
   site: https://www.eventpop.me/s/sht7
   unlisted: false
   hosts:
     - Creatorsgarten
     - StupidHackTH
   eventpopId: 15113
+  staff:
+    - dtinth
+    - poom
+    - rayriffy
+    - anejung
+    - boomchanotai
+    - chanatpakorn
+    - khxmjarx
+    - siravijbb
+    - saltyaom
+  leads:
+    - betich
 imageAssets:
   cover: https://p-u.popcdn.net/event_details/covers/000/015/113/og_cover/3b574f21ff3773bc6bb5943c57d7c8e87fa3024c.jpg?1683443140
   poster: https://p-u.popcdn.net/event_details/posters/000/015/113/large/6bb3a1f126511f1fb445221c8a2071624020fce7.jpg?1683444258

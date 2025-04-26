@@ -2,12 +2,16 @@
 event:
   name: Marshmallow Campfire!
   location: The University of the Thai Chamber of Commerce
-  date: "2022-04-30"
-  endDate: "2022-05-01"
+  date: '2022-04-30'
+  endDate: '2022-05-01'
   site: https://www.eventpop.me/e/12752
   hosts:
     - Creatorsgarten
   eventpopId: 12752
+  staff:
+    - poom
+    - siravijbb
+    - faypichaya
 ---
 
 # About

@@ -3,12 +3,16 @@ image: https://usercontent.creatorsgarten.org/c/v1723397232/644c35a6802c02345887
 event:
   name: Coding colorful sounds
   location: Cleverse
-  date: "2023-09-22"
+  date: '2023-09-22'
   site: https://academy.chromatone.center/events/coding-colorful-sounds/
   eventpopId: 16101
   hosts:
     - Creatorsgarten
     - Chromatone
+  staff:
+    - dtinth
+    - poom
+    - betich
 ---
 
 :::lead

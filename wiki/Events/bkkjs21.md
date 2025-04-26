@@ -1,12 +1,14 @@
 ---
 event:
-  name: "BKK.JS #21"
+  name: 'BKK.JS #21'
   location: Cleverse
-  date: "2024-09-14"
+  date: '2024-09-14'
   site: https://www.eventpop.me/e/48968
   hosts:
     - Creatorsgarten
   eventpopId: 48968
+  leads:
+    - rayriffy
 image: https://raw.githubusercontent.com/creatorsgarten/assets/main/events/bkkjs21.png
 imageAssets:
   cover: 'https://p-u.popcdn.net/event_details/covers/000/048/968/og_cover/ad5fcff040d7c570cce7f69188b3fb51775937bc.png?1722844497'
@@ -58,15 +60,15 @@ Within 1 month, all sessions will be uploaded to [Creatorsgarten YouTube channel
 
 ## 🕐 ตารางเวลา / Timetables
 
-| เวลา / Time | รายการ / Session |
-| - | - |
-| 13:00 - 13:45 | ลงทะเบียน / Registration |
-| 13:45 - 14:00 | เปิดงาน / Opening |
-| 14:00 - 14:30 | **Session 1:** JavaScripts for Open-Source AI Developers in Nowadays |
+| เวลา / Time   | รายการ / Session                                                                             |
+| ------------- | -------------------------------------------------------------------------------------------- |
+| 13:00 - 13:45 | ลงทะเบียน / Registration                                                                     |
+| 13:45 - 14:00 | เปิดงาน / Opening                                                                            |
+| 14:00 - 14:30 | **Session 1:** JavaScripts for Open-Source AI Developers in Nowadays                         |
 | 14:30 - 15:00 | **Session 2:** The Future of Test Driven Development: How Modern Tools Are Changing the Game |
-| 15:00 - 15:15 | พักครึ่งเวลา / Break time |
-| 15:15 - 15:45 | **Session 3:** ฟีเจอร์ใหม่ใน Material UI v6 ที่ต้องรู้ |
-| 15:45 - 16:15 | **Session 4:** How to really start - open-source in a nutshell |
-| 16:15 - 16:30 | **Lighting Talk #1** |
-| 16:30 - 16:45 | **Lighting Talk #2** |
-| 16:45 - 17:00 | ปิดงาน และร่วมถ่ายรูป / Closing & Photos |
+| 15:00 - 15:15 | พักครึ่งเวลา / Break time                                                                    |
+| 15:15 - 15:45 | **Session 3:** ฟีเจอร์ใหม่ใน Material UI v6 ที่ต้องรู้                                       |
+| 15:45 - 16:15 | **Session 4:** How to really start - open-source in a nutshell                               |
+| 16:15 - 16:30 | **Lighting Talk #1**                                                                         |
+| 16:30 - 16:45 | **Lighting Talk #2**                                                                         |
+| 16:45 - 17:00 | ปิดงาน และร่วมถ่ายรูป / Closing & Photos                                                     |

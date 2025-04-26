@@ -2,11 +2,19 @@
 event:
   name: CodePlearn โค้ดเพลิน - Code, Play, and Learn!
   location: Premier Prep
-  date: "2019-01-19"
+  date: '2019-01-19'
   site: https://www.eventpop.me/e/4903/codeplearn
   hosts:
     - Creatorsgarten
   eventpopId: 4903
+  staff:
+    - dtinth
+    - chunrapeepat
+    - saltyaom
+  leads:
+    - poom
+  speakers:
+    - chunrapeepat
 ---
 
 # About

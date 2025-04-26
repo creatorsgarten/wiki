@@ -3,10 +3,14 @@ image: https://github.com/user-attachments/assets/fffd6c1c-5940-436b-9e91-de9ccb
 event:
   name: เศรษฐกิจเอไอกับโลกไร้งาน
   location: TK Park
-  date: "2024-08-04"
+  date: '2024-08-04'
   eventpopId: 38275
   hosts:
     - Creatorsgarten
+  leads:
+    - faypichaya
+  speakers:
+    - dtinth
 ---
 
 :::lead

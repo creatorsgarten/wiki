@@ -2,12 +2,22 @@
 event:
   name: Maths at Sundown
   location: Clazy Cafe
-  date: "2023-07-22"
+  date: '2023-07-22'
   site: https://www.eventpop.me/e/15629
   eventpopId: 15629
   unlisted: false
   hosts:
     - Creatorsgarten
+  staff:
+    - poom
+    - chunrapeepat
+    - rayriffy
+    - nak
+    - boomchanotai
+    - khxmjarx
+  leads:
+    - anejung
+    - chanatpakorn
 ---
 
 :::lead
@@ -46,12 +56,11 @@ Maths at Sundown เป็นงานเสวนาชิว ๆ แต่เ�
 
 # Schedule 🕟
 
-| Time | Agenda |
-| - | - |
-| 17:00 - 17:20 | open registration + chit chat with maths dudes and dudettes |
-| 17:20 - 17:30 | Introduction |
-| 17:30 - 18:15 | Session I History of Mathematics: คณิตศาสตร์ภาษามนุษย์ |
-| 18:15 - 19:00 | Session II Paradigms of Mathematics: คณิตศาสตร์อย่างที่ไม่ควรจะเป็น |
+| Time          | Agenda                                                                                                                      |
+| ------------- | --------------------------------------------------------------------------------------------------------------------------- |
+| 17:00 - 17:20 | open registration + chit chat with maths dudes and dudettes                                                                 |
+| 17:20 - 17:30 | Introduction                                                                                                                |
+| 17:30 - 18:15 | Session I History of Mathematics: คณิตศาสตร์ภาษามนุษย์                                                                      |
+| 18:15 - 19:00 | Session II Paradigms of Mathematics: คณิตศาสตร์อย่างที่ไม่ควรจะเป็น                                                         |
 | 19:00 - 19:45 | Session III Doing of Mathematics, Logic and Art of Forgetting Details: วิถีคณิตศาสตร์ ตรรกะ และ ศิลปะของการหลงลืมรายละเอียด |
-| 19:45 - 20:30 | Chit chat with maths dudes and dudettes |
-
+| 19:45 - 20:30 | Chit chat with maths dudes and dudettes                                                                                     |

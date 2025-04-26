@@ -2,13 +2,18 @@
 event:
   name: GitHub Community Meetup
   location: Cleverse
-  date: "2023-08-31"
+  date: '2023-08-31'
   site: https://www.eventpop.me/e/16004
   hosts:
     - Spark Tech Thailand
     - Creatorsgarten
     - GitHub Community Thailand
   eventpopId: 16004
+  speakers:
+    - dtinth
+    - rayriffy
+  staff:
+    - rayriffy
 ---
 
 {% render 'EventpopButton', id: page.event.eventpopId %}
@@ -25,11 +30,11 @@ GitHub Community Meetup ประจำเดือนสิงหาคม 2566
 
 ## Agenda
 
-| Time | Session |
-| - | - |
-| 19:00 | ลงทะเบียน |
-| 19:30 | Welcome to GitHub Community Meetup |
-| 19:45 | Thailand General Election 2023 website optimization with GitHub |
+| Time  | Session                                                          |
+| ----- | ---------------------------------------------------------------- |
+| 19:00 | ลงทะเบียน                                                        |
+| 19:30 | Welcome to GitHub Community Meetup                               |
+| 19:45 | Thailand General Election 2023 website optimization with GitHub  |
 | 20:15 | Using GitHub as a database for rich content and video processing |
-| 20:45 | แนะนำงาน GitHub Universe และ GitHub Community |
-| 21:30 | ปิดงานและ Networking |
+| 20:45 | แนะนำงาน GitHub Universe และ GitHub Community                    |
+| 21:30 | ปิดงานและ Networking                                             |

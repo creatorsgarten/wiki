@@ -1,13 +1,16 @@
 ---
 event:
-  name: "VS Code Day 2023 - Thailand"
+  name: 'VS Code Day 2023 - Thailand'
   location: Online
-  date: "2023-05-06"
+  date: '2023-05-06'
   site: https://www.eventpop.me/e/15044/vs-code-day-2023-thailand
   hosts:
     - Creatorsgarten
     - SparkTechThailand
   eventpopId: 15113
+  staff:
+    - dtinth
+    - rayriffy
 ---
 
 VS Code Day โดย Thailand Community Leaders โดยการสนับสนุนของ Microsoft

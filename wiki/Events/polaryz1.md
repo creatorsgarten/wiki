@@ -1,13 +1,15 @@
 ---
 event:
-  name: "Polaryz Camp #1"
+  name: 'Polaryz Camp #1'
   location: At Samat District
-  date: "2022-04-21"
-  endDate: "2022-04-25"
+  date: '2022-04-21'
+  endDate: '2022-04-25'
   site: https://www.instagram.com/polaryz.club/
   hosts:
     - Creatorsgarten
     - Polaryz
+  staff:
+    - poom
 ---
 
 # Highlights

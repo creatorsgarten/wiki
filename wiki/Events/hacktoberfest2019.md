@@ -2,11 +2,18 @@
 event:
   name: Hacktoberfest Open Hack Day BKK 2019
   location: Thoughtworks
-  date: "2019-10-19"
+  date: '2019-10-19'
   site: https://www.eventpop.me/e/7013
   hosts:
     - Creatorsgarten
   eventpopId: 7013
+  leads:
+    - dtinth
+  staff:
+    - poom
+    - rayriffy
+    - siravijbb
+    - saltyaom
 ---
 
 # About

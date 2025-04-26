@@ -2,11 +2,15 @@
 event:
   name: Biological Aesthetic of Nature, and How to Remain Curious Under Oppressive Education
   location: The Jam Factory
-  date: "2022-05-05"
+  date: '2022-05-05'
   site: https://www.eventpop.me/e/12712
   hosts:
     - Creatorsgarten
   eventpopId: 12712
+  leads:
+    - poom
+  staff:
+    - faypichaya
 ---
 
 # About

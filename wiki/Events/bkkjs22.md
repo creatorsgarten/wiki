@@ -1,15 +1,17 @@
 ---
+image: https://assets.creatorsgarten.org/events/bkkjs22.png
 event:
-  name: "BKK.JS #22"
+  name: 'BKK.JS #22'
   location: Agoda
-  date: "2025-02-19"
+  date: '2025-02-19'
   unlisted: false
   site: https://www.eventpop.me/e/74938
   hosts:
     - Creatorsgarten
     - Agoda Tech
   eventpopId: 74938
-image: https://assets.creatorsgarten.org/events/bkkjs22.png
+  leads:
+    - rayriffy
 ---
 
 :::lead
@@ -50,16 +52,16 @@ Within one month after the event, all sessions will be uploaded and available fo
 
 6:30PM - **Registration**
 
-6:45PM - **Opening Talk** – *TBA*
+6:45PM - **Opening Talk** – _TBA_
 
-7:00PM - **Session 1: Write Less, Achieve More: How to build a living document with Cucumber JS and PACT** – *Supat Lertsirigorn*
+7:00PM - **Session 1: Write Less, Achieve More: How to build a living document with Cucumber JS and PACT** – _Supat Lertsirigorn_
 
-7:30PM - **Session 2: Make Pull Requests Great Again with Background Jobs using Trigger.dev NodeJS SDK** – *Tobias Meixner*
+7:30PM - **Session 2: Make Pull Requests Great Again with Background Jobs using Trigger.dev NodeJS SDK** – _Tobias Meixner_
 
 8:00PM - **Intermission**
 
-8:15PM - **Session 3: My RAG AI Isn’t That Hard to Build!** – *Jirachai Chansivanon*
+8:15PM - **Session 3: My RAG AI Isn’t That Hard to Build!** – _Jirachai Chansivanon_
 
-8:45PM - **Closing Talk & Giveaways** – *TBA*
+8:45PM - **Closing Talk & Giveaways** – _TBA_
 
 9:00PM - **Photo & Networking**

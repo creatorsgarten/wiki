@@ -2,11 +2,18 @@
 event:
   name: Creative Coding Meetup
   location: Cleverse
-  date: "2023-05-03"
+  date: '2023-05-03'
   site: https://www.eventpop.me/e/14949/creative-coding-meetup
   hosts:
     - Creatorsgarten
   eventpopId: 14949
+  leads:
+    - dtinth
+  speakers:
+    - dtinth
+  staff:
+    - rayriffy
+    - siravijbb
 imageAssets:
   banner: https://im.dt.in.th/ipfs/bafybeide5mh67vvtz6ssbrqc3emfjgk3sostwgionpur2huqqteg4zminu/image.webp
   poster: https://p-u.popcdn.net/event_details/posters/000/014/949/large/a29bbc1687b1d4bd2111b3427d0a9344de7dc866.png?1681331255

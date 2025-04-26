@@ -1,11 +1,16 @@
 ---
 event:
-  name: "Code in the Wind #1"
+  name: 'Code in the Wind #1'
   location: Online
-  date: "2022-05-17"
+  date: '2022-05-17'
   site: https://showdown.space/events/code-in-the-wind-1/
   hosts:
     - showdown.space
+  leads:
+    - dtinth
+  staff:
+    - poom
+    - siravijbb
 ---
 
 # About

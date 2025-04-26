@@ -1,12 +1,24 @@
 ---
 event:
   location: BITEC Bangna, Cleverse, DISTRICTX, ZillaSpace
-  date: "2023-02-19"
+  date: '2023-02-19'
   site: https://www.eventpop.me/s/bangkok
   hosts:
     - Creatorsgarten
   name: Bangkok Open Source Hackathon
   eventpopId: 13899
+  staff:
+    - dtinth
+    - rayriffy
+    - betich
+    - anejung
+    - khxmjarx
+    - siravijbb
+    - saltyaom
+    - faypichaya
+  leads:
+    - poom
+    - siravijbb
 imageAssets:
   banner: https://usercontent.creatorsgarten.org/c/v1723397202/644c35a6802c02345887f156/bangkok-open-source-banner_ozx43w.webp
   poster: https://p-u.popcdn.net/event_details/posters/000/013/899/large/adeaf5c2b87558df381cd16e6564460ff8951304.png?1676531249

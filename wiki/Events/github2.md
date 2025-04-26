@@ -2,13 +2,15 @@
 event:
   name: GitHub Community Meetup
   location: AreaX
-  date: "2023-10-18"
+  date: '2023-10-18'
   site: https://www.eventpop.me/e/16434
   hosts:
     - Spark Tech Thailand
     - Creatorsgarten
     - GitHub Community Thailand
   eventpopId: 16434
+  staff:
+    - rayriffy
 ---
 
 {% render 'EventpopButton', id: page.event.eventpopId %}
@@ -27,12 +29,12 @@ GitHub Community Meetup ประจำเดือนตุลาคม 2566 �
 
 ## Agenda
 
-| Time | Session |
-| - | - |
-| 19:00 | ลงทะเบียน |
-| 19:30 | Welcome to GitHub Community Meetup |
-| 19:45 | Automate your workflow with GitHub Actions |
-| 20:15 | GitHub Copilot and Codespaces Fundamentals |
+| Time  | Session                                                                                                                            |
+| ----- | ---------------------------------------------------------------------------------------------------------------------------------- |
+| 19:00 | ลงทะเบียน                                                                                                                          |
+| 19:30 | Welcome to GitHub Community Meetup                                                                                                 |
+| 19:45 | Automate your workflow with GitHub Actions                                                                                         |
+| 20:15 | GitHub Copilot and Codespaces Fundamentals                                                                                         |
 | 20:45 | แนะนำงาน Microsoft Ignite + GitHub Universe และการเข้าร่วมกิจกรรม 30 Days to Learn It เพื่ออัปสกิลและรับส่วนลด 50% สำหรับสิทธิ์สอบ |
-| 21:00 | ปิดงานและถ่ายรูปร่วมกัน |
-| 21:30 | Networking |
+| 21:00 | ปิดงานและถ่ายรูปร่วมกัน                                                                                                            |
+| 21:30 | Networking                                                                                                                         |

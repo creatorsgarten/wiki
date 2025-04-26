@@ -1,12 +1,14 @@
 ---
 event:
-  name: "Data Driven Love #2"
+  name: 'Data Driven Love #2'
   location: CODE CRAFT
-  date: "2023-02-09"
+  date: '2023-02-09'
   site: https://www.eventpop.me/s/love
   hosts:
     - Creatorsgarten
   eventpopId: 14550
+  leads:
+    - poom
 ---
 
 งาน Data Driven Love ครั้งที่ 2 กลับมาอีกครั้ง วันพฤหัสที่ 9 กุมภาพันธ์ 2023 💜

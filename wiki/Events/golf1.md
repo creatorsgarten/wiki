@@ -1,13 +1,19 @@
 ---
 event:
-  name: "Code Golf Party #1"
+  name: 'Code Golf Party #1'
   location: Copper Bar
-  date: "2022-08-26"
+  date: '2022-08-26'
   site: https://showdown.space/events/code-golf-party-1
   hosts:
     - showdown.space
     - Creatorsgarten
   eventpopId: 13449
+  leads:
+    - dtinth
+  staff:
+    - poom
+    - rayriffy
+    - siravijbb
 ---
 
 :::lead
