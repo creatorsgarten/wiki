@@ -28,6 +28,12 @@ When running a Creatorsgarten event, some image assets have to be prepared.
 
 ![The image shows a web page with text indicating that poster image and background images can be changed, and the background color in the section can be chosen while text on that section can be either black or white.](https://usercontent.creatorsgarten.org/c/v1745656935/644c35a6802c02345887f156/image_fr8vqv.webp)
 
+## Facebook
+
+![The image displays a Facebook event thumbnail with dimensions of 1200x628 pixels, labeled "Social Sharing" against a solid blue background.](https://usercontent.creatorsgarten.org/c/v1745657294/644c35a6802c02345887f156/image_st8yzx.webp)
+
+![When viewing the Facebook event list, the image is cropped](https://usercontent.creatorsgarten.org/c/v1745657244/644c35a6802c02345887f156/image_ntjnne.webp)
+
 # Uploading images
 
 ## Eventpop
