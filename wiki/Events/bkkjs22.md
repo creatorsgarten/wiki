@@ -12,6 +12,13 @@ event:
   eventpopId: 74938
   leads:
     - rayriffy
+  staff:
+    - leomotors
+    - boomchanotai
+    - khxmjarx
+    - dtinth
+    - siravijbb
+    - chayapatr
 ---
 
 :::lead
