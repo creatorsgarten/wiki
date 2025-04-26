@@ -1,8 +1,8 @@
 ---
-image: https://usercontent.creatorsgarten.org/c/v1722959819/644c35a6802c02345887f156/chayapatr_yble51.webp # A person with short dark hair and glasses is standing in a dimly lit room, their expression serious and focused.
+image: https://usercontent.creatorsgarten.org/c/v1745671796/644c35a6802c02345887f156/DSC01692_-_Chayapatr_Archiwaranguprok_afkiim.webp # A smiling young person with short dark hair and glasses against a dark background.
 person:
   name: Chayapatr Archiwaranguprok
-  intro: I (write codes)'
+  intro: "It's too bad she won't live. But then again, who does!"
   nickname: Pub
   nicknameTh: ปั๊บ
   github: chayapatr
