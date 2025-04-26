@@ -13,6 +13,7 @@ event:
   staff:
     - dtinth
     - poom
+    - papatsryok
   speakers:
     - boatchrnthn
 ---
