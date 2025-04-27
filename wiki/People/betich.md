@@ -9,7 +9,7 @@ person:
   instagram: ttthhheeeeeeeee
   x: betichhh
   facebook: panithi.makthiengtrong
-  linkedin: panithi-makthiengtrong-80365a205
+  linkedin: betich
   youtube: 'betich8740'
   site: https://betich.me
 ---
