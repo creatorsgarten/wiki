@@ -1,3 +1,9 @@
+:::lead
+Our [event pages](/events) feature a list of contributors for each event. If you have a public profile on our [[people]] page, your profile will also show which events you have contributed to.
+:::
+
+This system is relatively new, so the information can be incomplete, especially for older events. If you notice your information missing from an event’s contributor list, you can add yourself by following the instructions below.
+
 # How to Add Yourself as an Event Contributor
 
 If you contributed to an event but your picture is missing from the contributor list, you can add yourself by following these steps:
