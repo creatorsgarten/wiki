@@ -45,6 +45,10 @@ person:
 image: https://usercontent.creatorsgarten.org/path/to/your/uploaded-image.png
 ```
 
+## Adding Yourself to Event Contributor List
+
+See [[EventContributorList]] page for more info on how to do that.
+
 # Profile Schema
 
 Your profile page uses the following schema in the front matter:
