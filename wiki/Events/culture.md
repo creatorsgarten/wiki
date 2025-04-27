@@ -14,6 +14,9 @@ event:
   leads:
     - poom
     - chayapatr
+  speakers:
+    - poom
+    - chayapatr
 ---
 
 :::lead
