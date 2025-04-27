@@ -11,7 +11,9 @@ assign slug = person.ref | split: '/' | last
 
 # How to Add Yourself
 
-To add yourself to this list:
+You can add yourself to this list by **creating a public profile.**
+
+## Creating a Public Profile
 
 1. Log in and go to your **Dashboard**.
 2. Select the **Profile & Connections** section.
