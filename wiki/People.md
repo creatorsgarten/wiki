@@ -22,6 +22,8 @@ You can add yourself to this list by **creating a public profile.**
 
 Currently, the Profile & Connections page only supports editing some properties (e.g. name, intro, nickname). To add more properties, please edit the wiki page directly.
 
+**If you need any help,** please feel free to ask for assistance in [our GitHub Discussions help category](https://github.com/orgs/creatorsgarten/discussions/categories/help).
+
 ## Adding Social Links
 
 To add social links (such as GitHub, Instagram, X, Facebook, LinkedIn, YouTube, or your website), edit your profile’s wiki page. In the `person` object, add the relevant property. Each property can be a single string or an array of strings, for example:
