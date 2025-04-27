@@ -11,6 +11,9 @@ event:
     - Pichet Klunchun Dance Company
     - TK Park
   eventpopId: 70879
+  leads:
+    - poom
+    - chayapatr
 ---
 
 :::lead
