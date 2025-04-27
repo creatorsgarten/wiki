@@ -73,3 +73,5 @@ By distributing decision-making and authority across a team without a single per
 Overall, the MC/OD model offers a unique and innovative approach to event or camp management that can lead to more engaged staff and attendees, as well as more successful and well-executed events or camps.
 
 :::
+
+- <https://www.facebook.com/hashtag/ycc101> - YCC101 tasked people with writing a write up about what they learn about this system. May be good for gaining perspectives.
