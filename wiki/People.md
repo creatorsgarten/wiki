@@ -3,11 +3,11 @@ unless people
   assign people = '{"match":{"person":true}}' | query_pages | sort: 'ref'
 endunless
 %}
-| Slug | Name |
+| Username | Name |
 | ----- | ---- |{% for person in people %}{% liquid
 assign slug = person.ref | split: '/' | last
 %}
-| [[People/{{slug}}]] | **{{person.data.person.name}} ({{person.data.person.nicknameTh}}),** {{person.data.person.intro}} |{% endfor %}
+| {% render 'Person', name: slug %} | **{{person.data.person.name}} ({{person.data.person.nicknameTh}}),** {{person.data.person.intro}} |{% endfor %}
 
 # How to Add Yourself
 
