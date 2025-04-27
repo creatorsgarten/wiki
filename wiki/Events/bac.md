@@ -9,6 +9,13 @@ event:
   hosts:
     - Creatorsgarten
     - showdown.space
+  leads:
+    - dtinth
+  staff:
+    - poom
+    - leomotors
+    - khxmjarx
+    - patrickchodev
 ---
 
 :::lead
