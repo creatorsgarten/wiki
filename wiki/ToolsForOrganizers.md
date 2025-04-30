@@ -14,6 +14,8 @@ Here are the tools we use for effective team communication and knowledge managem
 
 ## Outline
 
+![](https://usercontent.creatorsgarten.org/c/v1746034295/644c35a6802c02345887f156/image_qsb1vy.webp)
+
 - Internal wiki powered by [Outline](https://www.getoutline.com/) with single sign-on via Creatorsgarten accounts
 - Team members can simply log in with their Creatorsgarten.org accounts and be automatically added to the team workspace
 - Team members can be invited to collaborate inside Outline effortlessly without having to ask for email addresses
@@ -26,6 +28,8 @@ Here are the tools we use for effective team communication and knowledge managem
 - Features real-time collaboration
 
 ## Wiki
+
+![](https://usercontent.creatorsgarten.org/c/v1746034235/644c35a6802c02345887f156/21167ffe-4216-4c2a-8e9c-a8814713dd2b_javo8c.webp)
 
 - Our public knowledge base that follows the [[public by default]] principle
 - Powered by [Contentsgarten](https://github.com/creatorsgarten/contentsgarten), our custom wiki engine
@@ -40,11 +44,15 @@ Here are the tools we use for effective team communication and knowledge managem
 
 ## Rallly
 
+![](https://usercontent.creatorsgarten.org/c/v1746034327/644c35a6802c02345887f156/image_dovlmk.webp)
+
 - Scheduling tool for team coordination powered by [Rallly](https://rallly.co/)
 - Used to create polls to find the best date and time for all participants
 - Helps simplify the process of scheduling meetings and events
 
 ## Grist
+
+![](https://usercontent.creatorsgarten.org/c/v1746034372/644c35a6802c02345887f156/image_fzhuwd.webp)
 
 - Spreadsheet-like database powered by [Grist](https://getgrist.com/) for storing event information in tabular format
 - Provides a simple API to access the data
@@ -59,6 +67,8 @@ We use Grist in multiple ways:
 - We also use it to track our [[Inventory]] of equipment and assets
 
 ## Working Groups
+
+![The image displays a list of members in a working group, including their names and profile pictures, against a plain white background.](https://usercontent.creatorsgarten.org/c/v1746034411/644c35a6802c02345887f156/image_om8csp.webp)
 
 - A system to maintain a directory of people involved in organizing an event
 - Provides a centralized system for member information and collaboration
