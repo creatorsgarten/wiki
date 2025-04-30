@@ -62,7 +62,7 @@ Here are the tools we use for effective team communication and knowledge managem
 - See the [[Grist]] page for more details
 - To access, go to your **Dashboard** then select **Grist**
   - Note that when you first sign in to Grist, you will not have any access until you get invited into a workspace
-  - Check out the [Grist] page for how to request access
+  - Check out the [[Grist]] page for how to request access
 
 We use Grist in multiple ways:
 
