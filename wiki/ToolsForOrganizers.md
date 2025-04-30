@@ -26,6 +26,7 @@ Here are the tools we use for effective team communication and knowledge managem
   - Internal documents
   - Sponsor information that needs to be shared externally
 - Features real-time collaboration
+- To access, go to your **Dashboard** then select **Outline**
 
 ## Wiki
 
@@ -41,6 +42,7 @@ Here are the tools we use for effective team communication and knowledge managem
   - Public organizer notes
   - FAQ pages
   - Post-event documentation
+- To access, go to **Wiki** section
 
 ## Rallly
 
@@ -49,6 +51,7 @@ Here are the tools we use for effective team communication and knowledge managem
 - Scheduling tool for team coordination powered by [Rallly](https://rallly.co/)
 - Used to create polls to find the best date and time for all participants
 - Helps simplify the process of scheduling meetings and events
+- To access, go to your **Dashboard** then select **Rallly**
 
 ## Grist
 
@@ -57,6 +60,9 @@ Here are the tools we use for effective team communication and knowledge managem
 - Spreadsheet-like database powered by [Grist](https://getgrist.com/) for storing event information in tabular format
 - Provides a simple API to access the data
 - See the [[Grist]] page for more details
+- To access, go to your **Dashboard** then select **Grist**
+  - Note that when you first sign in to Grist, you will not have any access until you get invited into a workspace
+  - Check out the [Grist] page for how to request access
 
 We use Grist in multiple ways:
 
