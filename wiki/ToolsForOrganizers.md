@@ -14,8 +14,8 @@ Here are the tools we use for effective team communication and knowledge managem
 
 ## Outline
 
-- Internal wiki integrated with our authentication system
-- People can sign in with their Creatorsgarten account, and once they have signed in, they automatically get added to the team
+- Internal wiki powered by [Outline](https://www.getoutline.com/) with single sign-on via Creatorsgarten accounts
+- Team members can simply log in with their Creatorsgarten.org accounts and be automatically added to the team workspace
 - Team members can be invited to collaborate inside Outline effortlessly without having to ask for email addresses
 - Similar to Notion in functionality
 - Used for:
@@ -28,6 +28,7 @@ Here are the tools we use for effective team communication and knowledge managem
 ## Wiki
 
 - Our public knowledge base that follows the [[public by default]] principle
+- Powered by [Contentsgarten](https://github.com/creatorsgarten/contentsgarten), our custom wiki engine
 - Used for long-term storage of event information
 - We document:
   - Event details and agendas
@@ -39,14 +40,15 @@ Here are the tools we use for effective team communication and knowledge managem
 
 ## Rallly
 
-- Scheduling tool for team coordination
+- Scheduling tool for team coordination powered by [Rallly](https://rallly.co/)
 - Used to create polls to find the best date and time for all participants
 - Helps simplify the process of scheduling meetings and events
 
 ## Grist
 
-- Spreadsheet-like database for storing event information in tabular format
+- Spreadsheet-like database powered by [Grist](https://getgrist.com/) for storing event information in tabular format
 - Provides a simple API to access the data
+- See the [[Grist]] page for more details
 
 We use Grist in multiple ways:
 
@@ -80,25 +82,27 @@ Tools that help us promote and manage our events:
 
 ## Thai Tech Calendar
 
-- A public calendar ([[ThaiTechCalendar]]) open to anyone, inside and outside Creatorsgarten
+- A public calendar open to anyone, inside and outside Creatorsgarten
 - We mark tentative events as [TBC] to let other organizers know we intend to host an event
 - Helps with coordination across the tech community
+- See the [[ThaiTechCalendar]] page for more details
 
 ## Social Media Accounts
 
 - For event promotion, we grant access to our social media accounts to team members in charge of PR
 - Follows our decentralized approach to event organization
+- See [[DigitalPresence]] for more details
 
 ## Eventpop
 
-- Our primary event registration and ticketing platform
+- Our primary event registration and ticketing platform powered by [Eventpop](https://www.eventpop.me/)
 - The person in charge of event registration is given access to the Creatorsgarten Eventpop organization
 - Organizers can create events, ticket types, and manage registrations
 - See our [[TicketingTips]] page for best practices on reducing no-show rates and effectively managing free event registrations
 
 ## Eventpop Check-in App
 
-- Mobile application used by staff to check in attendees on the day of the event
+- Mobile application by [Eventpop](https://creators.eventpop.me/en/articles/3067981) used by staff to check in attendees on the day of the event
 - Streamlines the registration process
 
 # Developer Platform
