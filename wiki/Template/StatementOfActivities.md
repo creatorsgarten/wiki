@@ -6,9 +6,19 @@
 </tr>
 </thead>
 <tbody>
-{% for item in data.income %}<tr>
+{%- assign total = 0 -%}
+{%- for item in data.income -%}
+<tr>
   <td>{{ item.label }}</td>
   <td style="text-align:right">{{ item.amount | round: 2 | comma_separated }}</td>
-</tr>{% endfor %}
+  {%- assign total = total | plus: item.amount -%}
+</tr>
+{%- endfor -%}
+<tfoot>
+<tr>
+  <td>Total Income</td>
+  <td style="text-align:right">{{ total | round: 2 | comma_separated }}</td>
+</tr>
+</tfoot>
 </tbody>
 </table>
