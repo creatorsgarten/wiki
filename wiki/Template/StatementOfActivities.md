@@ -16,8 +16,8 @@
 {%- endfor -%}
 <tfoot>
 <tr>
-  <td>Total Income</td>
-  <td style="text-align:right">{{ total | round: 2 | comma_separated }}</td>
+  <th>Total Income</th>
+  <th style="text-align:right">{{ total | round: 2 | comma_separated }}</th>
 </tr>
 </tfoot>
 </tbody>
