@@ -27,4 +27,4 @@ statementOfActivities:
 
 # Financials
 
-{% render 'StatementOfActivities', name: page.statementOfActivities %}
+{% render 'StatementOfActivities', data: page.statementOfActivities %}
