@@ -5,8 +5,6 @@ event:
   location: Goethe-Institut Thailand
   date: "2025-05-17"
   hosts:
-    - Goethe-Institut Thailand
-    - sonic_thread
     - Creatorsgarten
 ---
 
