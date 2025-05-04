@@ -5,7 +5,7 @@ event:
   location: Goethe-Institut Thailand
   date: "2025-05-17"
   endDate: "2025-05-17"
-  site: https://www.goethe.de/ins/th/en/ver.cfm?event_id=26633657&fbclid=IwY2xjawKENkVleHRuA2FlbQIxMABicmlkETFhSUVwNk5zZzBkZEFGdWRlAR7wiOhba8cL4EbSzqYYfUO-Cqy1dzShbAP17n0jMrzzOwlGBw6ZfkOcPmIPUg_aem_6JXpScC6ZKMl3apcHkOFNQ
+  site: https://www.goethe.de/ins/th/en/ver.cfm?event_id=26633657
   hosts:
     - Goethe-Institut Thailand
     - sonic_thread
