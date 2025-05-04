@@ -4,8 +4,8 @@ event:
   name: sonic_thread: SOUND/CODE/PLAY
   location: Goethe-Institut Thailand
   date: "2025-05-17"
-  endDate: "2025-05-17"
-  site: "https://www.goethe.de/ins/th/en/ver.cfm?event_id=26633657"
+  # endDate: "2025-05-17"
+  # site: "https://www.goethe.de/ins/th/en/ver.cfm?event_id=26633657"
   hosts:
     - Goethe-Institut Thailand
     - sonic_thread
