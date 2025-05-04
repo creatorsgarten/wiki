@@ -1,7 +1,7 @@
 ---
 image: https://usercontent.creatorsgarten.org/c/v1746359867/644e5254802c0234580bdb52/sonicthread_nfo5by.webp
 event:
-  name: sonic_thread: SOUND/CODE/PLAY
+  name: sonic_thread SOUND/CODE/PLAY
   location: Goethe-Institut Thailand
   date: "2025-05-17"
   hosts:
