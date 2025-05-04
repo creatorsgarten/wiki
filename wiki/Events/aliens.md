@@ -3,7 +3,7 @@ image: https://usercontent.creatorsgarten.org/c/v1746235035/644e5254802c0234580b
 event:
   name: A Conversation with Aliens? Imagining First Contact
   location: TK Park Central World
-  date: "2025-05-16"
+  date: "2025-05-18"
   site: "https://www.eventpop.me/e/89022/aliens"
   eventpopId: 89022
   hosts:
