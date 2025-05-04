@@ -4,8 +4,7 @@ event:
   name: A Conversation with Aliens? Imagining First Contact
   location: TK Park Central World
   date: "2025-05-16"
-#  endDate: "2025-05-16"
-#  site: https://www.eventpop.me/e/89022/aliens
+  site: https://www.eventpop.me/e/89022/aliens
   eventpopId:89022
   hosts:
     - Creatorsgarten
