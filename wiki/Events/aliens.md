@@ -8,6 +8,8 @@ event:
   eventpopId: 89022
   hosts:
     - Creatorsgarten
+  leads:
+    - chayapatr
 ---
 
 :::lead
