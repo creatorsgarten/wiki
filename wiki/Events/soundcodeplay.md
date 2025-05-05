@@ -7,6 +7,10 @@ event:
   site: "https://www.goethe.de/ins/th/th/ver.cfm?event_id=26633657"
   hosts:
     - Creatorsgarten
+  leads:
+    - papatsryok
+  staff:
+    - chayapatr
 ---
 
 :::lead
