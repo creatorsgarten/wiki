@@ -18,6 +18,7 @@ event:
     - patrickchodev
     - dtinth
     - chayapatr
+    - khxmjarx
   speakers:
     - knightwitglasses
     - patrickchodev
