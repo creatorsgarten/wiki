@@ -21,3 +21,4 @@
 | ---------- | --------------------------------- |
 | 2025-04-19 | Kick off, Messenger group created |
 | 2025-04-20 | Recruited more organizers, 18 people in Messenger group |
+| 2025-05-03 | In-person kick off meeting, venue survey |
