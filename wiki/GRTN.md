@@ -9,7 +9,7 @@ grtnRedirects:
   dash: https://creatorsgarten.org/dashboard
   gh: https://github.com/creatorsgarten
   dc: https://discord.gg/fsZq57cmRk
-  discord: https://discord.gg/fsZq57cmRk
+  discord: https://discord.gg/8EvrFmt8sv
   yt: https://www.youtube.com/@creatorsgarten
   youtube: https://www.youtube.com/@creatorsgarten
   fb: https://www.facebook.com/creatorsgarten
