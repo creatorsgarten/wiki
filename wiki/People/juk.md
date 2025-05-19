@@ -1,7 +1,7 @@
 ---
 person:
   name: Chukkrit Visitsaktavorn
-  intro: ""
+  intro: "WE BUILD SCALE 🚀"
   nickname: Juk
   nicknameTh: จุก
 ---
