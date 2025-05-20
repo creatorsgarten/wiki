@@ -8,6 +8,7 @@ This page keeps track of interesting metrics from each [[StupidHackTH|Stupid Hac
 | Event rating |   | [8.57](/wiki/Feedback/sht2) | [8.50](/wiki/Feedback/sht3) | [9.44](/wiki/Feedback/sht4) | [8.00](/wiki/Feedback/sht5) | [9.00](/wiki/Feedback/sht6) | [8.85](/wiki/Feedback/sht7) | [8.60](/wiki/Feedback/sht8) |
 | Income | ? | 72816 | 68644 | ? | ? | 33332 | 110720 | 119923 |
 | Expense | ? | 66548 | 67501 | ? | ? | 33332 | 102311 | 118274 |
+| Video views | – | – | 2526 | 736 | 1019 | 1665 | – | 3918 |
 
 # Metrics
 
