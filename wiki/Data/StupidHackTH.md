@@ -24,4 +24,5 @@ This page keeps track of interesting metrics from each [[StupidHackTH|Stupid Hac
 - **Event rating**
     - Represents the average rating of the event.
     - Collected by averaging the score in the [[Feedback|feedback form]].
-
+- **Video views**
+    - Number of views on the pitching livestream
