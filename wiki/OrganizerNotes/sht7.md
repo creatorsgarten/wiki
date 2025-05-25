@@ -31,9 +31,9 @@ Photos - [link](https://drive.google.com/drive/folders/1me6M9o8yriJM797jVpgNaxwZ
 # PR posts
 
 <!-- prettier-ignore -->
-| Date | Post | Summary |
+| Date&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Post | Summary |
 |---|---|---|
-| <span style="white-space:nowrap;">2023-05-04</span> | [Coming soon post](https://www.facebook.com/photo.php?fbid=617592443747766&set=pb.100064910461781.-2207520000&type=3) | ประกาศว่า The โง่ Hackathon ครั้งที่ 7 กำลังจะมาถึง |
+| 2023-05-04 | [Coming soon post](https://www.facebook.com/photo.php?fbid=617592443747766&set=pb.100064910461781.-2207520000&type=3) | ประกาศว่า The โง่ Hackathon ครั้งที่ 7 กำลังจะมาถึง |
 | 2023-05-18 | [What is stupid hackathon](https://www.facebook.com/creatorsgarten/posts/pfbid02xYcMDrK9YLDaB3wXMTAycTMeXpqWPBtypLZLGL9APmGaihNEe6kA7HdyCGs7chXol) | ประกาศการกลับมาของ The โง่ Hackathon ครั้งที่ 7 หลังจากประสบความสำเร็จมา 6 ครั้ง พร้อมระบุว่าตั๋วจะเปิดให้จองเร็วๆ นี้ |
 | 2023-05-30 | [Call for sponsor](https://www.facebook.com/photo.php?fbid=633188655521478&set=pb.100064910461781.-2207520000&type=3) | ประกาศเชิญชวนสปอนเซอร์สำหรับงาน The โง่ Hackathon ครั้งที่ 7 โดยมีทั้งสปอนเซอร์ทางการเงินและไม่ใช่ทางการเงิน |
 | 2023-06-03 | [Super early bird ticket announcement](https://www.facebook.com/photo.php?fbid=635614015278942&set=pb.100064910461781.-2207520000&type=3) | ประกาศปล่อยตั๋ว Super Early Bird 10 ใบ ในวันที่ 4 มิถุนายน ใน 2 ช่วงเวลาแบบสุ่ม |
