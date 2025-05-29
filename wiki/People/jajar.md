@@ -1,7 +1,7 @@
 ---
 person:
   name: Kornmada Piriyakiatsakul
-  intro: ""
+  intro: The explorer eats; therefore, she is.
   nickname: Jajar (ジャージャ)
   nicknameTh: จาจ้า
 ---
