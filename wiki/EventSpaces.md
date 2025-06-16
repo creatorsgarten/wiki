@@ -37,3 +37,5 @@
 | [[True5GProHub]] |  |  |  |
 | [[WiseSight]] |  | 33rd Fl., SUNTOWERS (Tower B) | 120 |
 | [[ZillaSpace]] |  |  |  |
+| [[NabLab]] |  | Soi Chula6 BanthadTong Rd. | XL Room = 100-120 |
+| [[TCDC]] |  | Charoen krung | 20-150 |
