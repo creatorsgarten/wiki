@@ -39,3 +39,4 @@
 | [[ZillaSpace]] |  |  |  |
 | [[NabLab]] |  | Soi Chula6 BanthadTong Rd. | 100-120 |
 | [[TCDC]] |  | Charoen krung | 20-150 |
+| [[SCC Creative space]] |  | BTS Ratchathewi | 50 |
