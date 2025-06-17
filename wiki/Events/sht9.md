@@ -1,5 +1,5 @@
 ---
-image: https://user-images.githubusercontent.com/193136/236173173-755b513b-6398-46a7-9fcb-ced21153c094.png
+image: https://usercontent.creatorsgarten.org/c/v1745656961/644c35a6802c02345887f156/image_iqd4le.webp
 event:
   name: 'sht9'
   location: TBA
