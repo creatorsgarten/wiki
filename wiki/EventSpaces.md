@@ -41,3 +41,4 @@
 | [[TCDC]] |  | Charoen krung | 20-150 |
 | [[SCC Creative space]] |  | BTS Ratchathewi | 50 |
 | [[Bangkok meeting room]] |  | Near AirLink Phayathai (อาคารวรรณสรณ์ ชั้น 11 )| 100 |
+| [[KLOUD]] |  | Siam square | 30-40 |
