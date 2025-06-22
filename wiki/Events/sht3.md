@@ -14,6 +14,7 @@ event:
   staff:
     - poom
     - saltyaom
+    - chayapatr
 ---
 
 Following [the](https://blog.rayriffy.com/review-the-stupid-hackathon-th-2/) [tremendous](https://medium.com/teamappman/มาเล่างาน-the-stupid-hackathon-thailand-2-ให้อ่านกันค่ะ-a6310bbe47e4) [success](https://gitlab.com/StupidHackTH/3/wikis/StupidHackTH2-Feedback) of [The Stupid Hackathon Thailand #2](sht2), we are coming back in The Stupid Hackathon Thailand #3!

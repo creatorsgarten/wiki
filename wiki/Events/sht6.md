@@ -16,6 +16,9 @@ event:
     - betich
     - saltyaom
     - faypichaya
+  leads:
+    - chayapatr
+    - poom
 ---
 
 # About
