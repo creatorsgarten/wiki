@@ -3,7 +3,7 @@ A **working group** represents a group of people who work together to organize e
 :::
 
 :::note
-This system is currently in development and will be implemented soon. The information above describes how working groups will function once the system is launched.
+Working groups are actively used for event organization. The system continues to evolve based on organizer needs and feedback.
 :::
 
 # Overview
@@ -28,6 +28,34 @@ The working group system aims to solve several common challenges:
 - **Onboarding** - Streamline the process of bringing new members into a team or initiative
 - **Self-Management** - Allow members to update their own profiles and contact information
 
+# Creating a Working Group Page
+
+To document a working group:
+
+1. **Create a page** at `WorkingGroups/<event-slug>.md` or `WorkingGroups/<initiative-name>.md`
+2. **Use the template** below as a starting point
+3. **Link to the event** or initiative the group supports
+
+## Template
+
+{% raw %}
+
+```markdown
+{% render 'EventBox', name: ref %}
+
+This working group works on {% render 'Event', name: '<event-slug>' %}
+
+# Purpose
+
+[Description of the working group's goals and responsibilities]
+
+# Resources
+
+[Links to shared resources, tools, and documents]
+```
+
+{% endraw %}
+
 # Joining a Working Group
 
 To join a working group, you'll need an invite link from a group admin. When joining, you'll share relevant profile information with the group, such as:
@@ -36,3 +64,7 @@ To join a working group, you'll need an invite link from a group admin. When joi
 - Contact emails and usernames for various services (Figma, Google Drive, etc.)
 
 This shared information makes it easier for group members to collaborate effectively.
+
+# Working Groups List
+
+{% render 'SubpageList', of: ref %}

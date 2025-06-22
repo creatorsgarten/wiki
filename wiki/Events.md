@@ -51,3 +51,43 @@ To be announced
 ```
 
 {% endraw %}
+
+# Event Metadata Schema
+
+All event pages use structured metadata in the front matter. The complete schema and validation rules are defined in the codebase:
+
+**📋 [View the complete event schema →](https://github.com/creatorsgarten/creatorsgarten.org/blob/main/src/functions/parseFrontMatter.ts)**
+
+## Basic Example
+
+```yaml
+---
+image: https://usercontent.creatorsgarten.org/path/to/banner.png
+event:
+  name: "Example Event Name"
+  location: "Venue Name"
+  date: "2024-01-15"
+  hosts:
+    - Creatorsgarten
+---
+```
+
+## Key Guidelines
+
+### Required Fields
+See the schema file for the complete list of required fields.
+
+### Image Requirements
+- Host all images on `usercontent.creatorsgarten.org` when possible
+- **Main image**: Use for social media and general promotion
+- **imageAssets**: Additional images like banners, posters, covers
+
+### Team Information
+- **staff**: Array of staff member usernames
+- **leads**: Array of lead organizer usernames  
+- **speakers**: Array of speaker usernames
+
+### Integration Fields
+- **eventpopId**: For Eventpop registration integration
+- **site**: Official event website URL
+- **unlisted**: Set to `true` to hide from public listings during planning
