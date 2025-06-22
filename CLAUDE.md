@@ -42,3 +42,13 @@
 - When encountering `[[WikiLink]]` syntax, read the corresponding file at `/wiki/WikiLink.md`
 - Before editing files in these namespaces, read the relevant documentation page to understand structure, conventions, and templates
 - Note: people, events, and working groups use lowercase slugs; other wiki pages use PascalCase
+
+## AI Agent Notes
+
+Since AI agent memory does not persist across sessions, use HTML comments to leave notes for future AI agents:
+
+```html
+<!-- For AI agents: Brief instruction or reminder here -->
+```
+
+These comments are invisible to human readers but help AI agents understand context and requirements in future sessions.

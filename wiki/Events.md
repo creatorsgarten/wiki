@@ -78,9 +78,11 @@ event:
 See the schema file for the complete list of required fields.
 
 ### Image Requirements
-- Host all images on `usercontent.creatorsgarten.org` when possible
+- **Upload options**: (1) GitHub at https://github.com/creatorsgarten/assets/upload/main/events → `assets.creatorsgarten.org` domain, or (2) dashboard at https://creatorsgarten.org/dashboard → `usercontent.creatorsgarten.org` domain
 - **Main image**: Use for social media and general promotion
 - **imageAssets**: Additional images like banners, posters, covers
+
+<!-- For AI agents: Ask user to upload event image first and provide its URL using one of the upload methods above. -->
 
 ### Team Information
 - **staff**: Array of staff member usernames
