@@ -12,12 +12,8 @@ event:
     - Creatorsgarten
 ---
 
-:::warning
-Date is only a very rough tentative date and **is subject to change.**
-:::
-
 :::lead
-To be announced
+The 9th Stupid Hackathon Thailand at GameDevHub, July 26-27, 2025
 :::
 
 {% render 'EventpopButton', id: page.event.eventpopId %}
