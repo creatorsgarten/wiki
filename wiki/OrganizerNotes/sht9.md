@@ -17,27 +17,36 @@
 
 # Activity Log
 
-| Date       | Activity                          |
+| Date | Activity |
 | ---------- | --------------------------------- |
 | 2025-04-19 | Kick off, Messenger group created |
 | 2025-04-20 | Recruited more organizers, 18 people in Messenger group |
 | 2025-05-03 | In-person kick off meeting, venue survey |
+| 2025-05-08 | Planning for branding setup, teaser, and sponsor/venue calls; discussion on CI process |
+| 2025-05-12 | Design due date confirmed for May 17th |
+| 2025-06-07 | Sponsorship proposals being worked on |
+| 2025-06-10 | Public call for venue recommendations on Facebook |
+| 2025-06-16 | Official promotion image for "Stupido Hackettino" shared on Facebook |
+| 2025-06-20 | Got venue |
 
 # Task List
 
 ## Branding & Identity
+
 - [ ] Decide on event name and branding (CI)
   - Output: Event name, branding guidelines
 - [ ] Design new Facebook profile picture and cover photo (teaser)
   - Output: Profile picture and cover photo files ready for upload
 
 ## Venue & Capacity
+
 - [ ] Research and shortlist potential venues
   - Output: List of venue options with capacities and costs
 - [ ] Decide on final venue
   - Output: Confirmed venue booking
 
 ## Sponsorship
+
 - [ ] Create sponsorship proposal (text + graphics)
   - Output: Sponsorship proposal document and supporting graphics
 - [ ] Define sponsorship tiers (corporate, individual, etc.)
@@ -46,6 +55,7 @@
   - Output: Public call for sponsors post (text + graphics)
 
 ## Budgeting
+
 - [ ] Estimate minimum viable budget
   - Output: Budget breakdown for essential expenses
 - [ ] Estimate budget for upgrades (overnight, meals, swag)
@@ -54,10 +64,10 @@
   - Output: Comparison table of venues vs. budget
 
 ## Ticketing
+
 - [ ] Decide on total number of tickets
   - Output: Final ticket count
 - [ ] Plan ticket release batches and campaigns
   - Output: Ticket release schedule
 - [ ] Distribute ticket codes to staff
   - Output: Ticket codes and distribution plan
-
