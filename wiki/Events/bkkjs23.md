@@ -4,22 +4,21 @@ event:
   name: 'BKK.JS #23'
   location: LINE MAN Wongnai
   date: '2025-07-11'
-  unlisted: true
-  # site: https://www.eventpop.me/e/TBA
-  hosts:
-    - Creatorsgarten
-  # eventpopId: TBA
-  leads:
-    - rayriffy
-  # staff:
-  #   - TBA
+  time: '18:30-22:00'
+  unlisted: false
+  site: https://www.eventpop.me/e/96871/bkkjs-23
+hosts:
+  - Creatorsgarten
+eventpopId: 96871
+leads:
+  - rayriffy
 ---
 
 :::lead
-มาละครับ งาน BKK.JS #23 ครั้งนี้เราจะไปเยือนบ้านของ LINE MAN Wongnai กันครับ เดี๋ยวในไม่วันข้างหน้านี้จะประกาศรายการ Speaker นะครับสามารถตามดูกันได้เลย
+มาละครับ งาน BKK.JS #23 ครั้งนี้เราจะไปเยือนบ้านของ LINE MAN Wongnai กันครับ JavaScript Meetup in Bangkok เพื่อเจาะลึกเทคนิค JavaScript ที่หลากหลาย
 :::
 
-Welcome to BKK.JS #23 Summer 2025! We're excited to visit the home of LINE MAN Wongnai. Speaker lineup will be announced soon - stay tuned!
+Welcome to BKK.JS #23 Summer 2025! We're excited to visit the home of LINE MAN Wongnai. This JavaScript Meetup in Bangkok focuses on exploring diverse knowledge through deep dives into JavaScript techniques.
 
 {% render 'EventpopButton', id: page.event.eventpopId %}
 
@@ -27,15 +26,15 @@ Welcome to BKK.JS #23 Summer 2025! We're excited to visit the home of LINE MAN W
 
 ## 🎟️ ตั๋วเข้างาน / Tickets
 
-รายละเอียดการลงทะเบียนจะแจ้งให้ทราบเร็วๆ นี้
+จำเป็นต้องมีตั๋วในการเข้างาน ไม่รับ walk-in โปรดลงทะเบียนล่วงหน้าผ่าน Eventpop
 
-Registration details will be announced soon.
+Ticket required for entry. No walk-in admissions. Please register in advance through Eventpop.
 
 ## 🚶🏻‍♂️ วิธีการเดินทางเข้างาน / Guide to enter an event
 
-งานนี้จะจัดที่ LINE MAN Wongnai ในพื้นที่ One Bangkok รายละเอียดการเดินทางจะแจ้งให้ทราบเร็วๆ นี้
+งานนี้จะจัดที่ LINE MAN Wongnai, One Bangkok Tower 4, Bangkok
 
-This event will be held at LINE MAN Wongnai in One Bangkok area. Detailed directions will be provided soon.
+This event will be held at LINE MAN Wongnai, One Bangkok Tower 4, Bangkok.
 
 ## 📹 Live Streaming
 
@@ -51,6 +50,20 @@ Within one month after the event, all sessions will be uploaded and available fo
 
 ## 🕑 ตารางเวลา / Timetables
 
-รายการ Speaker และตารางเวลาจะประกาศเร็วๆ นี้
+### Schedule / กำหนดการ
 
-Speaker lineup and schedule will be announced soon.
+| เวลา / Time | หัวข้อ / Topic | วิทยากร / Speaker |
+|-------------|----------------|-------------------|
+| 18:00 - 18:30 | Registration / ลงทะเบียน | |
+| 18:30 - 19:00 | Supercharge Your JavaScript Promises | Pornpat Paethong |
+| 19:00 - 19:30 | Intro to Web Assembly | Karn Wong |
+| 19:30 - 20:00 | Engineering Without a Safety Net | Faris Aziz |
+| 20:00 - 20:30 | Break / พักเบรก | |
+| 20:30 - 21:00 | Building Library Ecosystem in LMWN | Voraton Lertrattanapaisal |
+| 21:00 - 21:30 | Tech Behind the Scene: NETFLIX's Mad Unicorn | Chayapatr Archiwaranguprok |
+| 21:30 - 22:00 | Networking / เน็ตเวิร์คกิ้ง | |
+
+### Additional Notes / หมายเหตุเพิ่มเติม
+
+- Light snacks provided during break / มีขนมเบาๆ ให้ในช่วงพัก
+- Recommended to eat before the event / แนะนำให้รับประทานอาหารก่อนมางาน
