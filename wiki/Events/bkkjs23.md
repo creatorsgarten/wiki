@@ -7,9 +7,9 @@ event:
   time: '18:30-22:00'
   unlisted: false
   site: https://www.eventpop.me/e/96871/bkkjs-23
-hosts:
-  - Creatorsgarten
-eventpopId: '96871'
+  hosts:
+    - Creatorsgarten
+  eventpopId: '96871'
 leads:
   - rayriffy
 ---
