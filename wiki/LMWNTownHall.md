@@ -61,7 +61,7 @@ To display graphics with correct proportions on the 2:1 screen:
 - **Access process:**
   1. Connect to network
   2. Register with name, email, and other required fields
-  3. Provide internal member name for approval
+  3. Provide internal member email for approval
   4. Wait for individual approval ("Waiting for approval" status)
 
 ## Event Policy
