@@ -57,7 +57,7 @@ To display graphics with correct proportions on the 2:1 screen:
 ## LMWN Guest Network
 
 - **Network name:** "LMWN Guest"
-- **Speed:** 210mbps down, 250ms latency
+- **Speed:** 210mbps down, 250mbps up
 - **Access process:**
   1. Connect to network
   2. Register with name, email, and other required fields
