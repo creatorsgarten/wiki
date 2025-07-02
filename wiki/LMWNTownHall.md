@@ -36,7 +36,7 @@ venue:
 
 ### For Livestream Teams
 
-To compensate for the 2:1 screen stretching, configure OBS to output **1707×1080** resolution instead of standard 1920×1080. This ensures 16:9 content displays with correct proportions.
+To compensate for the 2:1 screen stretching, configure OBS to output **1920×1080** but compress the video horizontally to **1707×1080** on the canvas. This ensures 16:9 content displays with correct proportions when the screen stretches it back.
 
 ### For Graphics and Artwork
 
@@ -66,7 +66,7 @@ To display graphics with correct proportions on the 2:1 screen:
 
 ## Event Policy
 
-**Recommended:** Wi-Fi access for staff and speakers only. Attendees should bring mobile hotspots due to the individual approval requirement.
+**Recommended:** Wi-Fi access for staff and speakers only. Attendees can use One Bangkok free Wi-Fi or bring mobile hotspots due to the individual approval requirement.
 
 ## Alternative Networks
 
