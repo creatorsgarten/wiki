@@ -64,6 +64,7 @@ grtnRedirects:
   e/sht8/figma: https://www.figma.com/design/pqQYtEHwSscHD6ZEYqk1bL/SHiT-8?node-id=0%3A1&t=TH1JcnqCqu8B6upe-1
   e/sht8/sponsor: https://creatorsgarten.org/wiki/Sponsorship/sht8
   e/sht8/sponsor_form: https://docs.google.com/forms/d/e/1FAIpQLSdpLTNH_Sf6SOpnhI70EII5vxRWrk3-UJ0DnrMK5T9Ph3glDA/viewform
+  e/sht9/spon: https://docs.google.com/forms/d/e/1FAIpQLScqqSEsqDVHwSJZGL2v-XpgGImkDN7ppTSma4iaewCRodzNdg/viewform
   ideas: https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas
   forum: https://github.com/orgs/creatorsgarten/discussions/categories/general
   streams: https://www.youtube.com/playlist?list=PLTuz2sLvbRpwkoLi0AYDwdABU5dhkoGIr
