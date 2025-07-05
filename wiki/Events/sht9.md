@@ -1,5 +1,5 @@
 ---
-image: https://usercontent.creatorsgarten.org/c/v1745656961/644c35a6802c02345887f156/image_iqd4le.webp
+image: https://usercontent.creatorsgarten.org/c/v1751733992/644c35a6802c02345887f156/2025-07-05_23.46.20_si7bpj.webp
 event:
   name: 'sht9'
   location: GameDevHub
