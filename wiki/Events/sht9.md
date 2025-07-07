@@ -13,9 +13,11 @@ event:
 ---
 
 :::lead
-The 9th Stupid Hackathon Thailand at GameDevHub, July 26-27, 2025
+**เรียนเชิญเหล่า 'นักประดิษฐ์สิ่งของที่ไม่จำเป็นต่อโลก' ทุกท่าน~** \
+ถึงเวลาปลดปล่อยพลังแล้ว! Stupido Hackettino ครั้งที่ ๙ กำลังจะมา!
 :::
 
 {% render 'EventpopButton', id: page.event.eventpopId %}
 
 {% render 'EventBox', name: ref %}
+
