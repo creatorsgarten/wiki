@@ -65,6 +65,7 @@ grtnRedirects:
   e/sht8/sponsor: https://creatorsgarten.org/wiki/Sponsorship/sht8
   e/sht8/sponsor_form: https://docs.google.com/forms/d/e/1FAIpQLSdpLTNH_Sf6SOpnhI70EII5vxRWrk3-UJ0DnrMK5T9Ph3glDA/viewform
   e/sht9/spon: https://docs.google.com/forms/d/e/1FAIpQLScqqSEsqDVHwSJZGL2v-XpgGImkDN7ppTSma4iaewCRodzNdg/viewform
+  e/sht9/apply: https://www.eventpop.me/events/96772-sht9/application_forms/7883/applicants/new
   ideas: https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas
   forum: https://github.com/orgs/creatorsgarten/discussions/categories/general
   streams: https://www.youtube.com/playlist?list=PLTuz2sLvbRpwkoLi0AYDwdABU5dhkoGIr
