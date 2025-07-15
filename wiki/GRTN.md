@@ -69,6 +69,7 @@ grtnRedirects:
   e/sht9/human: https://www.facebook.com/creatorsgarten/posts/pfbid0LAbCocZHWtGo97Xv4uhXSt7wyxxQbKxJGJWU48sA6JWqsZkFGgBX39NHFL1E6W5cl
   e/sht9/gacha: https://www.facebook.com/creatorsgarten/posts/pfbid02zeqwJA5boNp4t2DgQbNEpDHuGxnmEM45ejBZJEHzXKyqGLtFzkYQsMdQFGwFkUzSl
   e/sht9/grass: https://www.facebook.com/creatorsgarten/posts/pfbid02Xj95C1NS7dd5Mw84Ssmqm6kYGyj78rsZ625oToYYs6AM167tc1PMowcqQTeE8ptyl
+  e/sht9/pub: https://www.facebook.com/creatorsgarten/posts/pfbid02kDe4iWHJvBEwrFZb6Wn9ujiXqKfp7y2dm53eDV42vosZMCZmpk7ecrXKCsAbhneXl
   ideas: https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas
   forum: https://github.com/orgs/creatorsgarten/discussions/categories/general
   streams: https://www.youtube.com/playlist?list=PLTuz2sLvbRpwkoLi0AYDwdABU5dhkoGIr
