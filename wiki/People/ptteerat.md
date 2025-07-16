@@ -7,6 +7,6 @@ person:
   nicknameTh: พี
   github: ptteerat
   instagram: ptteerat
-  facebook: Teerat Suknumkum
+  facebook: ptteerat
 ---
 
