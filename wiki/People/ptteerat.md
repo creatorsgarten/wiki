@@ -4,5 +4,7 @@ person:
   intro: suffering rn (deserved, probably)
   nickname: p
   nicknameTh: พี
+  github: ptteerat
+  instagram: ptteerat
 ---
 
