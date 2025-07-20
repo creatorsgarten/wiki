@@ -14,6 +14,10 @@ statementOfActivities:
 
 # Event rundown
 
+:::note
+These notes are exported from Notion. They are implemented as expandable lists.
+:::
+
 ## Day 1 - July 2, 2022
 
 offline tickets → 93 คน
