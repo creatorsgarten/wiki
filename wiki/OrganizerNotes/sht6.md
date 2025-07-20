@@ -23,6 +23,7 @@ These notes were exported from Notion. During the event, it was the source of tr
 offline tickets → 93 คน
 
 - [+] 00:00 — ก่อนวันงาน
+
     - ตรวจ ATK กันมาก่อนด้วย
         - Poom will prepare x50 ATKs
     - กรอกฟอร์มด้วย
@@ -32,7 +33,9 @@ offline tickets → 93 คน
     - Setup Discord (SHiT6)
     - Setup Eventpop Check-In
         - Token: ░░░░░░░░░
+
 - [+] 08:00 — เตรียมงาน
+
     - **👮🏻‍♂️ Registration Checklists 👮🏻‍♂️**
         - [ ] Setup registration table
             - หน้าตึก 10 ทางเข้าหอการค้า
@@ -53,10 +56,14 @@ offline tickets → 93 คน
         - [ ]  inventory check
     - **Award**
         - [ ]  inventory check all awards from sponsors
+
 - [+] 08:45 — Last Brief
+
     - OD
         - [ ]  Check with: Registration, ATK, Food, Venue, Award
+
 - [+] 09:00 — Registration
+
     - **Registration**
         - ATK needs to be stand by — 42 Verified, 44 hasn’t
         - **Material**: ATK
@@ -96,7 +103,9 @@ offline tickets → 93 คน
                     - Poom to prepare some ATK
     - Requires 4 staff on duty
     - Participants to see a welcome message in Discord, **signboard** or event staffs
+
 - [+] 09:30 — Welcome
+
     - Venue
         - จอ TV → 2 เครื่อง
             - Projector?
@@ -127,7 +136,9 @@ offline tickets → 93 คน
             - open discussion
         - distraction activities
             - open discussion
+
 - [+] 10:00 — Hack Starts & Team Formation
+
     - Venue
         - โต๊ะ/เก้าอี้ไม่พอ
         - ปลั๊กไฟไม่พอ
@@ -140,7 +151,9 @@ offline tickets → 93 คน
         - อาบน้ำที่ไหน
             - **Open Discussion**
             - แนะนำให้อาบน้ำนอกหอการค้า
+
 - [+] 12:00 — Lunch
+
     - Sponsor: Sunday
     - Venue
         - กินข้าวที่ไหน
@@ -185,28 +198,37 @@ offline tickets → 93 คน
     - อาหาร
         - ไม่มีใครพิมพ์ dietary requirements ใน Discord
     - Place: Cafeteria
+
 - [+] 13:00 — Hack Resume & Open Session
+
     - Open Sessions
         - MC Barcamp
     - Distracting Activities
         - คุยใน open discussions
     - คนมาเลท เพิ่งมาบ่ายโมง? — let @Tanakorn Pisnupoomi know about situation.
+
 - [+] 16:30 — Livestream Preparation
+
     - Riffy, Japan, ???
     - Equipment ready
         - Poom
         - Riffy
         - Wit @Jarukit Jintanasathilakul
             - ATEM Mini
+
 - [+] 18:00 — Dinner
+
     - Sponsor: brikl.com/jobs
     - Meal sponsor announcement (Brikl)
         - same as Lunch
+
 - [+] 20:00 — Summary Day 1 + Plan/Handover Day 2
+
     - เปิด job Day 2
     - OD: Belt + New
 
 - [+] Retrospective
+
     - What is the true number
         - participant 71 + staff 17 = 88 คน 
     - ข้าวเหลือเยอะ
@@ -250,6 +272,7 @@ offline tickets → 93 คน
 ## Day 2 - July 3, 2022
 
 - [+] Roles
+
     - OD: Belt + New
     - Food: Jeremy
     - พิธีกร: Tiger + หมีพูห์
@@ -264,7 +287,9 @@ offline tickets → 93 คน
             - Individual
     - Voting: Thee
     - Award: Namkhaeng
+
 - [+] Topics
+
     - Livestream
     - Pitching
         - Randomized groups mechanism
@@ -272,11 +297,16 @@ offline tickets → 93 คน
     - Voting mechanism
         - Needs voting ranking mechanism as well
     - Award Game mechanism
-- [+] 10:30 — Food Preparation
+
+- 10:30 — Food Preparation
+
 - [+] 12:00 — Lunch
+
     - Sponsor: brikl.com/jobs
     - Meal sponsor announcement (?)
+
 - [+] 12:30 — Set up streaming (1.5 hr before pitching event starts)
+
     - MC: **Livestream**
     - Live Producer (Riffy + Japan) → Prepare to go live.
     - Concern
@@ -289,14 +319,22 @@ offline tickets → 93 คน
         - Flow
     - OBS Scene: Japan
     - Realtime content: Tee → Pub
+
 - [+] 13:00 — check for content before streaming
+
     - MC: **Pitching, Livestream**
     - จะแจ้งตอนเที่ยง
+
 - [+] 13:30 — Double-check streaming for go-live
+
     - MC: **Livestream**
+
 - [+] 14:00 — Opening Talk
+
     - Aom/Poom/Pub
+
 - [+] 14:10 — Pitching (3 ชั่วโมง รวม buffer)
+
     - [Google Slides with all sponsors](https://docs.google.com/presentation/d/1zS2MXfZXJmuXcaUFc-ZCxGtuBfE6aFxLZkDIJHRNgFY/edit)
     - **Model: sponsor ต้องแทรกระหว่าง**
         - 3 ทีม + 2 spon
@@ -402,13 +440,17 @@ offline tickets → 93 คน
             - ~~ITX (เจเรมี่พูด)~~
             - ~~Bangmod.cloud (พี่ไทพูด)~~ → skipped
             - ~~Keron Tech~~
+
 - [+] 17:15 — Break (15mins)
+
     - Compute Vote
         - MC Voting — Thee
         - MC Award — Namkhaeng
     - OD:  proposed
     - OD to decide based on curved
+
 - [+] 17:30 — Awards (40 mins)
+
     - MC Award
         - most aesthetically pleasing
         picasso approved award, “it’s an art” award
@@ -433,7 +475,9 @@ offline tickets → 93 คน
                 - กากบาทเป็นตัวเลข?
         - Aom will be VTuber
             - How to feed video?
+
 - [+] 18:10 — Hackathon Closing & Creatorsgarten Announcement
+
     - Pub to end the hackathon
     - Pub/Poom to announce Creatorsgarten
     - Blogs and feedback for the event
@@ -452,7 +496,9 @@ offline tickets → 93 คน
             - Logo, Cover Photo — Pub
             - Social Links — Facebook, YouTube, Website, Email, Discord
             - Creatorsgarten Museum → เก็บ swag 1 ชุด (เสื้อ สติกเกอร์ ทุกอย่างของทุกวัน)
+
 - [+] 18:10 — Venue Cleanup, Networking
+
     - MC Networking
         - The Street (Holly’s Coffee)
     - Venue
