@@ -88,3 +88,114 @@ This event is part of [[ShowdownSpace|showdown.space]] initiative which aims to 
 | <nobr>2024-11-18</nobr> | [General ticket challenge re-released as a practice challenge.](https://www.facebook.com/showdown.space/posts/pfbid02AgNBGKuMRF6bZt1wxnG4soNEGzajkCkqP4JG9QuXb2yQ6dGUQ6zSQb5uuMFeVZLyl) |
 | <nobr>2024-11-19</nobr> | {% render 'GitHub', user: 'narze' %} [contributed the 8th challenge](https://github.com/dtinth/bacbox/pull/1), eventually becoming the ‘seven’ challenge. |
 | <nobr>2024-11-20</nobr> | Event date. [Livestream available on Facebook.](https://www.facebook.com/creatorsgarten/videos/489126094176693) |
+
+# Event rundown
+
+:::info
+These notes were exported from Outline
+:::
+
+## 18:00 - Registration
+
+* Participants arrive and register for the event
+
+## 18:30 - Dinner & guest speaker
+
+* Serve dinner
+* Guest speaker presents
+
+## 18:45 - Event introduction and setup
+
+* Introduce the event
+  * Welcome
+  * Thanks all sponsors
+    * BigBears.IO พี่หมี for providing funding to showdown.space
+    * Cleverse for venue and การอำนวยความสะดวกต่างๆ ด้านสถานที่
+    * We Love Bug Biz for beverages and prizes.
+      * We have 200 bottles of water, 100 soft drinks, 60 coffee bottles
+      * We will reveal the prizes at the end
+    * MyOrder for prizes
+    * EarnIn for prizes
+    * Nonzero Sumgame for funding this event
+    * DEV Forward for prizes
+* Introduce the event format and rules
+  * This event will be like CTA challenge
+  * You have 2 hours
+  * We will release challenges for you to solve, and you can solve in any order
+  * First solver will get MAX points, second team MAX-1, third team MAX-2, and so on
+  * We expect to release all challenges in the 1st hour, the 2nd hour you can focus on maximizing score
+  * At the end we will sum all scores and give prizes
+  * **How prize giving works:**
+    * We have a total of 20 prizes in the pool, with 2 prize categories
+      * Cash prize
+      * Item prize
+    * At the end, the 1st ranked team will get to choose the prize, followed by 2nd, and so on.
+      * The team can choose one of:
+        * A single cash prize for the whole team
+        * Item prize for each person in the team
+* Guide participants to log into the Challenge Portal ([see Figjam for images of all flows](https://www.figma.com/board/ZhFD5mzEiStZSn9E9IeCMs/showdown.space-FigJam-%5BPUBLIC%5D?node-id=408-418&t=18o3zJO6VvaANPdV-4))
+  1. Go to **challenges.showdown.space** and log in with Eventpop account
+     * Observers can also join
+  2. For Challengers only - click the I am a challenger button and fill in your team name and hit submit
+     * Staff will onboard your team
+     * **For staff:** To onboard, search for matching information on Grist and check the “Enrolled” box
+  3. Should see dashboard page (\`/dashboard\`) with your team name
+     * Guide participant to share their screen
+     * The screen should appear in VDO Ninja director view
+* Explain how to access challenges and request reviews
+  * Each challenge will have “Go to challenge” link.
+    * Some challenge is “auto submit” - so if you passed, the challenge will auto submit for you
+      * The “Go to challenge” link is unique to your team.
+    * Some challenge is “manual submit” - after you solve the challenge, click “Request review” button
+    * After submission, we will ask your team to DEMO your solution, and if pass, you will get point. If not pass, get penalty -5 points.
+
+## 19:00 - Challenges
+
+* Release the first challenge(s)
+* Begin the two-hour challenge period
+
+### 19:00 \~ 20:00 - Progressive challenge release
+
+* Continue to introduce and release new challenges
+* Review completed challenges as teams submit them
+* Award points or apply penalties based on review results
+* Facilitate solution explanations after each successful solve
+
+### 20:00 \~ 21:00 - Final challenge hour
+
+* Ensure all seven challenges are available to participants
+* Remind teams they have one hour remaining
+* Teams continue working on remaining challenges
+* Continue reviewing submissions and awarding points/penalties
+* Encourage teams to attempt as many challenges as possible
+
+## 21:00 - Challenge period ends
+
+* Stop accepting new submissions and reviews
+* Finalize the scoreboard
+* Talk about the sponsors and prize items
+  * Venue sponsor
+    * Cleverse
+  * Financial sponsor
+    * BigBears.IO
+    * Nonzero Sumgame
+  * Beverage sponsor
+    * We Love Bug Biz
+  * Prize sponsors
+    * We Love Bug Biz
+    * MyOrder
+    * EarnIn
+    * DEV Forward
+  * More prize introduction
+    * From Riffy
+    * From Thai
+* Review the final scoreboard
+* Announce the winning teams
+* Prize distribution:
+  * First place team members each select one item from the prize pool
+  * Continue with other teams in order of placement until prizes are exhausted
+* Final remarks:
+  * Thank all the staff who helped
+  * Challenges will be uploaded and open sourced at <https://showdown.space/events/browser-automation-challenges/>
+  * Feedback form
+  * Thank attendees who joined
