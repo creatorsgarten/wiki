@@ -14,7 +14,7 @@ statementOfActivities:
 
 # Event rundown
 
-:::note
+:::info
 These notes are exported from Notion. They are implemented as expandable lists.
 :::
 
