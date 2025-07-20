@@ -15,7 +15,7 @@ statementOfActivities:
 # Event rundown
 
 :::info
-These notes were exported from Notion. 
+These notes were exported from Notion. During the event, it was the source of truth for all the staff team and was continuously updated.
 :::
 
 ## Day 1 - July 2, 2022
