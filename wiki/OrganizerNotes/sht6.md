@@ -15,7 +15,7 @@ statementOfActivities:
 # Event rundown
 
 :::info
-These notes are exported from Notion. They are implemented as expandable lists.
+These notes were exported from Notion. 
 :::
 
 ## Day 1 - July 2, 2022
