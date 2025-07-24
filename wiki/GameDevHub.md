@@ -49,29 +49,85 @@ GameDevHub Bangkok is located on the 16th floor of BB Building and provides a de
 **Traffic Warning:** Asok Montri Road has heavy traffic jams. Public transit is strongly recommended over driving.
 :::
 
-Parking is available at BB Building at a rate of **THB 20 per hour**.
+Parking is available at BB Building at a rate of **THB 40 per hour** (discounted to **THB 20 per hour** with stamp validation).
 
 # Facilities
 
 ## Event Space
 
-- **Capacity:** 100+ people
-- **Features:** Bean bag seating area for comfortable events
+- **Size:** 100 sq.m.
+- **Capacity:** 50-100 people
+- **Layout:** Two entrances (main entrance and dedicated event entrance)
+- **Seating options:**
+  - 20 foldable chairs with built-in tables
+  - 30 white stackable ADDE chairs
+  - 15 black stackable chairs
+  - 10 bean bags for casual seating
+- **Tables:** 16 tables (120×60cm, height 75cm)
 - **Location:** Dedicated event area separate from public co-working space
 
 ## Co-working Space
 
+- **Tables:** 4 large tables (240×120cm, height 75cm)
+- **Seating:** Ergonomic chairs around tables
 - **Public area:** Members may use this space during events
 - **Shared facilities:** Available to event attendees
 
-# Nearby amenities
+# Operating Hours
+
+**Open daily:** 9:00 AM - 9:00 PM
+
+# A/V Equipment
+
+## Audio System
+
+- **[Electro-Voice EVOLVE 30M](https://products.electrovoice.com/na/en/evolve-30m)** column array speaker system
+  - 6×2.8" mid/high drivers with 10" subwoofer
+  - Built-in Class D 1000W amplifier
+  - Bluetooth connectivity
+- **Inputs available:**
+  - 4× XLR/TRS combo jack (line/mic input)
+  - 1× 1/4" TRS Hi-Z input
+  - 2× XLR/TRS combo jack (stereo line input)
+  - 1× RCA stereo input
+  - 1× 3.5mm stereo input
+  - 1× wireless Bluetooth audio input
+  - 1× 1/4" foot switch input
+- **Outputs:**
+  - 1× XLR mix out
+  - 1× XLR aux out
+- **Microphones:** Available for events
+
+## Video Equipment
+
+- **86-inch LED smart TV** with HDMI connectivity
+- **Projector** available
+
+# Wi-Fi
+
+- **Separate networks** for event space and co-working space
+- **Speed:** 120 Mbps download / 10 Mbps upload
+- Network credentials provided for events
+
+# Amenities
+
+## Restrooms
+
+- Internal restroom facilities available within the venue
+
+## Nearby amenities
 
 The BB Building and surrounding area offer convenient amenities:
 
 - **Coffee shop**
 - **7-Eleven**
-- **Sukiya** (24 hours)
-- **McDonald's** (24 hours)
+- **[Sukiya](https://maps.app.goo.gl/JVvGKEvyudRFoS976)** (24 hours)
+- **[McDonald's](https://maps.app.goo.gl/nPLvgpALpgHVg6iu5)** (24 hours)
+- **[Shakariki432 Asoke](https://maps.app.goo.gl/JrPbyP8TrsAUZtyN6)** (11:00 AM - 4:00 AM)
+
+# Event Booking
+
+For event bookings and inquiries, contact GameDevHub through their website: [gamedevhub.co.th](https://www.gamedevhub.co.th/)
 
 # Hosted events
 
