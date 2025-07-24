@@ -22,12 +22,20 @@ GameDevHub Bangkok is located on the 16th floor of BB Building and provides a de
 ### MRT Phetchaburi (Recommended)
 
 1. Take **MRT Phetchaburi** station
-2. Walk 9 minutes (650m) to BB Building
+2. Use **Exit 2 (Singha Complex)**
+3. Walk 9 minutes (650m) to BB Building
 
 ### MRT Sukhumvit
 
 1. Take **MRT Sukhumvit** station
 2. Walk 10 minutes (700m) to BB Building
+
+## By Bus
+
+Bus lines **38** and **136** serve the area with minimal walking required:
+
+- **Midtown Asoke (มิดทาวน์ อโศก)** bus stop - opposite BB Building
+- **Srinakharinwirot University (มหาวิทยาลัยศรีนครินทรวิโรฒ)** bus stop - next to BB Building
 
 ## By BTS
 
