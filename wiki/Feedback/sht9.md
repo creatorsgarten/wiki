@@ -146,3 +146,42 @@
 - Several people left **playful comments** and random expressions of joy
 
 :::
+
+# Challenge feedback
+
+We asked participants from challenge tickets to give feedback about each challenge batch:
+
+**0.01% gacha**
+
+- โคตรเกลือ 46651
+- ยากลำบากมากครับ
+- โคตรเกลือ 46651
+
+**Poom’s Vault**
+
+- LOVE
+
+**แตะหญ้า Chula**
+
+- น่าเจริญพระราชหฤทัยพยะค่ะ
+
+**แตะหญ้า KMITL**
+
+- อยากปัย
+
+**แตะหญ้า Online**
+
+- ไม่คิดว่าของไทยจะมีอะไรแบบนี้ได้ด้วย ผมมองน่าสนใจและครีเอทีฟมาก ชอบที่ออกแบบ challenge ต่างๆ based จากความสนุกมาก่อนทำให้อยากเข้ามาร่วมสนุกด้วย
+- มันส์
+
+**ม้วนหนังสือขึ้นทะเบียนทีมผู้อาจหาญในความโง่ (Team application)**
+
+- ☄️
+- :)
+- ผมติดมาได้ไงอ่ะ สุดเจ๊งมากพี่
+
+**Manchild Challenge**
+
+- โจทย์ยากมากค่ะ TT
+
+
