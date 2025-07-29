@@ -136,7 +136,7 @@ If you have coverage items to add:
 When creating coverage for a new event:
 
 1. **Use the event slug** - Name the file `Coverage/<event-slug>.md`
-2. **Start with EventBox** - Always include `{% render 'EventBox', name: ref %}`
+2. **Start with EventBox** - Always include `{% raw %}{% render 'EventBox', name: ref %}{% endraw %}`
 3. **Organize by category** - Use the template sections above
 4. **Link appropriately** - Reference the main event page
 5. **Update regularly** - Add new coverage as it becomes available
