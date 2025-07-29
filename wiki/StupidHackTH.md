@@ -17,9 +17,6 @@ The Stupid Hackathon in Thailand (past: The Stupid Hackathon Thailand) is a Crea
 
 - **For statistics about past events,** check out [[Data/StupidHackTH]].
 
-# Upcoming
-- [[Events/sht9|Stupido Hackettino ครั้งที่ ๙]]
-
 # Past Events
 - [[Events/sht1|Stupid Hackathon Bangkok]]
 - [[Events/sht2|The Stupid Hackathon Thailand #2]]
@@ -29,6 +26,7 @@ The Stupid Hackathon in Thailand (past: The Stupid Hackathon Thailand) is a Crea
 - [[Events/sht6|The ៦th Stupid Hackathon in Thailand]]
 - [[Events/sht7|The โง่ Hackathon ครั้งที่ 7 แห่งประเทศ Thailand]]
 - [[Events/sht8|THE STIPUD HONKATHACK IN THAILAND DAN OF SMILE FARANG TOOK JAI CHOB SI]]
+- [[Events/sht9|Stupido Hackettino ครั้งที่ ๙]]
 
 # Spinoff
 - [[Events/sht8125|The Stupid Hackathon Thailand X KMUTT ครั้งที่ 8.125]]
