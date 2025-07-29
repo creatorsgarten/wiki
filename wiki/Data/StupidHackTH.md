@@ -9,7 +9,7 @@ This page keeps track of interesting metrics from each [[StupidHackTH|Stupid Hac
 | Income | ? | 72816 | 68644 | ? | ? | 33332 | 110720 | 119923 | 129700 |
 | Expense | ? | 66548 | 67501 | ? | ? | 33332 | 102311 | 118274 | 127323 |
 | Video views | – | – | 2526 | 736 | 1019 | 1665 | – | 3918 | 5362 |
-| Drop-off rate | – | – | 17% | – | – | – | 27% | 7.4% |
+| Drop-off rate | – | – | 17% | – | – | – | – | 27% | 7.4% |
 
 # Metrics
 
