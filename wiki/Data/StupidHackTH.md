@@ -1,15 +1,109 @@
+---
+events:
+  - number: 1
+    slug: "sht1"
+    teams: 6
+    tickets: null
+    presenters: null
+    rating: null
+    income: "?"
+    expense: "?"
+    videoViews: "–"
+    dropOffRate: "–"
+  - number: 2
+    slug: "sht2"
+    teams: 30
+    tickets: 97
+    presenters: 71
+    rating: 8.57
+    income: 72816
+    expense: 66548
+    videoViews: "–"
+    dropOffRate: "–"
+  - number: 3
+    slug: "sht3"
+    teams: 23
+    tickets: 105
+    presenters: 74
+    rating: 8.50
+    income: 68644
+    expense: 67501
+    videoViews: 2526
+    dropOffRate: "17%"
+  - number: 4
+    slug: "sht4"
+    teams: 20
+    tickets: 80
+    presenters: 57
+    rating: 9.44
+    income: "?"
+    expense: "?"
+    videoViews: 736
+    dropOffRate: "–"
+  - number: 5
+    slug: "sht5"
+    teams: 22
+    tickets: 139
+    presenters: 76
+    rating: 8.00
+    income: "?"
+    expense: "?"
+    videoViews: 1019
+    dropOffRate: "–"
+  - number: 6
+    slug: "sht6"
+    teams: 15
+    tickets: 105
+    presenters: 71
+    rating: 9.00
+    income: 33332
+    expense: 33332
+    videoViews: 1665
+    dropOffRate: "–"
+  - number: 7
+    slug: "sht7"
+    teams: 33
+    tickets: 174
+    presenters: 122
+    rating: 8.85
+    income: 110720
+    expense: 102311
+    videoViews: "–"
+    dropOffRate: "–"
+  - number: 8
+    slug: "sht8"
+    teams: 25
+    tickets: 150
+    presenters: 72
+    rating: 8.60
+    income: 119923
+    expense: 118274
+    videoViews: 3918
+    dropOffRate: "27%"
+  - number: 9
+    slug: "sht9"
+    teams: 13
+    tickets: 89
+    presenters: 63
+    rating: 9.40
+    income: 129700
+    expense: 127323
+    videoViews: 5362
+    dropOffRate: "7.4%"
+---
+
 This page keeps track of interesting metrics from each [[StupidHackTH|Stupid Hackathon]] event.
 
-| Event | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 |
-| ---- | ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:| ---:|
-| Number of teams   | 6 | 30 | 23 | 20 | 22 | 15 | 33 | 25 | 13 |
-| Number of tickets |   | 97 | 105 | 80 | 139 | 105 | 174 | 150 | 89 |
-| Number of presenters |   | 71 | 74 | 57 | 76 | 71 | 122 | 72 | 63 |
-| Event rating |   | [8.57](/wiki/Feedback/sht2) | [8.50](/wiki/Feedback/sht3) | [9.44](/wiki/Feedback/sht4) | [8.00](/wiki/Feedback/sht5) | [9.00](/wiki/Feedback/sht6) | [8.85](/wiki/Feedback/sht7) | [8.60](/wiki/Feedback/sht8) | [9.40](/wiki/Feedback/sht9) |
-| Income | ? | 72816 | 68644 | ? | ? | 33332 | 110720 | 119923 | 129700 |
-| Expense | ? | 66548 | 67501 | ? | ? | 33332 | 102311 | 118274 | 127323 |
-| Video views | – | – | 2526 | 736 | 1019 | 1665 | – | 3918 | 5362 |
-| Drop-off rate | – | – | 17% | – | – | – | – | 27% | 7.4% |
+| Event | {% for event in page.events %}[{{ event.number }}](/event/{{ event.slug }}) | {% endfor %}
+| ---- | {% for event in page.events %}---:| {% endfor %}
+| Number of teams   | {% for event in page.events %}{{ event.teams }} | {% endfor %}
+| Number of tickets | {% for event in page.events %}{% if event.tickets %}{{ event.tickets }}{% endif %} | {% endfor %}
+| Number of presenters | {% for event in page.events %}{% if event.presenters %}{{ event.presenters }}{% endif %} | {% endfor %}
+| Event rating | {% for event in page.events %}{% if event.rating %}[{{ event.rating }}](/wiki/Feedback/{{ event.slug }}){% endif %} | {% endfor %}
+| Income | {% for event in page.events %}{% if event.income != "?" %}[{{ event.income }}](/wiki/OrganizerNotes/{{ event.slug }}){% else %}{{ event.income }}{% endif %} | {% endfor %}
+| Expense | {% for event in page.events %}{% if event.expense != "?" %}[{{ event.expense }}](/wiki/OrganizerNotes/{{ event.slug }}){% else %}{{ event.expense }}{% endif %} | {% endfor %}
+| Video views | {% for event in page.events %}{{ event.videoViews }} | {% endfor %}
+| Drop-off rate | {% for event in page.events %}{{ event.dropOffRate }} | {% endfor %}
 
 # Metrics
 
