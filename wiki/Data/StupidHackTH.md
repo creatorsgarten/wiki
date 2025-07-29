@@ -25,5 +25,14 @@ This page keeps track of interesting metrics from each [[StupidHackTH|Stupid Hac
 - **Event rating**
     - Represents the average rating of the event.
     - Collected by averaging the score in the [[Feedback|feedback form]].
+- **Income**
+    - Total income for the event in Thai Baht.
+    - Collected from sponsorship.
+- **Expense**
+    - Total expenses for the event in Thai Baht.
+    - Includes venue, food, equipment, and other event costs.
 - **Video views**
     - Number of views on the pitching livestream
+- **Drop-off rate**
+    - Percentage of registered hackathon participants who did not show up at the event.
+    - Only includes hackathon participants; staff and observers are not counted.
