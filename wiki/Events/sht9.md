@@ -9,6 +9,19 @@ event:
   eventpopId: 96772
   hosts:
     - Creatorsgarten
+  leads:
+    - yokpapatsiri
+  staff:
+    - boomchanotai
+    - chayapatr
+    - dtinth
+    - jajar
+    - khxmjarx
+    - leomotors
+    - poom
+    - rayriffy
+    - saltyaom
+    - siravijbb
 ---
 
 :::lead
