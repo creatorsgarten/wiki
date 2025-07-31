@@ -10,8 +10,14 @@ event:
   hosts:
     - Creatorsgarten
   eventpopId: '96871'
-leads:
-  - rayriffy
+  leads:
+    - rayriffy
+  staff:
+    - dtinth
+    - poom
+    - boatchrnthn
+    - leomotors
+    - kxhmjarx
 ---
 
 :::lead
