@@ -17,7 +17,7 @@ event:
     - poom
     - boatchrnthn
     - leomotors
-    - kxhmjarx
+    - khxmjarx
 ---
 
 :::lead
