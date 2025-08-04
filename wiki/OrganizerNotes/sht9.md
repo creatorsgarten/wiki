@@ -85,7 +85,6 @@ statementOfActivities:
 | 2025-07-28 | [Team list](https://stupid.hackathon.in.th/9/#projects) and [event staff list](https://stupid.hackathon.in.th/9/#staff) published on website                    |
 | 2025-07-29 | Financial reconciliation completed and [statement of activities](https://stupid.hackathon.in.th/9/#cash-flow-chart) published                                    |
 | 2025-08-04 | Behind the Scenes section added to website with links to background content                                                                                         |
-| 2025-08-04 | Financial data updated: individual sponsor amounts and prize expenses details added                                                                                 |
 
 # Financials
 
