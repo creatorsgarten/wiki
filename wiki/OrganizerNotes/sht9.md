@@ -85,49 +85,6 @@ statementOfActivities:
 | 2025-07-28 | [Team list](https://stupid.hackathon.in.th/9/#projects) and [event staff list](https://stupid.hackathon.in.th/9/#staff) published on website |
 | 2025-07-29 | Financial reconciliation completed and [statement of activities](https://stupid.hackathon.in.th/9/#cash-flow-chart) published |
 
-# Task List
-
-## Branding & Identity
-
-- [ ] Decide on event name and branding (CI)
-  - Output: Event name, branding guidelines
-- [ ] Design new Facebook profile picture and cover photo (teaser)
-  - Output: Profile picture and cover photo files ready for upload
-
-## Venue & Capacity
-
-- [ ] Research and shortlist potential venues
-  - Output: List of venue options with capacities and costs
-- [ ] Decide on final venue
-  - Output: Confirmed venue booking
-
-## Sponsorship
-
-- [ ] Create sponsorship proposal (text + graphics)
-  - Output: Sponsorship proposal document and supporting graphics
-- [ ] Define sponsorship tiers (corporate, individual, etc.)
-  - Output: Sponsorship tier structure
-- [ ] Launch call for sponsors
-  - Output: Public call for sponsors post (text + graphics)
-
-## Budgeting
-
-- [ ] Estimate minimum viable budget
-  - Output: Budget breakdown for essential expenses
-- [ ] Estimate budget for upgrades (overnight, meals, swag)
-  - Output: Budget breakdown for optional upgrades
-- [ ] Match budget to venue options
-  - Output: Comparison table of venues vs. budget
-
-## Ticketing
-
-- [ ] Decide on total number of tickets
-  - Output: Final ticket count
-- [ ] Plan ticket release batches and campaigns
-  - Output: Ticket release schedule
-- [ ] Distribute ticket codes to staff
-  - Output: Ticket codes and distribution plan
-
 # Financials
 
 {% render 'StatementOfActivities', data: page.statementOfActivities %}
