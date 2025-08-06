@@ -16,5 +16,7 @@ ps. we'd really appreciate it if you could dm pub or garten team beforehand so w
 - 19.00 onwards | เดี๋ยวค่อยคิด
 
 ## Note
-Add a note that everyone must order and pay for their own food. 
-Here's menu link: https://anyflip.com/bookcase/pgeso
+- Everyone must order and pay for their own food. Here's the [menu link.](https://anyflip.com/bookcase/pgeso)
+
+## Please Help Us Reserve Parking!
+If you plan to come by car, kindly fill out [this quick form](https://docs.google.com/forms/d/e/1FAIpQLSfUqh79IOimj1VcaG8ya04Y_43uAyePKpaEivcm8IXHKE_KiA/viewform?usp=dialog) so we can arrange enough parking spots for everyone. Thanks! 🚗
