@@ -1,6 +1,6 @@
 ---
 image: https://usercontent.creatorsgarten.org/c/v1754463502/644e5254802c0234580bdb52/Frame_114_yyfnnx.webp
-title: สัพเพเหระ | Pub's Send off Party
+title: สัพเพเหระ | Pub's Send-Off Party
 ---
 :::lead
 Pub's leaving for the US, so we're hosting a gathering to finally get rid of him 😛
@@ -16,7 +16,7 @@ ps. we'd really appreciate it if you could dm pub or garten team beforehand so w
 - 19.00 onwards | เดี๋ยวค่อยคิด
 
 ## Note
-- Everyone must order and pay for their own food. Here's the [menu link.](https://anyflip.com/bookcase/pgeso)
+- 🐟 We're doing a pay-as-you-go format where each person orders and pays for their own meal. You can preview the menu [here](https://anyflip.com/bookcase/pgeso)!
+- 🚗 If you plan to come by car, kindly fill out [this quick form](https://docs.google.com/forms/d/e/1FAIpQLSfUqh79IOimj1VcaG8ya04Y_43uAyePKpaEivcm8IXHKE_KiA/viewform?usp=dialog) so we can arrange enough parking spots for everyone.
 
-## Please Help Us Reserve Parking!
-If you plan to come by car, kindly fill out [this quick form](https://docs.google.com/forms/d/e/1FAIpQLSfUqh79IOimj1VcaG8ya04Y_43uAyePKpaEivcm8IXHKE_KiA/viewform?usp=dialog) so we can arrange enough parking spots for everyone. Thanks! 🚗
+**Thank you and see you soon!**
