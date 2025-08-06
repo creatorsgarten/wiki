@@ -11,8 +11,8 @@ We're having a fun ~party~ meetup! Come by from 16:30-22:00 at [Oak Wine and Ste
 ps. we'd really appreciate it if you could dm pub or garten team beforehand so we know how many to expect!
 
 ## Agenda
-- 4.30-7.00 | เดี๋ยวค่อยคิด
-- 7.00 ถ่ายรูป!
+- 16.30-19.00 | เดี๋ยวค่อยคิด
+- 10.00 ถ่ายรูป!
 - 19.00 onwards | เดี๋ยวค่อยคิด
 
 ## Note
