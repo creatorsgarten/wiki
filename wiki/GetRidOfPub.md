@@ -6,7 +6,7 @@ title: สัพเพเหระ | Pub's Send-Off Party
 Pub's leaving for the US, so we're hosting a gathering to finally get rid of him 😛
 :::
 
-We're having a fun ~~party~~ meetup! Come by from 16:30-22:00 at [Oak Wine and Steak on Rama 4](https://maps.app.goo.gl/HYPysSxvySiKa5iY8) for food, drinks, and good conversations. It's an amazing opportunity to bring together all the talented people we know from different fields -- designers, devs, artists, scientists, and more. Should be a nice mix of familiar faces and new connections you'll enjoy meeting.
+We're having a fun ~~party~~ meetup! Come by from 16:30-22:00 at [Oak Wine and Steak on Rama 4](https://maps.app.goo.gl/HYPysSxvySiKa5iY8) for food, drinks, and good conversations. It's a great opportunity to bring together all the amazing people we know from different fields -- designers, devs, artists, scientists, and more. Should be a nice mix of familiar faces and new connections you'll enjoy meeting.
 
 ps. we'd really appreciate it if you could dm pub or garten team beforehand so we know how many to expect!
 
