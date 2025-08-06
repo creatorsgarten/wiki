@@ -16,6 +16,7 @@ ps. we'd really appreciate it if you could dm pub or garten team beforehand so w
 - 19.00 onwards | เดี๋ยวค่อยคิด
 
 ## Note
+- 👽 This is a private, invitation-only event. We’d appreciate it if you could keep the link within invited guests only. 🙏
 - 🐟 We're doing a pay-as-you-go format where each person orders and pays for their own meal. You can preview the menu [here](https://anyflip.com/bookcase/pgeso)!
 - 🚗 If you plan to come by car, kindly fill out [this quick form](https://docs.google.com/forms/d/e/1FAIpQLSfUqh79IOimj1VcaG8ya04Y_43uAyePKpaEivcm8IXHKE_KiA/viewform?usp=dialog) so we can arrange enough parking spots for everyone.
 
