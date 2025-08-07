@@ -13,6 +13,6 @@
 
 # Write-ups
 
-- [Facebook post by Phumrapee Limpianchop](https://www.facebook.com/rayriffy/posts/pfbid0vkgPgMiXNNg8XxgtWXXaai8mpfgLDF13vVe7YPmpUDDHmFDjpH4xHxToKybvER56l) - Highlights from SHT9 including Mac vs Mac content, entertainment moments, and karaoke session
-- [Facebook post by Chayapatr Archiwaranguprok](https://www.facebook.com/chayapatr/posts/pfbid0V2sS19gDgNcPbsNnJ3PXgBbNdX1WoyQ92EF37Xk72fYT9ndnFhNBNz4Z8B4Ngt3l) - Story about MacBook damage incident and comparison between M1 Max vs M2 Pro durability
+- [Facebook post by Phumrapee Limpianchop](https://www.facebook.com/rayriffy/posts/3085101145010614) - Highlights from SHT9 including Mac vs Mac content, entertainment moments, and karaoke session
+- [Facebook post by Chayapatr Archiwaranguprok](https://www.facebook.com/chayapatr/posts/2714241802113463) - Story about MacBook damage incident and comparison between M1 Max vs M2 Pro durability
 - [Facebook post by Yok'k Papatsiri](https://www.facebook.com/papatsiri.apipaiboon/posts/pfbid02BuVb7E4wxRwb2tCk7nowWdAx15Dg1XzUXwHi6rKFRarNx6RzhzEjhAnyCG1ccuZfl) - Lead organizer's reflection on the event, challenges, highlights, and memorable incidents including medical emergencies
