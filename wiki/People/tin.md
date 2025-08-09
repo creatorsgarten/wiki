@@ -1,5 +1,5 @@
 ---
-image: https://gravatar.com/userimage/218522613/538178943924f26b566c47bdd2f676f1.jpeg?size=256
+image: https://usercontent.creatorsgarten.org/c/v1754748715/64965d856cb81cc835f6ff21/538178943924f26b566c47bdd2f676f1_cfutzu.webp
 person:
   name: Tinnaphat Somsang
   intro: always fluffy 💝
