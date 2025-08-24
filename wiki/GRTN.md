@@ -73,6 +73,7 @@ grtnRedirects:
   e/sht9/chula: https://www.facebook.com/creatorsgarten/posts/pfbid02romQasjq82KRuRsTMHYkvjiVBzWWjAoP1nu4KDfnQefEQpBrs24NsDDKszYd7xdMl
   e/sht9/kmitl: https://www.facebook.com/creatorsgarten/posts/pfbid02atqCW8UTUHa7JbxxFVbVkcHY6GyQzZwqkbLWcsFXDhQ1sknyDnsB8NjRgSwSQUt9l
   e/sht9/manchild: https://www.facebook.com/1098892262284446/posts/1145007314339607
+  e/sht9/vids: https://www.youtube.com/playlist?list=PLTuz2sLvbRpyfgk0uVQRQa0wccGk1FDbF
   ideas: https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas
   forum: https://github.com/orgs/creatorsgarten/discussions/categories/general
   streams: https://www.youtube.com/playlist?list=PLTuz2sLvbRpwkoLi0AYDwdABU5dhkoGIr
