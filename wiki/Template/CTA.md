@@ -11,5 +11,6 @@ color: white;
 text-decoration: none;
 box-shadow: 0 8px 25px rgba(102, 126, 234, 0.4), 0 4px 10px rgba(118, 75, 162, 0.2), inset 1px 1px 0 #90a2ff;
 font-size: 1.6em;
+font-weight: 500;
 ">{{ text }}</a>
 </div>
