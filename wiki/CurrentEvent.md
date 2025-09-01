@@ -7,15 +7,28 @@ grtn: c
 
 <!-- BEGIN: CURRENT EVENT -->
 
-# BKK.js #22
+# KBTG Techtopia
 
-{% render 'CTA', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeKGyR9lzmotrSKX1JT_OhCZh_yasim8Zy2SUrQw0PsfbedeA/viewform?usp=dialog', text: 'Feedback form' %}
+TBA
+
+<!--
+{% render 'CTA', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeKGyR9lzmotrSKX1JT_OhCZh_yasim8Zy2SUrQw0PsfbedeA/viewform?usp=dialog', text: '✨✨ Feedback form ✨✨' %}
+-->
 
 <!-- END: CURRENT EVENT -->
 
 </div>
 
 ---
+
+:::details[Archive: BKK.js #22]
+
+# BKK.js #22
+
+{% render 'CTA', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeKGyR9lzmotrSKX1JT_OhCZh_yasim8Zy2SUrQw0PsfbedeA/viewform?usp=dialog', text: '✨✨ Feedback form ✨✨' %}
+
+:::
+
 
 :::details[Archive: BKK.js #21]
 
