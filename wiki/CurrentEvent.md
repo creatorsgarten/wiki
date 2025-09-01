@@ -2,7 +2,8 @@
 grtn: c
 ---
 
-<div style="position: relative; padding: 1rem; border-radius: 6px; border: 2px solid #FFCF56">
+<div style="position: relative; padding: 0 1rem 1rem; border-radius: 6px; border: 2px solid #FFCF56">
+<div style="position: absolute; top: 0; left: 0.5rem; background: #FFCF56; padding: 0px 0.5rem; transform: translateY(-50%); border-radius: 6px;">Current event:</div>
 
 <!-- BEGIN: CURRENT EVENT -->
 
@@ -12,7 +13,6 @@ grtn: c
 
 <!-- END: CURRENT EVENT -->
 
-<div style="position: absolute; top: 0; left: 0.5rem; background: #FFCF56; padding: 0px 0.5rem; transform: translateY(-50%)">Current event:</div>
 </div>
 
 ---
