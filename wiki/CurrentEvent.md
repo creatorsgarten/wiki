@@ -9,7 +9,7 @@ grtn: c
 
 # BKK.js #22
 
-{% render 'CTA', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeKGyR9lzmotrSKX1JT_OhCZh_yasim8Zy2SUrQw0PsfbedeA/viewform?usp=dialog', text: '✨✨ Feedback form ✨✨' %}
+{% render 'CTA', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeKGyR9lzmotrSKX1JT_OhCZh_yasim8Zy2SUrQw0PsfbedeA/viewform?usp=dialog', text: 'Feedback form' %}
 
 <!-- END: CURRENT EVENT -->
 
