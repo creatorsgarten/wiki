@@ -116,6 +116,8 @@ Event page: {% render 'Event', name: 'creativecodingmeetup2' %}
 
 :::details[Archive: Side Projects Showdown]
 
+# Side Projects Showdown
+
 Event page: {% render 'Event', name: 'sideproject' %}
 
 - [**Vote for talks in our Discord server**](https://grtn.org/dc)
@@ -136,6 +138,8 @@ Event page: {% render 'Event', name: 'sideproject' %}
 
 :::details[Archive: Functional programming meetup #2: Elm for frontend developers]
 
+# Functional programming meetup #2
+
 Event page: {% render 'Event', name: 'functional2' %}
 
 - [**Live stream on Facebook page!**](https://www.facebook.com/creatorsgarten/videos/292021870055011/)
@@ -152,6 +156,8 @@ Event page: {% render 'Event', name: 'functional2' %}
 
 :::details[Archive: Functional programming meetup #1]
 
+# Functional programming meetup #1
+
 Event page: {% render 'Event', name: 'functional' %}
 
 - [Live video](https://www.facebook.com/creatorsgarten/videos/973668987143376/)
@@ -167,6 +173,8 @@ Event page: {% render 'Event', name: 'functional' %}
 :::
 
 :::details[Archive: Creative coding meetup #1]
+
+# Creative coding meetup #1
 
 Event page: {% render 'Event', name: 'creativecodingmeetup' %}
 
