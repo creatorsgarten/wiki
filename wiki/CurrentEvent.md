@@ -2,9 +2,18 @@
 grtn: c
 ---
 
+<div style="position: relative; padding: 1rem; border-radius: 6px; border: 2px solid #FFCF56">
+<div style="position: absolute; top: 0; left: 1rem; background: #FFCF56; padding: 3px 5px; transform: translateY(-50%)">Current event:</div>
+
+<!-- BEGIN: CURRENT EVENT -->
+
 # BKK.js #22
 
 {% render 'CTA', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeKGyR9lzmotrSKX1JT_OhCZh_yasim8Zy2SUrQw0PsfbedeA/viewform?usp=dialog', text: '✨✨ Feedback form ✨✨' %}
+
+<!-- END: CURRENT EVENT -->
+
+</div>
 
 ---
 
