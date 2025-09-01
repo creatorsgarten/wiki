@@ -12,7 +12,7 @@ grtn: c
 
 # BKK.js #21
 
-## [✨✨ Feedback form ✨✨<br>CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSf8VRIkMkJQr2SOG2IPab8U7ldCuSTZV_4Kz9bQM6C6Lna2NQ/viewform?usp=sf_link)
+{% render 'CTA', url: 'https://docs.google.com/forms/d/e/1FAIpQLSf8VRIkMkJQr2SOG2IPab8U7ldCuSTZV_4Kz9bQM6C6Lna2NQ/viewform?usp=sf_link', text: '✨✨ Feedback form ✨✨' %}
 
 :::
 
@@ -20,7 +20,7 @@ grtn: c
 
 # เศรษฐกิจเอไอกับโลกไร้งาน
 
-## [✨✨ Feedback form ✨✨<br>CLICK HERE](https://docs.google.com/forms/d/e/1FAIpQLSdtKH68a3rW5fUlQlb-gQoGqR4hstNCtEd4u-wa_J9k5ArS0A/viewform?usp=sf_link)
+{% render 'CTA', url: 'https://docs.google.com/forms/d/e/1FAIpQLSdtKH68a3rW5fUlQlb-gQoGqR4hstNCtEd4u-wa_J9k5ArS0A/viewform?usp=sf_link', text: '✨✨ Feedback form ✨✨' %}
 
 :::
 
@@ -188,6 +188,9 @@ Event page: {% render 'Event', name: 'creativecodingmeetup' %}
 ---
 
 :::details[About this page]
+
+# About this page
+
 This page is for information related to the event currently happening. The shortcut URL to this page is {% render 'Grtn', path: 'c' %}
 
 QR code for this page:
