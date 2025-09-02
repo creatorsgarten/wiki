@@ -9,11 +9,7 @@ grtn: c
 
 # KBTG Techtopia
 
-TBA
-
-<!--
-{% render 'CTA', url: 'https://docs.google.com/forms/d/e/1FAIpQLSeKGyR9lzmotrSKX1JT_OhCZh_yasim8Zy2SUrQw0PsfbedeA/viewform?usp=dialog', text: '✨✨ Feedback form ✨✨' %}
--->
+{% render 'CTA', url: 'https://www.tldraw.com/f/iQnehihcvmHIzZ9HFpZBK?d=v-537.-187.2478.1627.K1qzCskP5wx_E4RnhJ995', text: 'Whiteboard' %}
 
 <!-- END: CURRENT EVENT -->
 
