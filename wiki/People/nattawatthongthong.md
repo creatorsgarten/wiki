@@ -1,7 +1,7 @@
 ---
 person:
   name: Nattawatt Hongthong
-  intro: "I'm the language model lol joking..."
+  intro: "You're absolutely right!"
   nickname: Khong
   nicknameTh: โขง
   github: RealNattawattHongthong
@@ -9,4 +9,4 @@ person:
   linkedin: nattawatt-hongthong
   site: https://nattawatt.com
 ---
-
+I'm the language model just joking...
