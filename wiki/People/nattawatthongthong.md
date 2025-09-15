@@ -1,7 +1,7 @@
 ---
 person:
   name: Nattawatt Hongthong
-  intro: ""
+  intro: "I'm the language model lol joking..."
   nickname: Khong
   nicknameTh: โขง
   github: RealNattawattHongthong
