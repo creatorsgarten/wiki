@@ -1,5 +1,6 @@
 ---
 person:
+
   name: Nattawatt Hongthong
   intro: "You're absolutely right!"
   nickname: Khong
