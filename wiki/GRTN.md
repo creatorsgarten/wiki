@@ -116,6 +116,8 @@ grtnRedirects:
   twhh-caption: 'https://live-speech.vercel.app/view?backend=https://live-speech.lab.spacet.me&room=0193aa9b-6028-71d9-9b92-bf37d9ed63c5'
   fossasia: 'https://eventyay.com/e/4c0e0c27?code=Creatorsgarten_members'
   olym: 'https://vdo.ninja/?room=ag_onb_olm&hash=43b9&q&np&g=0&vd=0&do'
+  olym-1: 'https://meet.google.com/bym-veoj-cxy'
+  olym-2: 'https://meet.google.com/uhj-keww-qdw'
 ---
 
 :::lead
