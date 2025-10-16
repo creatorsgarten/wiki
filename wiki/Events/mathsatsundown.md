@@ -20,6 +20,7 @@ event:
     - chayapatr
   leads:
     - anejung
+    - deltathetas
     - chanatpakorn
 ---
 
