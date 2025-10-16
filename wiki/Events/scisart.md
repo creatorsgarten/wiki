@@ -13,6 +13,8 @@ event:
     - faypichaya
   leads:
     - chayapatr
+  speakers:
+    - deltathetas
 ---
 
 # 🔭 มองไสยศาสตร์มุมใหม่
