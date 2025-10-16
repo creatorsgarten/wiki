@@ -16,6 +16,7 @@ event:
     - siravijbb
     - saltyaom
     - faypichaya
+    - deltathetas
   leads:
     - poom
     - siravijbb
