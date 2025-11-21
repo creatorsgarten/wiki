@@ -21,6 +21,7 @@ event:
     - khxmjarx
     - siravijbb
     - chayapatr
+    - notevarit
   speakers:
     - chayapatr
 ---
