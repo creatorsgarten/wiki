@@ -19,6 +19,7 @@ event:
     - dtinth
     - chayapatr
     - khxmjarx
+    - notevarit 
   speakers:
     - knightwitglasses
     - patrickchodev
