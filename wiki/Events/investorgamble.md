@@ -10,6 +10,7 @@ event:
   staff:
     - knightwitglasses
     - chayapatr
+    - notevarit
   leads:
     - faypichaya
 ---
