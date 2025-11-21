@@ -5,5 +5,10 @@ person:
   intro: I’m learning physics and indie game development.
   nickname: Note
   nicknameTh: นท
+  facebook: tavisklyne
+  linkedin: tavisklyne
 ---
 
+:::lead
+**Note Thasvarit** is learning physics and indie game development.
+:::
