@@ -64,6 +64,10 @@ meetups:
     name: 'Onsen.js #14'
     place: Let's Relax Onsen (Lumphini)
     url: https://www.facebook.com/dtinth/posts/pfbid02N9vmCED3nudXkuSCFH8jcu3fxPWmFE5ZpdYtcrPdeP9oMqi92FvQxdRW48n25Hscl
+  - date: '2025-12-01'
+    name: 'Onsen.js #15'
+    place: Let's Relax Onsen (Ratchadamri)
+    url: https://www.facebook.com/photo/?fbid=3354399228080803&set=a.359894480864641
 ---
 
 :::lead
@@ -129,7 +133,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 - **Policies:** Clothing and photo-recording devices are forbidden in the onsen area and grooming/changing area. Only small towel is allowed. You will take out all your clothes during onsen. Please also note that people with full-body tattoos are not allowed into the onsen (by the premises' policy).
 - **No re-entry:** If I understand correctly, the day pass only allows a single entrance. That means you may stay in the premises (including the cafe and nap area) for as long as you want until the place closes. But if you exit the premises you can't come back in.
 
-<!-- 
+<!--
 - [Check out Panpuri shop promotions.](https://panpuri.com/spa-onsen/exclusive-package/exclusive-wellness-package-at-gaysorn/)
   - Buy an off-peak ticket for 100 THB off, but you must enter between 10:00 and 14:00.
   - Buy an onsen+dine package for 100 THB off, if you plan to eat at the onsen.
@@ -197,7 +201,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 | Tonkotsu Ramen                                           |   200 |
 | Chicken Teriyaki Quinoa Rice Bowl                        |   200 |
 | **— Beverages —** (non-alcoholic)                        |       |
-| Coke / Coke Zero / Sprite / Ginger Ale / Lemon Soda     |    60 |
+| Coke / Coke Zero / Sprite / Ginger Ale / Lemon Soda      |    60 |
 | Cold Chocolate Milk                                      |    80 |
 | Hot Coffee                                               |    90 |
 | Iced Coffee                                              |    90 |
@@ -206,10 +210,10 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 | Strawberry Fizzy (soda)                                  |   100 |
 | Lychee Refresh (soda)                                    |   100 |
 | Sparkling Plum (soda)                                    |   100 |
-| Recharge (cold-pressed: carrot / apple / ginger)        |   140 |
+| Recharge (cold-pressed: carrot / apple / ginger)         |   140 |
 | Radiant (cold-pressed: tomato / carrot / radish / apple) |   140 |
-| Upbeat (cold-pressed: orange / carrot / pineapple)      |   140 |
-| Revitalize (cold-pressed: kale / cucumber / apple)      |   140 |
+| Upbeat (cold-pressed: orange / carrot / pineapple)       |   140 |
+| Revitalize (cold-pressed: kale / cucumber / apple)       |   140 |
 | Watermelon Juice                                         |   140 |
 | Carrot Juice                                             |   140 |
 | Pineapple Juice                                          |   140 |
@@ -248,15 +252,34 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 - **Price and promotions:** Similar to [Thonglor branch](#lets-relax-onsen-thonglor), a walk-in day pass costs 750 THB.
 - **Lobby and work area:** The lobby area is much more spacious than Thonglor branch. The work area includes eight chairs at the counter and ten chairs at the big table. The counter is equipped with AC outlets and USB-A outlets.
 
-| Area      | Chairs | AC<br>Outlets | USB-A<br>Outlets |
-|-----------|-------:|-----------:|--------------:|
-| Counter   |      8 |          4 |             4 |
-| Big Table |     10 |          3 |             2 |
+  | Area      | Chairs | AC<br>Outlets | USB-A<br>Outlets |
+  | --------- | -----: | ------------: | ---------------: |
+  | Counter   |      8 |             4 |                4 |
+  | Big Table |     10 |             3 |                2 |
 
 - **Food menu:** The food menu is the same as the Thonglor branch.
 - **Pools and rooms:** The available pools and facilities are the same as the Thonglor branch: Gero Hot Spring bath, soda bath, whirlpool bath, cold bath, silk bath, sauna room, Kakeyu, and steam room. However, this branch is larger. For example, the whirlpool bath here has four seats and three standing slots compared to Thonglor's three seats and two standing slots.
 - **Unique features:** The Lumphini branch has larger pool sizes, more natural light in the onsen area (though the lobby area has no windows), and a much bigger relaxation area. Upon entrance, there is a slipper exchange room before the lobby with size M, L, and XL slippers available.
 - **Other amenities:** Although not related to the onsen, there is a restaurant on the rooftop of the hotel called [Level 50 by SEE FAH](https://grandecentrepointlumphini.com/th/dining/level-50-rooftop).
+
+## Let's Relax Onsen (Ratchadamri)
+
+- **Location:** [Let's Relax Onsen and Spa - Ratchadamri](https://maps.app.goo.gl/CT3ozFddT3B1hnT88) is on the 10th floor of Grande Centre Point Prestige Bangkok. The closest BTS station is BTS Ratchadamri.
+- **Price and promotions:** Similar to [Thonglor branch](#lets-relax-onsen-thonglor), a walk-in day pass costs 750 THB. Thai has a WellnessMe member with 10% discount, so if he joins the event you can ask him to use his membership for a discount on the day pass, treatments, or packages. Alternatively, you can buy discounted passes from third parties, though these are typically usable the next day.
+- **Lobby and work area:** The reception area has seats but is not suitable for work. However, there is a separate, **spacious lobby area** that is very work-friendly. This lobby features windows with natural sunlight during the daytime. The work area includes 23 small tables (2 seats each) and 1 big table (8 seats).
+
+  | Area         | Tables | Seats | Floor Pop-ups | Wall Outlets |
+  | ------------ | -----: | ----: | ------------: | -----------: |
+  | Small tables |     23 |    46 |            10 |            4 |
+  | Big table    |      1 |     8 |             — |            — |
+
+- **Power and charging:** There are 10 pop-up floor outlets (the type that flips up at 45 degrees when you pull the tab), each equipped with 1 AC power outlet and 1 USB-A port. Additionally, there are 4 wall-mounted outlets, each with 2 AC power outlets, 1 USB-A port, and 1 USB-C port.
+- **Complimentary drinks and snacks:** Similar to other branches, complimentary free-flow drinks include pandan water and infused water. There are also assorted thong muan (coconut) rolls, with 2 flavors available at a time (compared to Lumphini's 3 flavors).
+- **OHB Cafe:** There is [OHB Cafe](https://www.facebook.com/Ohbcafeandmeal/) in the premises, which closes at 7 PM. The cafe offers the same food and beverage menu as the Thonglor and Lumphini branches (see [Thonglor branch menu](#lets-relax-onsen-thonglor)), plus specialty coffee with three roast options: Dark, Medium, and Light roast.
+- **Massage:** Massage services are available at the premises, similar to other Let's Relax branches. For treatment options and pricing, refer to the [Thonglor branch](#lets-relax-onsen-thonglor) section. Thai has a WellnessMe membership with 10% discount available. Availability is limited, so advance booking is recommended.
+- **Pools and rooms:** The available pools and facilities are the same as other Let's Relax branches: Gero Hot Springs Bath (~42°C), Silk Bath (~40°C), Whirlpool Bath, Soda Bath (~36°C), and Cold Bath (16~18°C). There is also a sauna and a steam room.
+- **Wellness facilities:** Similar to the Lumphini branch, there are relaxing rooms (for sleeping), hot stonebed bath (for lying down on hot stonebed), and cool down room (set to 17~18°C).
+- **Unique features:** This branch features outside views of the Royal Sports Club from the onsen area, facing westward. The work area is notably spacious with a separate lobby designed for productivity, featuring abundant natural lighting during daytime. However, curtains are rolled down before sunset.
 
 # How to organize
 
