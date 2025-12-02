@@ -146,7 +146,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 All Let's Relax branches share the following features:
 
-- **Price and promotions:** A walk-in day pass costs 750 THB. There are also packages which include an onsen day pass + spa treatments. Thai has a WellnessMe membership with 10% discount, so if he joins the event you can ask him to use his membership for a discount on the day pass, treatments, or packages. Alternatively, you can [buy a day pass from Thaihand](https://thaihandmassage.com/en/shop/lets-relax-spa-thonglor) for a discounted price of 650 THB, but note that passes that are bought from third parties are usable on the next day (may not be usable on the same day).
+- **Price and promotions:** A walk-in day pass costs 750 THB. There are also packages which include an onsen day pass + spa treatments. Thai {% render 'Person', name: 'dtinth' %} has a WellnessMe membership with 10% discount, so if he joins the event you can ask him to use his membership for a discount on the day pass, treatments, or packages. Alternatively, you can [buy a day pass from Thaihand](https://thaihandmassage.com/en/shop/lets-relax-spa-thonglor) for a discounted price of 650 THB, but note that passes that are bought from third parties are usable on the next day (may not be usable on the same day).
 
 :::details[Package price list, as of 2024-12-02]
 
