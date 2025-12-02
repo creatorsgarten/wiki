@@ -228,7 +228,7 @@ All Let's Relax branches share the following features:
 
 :::
 
-- **Pools and rooms:** There are 5 pools. From hottest to coldest: Gero Hot Springs Bath (~42°C), Silk Bath (~40°C), Whirlpool Bath, Soda Bath (~36°C), and Cold Bath (16~18°C). There is also a sauna and a steam room.
+- **Pools and rooms:** There are 5 pools. From hottest to coldest: Gero Hot Springs Bath (~42°C), Silk Bath (~40°C), Whirlpool Bath (~38°C), Soda Bath (~36°C), and Cold Bath (15~18°C). There is also a sauna and a steam room.
 - **Wellness facilities:** All branches have relaxing rooms (for sleeping), hot stonebed bath (for lying down on hot stonebed), and cool down room (set to 17~18°C).
 
 ### Thonglor
