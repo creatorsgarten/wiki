@@ -107,22 +107,22 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 - **Location:** [PAÑPURI Onsen & Spa](https://panpuri.com/spa-onsen/wellness-destinations/wellness-gaysorn/) is at Gaysorn Tower, 12F. The closest BTS station is BTS Chid Lom.
 - **Price and promotions:** A day pass costs 750 THB and gives you access to the onsen from 10 AM to 10:45 PM. [There are occasional promotions on GoWabi where prices drop down to 690 THB (or 650 THB if you enter before 2 PM).](https://www.gowabi.com/th/provider/panpuri-wellness) Refer your friend and both you and your friend gets a 100 THB discount. If it's your first time and you got no one to refer you, my referal code is `thai-5702366`.
 
-:::details[Purchase guide (last updated 2024-07-11)]
+  :::details[Purchase guide (last updated 2024-07-11)]
 
-**Disclaimer:** This information may be inaccurate or out-of-date.
+  **Disclaimer:** This information may be inaccurate or out-of-date.
 
-- **If you plan to buy food at Panpuri,**
-  - [Get an Onsen day pass with 100 THB food credit for 750 THB directly at Panpuri shop.](https://panpuri.com/spa-onsen/exclusive-package/exclusive-wellness-package-at-gaysorn/)
-- **Otherwise,**
-  - [Buy a voucher on GoWabi](https://www.gowabi.com/th/provider/panpuri-wellness)
-- **If you are a first-time GoWabi user,**
-  - You can use the referral code `thai-5702366` for 100 THB discount on top.
-- **To choose a package,**
-  - If you plan to arrive between 10:00 and 14:00, buy an off-peak ticket for 650 THB.
-  - Otherwise, a flash sale may be available for 669 THB or 690 THB.
-  - Otherwise, a regular entry pass costs 750 THB.
+  - **If you plan to buy food at Panpuri,**
+    - [Get an Onsen day pass with 100 THB food credit for 750 THB directly at Panpuri shop.](https://panpuri.com/spa-onsen/exclusive-package/exclusive-wellness-package-at-gaysorn/)
+  - **Otherwise,**
+    - [Buy a voucher on GoWabi](https://www.gowabi.com/th/provider/panpuri-wellness)
+  - **If you are a first-time GoWabi user,**
+    - You can use the referral code `thai-5702366` for 100 THB discount on top.
+  - **To choose a package,**
+    - If you plan to arrive between 10:00 and 14:00, buy an off-peak ticket for 650 THB.
+    - Otherwise, a flash sale may be available for 669 THB or 690 THB.
+    - Otherwise, a regular entry pass costs 750 THB.
 
-:::
+  :::
 
 - **Lobby and work area:** The work area has a USB plug on each seat, and a power outlet is available every 4 seats. There are other seats but they are not ideal for working (you are more likely to get back pain, leaving you worse off).
 - **Limited work area seats:** Please feel free to invite your friends, but please bear in mind that the work area has only 10 seats.
@@ -148,85 +148,85 @@ All Let's Relax branches share the following features:
 
 - **Price and promotions:** A walk-in day pass costs 750 THB. There are also packages which include an onsen day pass + spa treatments. Thai {% render 'Person', name: 'dtinth' %} has a WellnessMe membership with 10% discount, so if he joins the event you can ask him to use his membership for a discount on the day pass, treatments, or packages. Alternatively, you can [buy a day pass from Thaihand](https://thaihandmassage.com/en/shop/lets-relax-spa-thonglor) for a discounted price of 650 THB, but note that passes that are bought from third parties are usable on the next day (may not be usable on the same day).
 
-:::details[Package price list, as of 2024-12-02]
+  :::details[Package price list, as of 2024-12-02]
 
-**Disclaimer:** This information may be inaccurate or out-of-date.
+  **Disclaimer:** This information may be inaccurate or out-of-date.
 
-| Item                                                     | Price |
-| -------------------------------------------------------- | ----: |
-| Onsen day pass                                           |   750 |
-| Onsen + 60-min foot massage                              |  1400 |
-| Onsen + 60-min Thai massage                              |  1350 |
-| Onsen + 120-min Thai massage                             |  1800 |
-| Onsen + 60-min aroma oil massage (※)                     |  1900 |
-| Onsen + 60-min aroma oil massage + 60-min body scrub (※) |  3100 |
-| Onsen + 60-min Dr.Spiller facial massage                 |  2200 |
+  | Item                                                     | Price |
+  | -------------------------------------------------------- | ----: |
+  | Onsen day pass                                           |   750 |
+  | Onsen + 60-min foot massage                              |  1400 |
+  | Onsen + 60-min Thai massage                              |  1350 |
+  | Onsen + 120-min Thai massage                             |  1800 |
+  | Onsen + 60-min aroma oil massage (※)                     |  1900 |
+  | Onsen + 60-min aroma oil massage + 60-min body scrub (※) |  3100 |
+  | Onsen + 60-min Dr.Spiller facial massage                 |  2200 |
 
-※ For oil massage, must use Onsen before spa treatment (cannot re-enter Onsen after spa).
+  ※ For oil massage, must use Onsen before spa treatment (cannot re-enter Onsen after spa).
 
-:::
+  :::
 
 - **Complimentary drinks and snacks:** Complimentary free-flow drinks include pandan water and infused water in the lobby. Inside the onsen, mugicha tea is also available. Assorted thong muan (coconut) rolls are provided, with the number of flavors varying by branch.
 - **Snack bar/cafe:** Food, beverages, and desserts are available for purchase. Note that WellnessMe discounts cannot be used for food.
 
-:::details[Food, drinks, and desserts menu, as of 2024-09-23]
+  :::details[Food, drinks, and desserts menu, as of 2024-09-23]
 
-**Disclaimer:** This information may be inaccurate or out-of-date.
+  **Disclaimer:** This information may be inaccurate or out-of-date.
 
-| Item                                                     | Price |
-| -------------------------------------------------------- | ----: |
-| **— Main dishes —**                                      |       |
-| Grilled Tofu Salad                                       |   150 |
-| Grilled Chicken Salad                                    |   150 |
-| Tuna Salad                                               |   150 |
-| Caesar Salad with Chicken and Bacon                      |   150 |
-| Tuna Sandwich                                            |   150 |
-| Ham&Cheese Sandwich                                      |   150 |
-| Chicken Sandwich                                         |   150 |
-| Chashu Quinoa Rice Bowl                                  |   200 |
-| Tonkotsu Ramen                                           |   200 |
-| Chicken Teriyaki Quinoa Rice Bowl                        |   200 |
-| **— Beverages —** (non-alcoholic)                        |       |
-| Coke / Coke Zero / Sprite / Ginger Ale / Lemon Soda      |    60 |
-| Cold Chocolate Milk                                      |    80 |
-| Hot Coffee                                               |    90 |
-| Iced Coffee                                              |    90 |
-| Hot Coffee Rose                                          |   110 |
-| Hot Tea (pot)                                            |   100 |
-| Strawberry Fizzy (soda)                                  |   100 |
-| Lychee Refresh (soda)                                    |   100 |
-| Sparkling Plum (soda)                                    |   100 |
-| Recharge (cold-pressed: carrot / apple / ginger)         |   140 |
-| Radiant (cold-pressed: tomato / carrot / radish / apple) |   140 |
-| Upbeat (cold-pressed: orange / carrot / pineapple)       |   140 |
-| Revitalize (cold-pressed: kale / cucumber / apple)       |   140 |
-| Watermelon Juice                                         |   140 |
-| Carrot Juice                                             |   140 |
-| Pineapple Juice                                          |   140 |
-| Mango Smoothies                                          |   140 |
-| **— Dessert —**                                          |       |
-| Shinkansen (chocolate & raspberry cake)                  |   220 |
-| Fujisan (tofu pudding)                                   |   180 |
-| Yami (chocolate brownie)                                 |   180 |
-| Take Me To Kyoto (matcha cake)                           |   180 |
-| Jambolan Cheesecake                                      |   180 |
+  | Item                                                     | Price |
+  | -------------------------------------------------------- | ----: |
+  | **— Main dishes —**                                      |       |
+  | Grilled Tofu Salad                                       |   150 |
+  | Grilled Chicken Salad                                    |   150 |
+  | Tuna Salad                                               |   150 |
+  | Caesar Salad with Chicken and Bacon                      |   150 |
+  | Tuna Sandwich                                            |   150 |
+  | Ham&Cheese Sandwich                                      |   150 |
+  | Chicken Sandwich                                         |   150 |
+  | Chashu Quinoa Rice Bowl                                  |   200 |
+  | Tonkotsu Ramen                                           |   200 |
+  | Chicken Teriyaki Quinoa Rice Bowl                        |   200 |
+  | **— Beverages —** (non-alcoholic)                        |       |
+  | Coke / Coke Zero / Sprite / Ginger Ale / Lemon Soda      |    60 |
+  | Cold Chocolate Milk                                      |    80 |
+  | Hot Coffee                                               |    90 |
+  | Iced Coffee                                              |    90 |
+  | Hot Coffee Rose                                          |   110 |
+  | Hot Tea (pot)                                            |   100 |
+  | Strawberry Fizzy (soda)                                  |   100 |
+  | Lychee Refresh (soda)                                    |   100 |
+  | Sparkling Plum (soda)                                    |   100 |
+  | Recharge (cold-pressed: carrot / apple / ginger)         |   140 |
+  | Radiant (cold-pressed: tomato / carrot / radish / apple) |   140 |
+  | Upbeat (cold-pressed: orange / carrot / pineapple)       |   140 |
+  | Revitalize (cold-pressed: kale / cucumber / apple)       |   140 |
+  | Watermelon Juice                                         |   140 |
+  | Carrot Juice                                             |   140 |
+  | Pineapple Juice                                          |   140 |
+  | Mango Smoothies                                          |   140 |
+  | **— Dessert —**                                          |       |
+  | Shinkansen (chocolate & raspberry cake)                  |   220 |
+  | Fujisan (tofu pudding)                                   |   180 |
+  | Yami (chocolate brownie)                                 |   180 |
+  | Take Me To Kyoto (matcha cake)                           |   180 |
+  | Jambolan Cheesecake                                      |   180 |
 
-:::
+  :::
 
 - **Massage:** Massage services are available at all branches. Thai has a WellnessMe membership with 10% discount. Services over 800 THB come with complimentary [mango and sticky rice](https://letsrelaxspa.com/experience/#:~:text=of%20our%20guests.-,Refreshing%20Flavors,-The%20final%20experience). Availability is limited, so advance booking is recommended. [Online bookings](https://booking.letsrelaxspa.com/book) must be made 60 minutes in advance.
 
-:::details[Thai's favorite treatments]
+  :::details[Thai's favorite treatments]
 
-**Disclaimer:** This information may be inaccurate or out-of-date.
+  **Disclaimer:** This information may be inaccurate or out-of-date.
 
-| Treatment                            |     Price | Price<br>(with 10% discount) |
-| ------------------------------------ | --------: | ---------------------------: |
-| 120-minutes Thai massage             | 1,200 THB |                    1,080 THB |
-| 90-minutes dream package             | 1,100 THB |                      990 THB |
-| 60-minutes back and shoulder massage |   750 THB |                      675 THB |
-| 30-minutes back and shoulder massage |   375 THB |                      338 THB |
+  | Treatment                            |     Price | Price<br>(with 10% discount) |
+  | ------------------------------------ | --------: | ---------------------------: |
+  | 120-minutes Thai massage             | 1,200 THB |                    1,080 THB |
+  | 90-minutes dream package             | 1,100 THB |                      990 THB |
+  | 60-minutes back and shoulder massage |   750 THB |                      675 THB |
+  | 30-minutes back and shoulder massage |   375 THB |                      338 THB |
 
-:::
+  :::
 
 - **Pools and rooms:** There are 5 pools. From hottest to coldest: Gero Hot Springs Bath (~42°C), Silk Bath (~40°C), Whirlpool Bath (~38°C), Soda Bath (~36°C), and Cold Bath (15~18°C). There is also a sauna and a steam room.
 - **Wellness facilities:** All branches have relaxing rooms (for sleeping), hot stonebed bath (for lying down on hot stonebed), and cool down room (set to 17~18°C).
