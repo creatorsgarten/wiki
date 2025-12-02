@@ -142,12 +142,13 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
   - You can use the referral code `thai-5702366` for 100 THB discount on top.
 -->
 
-## Let's Relax Onsen (Thonglor)
+## Let's Relax Onsen
 
-- **Location:** [Let's Relax Onsen (Thonglor)](https://letsrelaxspa.com/branch/thonglor/) is on the 5th floor of Grande Centre Point Sukhumvit 55 hotel, which is located in front of Soi Thong Lo 10.
-- **Price and promotions:** A walk-in day pass costs 750 THB. There are also packages which include an onsen day pass + spa treatments. Thai has a WellnessMe member with 10% discount, so if he joins the event you can ask him to use his membership for a discount on the day pass, treatments, or packages. Alternatively, You can [buy a day pass from Thaihand](https://thaihandmassage.com/en/shop/lets-relax-spa-thonglor) for a discounted price of 650 THB, but note that passes that are bought from third parties are usable on the next day (may not be usable on the same day). Also, Thai has bought a pack of vouchers at a discount (600 THB) and has 3 remaining vouchers that expire on 2025-05-31.
+All Let's Relax branches share the following features:
 
-:::details[Price list, as of 2024-12-02]
+- **Price and promotions:** A walk-in day pass costs 750 THB. There are also packages which include an onsen day pass + spa treatments. Thai has a WellnessMe membership with 10% discount, so if he joins the event you can ask him to use his membership for a discount on the day pass, treatments, or packages. Alternatively, you can [buy a day pass from Thaihand](https://thaihandmassage.com/en/shop/lets-relax-spa-thonglor) for a discounted price of 650 THB, but note that passes that are bought from third parties are usable on the next day (may not be usable on the same day).
+
+:::details[Package price list, as of 2024-12-02]
 
 **Disclaimer:** This information may be inaccurate or out-of-date.
 
@@ -165,23 +166,8 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 :::
 
-- **Lobby and work area:** There are a few seating areas: There are counter height tables next to the window and the wall with many stools. The side next to the wall has 2 power outlets. There are also coffee tables along with chairs (with back), but the height of the table may not be suitable for working.
-
-:::details[See seating area image]
-
-![A modern and minimalist cafe interior with wooden floors, a row of stools along a counter, and large windows with blinds providing natural lighting.](https://usercontent.creatorsgarten.org/c/v1733064122/644c35a6802c02345887f156/image_oijcep.webp)
-
-:::
-
-- **Complimentary drinks and snacks:** There are two complimentary free-flow drinks in the lobby: Pandan water and infused water. There are also assorted thong muan rolls, with 2 flavors available at a time. Inside the onsen, there is also mugicha tea. These are free for onsen customers.
-
-:::details[See complimentary snacks]
-
-![A wooden shelf displays various items, including containers for pandan water and infused water, coconut rolls, and paper cups, set against a gray concrete wall background.](https://usercontent.creatorsgarten.org/c/v1733064181/644c35a6802c02345887f156/image_xyjpzb.webp)
-
-:::
-
-- **Snack bar:** There is also a snack bar where you can purchase other food, beverages, and desserts. It open until about 11 PM. Note that WellnessMe discounts cannot be used for food.
+- **Complimentary drinks and snacks:** Complimentary free-flow drinks include pandan water and infused water in the lobby. Inside the onsen, mugicha tea is also available. Assorted thong muan (coconut) rolls are provided, with the number of flavors varying by branch.
+- **Snack bar/cafe:** Food, beverages, and desserts are available for purchase. Note that WellnessMe discounts cannot be used for food.
 
 :::details[Food, drinks, and desserts menu, as of 2024-09-23]
 
@@ -227,7 +213,7 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 
 :::
 
-- **Massage:** There is a massage service available at the premises. For the menu, [check out the branch's website](https://letsrelaxspa.com/th/branch/thonglo/). Thai has a WellnessMe member with 10% discount, so if he joins the event, you can ask him to use his membership to get a discount. Services over 800 THB comes with complimentary [mango and sticky rice](https://letsrelaxspa.com/experience/#:~:text=of%20our%20guests.-,Refreshing%20Flavors,-The%20final%20experience). Availability is limited, so advance booking is recommended. [Online bookings](https://booking.letsrelaxspa.com/book) must be made 24 hours in advance. You can [call the spa](https://letsrelaxspa.com/th/branch/thonglo/#:~:text=%E0%B8%9E%E0%B9%89%E0%B8%AD%E0%B8%A2%E0%B8%97%E0%B8%99%E0%B9%8C-,%E0%B9%80%E0%B8%9A%E0%B8%AD%E0%B8%A3%E0%B9%8C%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B8%95%E0%B8%B4%E0%B8%94%E0%B8%95%E0%B9%88%E0%B8%AD,-%3A%20%20%2B66%20) or ask the on-site staff to check if booking in shorter time-frame is possible.
+- **Massage:** Massage services are available at all branches. Thai has a WellnessMe membership with 10% discount. Services over 800 THB come with complimentary [mango and sticky rice](https://letsrelaxspa.com/experience/#:~:text=of%20our%20guests.-,Refreshing%20Flavors,-The%20final%20experience). Availability is limited, so advance booking is recommended. [Online bookings](https://booking.letsrelaxspa.com/book) must be made 24 hours in advance.
 
 :::details[Thai's favorite treatments]
 
@@ -243,42 +229,58 @@ Due to limited working space at the Onsen premises, we use the _friends invite f
 :::
 
 - **Pools and rooms:** There are 5 pools. From hottest to coldest: Gero Hot Springs Bath (~42°C), Silk Bath (~40°C), Whirlpool Bath, Soda Bath (~36°C), and Cold Bath (16~18°C). There is also a sauna and a steam room.
-- **Wellness facilities:** In the common area, there are relaxing rooms (for sleeping), hot stonebed bath (for lying down on hot stonebed), and cool down room (set to 17~18°C).
+- **Wellness facilities:** All branches have relaxing rooms (for sleeping), hot stonebed bath (for lying down on hot stonebed), and cool down room (set to 17~18°C).
+
+### Thonglor
+
+- **Location:** [Let's Relax Onsen (Thonglor)](https://letsrelaxspa.com/branch/thonglor/) is on the 5th floor of Grande Centre Point Sukhumvit 55 hotel, which is located in front of Soi Thong Lo 10.
+- **Thai's vouchers:** Thai has bought a pack of vouchers at a discount (600 THB) and has 3 remaining vouchers that expire on 2025-05-31.
+- **Lobby and work area:** There are a few seating areas: There are counter height tables next to the window and the wall with many stools. The side next to the wall has 2 power outlets. There are also coffee tables along with chairs (with back), but the height of the table may not be suitable for working.
+
+:::details[See seating area image]
+
+![A modern and minimalist cafe interior with wooden floors, a row of stools along a counter, and large windows with blinds providing natural lighting.](https://usercontent.creatorsgarten.org/c/v1733064122/644c35a6802c02345887f156/image_oijcep.webp)
+
+:::
+
+- **Complimentary snacks:** 2 flavors of thong muan (coconut) rolls are available.
+
+:::details[See complimentary snacks]
+
+![A wooden shelf displays various items, including containers for pandan water and infused water, coconut rolls, and paper cups, set against a gray concrete wall background.](https://usercontent.creatorsgarten.org/c/v1733064181/644c35a6802c02345887f156/image_xyjpzb.webp)
+
+:::
+
+- **Snack bar hours:** The snack bar is open until about 11 PM.
 - [Read Poom's review here.](https://www.facebook.com/phoomparin.mano/posts/pfbid0XhPQzV2QVRUtv5JLyRpDLqVdwPo8CpdcQSg6wUHXJKcnE8hGvCeeuoGs67SWYpnzl)
 
-## Let's Relax Onsen (Lumphini)
+### Lumphini
 
 - **Location:** [Let's Relax Onsen (Lumphini)](https://letsrelaxspa.com/branch/bangkok-onsenandspa-lumphini/) is located at the Grande Centre Point Sukhumvit 55 hotel. It is walkable from MRT Lumphini and is within a walking distance from One Bangkok and Goethe-Institut.
-- **Price and promotions:** Similar to [Thonglor branch](#lets-relax-onsen-thonglor), a walk-in day pass costs 750 THB.
 - **Lobby and work area:** The lobby area is much more spacious than Thonglor branch. The work area includes eight chairs at the counter and ten chairs at the big table. The counter is equipped with AC outlets and USB-A outlets.
 
-  | Area      | Chairs | AC<br>Outlets | USB-A<br>Outlets |
-  | --------- | -----: | ------------: | ---------------: |
-  | Counter   |      8 |             4 |                4 |
-  | Big Table |     10 |             3 |                2 |
+| Area      | Chairs | AC<br>Outlets | USB-A<br>Outlets |
+| --------- | -----: | ------------: | ---------------: |
+| Counter   |      8 |             4 |                4 |
+| Big Table |     10 |             3 |                2 |
 
-- **Food menu:** The food menu is the same as the Thonglor branch.
-- **Pools and rooms:** The available pools and facilities are the same as the Thonglor branch: Gero Hot Spring bath, soda bath, whirlpool bath, cold bath, silk bath, sauna room, Kakeyu, and steam room. However, this branch is larger. For example, the whirlpool bath here has four seats and three standing slots compared to Thonglor's three seats and two standing slots.
-- **Unique features:** The Lumphini branch has larger pool sizes, more natural light in the onsen area (though the lobby area has no windows), and a much bigger relaxation area. Upon entrance, there is a slipper exchange room before the lobby with size M, L, and XL slippers available.
+- **Complimentary snacks:** 3 flavors of thong muan (coconut) rolls are available.
+- **Unique features:** The Lumphini branch has larger pool sizes, more natural light in the onsen area (though the lobby area has no windows), and a much bigger relaxation area. Upon entrance, there is a slipper exchange room before the lobby with size M, L, and XL slippers available. For example, the whirlpool bath here has four seats and three standing slots compared to Thonglor's three seats and two standing slots.
 - **Other amenities:** Although not related to the onsen, there is a restaurant on the rooftop of the hotel called [Level 50 by SEE FAH](https://grandecentrepointlumphini.com/th/dining/level-50-rooftop).
 
-## Let's Relax Onsen (Ratchadamri)
+### Ratchadamri
 
 - **Location:** [Let's Relax Onsen and Spa - Ratchadamri](https://maps.app.goo.gl/CT3ozFddT3B1hnT88) is on the 10th floor of Grande Centre Point Prestige Bangkok. The closest BTS station is BTS Ratchadamri.
-- **Price and promotions:** Similar to [Thonglor branch](#lets-relax-onsen-thonglor), a walk-in day pass costs 750 THB. Thai has a WellnessMe member with 10% discount, so if he joins the event you can ask him to use his membership for a discount on the day pass, treatments, or packages. Alternatively, you can buy discounted passes from third parties, though these are typically usable the next day.
-- **Lobby and work area:** The reception area has seats but is not suitable for work. However, there is a separate, **spacious lobby area** that is very work-friendly. This lobby features windows with natural sunlight during the daytime. The work area includes 23 small tables (2 seats each) and 1 big table (8 seats).
+- **Lobby and work area:** The reception area has seats but is not suitable for work. However, there is a separate, spacious lobby area that is very work-friendly. This lobby features windows with natural sunlight during the daytime. The work area includes 23 small tables (2 seats each) and 1 big table (8 seats).
 
-  | Area         | Tables | Seats | Floor Pop-ups | Wall Outlets |
-  | ------------ | -----: | ----: | ------------: | -----------: |
-  | Small tables |     23 |    46 |            10 |            4 |
-  | Big table    |      1 |     8 |             — |            — |
+| Area         | Tables | Seats | Floor Pop-ups | Wall Outlets |
+| ------------ | -----: | ----: | ------------: | -----------: |
+| Small tables |     23 |    46 |            10 |            4 |
+| Big table    |      1 |     8 |             — |            — |
 
 - **Power and charging:** There are 10 pop-up floor outlets (the type that flips up at 45 degrees when you pull the tab), each equipped with 1 AC power outlet and 1 USB-A port. Additionally, there are 4 wall-mounted outlets, each with 2 AC power outlets, 1 USB-A port, and 1 USB-C port.
-- **Complimentary drinks and snacks:** Similar to other branches, complimentary free-flow drinks include pandan water and infused water. There are also assorted thong muan (coconut) rolls, with 2 flavors available at a time (compared to Lumphini's 3 flavors).
-- **OHB Cafe:** There is [OHB Cafe](https://www.facebook.com/Ohbcafeandmeal/) in the premises, which closes at 7 PM. The cafe offers the same food and beverage menu as the Thonglor and Lumphini branches (see [Thonglor branch menu](#lets-relax-onsen-thonglor)), plus specialty coffee with three roast options: Dark, Medium, and Light roast.
-- **Massage:** Massage services are available at the premises, similar to other Let's Relax branches. For treatment options and pricing, refer to the [Thonglor branch](#lets-relax-onsen-thonglor) section. Thai has a WellnessMe membership with 10% discount available. Availability is limited, so advance booking is recommended.
-- **Pools and rooms:** The available pools and facilities are the same as other Let's Relax branches: Gero Hot Springs Bath (~42°C), Silk Bath (~40°C), Whirlpool Bath, Soda Bath (~36°C), and Cold Bath (16~18°C). There is also a sauna and a steam room.
-- **Wellness facilities:** Similar to the Lumphini branch, there are relaxing rooms (for sleeping), hot stonebed bath (for lying down on hot stonebed), and cool down room (set to 17~18°C).
+- **Complimentary snacks:** 2 flavors of thong muan (coconut) rolls are available.
+- **OHB Cafe:** There is [OHB Cafe](https://www.facebook.com/Ohbcafeandmeal/) in the premises, which closes at 7 PM. In addition to the standard menu, the cafe offers specialty coffee with three roast options: Dark, Medium, and Light roast.
 - **Unique features:** This branch features outside views of the Royal Sports Club from the onsen area, facing westward. The work area is notably spacious with a separate lobby designed for productivity, featuring abundant natural lighting during daytime. However, curtains are rolled down before sunset.
 
 # How to organize
