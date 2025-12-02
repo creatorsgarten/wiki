@@ -259,10 +259,10 @@ All Let's Relax branches share the following features:
 - **Location:** [Let's Relax Onsen (Lumphini)](https://letsrelaxspa.com/branch/bangkok-onsenandspa-lumphini/) is located at the Grande Centre Point Sukhumvit 55 hotel. It is walkable from MRT Lumphini and is within a walking distance from One Bangkok and Goethe-Institut.
 - **Lobby and work area:** The lobby area is much more spacious than Thonglor branch. The work area includes eight chairs at the counter and ten chairs at the big table. The counter is equipped with AC outlets and USB-A outlets.
 
-| Area      | Chairs | AC<br>Outlets | USB-A<br>Outlets |
-| --------- | -----: | ------------: | ---------------: |
-| Counter   |      8 |             4 |                4 |
-| Big Table |     10 |             3 |                2 |
+  | Area      | Chairs | AC<br>Outlets | USB-A<br>Outlets |
+  | --------- | -----: | ------------: | ---------------: |
+  | Counter   |      8 |             4 |                4 |
+  | Big Table |     10 |             3 |                2 |
 
 - **Complimentary snacks:** 3 flavors of thong muan (coconut) rolls are available.
 - **Unique features:** The Lumphini branch has larger pool sizes, more natural light in the onsen area (though the lobby area has no windows), and a much bigger relaxation area. Upon entrance, there is a slipper exchange room before the lobby with size M, L, and XL slippers available. For example, the whirlpool bath here has four seats and three standing slots compared to Thonglor's three seats and two standing slots.
@@ -273,10 +273,10 @@ All Let's Relax branches share the following features:
 - **Location:** [Let's Relax Onsen and Spa - Ratchadamri](https://maps.app.goo.gl/CT3ozFddT3B1hnT88) is on the 10th floor of Grande Centre Point Prestige Bangkok. The closest BTS station is BTS Ratchadamri.
 - **Lobby and work area:** The reception area has seats but is not suitable for work. However, there is a separate, spacious lobby area that is very work-friendly. This lobby features windows with natural sunlight during the daytime. The work area includes 23 small tables (2 seats each) and 1 big table (8 seats).
 
-| Area         | Tables | Seats | Floor Pop-ups | Wall Outlets |
-| ------------ | -----: | ----: | ------------: | -----------: |
-| Small tables |     23 |    46 |            10 |            4 |
-| Big table    |      1 |     8 |             — |            — |
+  | Area         | Tables | Seats | Floor Pop-ups | Wall Outlets |
+  | ------------ | -----: | ----: | ------------: | -----------: |
+  | Small tables |     23 |    46 |            10 |            4 |
+  | Big table    |      1 |     8 |             — |            — |
 
 - **Power and charging:** There are 10 pop-up floor outlets (the type that flips up at 45 degrees when you pull the tab), each equipped with 1 AC power outlet and 1 USB-A port. Additionally, there are 4 wall-mounted outlets, each with 2 AC power outlets, 1 USB-A port, and 1 USB-C port.
 - **Complimentary snacks:** 2 flavors of thong muan (coconut) rolls are available.
