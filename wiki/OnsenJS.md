@@ -234,7 +234,6 @@ All Let's Relax branches share the following features:
 ### Thonglor
 
 - **Location:** [Let's Relax Onsen (Thonglor)](https://letsrelaxspa.com/branch/thonglor/) is on the 5th floor of Grande Centre Point Sukhumvit 55 hotel, which is located in front of Soi Thong Lo 10.
-- **Thai's vouchers:** Thai has bought a pack of vouchers at a discount (600 THB) and has 3 remaining vouchers that expire on 2025-05-31.
 - **Lobby and work area:** There are a few seating areas: There are counter height tables next to the window and the wall with many stools. The side next to the wall has 2 power outlets. There are also coffee tables along with chairs (with back), but the height of the table may not be suitable for working.
 
   :::details[See seating area image]
@@ -264,8 +263,8 @@ All Let's Relax branches share the following features:
   | Counter   |      8 |             4 |                4 |
   | Big Table |     10 |             3 |                2 |
 
-- **Complimentary snacks:** 3 flavors of thong muan (coconut) rolls are available.
-- **Unique features:** The Lumphini branch has larger pool sizes, more natural light in the onsen area (though the lobby area has no windows), and a much bigger relaxation area. Upon entrance, there is a slipper exchange room before the lobby with size M, L, and XL slippers available. For example, the whirlpool bath here has four seats and three standing slots compared to Thonglor's three seats and two standing slots.
+- **Complimentary snacks:** 3 flavors of thong muan are available.
+- **Unique features:** The Lumphini branch has the biggest pool size among the 3 branches in Bangkok (for example, the whirlpool bath here has four seats and three standing slots compared to Thonglor's three seats and two standing slots). It has more natural light in the onsen area than Thonglor branch (though the lobby area has no windows), and a much bigger relaxation area. Upon entrance, there is a slipper exchange room before the lobby with size M, L, and XL slippers available.
 - **Other amenities:** Although not related to the onsen, there is a restaurant on the rooftop of the hotel called [Level 50 by SEE FAH](https://grandecentrepointlumphini.com/th/dining/level-50-rooftop).
 
 ### Ratchadamri
