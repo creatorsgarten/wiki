@@ -213,7 +213,7 @@ All Let's Relax branches share the following features:
 
 :::
 
-- **Massage:** Massage services are available at all branches. Thai has a WellnessMe membership with 10% discount. Services over 800 THB come with complimentary [mango and sticky rice](https://letsrelaxspa.com/experience/#:~:text=of%20our%20guests.-,Refreshing%20Flavors,-The%20final%20experience). Availability is limited, so advance booking is recommended. [Online bookings](https://booking.letsrelaxspa.com/book) must be made 24 hours in advance.
+- **Massage:** Massage services are available at all branches. Thai has a WellnessMe membership with 10% discount. Services over 800 THB come with complimentary [mango and sticky rice](https://letsrelaxspa.com/experience/#:~:text=of%20our%20guests.-,Refreshing%20Flavors,-The%20final%20experience). Availability is limited, so advance booking is recommended. [Online bookings](https://booking.letsrelaxspa.com/book) must be made 60 minutes in advance.
 
 :::details[Thai's favorite treatments]
 
