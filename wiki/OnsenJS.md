@@ -270,17 +270,17 @@ All Let's Relax branches share the following features:
 ### Ratchadamri
 
 - **Location:** [Let's Relax Onsen and Spa - Ratchadamri](https://maps.app.goo.gl/CT3ozFddT3B1hnT88) is on the 10th floor of Grande Centre Point Prestige Bangkok. The closest BTS station is BTS Ratchadamri.
-- **Lobby and work area:** The reception area has seats but is not suitable for work. However, there is a separate, spacious lobby area that is very work-friendly. This lobby features windows with natural sunlight during the daytime. The work area includes 23 small tables (2 seats each) and 1 big table (8 seats).
+- **Lobby and work area:** The reception area has seats but is not suitable for work. However, there is a separate, spacious lobby area that is very work-friendly. This lobby features large windows with natural sunlight during the daytime. The work area includes 23 small tables (2 seats each) and 1 big table (8 seats).
 
-  | Area         | Tables | Seats | Floor Pop-ups | Wall Outlets |
-  | ------------ | -----: | ----: | ------------: | -----------: |
-  | Small tables |     23 |    46 |            10 |            4 |
-  | Big table    |      1 |     8 |             — |            — |
+  | Area         | Tables | Seats |
+  | ------------ | -----: | ----: |
+  | Small tables |     23 |    46 |
+  | Big table    |      1 |     8 |
 
-- **Power and charging:** There are 10 pop-up floor outlets (the type that flips up at 45 degrees when you pull the tab), each equipped with 1 AC power outlet and 1 USB-A port. Additionally, there are 4 wall-mounted outlets, each with 2 AC power outlets, 1 USB-A port, and 1 USB-C port.
+- **Power and charging:** There are **10 pop-up floor outlets** (the type that flips up at 45 degrees when you pull the tab), each equipped with 1 AC power outlet and 1 USB-A port. Additionally, there are **4 wall-mounted outlets**, each with 2 AC power outlets, 1 USB-A port, and 1 USB-C port.
 - **Complimentary snacks:** 2 flavors of thong muan (coconut) rolls are available.
 - **OHB Cafe:** There is [OHB Cafe](https://www.facebook.com/Ohbcafeandmeal/) in the premises, which closes at 7 PM. In addition to the standard menu, the cafe offers coffee with three roast options: Dark, Medium, and Light roast.
-- **Unique features:** This branch features outside views of the Royal Sports Club from the onsen area, facing westward. The work area is notably spacious with a separate lobby designed for productivity, featuring abundant natural lighting during daytime. However, curtains are rolled down before sunset.
+- **Unique features:** This branch features outside views of the Royal Sports Club from the onsen area, facing westward. The work area is notably spacious with a separate lobby designed for productivity, featuring abundant natural lighting during daytime. However, curtains are rolled down before sunset. (You can watch the sun set at the OHB cafe area.)
 
 # How to organize
 
