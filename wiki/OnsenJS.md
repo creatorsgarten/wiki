@@ -237,19 +237,19 @@ All Let's Relax branches share the following features:
 - **Thai's vouchers:** Thai has bought a pack of vouchers at a discount (600 THB) and has 3 remaining vouchers that expire on 2025-05-31.
 - **Lobby and work area:** There are a few seating areas: There are counter height tables next to the window and the wall with many stools. The side next to the wall has 2 power outlets. There are also coffee tables along with chairs (with back), but the height of the table may not be suitable for working.
 
-:::details[See seating area image]
+  :::details[See seating area image]
 
-![A modern and minimalist cafe interior with wooden floors, a row of stools along a counter, and large windows with blinds providing natural lighting.](https://usercontent.creatorsgarten.org/c/v1733064122/644c35a6802c02345887f156/image_oijcep.webp)
+  ![A modern and minimalist cafe interior with wooden floors, a row of stools along a counter, and large windows with blinds providing natural lighting.](https://usercontent.creatorsgarten.org/c/v1733064122/644c35a6802c02345887f156/image_oijcep.webp)
 
-:::
+  :::
 
 - **Complimentary snacks:** 2 flavors of thong muan (coconut) rolls are available.
 
-:::details[See complimentary snacks]
+  :::details[See complimentary snacks]
 
-![A wooden shelf displays various items, including containers for pandan water and infused water, coconut rolls, and paper cups, set against a gray concrete wall background.](https://usercontent.creatorsgarten.org/c/v1733064181/644c35a6802c02345887f156/image_xyjpzb.webp)
+  ![A wooden shelf displays various items, including containers for pandan water and infused water, coconut rolls, and paper cups, set against a gray concrete wall background.](https://usercontent.creatorsgarten.org/c/v1733064181/644c35a6802c02345887f156/image_xyjpzb.webp)
 
-:::
+  :::
 
 - **Snack bar hours:** The snack bar is open until about 11 PM.
 - [Read Poom's review here.](https://www.facebook.com/phoomparin.mano/posts/pfbid0XhPQzV2QVRUtv5JLyRpDLqVdwPo8CpdcQSg6wUHXJKcnE8hGvCeeuoGs67SWYpnzl)
