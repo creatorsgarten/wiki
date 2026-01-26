@@ -67,7 +67,7 @@ endunless
 <div class="people-grid">
 {% for person in people %}{% liquid
   assign slug = person.ref | split: '/' | last
-%}{% render 'PersonCard', name: slug %}{% endfor %}
+%}{% render 'PersonLarge', name: slug %}{% endfor %}
 </div>
 
 # How to Add Yourself
