@@ -67,20 +67,7 @@ endunless
 <div class="people-grid">
 {% for person in people %}{% liquid
   assign slug = person.ref | split: '/' | last
-  assign image = person.data.image
-  unless image contains '://'
-    assign image = 'https://api.dicebear.com/6.x/bottts-neutral/svg?seed=@' | append: slug
-  endunless
-%}
-  <a href="/wiki/{{ person.ref }}" class="person-card">
-    <img src="{{ image }}" alt="{{ person.data.person.name }}" class="person-avatar">
-    <div class="person-name">{{ person.data.person.name }}</div>
-    <div class="person-nickname">({{ person.data.person.nicknameTh }})</div>
-    {% if person.data.person.intro %}
-    <div class="person-intro">{{ person.data.person.intro }}</div>
-    {% endif %}
-  </a>
-{% endfor %}
+%}{% render 'PersonCard', name: slug %}{% endfor %}
 </div>
 
 # How to Add Yourself
