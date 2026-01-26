@@ -27,6 +27,8 @@ Decoding the past and designing the future of Thai arts and culture: From classi
 
 {% render 'EventBox', name: ref %}
 
+**Main website at MIT Media Lab**: [https://www.media.mit.edu/events/ai-x-culture-symposium/](https://www.media.mit.edu/events/ai-x-culture-symposium/)
+
 AI X Culture Symposium | วัฒนธรรมไทย x ปัญญาประดิษฐ์ examines how artificial intelligence interacts with culture through performances, discussions, and demonstrations, with the goal of experimenting with connecting cultural heritage and technology while exploring the opportunities for preservation and evolution facilitated by technology and AI.
 
 The event is organized by MIT Media Lab, Creatorsgarten, Pichet Klunchun Dance Company, and TK Park.
@@ -72,5 +74,3 @@ Intermission | 2:50 - 3:00
 - Pat Pataranutaporn (MIT Media Lab)
 
 4.00 - **Reception**
-
-**Event website**: [https://www.media.mit.edu/events/ai-x-culture-symposium/](https://www.media.mit.edu/events/ai-x-culture-symposium/)
