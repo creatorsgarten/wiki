@@ -118,6 +118,7 @@ grtnRedirects:
   olym: 'https://vdo.ninja/?room=ag_onb_olm&hash=43b9&q&np&g=0&vd=0&do'
   olym-1: 'https://meet.google.com/bym-veoj-cxy'
   olym-2: 'https://meet.google.com/uhj-keww-qdw'
+  cityjs2026-aom: 'https://drive.google.com/drive/folders/136ohDSYY63m6DBcP2Tg1uQKCKRO5DCGo?usp=sharing'
 ---
 
 :::lead
