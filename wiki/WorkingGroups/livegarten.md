@@ -1,4 +1,4 @@
-This is a working group for [[Livegarten]]
+This is a [[WorkingGroups|working group]] for [[Livegarten]]
 
 # Purpose
 
