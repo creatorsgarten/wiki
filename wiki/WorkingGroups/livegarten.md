@@ -1,5 +1,3 @@
-{% render 'EventBox', name: ref %}
-
 This is a working group for [[Livegarten]]
 
 # Purpose
