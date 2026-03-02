@@ -5,7 +5,7 @@ event:
   location: Cleverse
   date: "2025-12-18"
   endDate: "2025-12-18"
-  unlisted: true # Remove this line when event is ready
+  unlisted: false # Remove this line when event is ready
   hosts:
     - Creatorsgarten
   leads:
