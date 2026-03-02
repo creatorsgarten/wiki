@@ -15,4 +15,5 @@ person:
 
 :::lead
 Web Build Scale / System / Load / Developer Experience.
+I'm running community relationship.
 :::
