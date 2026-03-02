@@ -3,8 +3,8 @@ image: https://usercontent.creatorsgarten.org/c/v1772477696/64eb72f2bbb8d8434a04
 event:
   name: Claude Code Meetup Bangkok
   location: TBA
-  date: "YYYY-MM-DD"
-  endDate: "YYYY-MM-DD"
+  date: "2025-12-18"
+  endDate: "2025-12-18"
   # site:
   # eventpopId:
   unlisted: true # Remove this line when event is ready
