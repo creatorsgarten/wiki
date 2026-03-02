@@ -19,6 +19,7 @@ event:
     - leomotors
     - khxmjarx
     - peamz4
+    - juk
 ---
 
 :::lead
