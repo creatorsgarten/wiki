@@ -12,6 +12,7 @@ event:
     - dtinth
     - boatchrnthn
     - chayapatr
+    - juk
   leads:
     - rayriffy
   speakers:
