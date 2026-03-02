@@ -13,6 +13,7 @@ event:
     - boomchanotai
     - chayapatr
     - saltyaom
+    - juk
   speakers:
     - chayapatr
   leads:
