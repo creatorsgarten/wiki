@@ -4,7 +4,7 @@ event:
   name: OpenClaw Meetup Bangkok
   location: DataFirst
   date: "2026-03-04"
-  endDate: "202-03-04"
+  endDate: "2026-03-04"
   unlisted: true # Remove this line when event is ready
   hosts:
     - Creatorsgarten
