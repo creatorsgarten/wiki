@@ -20,6 +20,7 @@ event:
     - siravijbb
     - chayapatr
     - papatsryok
+    - juk
 ---
 
 :::lead
