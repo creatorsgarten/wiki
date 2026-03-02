@@ -20,6 +20,4 @@ event:
 To be announced
 :::
 
-{% render 'EventpopButton', id: page.event.eventpopId %}
-
 {% render 'EventBox', name: ref %}
