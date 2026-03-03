@@ -96,6 +96,6 @@ Submit your application and we'll confirm your spot.
 
 ---
 ## Watch Live
-(https://www.facebook.com/creatorsgarten/live_videos/)[https://www.facebook.com/creatorsgarten/live_videos/]
+https://www.facebook.com/creatorsgarten/live_videos/
 
 {% render 'EventBox', name: ref %}
