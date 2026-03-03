@@ -5,7 +5,7 @@ event:
   location: ​Data First Co., Ltd.
   date: "2026-03-04"
   endDate: "2026-03-04"
-  link: https://luma.com/huxymark
+  site: https://luma.com/huxymark
   hosts:
     - Creatorsgarten
     - DataFirst
