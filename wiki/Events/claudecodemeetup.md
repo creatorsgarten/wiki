@@ -21,7 +21,8 @@ event:
 ​Curious about Claude Code? Already using it and want to level up? Come hang out with us! Whether you're a developer or just getting started with AI tools, you're welcome here.
 :::
 
-​##What's happening:
+## What's happening:
+
 - Claude Code as a General Agent: Automation, Creation, and the Full Power of Opus 4.5
 - Staying current with agentic AI
 - Q&A with the Claude Code team from Anthropic
