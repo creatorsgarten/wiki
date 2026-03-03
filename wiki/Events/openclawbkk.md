@@ -24,7 +24,6 @@ event:
 :::
 
 
-
 ## 👥 Who Should Attend
 
 - OpenClaw AI agent builders
@@ -33,6 +32,7 @@ event:
 - ​Anyone curious about AI automation
 
 ​## 🎤 Speakers
+
 - Poramate Minsiri
 - Pichaya Morimoto
 – Asst. Prof. Thannob Aribarg, Ph.D.
