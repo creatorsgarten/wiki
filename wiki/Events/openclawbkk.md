@@ -31,7 +31,6 @@ event:
 - Community builders-
 - ​Anyone curious about AI automation
 
-
 ​## 🎤 Speakers
 
 * Poramate Minsiri
@@ -80,7 +79,6 @@ BytePlus is the global enterprise services arm under ByteDance.
 ​🎫 Registration
 
 ​Free event. Registration required.
-
 
 ​## 🔒 Approval-based registration
 
