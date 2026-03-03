@@ -19,8 +19,9 @@ event:
 ​🦀 The 1st Claude Code Bangkok Meetup
 ​Join a Claude Code Community Event, organized by local Claude Code enthusiasts for everyone who loves building with Claude Code!
 ​Curious about Claude Code? Already using it and want to level up? Come hang out with us! Whether you're a developer or just getting started with AI tools, you're welcome here.
+:::
 
-​What's happening:
+​## What's happening:
 - Claude Code as a General Agent: Automation, Creation, and the Full Power of Opus 4.5
 - Staying current with agentic AI
 - Q&A with the Claude Code team from Anthropic
@@ -28,6 +29,7 @@ event:
 - ​Group discussion
 - ​Networking + good vibes
 ​Community event backed by Anthropic — with official Anthropic stickers to take home!
-:::
+
+
 
 {% render 'EventBox', name: ref %}
