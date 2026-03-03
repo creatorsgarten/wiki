@@ -31,6 +31,7 @@ event:
 - Community builders-
 - ​Anyone curious about AI automation
 
+
 ​## 🎤 Speakers
 
 - Poramate Minsiri
@@ -92,5 +93,9 @@ Submit your application and we'll confirm your spot.
 ​- Poramate Minsiri (Paul)
 
 ​Event details subject to minor changes. Registered attendees will be notified of updates.
+
+---
+## Watch Live
+(https://www.facebook.com/creatorsgarten/live_videos/)[https://www.facebook.com/creatorsgarten/live_videos/]
 
 {% render 'EventBox', name: ref %}
