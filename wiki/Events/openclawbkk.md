@@ -34,16 +34,16 @@ event:
 
 ​## 🎤 Speakers
 
-- Poramate Minsiri
-- Pichaya Morimoto
-– Asst. Prof. Thannob Aribarg, Ph.D.
-– Sathapon Patanakuha
-– Natdhanai Praneenatthavee
-– Prem Chotepanit
-- John F.X. Berns
-- J Sropas
-- Pumpith Ungsupanit
-- Dom Charoenyos
+* Poramate Minsiri
+* Pichaya Morimoto
+* Asst. Prof. Thannob Aribarg, Ph.D.
+* Sathapon Patanakuha
+* Natdhanai Praneenatthavee
+* Prem Chotepanit
+* John F.X. Berns
+* J Sropas
+* Pumpith Ungsupanit
+* Dom Charoenyos
 
 ## 🕒 Agenda
 
