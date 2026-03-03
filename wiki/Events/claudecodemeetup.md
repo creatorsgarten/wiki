@@ -31,4 +31,8 @@ event:
 - ​Networking + good vibes
 ​Community event backed by Anthropic — with official Anthropic stickers to take home!
 
+## Watch Live
+
+[https://www.youtube.com/watch?v=GDGqLtmgL7M](https://www.youtube.com/watch?v=GDGqLtmgL7M)
+
 {% render 'EventBox', name: ref %}
