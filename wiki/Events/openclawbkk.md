@@ -13,6 +13,7 @@ event:
     - juk
   staff:
     - juk
+    - dinthai
     - rayriffy
 ---
 
