@@ -119,6 +119,7 @@ grtnRedirects:
   olym-1: 'https://meet.google.com/bym-veoj-cxy'
   olym-2: 'https://meet.google.com/uhj-keww-qdw'
   cityjs2026-aom: 'https://drive.google.com/drive/folders/136ohDSYY63m6DBcP2Tg1uQKCKRO5DCGo?usp=sharing'
+  fossasia2026-poom: 'https://patchies.app'
 ---
 
 :::lead
