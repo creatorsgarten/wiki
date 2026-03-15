@@ -27,3 +27,5 @@ Steps:
 8. Paste the contents
 9. Click **Save** to save the chapters, closing the modal
 10. Outside the modal, click **Save** to save the video metadata file
+
+Each generation costs ฿1–฿2.
