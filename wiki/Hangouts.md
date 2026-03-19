@@ -6,24 +6,26 @@
 - ไม่ต้องมีคนเยอะ วงเล็กๆ เน้นได้คุยกัน
 - ถ้าจัดแบบ invite-only ก็ชวนเพื่อนที่อยากชวนมาได้ ชวนๆ กันต่อ
 
-## hangout themes
+## hangout theme ideas
 
-- creative coding - ช่วงนี้เอาโค้ดไปทำ art, visual, sound ทำอะไรเจ๋งๆ กันบ้าง เอามาให้เพื่อนลองเล่นกัน เดโม่กันได้
+ใครอยากจัดอันไหนมาเพิ่มได้ฮะ
 
-- low level & PL nerds - คุยกันเรื่อง OS, compilers, assembly, permacomputing, programming languages, functional programming คุยเรื่องที่คนยุคนี้ไม่ค่อยคุยกัน
+- (Poom) creative coding - ช่วงนี้เอาโค้ดไปทำ art, visual, sound ทำอะไรเจ๋งๆ กันบ้าง เอามาให้เพื่อนลองเล่นกัน เดโม่กันได้
 
-- bring your own beamer + jam - หยิบโปรเจคเตอร์ของตัวเอง ไฟพาร์ หยิบเครื่องดนตรีหรือ MIDI instruments มาเล่นกันด้วยได้
+- (Poom) low level & PL nerds - คุยกันเรื่อง OS, compilers, assembly, permacomputing, programming languages, functional programming คุยเรื่องที่คนยุคนี้ไม่ค่อยคุยกัน
 
-- homelab club - ช่วงนี้ใครทำ homelab ตัวเองกันบ้าง เซ็ตอัพอะไร ลงแอพอะไรกัน
+- (Poom) bring your own beamer + jam - หยิบโปรเจคเตอร์ของตัวเอง ไฟพาร์ หยิบเครื่องดนตรีหรือ MIDI instruments มาเล่นกันด้วยได้
 
-- arts & crafts - เลิกมองจอกันสักแปปนึง หยิบกระดาษ สีน้ำ สีอคริลิก ไหมพรม ดินน้ำมันมาทำอะไรกัน หรือทำเครื่องดนตรีจากกระป๋องกันก็ได้
+- (Poom) homelab club - ช่วงนี้ใครทำ homelab ตัวเองกันบ้าง เซ็ตอัพอะไร ลงแอพอะไรกัน
 
-- side projects - หยิบคอมมานั่งทำ side project กัน มาแชร์กันว่าช่วงนี้ทำไรกันอยู่ (จะใช้ AI ทำก็ได้ แต่ไม่ต้องให้มันเป็นโฟกัสสำคัญ อยากรู้มากกว่าว่า "ทำอะไรกัน")
+- (Poom) arts & crafts - เลิกมองจอกันสักแปปนึง หยิบกระดาษ สีน้ำ สีอคริลิก ไหมพรม ดินน้ำมันมาทำอะไรกัน หรือทำเครื่องดนตรีจากกระป๋องกันก็ได้
 
-- book club - หาที่นั่งอ่านหนังสือกัน แล้วมาเล่ากันสั้นๆ
+- (Poom) side projects - หยิบคอมมานั่งทำ side project กัน มาแชร์กันว่าช่วงนี้ทำไรกันอยู่ (จะใช้ AI ทำก็ได้ แต่ไม่ต้องให้มันเป็นโฟกัสสำคัญ อยากรู้มากกว่าว่า "ทำอะไรกัน")
 
-- electronics / maker club - หยิบบอร์ด หยิบ hardware มานั่งแจมกัน ขนพวก electronics เล็กๆ ไปนั่งเล่นกัน
+- (Poom) book club - หาที่นั่งอ่านหนังสือกัน แล้วมาเล่ากันสั้นๆ
 
-- CS study group - คุยเรื่อง algorithms กัน ใครอ่าน search algorithms ตัวไหนอยู่เอามาแชร์ได้ หรือมีคลาสอะไรน่าสนุกๆ (จริงๆ เปิดพวก study group เรื่องอื่นก็ได้)
+- (Poom) electronics / maker club - หยิบบอร์ด หยิบ hardware มานั่งแจมกัน ขนพวก electronics เล็กๆ ไปนั่งเล่นกัน
+
+- (Poom) CS study group - คุยเรื่อง algorithms กัน ใครอ่าน search algorithms ตัวไหนอยู่เอามาแชร์ได้ หรือมีคลาสอะไรน่าสนุกๆ (จริงๆ เปิดพวก study group เรื่องอื่นก็ได้)
 
 บางอันอาจจะ invite-based ชวนเพื่อนๆ กันต่อเอา บางอันอาจจะ public ใครอยากมาก็มา แล้วแต่คนจัด
