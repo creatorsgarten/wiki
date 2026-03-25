@@ -5,7 +5,7 @@ event:
   location: TAO BIN Headquarters
   date: '2026-03-25'
   time: '18:00-22:30'
-  unlisted: true
+  unlisted: false
   site: https://www.eventpop.me/e/139651/bkkjs24
   hosts:
     - Creatorsgarten
