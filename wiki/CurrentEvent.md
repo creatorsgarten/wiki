@@ -7,15 +7,24 @@ grtn: c
 
 <!-- BEGIN: CURRENT EVENT -->
 
-# KBTG Techtopia
+# BKK.js #24
 
-{% render 'CTA', url: 'https://www.tldraw.com/f/iQnehihcvmHIzZ9HFpZBK?d=v-537.-187.2478.1627.K1qzCskP5wx_E4RnhJ995', text: 'Whiteboard' %}
+{% render 'CTA', url: 'https://forms.gle/poUMxZj4N4AoAozs6', text: 'Feedback Form' %}
 
 <!-- END: CURRENT EVENT -->
 
 </div>
 
 ---
+
+:::details[Archive: KBTG Techtopia]
+
+# KBTG Techtopia
+
+{% render 'CTA', url: 'https://www.tldraw.com/f/iQnehihcvmHIzZ9HFpZBK?d=v-537.-187.2478.1627.K1qzCskP5wx_E4RnhJ995', text: 'Whiteboard' %}
+
+:::
+
 
 :::details[Archive: BKK.js #22]
 
