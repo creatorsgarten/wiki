@@ -19,6 +19,7 @@ event:
     - juk
     - poom
     - saltyaom
+    - opecgame
 ---
 
 :::lead
