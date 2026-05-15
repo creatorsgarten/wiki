@@ -10,6 +10,7 @@ person:
   facebook: ChanotaiKrajeam
   linkedin: boomchanotai
   site: https://boomchanotai.com/
+  inches: 32
 ---
 
 Zǎoshang hǎo zhōngguó xiànzài wǒ yǒu BING CHILLING wǒ hěn xǐhuān BING CHILLING
