@@ -71,6 +71,7 @@ meetups:
   - date: '2026-03-13'
     name: 'Onsen.js #16'
     place: Let's Relax Onsen (Lumphini)
+    url: https://www.facebook.com/photo/?fbid=10228131263741021&set=pcb.10228131264501040
   - date: '2026-05-29'
     name: 'Onsen.js #17'
     place: Let's Relax Onsen (Lumphini)
