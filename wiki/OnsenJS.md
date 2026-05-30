@@ -68,6 +68,13 @@ meetups:
     name: 'Onsen.js #15'
     place: Let's Relax Onsen (Ratchadamri)
     url: https://www.facebook.com/photo/?fbid=3354399228080803&set=a.359894480864641
+  - date: '2026-03-13'
+    name: 'Onsen.js #16'
+    place: Let's Relax Onsen (Lumphini)
+  - date: '2026-05-29'
+    name: 'Onsen.js #17'
+    place: Let's Relax Onsen (Lumphini)
+    url: https://www.facebook.com/dtinth/posts/pfbid02qZKbCkrccjkYEn8L6frb6CaJoDqSug8KNLxnKvQj6LvR4QkM3NKxjnTXyxVShRSdl
 ---
 
 :::lead
