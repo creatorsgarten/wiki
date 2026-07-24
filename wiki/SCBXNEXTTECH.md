@@ -17,7 +17,7 @@ Notes for organizers running an event at **SCBX NEXT TECH**.
 
 # Video
 
-- The venue uses a standard (16:9) display system.
+- The venue uses a standard display system.
 - Standard presentation slides and video output are recommended.
 - No special aspect ratio adjustments are required.
 - Test the presentation laptop with the venue display before attendees enter the room.
@@ -64,4 +64,3 @@ Notes for organizers running an event at **SCBX NEXT TECH**.
 - Venue Wi-Fi may become unstable during busy events.
 - Mobile internet is generally more reliable for livestreaming.
 - The available digital mixer may differ between events, so always verify the setup before the event begins.
-```
