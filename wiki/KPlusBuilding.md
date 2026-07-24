@@ -23,7 +23,7 @@ Notes for organizers running an event at **K+ Building**.
 
 ## Audio
 
-- Each split room is equipped with a **Yamaha MG12XU** mixer located at the front of the room (front-left or front-right).
+- Each split room is equipped with a **Yamaha MG12XU** mixer located at the back of the room (back-left or back-right).
   - These mixers are used when the main hall is divided into two smaller rooms.
 - The main hall audio is mixed through a **Yamaha MG20XU** mixer located near the rear side entrance, next to the window.
 - For recording or livestreaming, always take the audio feed from the **main Yamaha MG20XU** mixer whenever possible.
