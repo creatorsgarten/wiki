@@ -14,7 +14,7 @@ Notes for organizers running an event at the 3rd floor of [**K+ Building**](http
 
 # Video
 
-- HDMI input at the left of the stage.
+- HDMI input at the left side of the stage and at the back of the control room.
 - The stage has an LED screen.
   - The screen is very bright, so dark-themed presentations are recommended.
     - If speaker’s video signal is processed through OBS, we can apply a filter to decrease the brightness.
@@ -25,6 +25,11 @@ Notes for organizers running an event at the 3rd floor of [**K+ Building**](http
 
 - A [mixer](https://usa.yamaha.com/files/download/other_assets/6/331296/ql5_en_om_b0.pdf) is provided by the venue. XLR output from the venue’s mixer is available at the left of the stage. Livestreaming crew can use that signal for live streaming.
 - Wireless microphones are provided by the venue. Each mic needs 2 AA batteries, which can last for 2-3 hours. Organizers should buy spare batteries in case batteries run out.
+
+# CI / Background
+
+- The recommended background resolution for the LED screen is 2400 × 1332 pixels.
+- Design elements (such as the event logo, sponsor logos, speaker names, and decorative graphics) should be provided as separate layers/assets, rather than a single flattened image. This allows last-minute adjustments and flexible layouts if needed.
 
 # A/V setup
 
