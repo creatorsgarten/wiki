@@ -41,7 +41,7 @@ Notes for organizers running an event at **K+ Building**.
 - The stage has an LED screen.
   - The screen is very bright, so dark-themed presentations are recommended.
     - If speaker’s video signal is processed through OBS, we can apply a filter to decrease the brightness.
-  - The screen has a **21:9** aspect ratio. A **16:9** video signal will be stretched.
+  - The screen has a **21\:9** aspect ratio. A **16\:9** video signal will be stretched.
     - If speaker’s video signal is processed through OBS, we can stretch the video to **1463 × 1080** to cancel out the stretching.
 - When using OBS, keep the output resolution at **1920 × 1080**, as the venue's video system accepts a maximum input resolution of **1920 × 1080**.
 
