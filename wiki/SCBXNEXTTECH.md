@@ -43,7 +43,7 @@ Notes for organizers running an event at **SCBX NEXT TECH**.
 
 # Presentation
 
-- Presentations should be prepared in **16:9**.
+- Presentations should be prepared in **16\:9**.
 - Use high-contrast slides for better visibility.
 - Embed custom fonts or export slides as PDF if font compatibility is a concern.
 
