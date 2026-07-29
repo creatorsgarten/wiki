@@ -31,7 +31,7 @@ Notes for organizers running an event at **K+ Building**.
 
 ## CI / Background
 
-- Standard **16:9** presentation slides are recommended.
+- Standard **16\:9** presentation slides are recommended.
 
 # 3rd Floor
 
