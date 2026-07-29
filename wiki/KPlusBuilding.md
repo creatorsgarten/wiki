@@ -16,7 +16,7 @@ Notes for organizers running an event at **K+ Building**.
 
 ## Video
 
-- The venue uses a standard **16:9 projector**.
+- The venue uses a standard **16\:9 projector**.
 - HDMI input is available at the front of the room.
 - Before the event starts, make sure the HDMI cable is fully inserted.
   - If the HDMI connection is secure but audio pops or intermittent audio issues occur, replace the HDMI cable with one from your own equipment.
