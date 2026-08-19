@@ -1,16 +1,18 @@
-Note to Organizer for Livestreaming
+# Note to Organizer for Livestreaming
+
 The venue cannot output audio through its existing sound system, so we will need to bring and set up our own mixer and microphones.
-Agoda will provide a JBL EON208P speaker system.
 
+Agoda will provide a **JBL EON208P speaker system**.
 
-AUDIO DIAGRAM
-The LiveGarten team will provide a Yamaha MG12XU mixer or an equivalent model as the reference mixer for the audio system.
+## Audio Diagram
+
+The LiveGarten team will provide a **Yamaha MG12XU mixer** or an equivalent model as the reference mixer for the audio system.
 
 The wireless microphone system will be connected to the mixer using XLR cables.
 
+### Recommended Audio Signal Flow
 
-RECOMMENDED AUDIO SIGNAL FLOW
-
+```text
 Wireless Microphones
         |
         | XLR
@@ -26,62 +28,79 @@ Wireless Microphones
                                       |
                                       v
                                Live / Streaming PC
+```
 
+## Audio Routing
 
-AUDIO ROUTING
+- **Wireless microphones → Yamaha MG12XU**
+- **Yamaha MG12XU MAIN OUT / STEREO OUT → JBL EON208P**
+- **Yamaha MG12XU GROUP OUT → Audio Interface → Live / Streaming System**
+- The Audio Interface must receive the audio signal directly from the **GROUP OUT** of the mixer.
+- The Audio Interface output must not be routed back into the mixer input path.
+- Do not use a **3.5mm-to-XLR cable** as an alternative audio connection.
 
-- Wireless microphones -> Yamaha MG12XU
-- Yamaha MG12XU MAIN OUT / STEREO OUT -> JBL EON208P
-- Yamaha MG12XU GROUP OUT -> Audio Interface -> Live / Streaming System
-- The Audio Interface must receive the audio signal directly from the GROUP OUT of the mixer.
-- The audio interface output must not be routed back into the mixer input path.
-- Do not use a 3.5mm-to-XLR cable as an alternative audio connection.
+## GROUP OUT to Audio Interface
 
+The audio signal for the live/streaming system must be taken directly from the **GROUP OUT** of the Yamaha MG12XU and connected to the Audio Interface.
 
-GROUP OUT TO AUDIO INTERFACE
-The audio signal for the live/streaming system must be taken directly from the GROUP OUT of the Yamaha MG12XU and connected to the Audio Interface.
-- Use only ONE GROUP OUT connection.
-- Connect the GROUP OUT to ONE input of the Audio Interface.
-- DO NOT connect both GROUP OUT L and GROUP OUT R to the Audio Interface at the same time.
+- Use only **ONE GROUP OUT connection**.
+- Connect the GROUP OUT to **ONE input** of the Audio Interface.
+- **DO NOT connect both GROUP OUT L and GROUP OUT R to the Audio Interface at the same time.**
 
-Recommended:
+### Recommended
 
-GROUP OUT (L) -> Audio Interface Input
-OR
-GROUP OUT (R) -> Audio Interface Input
+```text
+GROUP OUT (L) → Audio Interface Input
+```
 
-DO NOT connect:
-GROUP OUT (L) + GROUP OUT (R) -> Audio Interface
-The Audio Interface should receive the signal from the GROUP OUT only.
+**OR**
 
+```text
+GROUP OUT (R) → Audio Interface Input
+```
 
-IMPORTANT CAUTION
+### DO NOT connect
 
-DO NOT turn on the 48V phantom power under any circumstances.
-Turning on 48V phantom power may damage the equipment.
-DO NOT connect a 3.5mm audio output directly to an XLR input.
-Do not use a 3.5mm-to-XLR cable as an alternative connection between the audio system and the mixer or audio interface.
-This setup may cause an audio loop or feedback issue, especially when the receiving system is also routing the audio signal back into the mixer.
+```text
+GROUP OUT (L) + GROUP OUT (R) → Audio Interface
+```
 
+The Audio Interface should receive the signal from the **GROUP OUT only**.
 
-AUDIO LOOP PREVENTION
+## Important Caution
+
+> [!CAUTION]
+> **DO NOT turn on the 48V phantom power under any circumstances.**
+>
+> Turning on 48V phantom power may damage the equipment.
+
+> [!CAUTION]
+> **DO NOT connect a 3.5mm audio output directly to an XLR input.**
+>
+> Do not use a 3.5mm-to-XLR cable as an alternative connection between the audio system, mixer, or Audio Interface.
+>
+> This setup may cause an audio loop or feedback issue, especially when the receiving system is also routing the audio signal back into the mixer.
+
+## Audio Loop Prevention
+
 - The streaming/recording system must not return its audio output back into the same mixer input path.
-- Do not create a loop between the mixer output, audio interface, computer, and mixer input.
-- The Audio Interface should only receive the required audio signal from the GROUP OUT.
+- Do not create a loop between the mixer output, Audio Interface, computer, and mixer input.
+- The Audio Interface should only receive the required audio signal from the **GROUP OUT**.
 - Do not route the Audio Interface output back into the Yamaha MG12XU.
 - Check the complete signal path before powering on the system.
 
+## Required Equipment
 
-REQUIRED EQUIPMENT
-- Yamaha MG12XU or equivalent mixer - LiveGarten
-- Wireless microphone system - LiveGarten
-- XLR cables - LiveGarten
-- Audio Interface - LiveGarten
-- JBL EON208P speaker system - Agoda
-- Power cables / extension cables - To be confirmed
+| Equipment | Responsibility |
+|---|---|
+| Yamaha MG12XU or equivalent mixer | LiveGarten |
+| Wireless microphone system | LiveGarten |
+| XLR cables | LiveGarten |
+| Audio Interface | LiveGarten |
+| JBL EON208P speaker system | Agoda |
+| Power cables / extension cables | To be confirmed |
 
-
-SOUND CHECK
+## Sound Check
 
 Before the event starts:
 
@@ -95,8 +114,7 @@ Before the event starts:
 8. Check for feedback, echo, or duplicated audio.
 9. Confirm that only one GROUP OUT channel is connected to the Audio Interface.
 
-
-IMPORTANT NOTES
+## Important Notes
 
 - Keep spare XLR cables available as backup.
 - Keep spare power cables and extension cables available.
