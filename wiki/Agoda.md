@@ -1,4 +1,1 @@
-- The Offices, 8F
-    - Mixer: [YAMAHA MG12X](https://jp.yamaha.com/files/download/other_assets/8/1506928/mg16x_en_om_a0.pdf)
-- The Offices, 27F
-- The Offices, 44F
+- #venue
