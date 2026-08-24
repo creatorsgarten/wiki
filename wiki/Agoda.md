@@ -12,7 +12,7 @@ The wireless microphone system will be connected to the mixer using XLR cables.
 
 ### Recommended Audio Signal Flow
 
-![Audio Diagram](https://usercontent.creatorsgarten.org/c/v1787536747/6595726b52223e5be3ca9100/Slide_16_9_-_2_1_undngn.webp)
+![Audio Diagram](https://usercontent.creatorsgarten.org/c/v1787537227/6595726b52223e5be3ca9100/Slide_16_9_-_2_2_1_a9q4r5.webp)
 
 ## Audio Routing
 
