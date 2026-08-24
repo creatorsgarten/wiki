@@ -12,23 +12,7 @@ The wireless microphone system will be connected to the mixer using XLR cables.
 
 ### Recommended Audio Signal Flow
 
-```text
-Wireless Microphones
-        |
-        | XLR
-        v
-+-----------------+
-| Yamaha MG12XU   |
-|     Mixer       |
-+-----------------+
-        |
-        +----> MAIN OUT / STEREO OUT ----> JBL EON208P
-        |
-        +----> GROUP OUT ----> Audio Interface
-                                      |
-                                      v
-                               Live / Streaming PC
-```
+https://usercontent.creatorsgarten.org/c/v1787536747/6595726b52223e5be3ca9100/Slide_16_9_-_2_1_undngn.webp
 
 ## Audio Routing
 
