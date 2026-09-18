@@ -18,6 +18,7 @@
 | [[DISTRICTX]] |  | 3rd Fl., One FYI Center Building (Office Zone) | 80 |
 | [[DocClub]] |  |  |  |
 | [[FarmKits]] |  |  |  |
+| [[JAI Arena]] |  |  |  |
 | [[GameDevHub]] |  | BB Building 16th Floor, Unit 1605-1609, Sukhumvit 21 | 100 |
 | [[HarbourSpace]] |  |  |  |
 | [[HuaweiOffice]] |  | 39th Fl., G Tower | 50 |
