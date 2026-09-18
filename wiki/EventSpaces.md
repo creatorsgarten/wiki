@@ -2,9 +2,10 @@
 | Name | Type | Location | Capacity |
 | ----- | ----- | ----- | ----- |
 | [[9ExpertTraining]] |  | 2nd Fl., Evergreen Place Building | 40 |
-| [[Agoda]] |  | 44th Fl., centralwOrld | 100 |
+| [[Agoda]] |  | One Bangkok | 100-200 |
 | [[AreaX]] |  | 4th Fl., Siam Paragon | 30 |
 | [[AriseByINFINITAS]] |  | 5th Fl., The PARQ (West Wing) | 50 |
+| [[AWS]] |  |  | 100-200 |
 | [[Bangkok meeting room]] |  | Near AirLink Phayathai (อาคารวรรณสรณ์ ชั้น 11 )| 100 |
 | [[BangSpace]] |  |  |  |
 | [[BITEC]] |  |  |  | 
