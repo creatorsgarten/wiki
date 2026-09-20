@@ -1,29 +1,3 @@
----
-statementOfActivities:
-  income:
-    - label: Sponsorship
-      amount: 119678.73000000001
-    - label: Discrepancy Income
-      amount: 244.31
-  expenses:
-    - label: Prize
-      amount: 33000
-    - label: Food and Beverage
-      amount: 30121.5
-    - label: Swag
-      amount: 28302
-    - label: Equipment
-      amount: 12901.380000000001
-    - label: Accommodation
-      amount: 8261.05
-    - label: Venue
-      amount: 4880
-    - label: Transportation
-      amount: 702
-    - label: Miscellaneous Expense
-      amount: 107
----
-
 {% render 'EventBox', name: ref %}
 
 # Useful Links
@@ -67,4 +41,4 @@ statementOfActivities:
 
 # Financials
 
-{% render 'StatementOfActivities', data: page.statementOfActivities %}
+Moved to [[Finance/sht8]].

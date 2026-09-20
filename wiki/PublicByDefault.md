@@ -13,7 +13,9 @@ For further reading about the **public by default** principle, see:
 
 # Financial transparency
 
-For some events, we track the income and expense in a public document. This is to show how the money is spent, and to make it easier for participants to see the financial status of the event. Examples include:
+For some events, we track the income and expense in a public document. This is to show how the money is spent, and to make it easier for participants to see the financial status of the event.
+
+Final figures for each event are published under [[Finance]]. The working documents behind them include:
 
 - {% render 'Event', name: 'sht3' %}: [Tracked in Notion](https://stupidhackth3.notion.site/Stupid-Balance-Tracking-Sheet-f33d403a1db94bd8945525ccf452c2e0)
 - {% render 'Event', name: 'sht2' %}: [Tracked in Google Sheets](https://docs.google.com/spreadsheets/d/11QtOidKwo30pvibBgYHORpFkSNP9kZi7xnJmcsRGX6s/edit#gid=0)

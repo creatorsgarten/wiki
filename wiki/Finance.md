@@ -37,6 +37,57 @@ For events that require monetary handling (e.g., [[StupidHackTH|Stupid Hackathon
 - This approach allows for conventional accounting practices, including proper invoicing and receipt issuance.
 - It's particularly beneficial for events seeking corporate sponsorships or requiring more formal financial management.
 
+# Per-event financial statements
+
+Final income and expenses for each event live in the `Finance/` namespace, one page
+per event slug, e.g. [[Finance/sht9]]. These are **actuals** — what the event
+turned out to cost. Forward-looking sponsorship packages live in [[Sponsorship]]
+instead, and planning notes in [[OrganizerNotes]].
+
+{% render 'SubpageList', of: ref %}
+
+## Front matter schema
+
+Each page carries a `statementOfActivities` block, rendered by the
+`StatementOfActivities` template:
+
+```yaml
+statementOfActivities:
+  income:
+    - label: 'Sponsorship'
+      amount: 1234.56
+  expenses:
+    - label: 'Food and Beverage'
+      amount: 1234.56
+```
+
+Amounts are Thai baht, to two decimal places. Labels follow the ledger's own
+account names so that a page can be regenerated from the ledger without a mapping
+step. Common expense labels: Food and Beverage, Venue, Accommodation, Prize, Swag,
+Props, Equipment, Transportation, Parking, Ticketing Platform, Miscellaneous
+Expense.
+
+These pages are **generated from the ledger, not hand-maintained**. If a page and
+the ledger disagree, the ledger is correct — re-export rather than editing the
+page, and record where the figures came from in a **Source** line at the bottom.
+
+## Carrying funds between events
+
+Creatorsgarten has no central account, so an event's closing balance stays in
+whichever organizer's account held it and is often used to seed a later event.
+Two conventions keep this legible:
+
+- Where a carry-forward is recorded as a transaction, it appears as an income line
+  on the receiving event (for example, [[Finance/sht9]] opens with ฿1,648.11
+  carried forward from [[Finance/sht8]]).
+- Where an event spends more than it raised because earlier leftovers covered the
+  gap, the statement shows the real shortfall and the Notes section explains what
+  funded it. [[Finance/wind2]] is the worked example — a ฿7,974.00 gap covered from
+  pooled funds, not a loss.
+
+Never balance a statement with an invented line item. A shortfall that was really
+covered from elsewhere is more useful to a future organizer than a tidy zero.
+
 # Prior art
 
 Example of organizations that make their finances public.
