@@ -1,23 +1,3 @@
----
-statementOfActivities:
-  income:
-    - label: Sponsorship
-      amount: 110719.69
-  expenses:
-    - label: Swag
-      amount: 37149.73
-    - label: Food and Beverage
-      amount: 24543
-    - label: Prize
-      amount: 20670
-    - label: Accommodation
-      amount: 10118.89
-    - label: Equipment
-      amount: 9729
-    - label: Transportation
-      amount: 100
----
-
 # Useful Links
 
 :::lead
@@ -59,4 +39,4 @@ Photos - [link](https://drive.google.com/drive/folders/1me6M9o8yriJM797jVpgNaxwZ
 
 # Financials
 
-{% render 'StatementOfActivities', data: page.statementOfActivities %}
+Moved to [[Finance/sht7]].

@@ -30,7 +30,8 @@
 - `Coverage/` - Post-event documentation including media, write-ups, photos (see `wiki/Coverage.md` for categories)
 - `OrganizerNotes/` - Internal event planning documentation made public by default (see `wiki/OrganizerNotes.md`)
 - `Feedback/` - Post-event feedback collection with structured analysis (see `wiki/Feedback.md` for form templates)
-- `Sponsorship/` - Sponsorship proposals and financial information for events
+- `Sponsorship/` - Sponsorship proposals (forward-looking packages and tiers)
+- `Finance/` - Final per-event income and expenses (see `wiki/Finance.md`); generated from the GrtnFi ledger, not hand-edited
 
 ### Working group directories
 - `WorkingGroups/` - Event-specific and initiative-based working groups (see `wiki/WorkingGroups.md` for structure)

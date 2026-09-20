@@ -77,7 +77,7 @@ events:
     presenters: 72
     rating: 8.60
     income: 119923
-    expense: 118274
+    expense: 118275
     videoViews: 3918
     dropOffRate: "27%"
   - number: 9
@@ -86,8 +86,8 @@ events:
     tickets: 89
     presenters: 63
     rating: 9.40
-    income: 129700
-    expense: 127323
+    income: 129756
+    expense: 127823
     videoViews: 5362
     dropOffRate: "7.4%"
 ---
@@ -100,8 +100,8 @@ This page keeps track of interesting metrics from each [[StupidHackTH|Stupid Hac
 | Number of tickets | {% for event in page.events %}{% if event.tickets %}{{ event.tickets }}{% endif %} | {% endfor %}
 | Number of presenters | {% for event in page.events %}{% if event.presenters %}{{ event.presenters }}{% endif %} | {% endfor %}
 | Event rating | {% for event in page.events %}{% if event.rating %}[{{ event.rating }}](/wiki/Feedback/{{ event.slug }}){% endif %} | {% endfor %}
-| Income | {% for event in page.events %}{% if event.income != "?" %}[{{ event.income }}](/wiki/OrganizerNotes/{{ event.slug }}){% else %}{{ event.income }}{% endif %} | {% endfor %}
-| Expense | {% for event in page.events %}{% if event.expense != "?" %}[{{ event.expense }}](/wiki/OrganizerNotes/{{ event.slug }}){% else %}{{ event.expense }}{% endif %} | {% endfor %}
+| Income | {% for event in page.events %}{% if event.income != "?" %}[{{ event.income }}](/wiki/Finance/{{ event.slug }}){% else %}{{ event.income }}{% endif %} | {% endfor %}
+| Expense | {% for event in page.events %}{% if event.expense != "?" %}[{{ event.expense }}](/wiki/Finance/{{ event.slug }}){% else %}{{ event.expense }}{% endif %} | {% endfor %}
 | Video views | {% for event in page.events %}{{ event.videoViews }} | {% endfor %}
 | Drop-off rate | {% for event in page.events %}{{ event.dropOffRate }} | {% endfor %}
 
