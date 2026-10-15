@@ -77,7 +77,7 @@ grtnRedirects:
   e/shtx/spon: https://forms.gle/6Ht8TXUAPHu3gjpT6
   e/shtx/prizespon: https://forms.gle/5dRKatt1iZHi3rdv7
   e/shtx/batch2: https://sht-x-batch-2-challenge.vercel.app
-  e/reimagine-ai/board: https://www.tldraw.com/f/OR88HN1BoFcCF49cwxX1l
+  e/reimagine-ai/board: https://drawdy.io/?canvas=6acf5934d36328bf2932072f&token=glGXxyhyA9VlADgDtyrtcA
   e/reimagine-ai/poster-details: https://docs.google.com/document/d/1H5isPl8rMV8lEZA_dzWt4ZWYfQr1Ea65-2YYEcg224w/edit?usp=sharing 
   ideas: https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas
   forum: https://github.com/orgs/creatorsgarten/discussions/categories/general
