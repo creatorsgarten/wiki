@@ -6,4 +6,4 @@
 
 </div>
 
-[Archived Guilds](./wiki/Guilds/Archived)
+[Archived Guilds](/wiki/Guilds/Archived)
