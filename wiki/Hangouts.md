@@ -20,16 +20,24 @@
 
 - (Poom) arts & crafts - เลิกมองจอกันสักแปปนึง หยิบกระดาษ สีน้ำ สีอคริลิก ไหมพรม ดินน้ำมันมาทำอะไรกัน หรือทำเครื่องดนตรีจากกระป๋องกันก็ได้ เปิด FL Studio มานั่งทำเพลงกันก็ได้
 
-- (Poom) side projects - หยิบคอมมานั่งทำ side project กัน มาแชร์กันว่าช่วงนี้ทำไรกันอยู่ (จะใช้ AI ทำก็ได้ แต่ไม่ต้องให้มันเป็นโฟกัสสำคัญ อยากรู้มากกว่าว่า "ทำอะไรกัน")
+- (Poom) side projects - หยิบคอมมานั่งทำ side project กัน มาแชร์กันว่าช่วงนี้ทำไรกันอยู่ (จะใช้ AI ทำก็ได้ แต่ไม่ต้องให้มันเป็นโฟกัสสำคัญ อยากรู้มากกว่าว่า "ทำอะไรกัน") - ช่วงนี้ทำโปรเจคอะไรกันอยู่ อยากให้มาเล่าว่าทำอะไรอยู่ ใช้อะไรน่าสนใจบ้าง ในมุม product, design, เทคโนโลยี, stack, algorithm ได้หมดเลย
 
 - (Poom) book club - หาที่นั่งอ่านหนังสือกัน แล้วมาเล่ากันสั้นๆ
 
-- (Poom) electronics / maker club - หยิบบอร์ด หยิบ hardware มานั่งแจมกัน ขนพวก electronics เล็กๆ ไปนั่งเล่นกัน
+- (Poom) electronics / maker club - หยิบบอร์ด หยิบ hardware มานั่งแจมกัน ขนพวก electronics เล็กๆ ไปนั่งเล่นกัน - มาจัด workshop เล็กๆ กัน หรือใครจะทอล์คก็ได้
 
-- (Poom) CS study group - คุยเรื่อง algorithms กัน ใครอ่าน search algorithms ตัวไหนอยู่เอามาแชร์ได้ หรือมีคลาสอะไรน่าสนุกๆ (จริงๆ เปิดพวก study group เรื่องอื่นก็ได้)
+- (Poom) CS study group - คุยเรื่อง algorithms กัน ใครอ่าน search algorithms ตัวไหนอยู่เอามาแชร์ได้ หรือมีคลาสอะไรน่าสนุกๆ (จริงๆ เปิดพวก study group เรื่องอื่นก็ได้) - ใครอ่านหนังสือ algorithms อะไรสนุกๆ เอามาแชร์กันน ใครทำ visualization อะไร หรือหยิบโจทย์มาให้เพื่อนลองคิดตามก็ได้
 
-- (Chun) แต่ละเดือนนัดไปทำอะไรที่ไม่เคยลองทำ non-tech หรือ skill swap ผลัดกันสอน skills อะไรก็ได้
+- (Poom) tech fails & architecture club - เล่าการใช้ technology แบบลึกๆ ไม่ได้มาเล่าว่ามันคืออะไร แต่เล่าประสบการณ์ เช่นใช้ Kafka ในโลกจริงแล้วเจอปัญหาชิบหายอะไร คิดถูกหรือคิดผิด แก้ปัญหายังไง วาง architecture แล้วไปรอดมั้ย debug หรือ optimize ยังไง มาเล่าเบื้องหลังการทำงาน หรือ internals ของเทคโนโลยี
+
+- (Chun) แต่ละเดือนนัดไปทำอะไรที่ไม่เคยลองทำ non-tech
+
+- (Chun) skill swap ผลัดกันสอน skills อะไรก็ได้
 
 - (Chun) picnic 🧺 🌳
 
 บางอันอาจจะ invite-based ชวนเพื่อนๆ กันต่อเอา บางอันอาจจะ public ใครอยากมาก็มา แล้วแต่คนจัด
+
+## posts
+
+- https://www.facebook.com/phoomparin.mano/posts/pfbid0r3uUWcigWdDZDKTNEAA4AgeuzmdpSuhRqFLfqqgfkTyzpXBLkb7G4XpdEavZ3ical
