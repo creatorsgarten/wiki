@@ -1,3 +1,3 @@
 # Spaces for Hangouts
 
-Spaces for [Hangouts](/Hangouts)
+Spaces for [Hangouts](/wiki/Hangouts)
