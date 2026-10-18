@@ -1,5 +1,7 @@
-For all the archived guilds.
+For all the archived guilds (i.e. inactive).
 
+| Guild | Description |
+| ----- | ----- |
 | [[BangkokOpenSource\|Bangkok Open Source]] | Aiming to promote the open-source culture and facilitate connections between creators, developers, and civic and government organizations
 | [[ShowdownSpace\|Showdown Space]] | Hosting community tech events in the form of recreational tech contests and game shows
 | [[WebDevelopers\|Web Developers]] | The guild focusing on web development and brings together developers interested in creating websites and web applications
