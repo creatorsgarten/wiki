@@ -128,6 +128,7 @@ grtnRedirects:
   fossasia2026-poom: 'https://patchies.app'
   hangouts: 'https://creatorsgarten.org/wiki/Hangouts'
   hangout: 'https://creatorsgarten.org/wiki/Hangouts'
+  hangouts/post: 'https://www.facebook.com/phoomparin.mano/posts/pfbid0qxQHry1t8xD1obLpBA9xFsyJcCw4YBjWmxHZ1y5Y1mDr71YZ8A6yGexYMVRRwb2zl'
 ---
 
 :::lead
