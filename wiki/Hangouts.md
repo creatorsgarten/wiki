@@ -6,6 +6,14 @@
 - ไม่ต้องมีคนเยอะ วงเล็กๆ เน้นได้คุยกัน
 - ถ้าจัดแบบ invite-only ก็ชวนเพื่อนที่อยากชวนมาได้ ชวนๆ กันต่อ
 
+## calendar
+
+- Workshop: Build something with FPGA
+  - เสกอะไรด้วย FPGA กัน
+  - max people: 10 คน
+  - time: TBA
+  - by: [James Kanin](https://www.facebook.com/kanin.kearpimy56)
+
 ## rules
 
 - ใครพูดคำว่า [AI, เไ, เอไอ, Claude, Codex, OpenClaw, น้องคล้อด, OpenAI, Anthropic, DeepSeek, Jev, Sam Altman, Dario Amodei] คิดตังคำละ 10 บาท จะได้หาเรื่องอื่นคุยกันบ้าง รายได้นำไปบริจาคมูลนิธิ-การกุศล
