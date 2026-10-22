@@ -80,6 +80,7 @@ grtnRedirects:
   e/shtx/img: https://drive.google.com/drive/folders/16cjbZqO2RXuiyrJSOwStJionXpEyWPVP?usp=sharing
   e/reimagine-ai/board: https://drawdy.io/?canvas=6acf5934d36328bf2932072f&token=glGXxyhyA9VlADgDtyrtcA
   e/reimagine-ai/poster-details: https://docs.google.com/document/d/1H5isPl8rMV8lEZA_dzWt4ZWYfQr1Ea65-2YYEcg224w/edit?usp=sharing 
+  e/reimagine-ai/poster-figma: https://www.figma.com/design/dkdkXFT78oNQNNIKQ0DRmm/unsucking-ai?node-id=0-1&p=f&t=5XFYWgIagfYl53Hq-0
   ideas: https://github.com/orgs/creatorsgarten/discussions/categories/event-ideas
   forum: https://github.com/orgs/creatorsgarten/discussions/categories/general
   streams: https://www.youtube.com/playlist?list=PLTuz2sLvbRpwkoLi0AYDwdABU5dhkoGIr
