@@ -131,6 +131,7 @@ grtnRedirects:
   hangout: 'https://creatorsgarten.org/wiki/Hangouts'
   hangouts/post: 'https://www.facebook.com/phoomparin.mano/posts/pfbid0qxQHry1t8xD1obLpBA9xFsyJcCw4YBjWmxHZ1y5Y1mDr71YZ8A6yGexYMVRRwb2zl'
   sw-arch-meetup/detail: 'https://docs.google.com/document/d/1Qh-jpU8PnkiNFGdQagit_RjQSIP5FNLI5tssqZX-ZJI/edit?usp=sharing'
+  unsuck: 'https://eventpop.me/s/unsuck'
 ---
 
 :::lead
