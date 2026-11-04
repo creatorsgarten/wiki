@@ -25,27 +25,28 @@ In this two-day workshop, we will explore that question together through specula
 Whether you're excited, concerned, or somewhere in between, bring your laptop and your fresh human brain, and let's unsuck AI together.
 
 ** No programming skills needed. Curious, skeptical and hopeful people are all welcome.
-🗓️ 14 - 15 November (Sat - Sun)
+
+# 🗓️ 14 - 15 November (Sat - Sun)
 
 Please follow the event updates through Instagram or Facebook: @creatorsgarten
 
 # 🛠️ What you'll do
 
-    🤝 Design a future through playful workshops with people you just met. You'll leave with a world and an AI invention your team built.
-    🌀 World cards, role-playing, arts & crafts, and vibe-coding. (No slides and no pitches!)
-    🔄 Share your thoughts with people from different interests and expertise, and leave with new friends.
+- 🤝 Design a future through playful workshops with people you just met. You'll leave with a world and an AI invention your team built.
+- 🌀 World cards, role-playing, arts & crafts, and vibe-coding. (No slides and no pitches!)
+- 🔄 Share your thoughts with people from different interests and expertise, and leave with new friends.
 
 # 👥 Who should join
 
-    💼 Professionals who work with AI to some degree in their daily life, and wonder if AI could suck less for their fields.
-    🎨 Artists and creatives who have their own thoughts about AI, whether on ethics or an interesting way to adopt it.
-    🏛️ Public sector, NGOs, and activists interested in the topic.
-    📚 Students, teachers and researchers curious about where AI is heading, and what we can do about it.
+- 💼 Professionals who work with AI to some degree in their daily life, and wonder if AI could suck less for their fields.
+- 🎨 Artists and creatives who have their own thoughts about AI, whether on ethics or an interesting way to adopt it.
+- 🏛️ Public sector, NGOs, and activists interested in the topic.
+- 📚 Students, teachers and researchers curious about where AI is heading, and what we can do about it.
 
 # 🗓️ Brief agenda
 
-    Day 1 (Saturday, November 14th, 12:00 - 17:30) : icebreaking with reflective discussions, speculative design + roleplay workshops, and team forming.
-    Day 2 (Sunday, November 15th, 11:00 - 17:30): prototyping with vibe coding + arts & crafts, and roleplay-based presentations.
+- Day 1 (Saturday, November 14th, 12:00 - 17:30) : icebreaking with reflective discussions, speculative design + roleplay workshops, and team forming.
+- Day 2 (Sunday, November 15th, 11:00 - 17:30): prototyping with vibe coding + arts & crafts, and roleplay-based presentations.
 
 {% render 'EventpopButton', id: page.event.eventpopId %}
 
