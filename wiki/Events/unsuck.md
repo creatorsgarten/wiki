@@ -7,8 +7,11 @@ event:
   endDate: "2026-11-15"
   site: "https://grtn.org/unsuck"
   eventpopId: 177803
+  unlisted: false
   hosts:
     - Creatorsgarten
+  leads:
+    - poom
 ---
 
 Does AI really suck, and will it keep on sucking?
