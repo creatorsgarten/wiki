@@ -1,4 +1,5 @@
 ---
+image: https://raw.githubusercontent.com/creatorsgarten/assets/refs/heads/main/events/unsuck.png
 event:
   name: "Unsucking AI"
   location: "Chulalongkorn University"
