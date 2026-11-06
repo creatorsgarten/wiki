@@ -5,15 +5,15 @@ websiteConfig:
     example: false
   events:
     recurring:
+      - name: BKK.JS
+        schedule: Summer
+        url: https://bkk.js.org/
       - name: Hacktoberfest Thailand
         schedule: October
         url: /wiki/HacktoberfestThailand
       - name: Stupid Hackathon in Thailand
         schedule: Midyear
         url: /wiki/StupidHackTH
-      - name: BKK.JS
-        schedule: Quarterly
-        url: https://bkk.js.org/
       - name: Bingsu.js
         schedule: Post meetups
         url: https://bingsu.js.org/
