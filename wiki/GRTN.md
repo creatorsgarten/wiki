@@ -133,6 +133,7 @@ grtnRedirects:
   sw-arch-meetup/detail: 'https://docs.google.com/document/d/1Qh-jpU8PnkiNFGdQagit_RjQSIP5FNLI5tssqZX-ZJI/edit?usp=sharing'
   unsuck: 'https://eventpop.me/s/unsuck'
   sam: 'https://eventpop.me/e/180913/sam'
+  unsuck-group: 'https://drawdy.io/?canvas=6af81c47fa81c713860af89f&token=KfYJoA4Fo5Eph0AUr0buQA'
 ---
 
 :::lead
