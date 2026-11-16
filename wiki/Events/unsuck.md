@@ -12,6 +12,11 @@ event:
     - Creatorsgarten
   leads:
     - poom
+  staffs:
+    - nattawatthongthong
+    - betich
+    - bierbbbb
+    - khxmjarx
 ---
 
 Does AI really suck, and will it keep on sucking?
