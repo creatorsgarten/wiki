@@ -11,3 +11,4 @@ person:
   site: https://yuttakhanb.dev/
 ---
 
+I work as software engineer, but also known as fixer, a bit of improviser and risk-control in this community (based on cases I got pulled). Furthermore, running side projects alongside folks and pulling people in other sectors to mingle jingle together.
