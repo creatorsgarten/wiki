@@ -12,7 +12,7 @@ event:
     - Creatorsgarten
   leads:
     - poom
-  staffs:
+  staff:
     - nattawatthongthong
     - betich
     - bierbbbb
