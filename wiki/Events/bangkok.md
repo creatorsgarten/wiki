@@ -18,6 +18,7 @@ event:
     - faypichaya
     - deltathetas
     - ninyawee
+    - bierbbbb
   leads:
     - poom
     - siravijbb
