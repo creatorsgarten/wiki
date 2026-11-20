@@ -134,7 +134,7 @@ grtnRedirects:
   unsuck: 'https://eventpop.me/s/unsuck'
   sam: 'https://eventpop.me/e/180913/sam'
   unsuck-group: 'https://drawdy.io/?canvas=6af81c47fa81c713860af89f&token=KfYJoA4Fo5Eph0AUr0buQA'
-  spk-pltfrm-mt: 'https://forms.gle/jaXovFi4eqk7WA6R6'
+  sre-is-dead-form: 'https://forms.gle/jaXovFi4eqk7WA6R6'
 ---
 
 :::lead
