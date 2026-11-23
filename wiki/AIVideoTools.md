@@ -25,6 +25,29 @@ Editing captions afterwards can be done using subtitle-editing tools such as:
 - [Amara public](https://amara.org/subtitling-platform/)
 - Google Sheets, with {% render 'GitHub', repo: 'dtinth/subtitle-spreadsheet' %}
 
+# Translating existing subtitles
+
+For another language version of a recording, start with the human-reviewed subtitle
+file. Keep the original captions as a separate reference and review the translated
+captions against the recording before publishing them.
+
+A practical review pass:
+
+- Compare cue counts and timestamps with the source; investigate missing or merged cues.
+- Check names, technical terms, code snippets, and speaker changes against the recording.
+- Read the translated captions at playback speed. Correct awkward line breaks or text
+  that viewers cannot comfortably read before the next cue.
+- Reopen the exported file in the intended player to check encoding, timing, and any
+  styling that matters for the recording.
+- Have a reviewer who understands both languages check meaning; correct timing alone
+  does not establish an accurate translation.
+
+One hosted option for existing SRT, VTT, and ASS files is
+[Scanfile](https://scanfile.online/). Full translation uses prepaid credits; free sample
+availability and limits depend on the file. This is a suggested external option, not a
+record of a tool used for a Creatorsgarten event. Review the service's current data
+policy and obtain permission before uploading material that is not already public.
+
 # Creating chapters
 
 The subtitles file is converted to CSV format using the [`vtt_to_csv`](https://github.com/dtinth/autosub/blob/main/scripts/vtt_to_csv.ts) script, and then fed into LLM using this prompt. The model of choice is currently **Gemini 1.5 Pro** due to its fluency in Thai language.
